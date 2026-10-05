@@ -1,0 +1,460 @@
+{
+  "asset": "Tidal_Censer",
+  "category": "bosses",
+  "body_plan": "jelly",
+  "design": "Suspended layered bell mantle with eight long independently rigged tentacles.",
+  "status": "new_distinct_procedural_prototype_not_cinematic",
+  "canonical_glb": "bosses/Tidal_Censer/Tidal_Censer.glb",
+  "canonical_fbx": "bosses/Tidal_Censer/Tidal_Censer.fbx",
+  "editable_source": "bosses/Tidal_Censer/Tidal_Censer.blend",
+  "vertices": 6706,
+  "bones": 31,
+  "clips": [
+    {
+      "name": "Tidal_Censer__Idle_Breath",
+      "purpose": "Idle_Breath",
+      "duration_s": 2.0,
+      "fps": 30,
+      "loop": true,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Walk_InPlace",
+      "purpose": "Walk_InPlace",
+      "duration_s": 1.6,
+      "fps": 30,
+      "loop": true,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Run_InPlace",
+      "purpose": "Run_InPlace",
+      "duration_s": 0.9,
+      "fps": 30,
+      "loop": true,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Advance_RootMotion",
+      "purpose": "Advance_RootMotion",
+      "duration_s": 1.3,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "root_motion",
+      "root_end_offset_m": [
+        0,
+        -3.024,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Start_Forward",
+      "purpose": "Start_Forward",
+      "duration_s": 0.7,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Stop_Forward",
+      "purpose": "Stop_Forward",
+      "duration_s": 0.7333333333333333,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Turn_Left90_RootMotion",
+      "purpose": "Turn_Left90_RootMotion",
+      "duration_s": 1.0,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "root_motion",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Turn_Right90_RootMotion",
+      "purpose": "Turn_Right90_RootMotion",
+      "duration_s": 1.1,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "root_motion",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Defensive_Brace",
+      "purpose": "Defensive_Brace",
+      "duration_s": 1.2,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Attack_Primary",
+      "purpose": "Attack_Primary",
+      "duration_s": 1.3333333333333333,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [
+        {
+          "time_s": 0.29700000000000004,
+          "event": "anticipation_end"
+        },
+        {
+          "time_s": 0.5670000000000001,
+          "event": "authored_attack_cue",
+          "validated_hit_window": false
+        },
+        {
+          "time_s": 0.81,
+          "event": "recovery_start"
+        }
+      ],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Attack_Sweep",
+      "purpose": "Attack_Sweep",
+      "duration_s": 1.6,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [
+        {
+          "time_s": 0.35200000000000004,
+          "event": "anticipation_end"
+        },
+        {
+          "time_s": 0.672,
+          "event": "authored_attack_cue",
+          "validated_hit_window": false
+        },
+        {
+          "time_s": 0.96,
+          "event": "recovery_start"
+        }
+      ],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Attack_Charge_RootMotion",
+      "purpose": "Attack_Charge_RootMotion",
+      "duration_s": 1.4666666666666666,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "root_motion",
+      "root_end_offset_m": [
+        0,
+        -3.024,
+        0
+      ],
+      "events": [
+        {
+          "time_s": 0.319,
+          "event": "anticipation_end"
+        },
+        {
+          "time_s": 0.609,
+          "event": "authored_attack_cue",
+          "validated_hit_window": false
+        },
+        {
+          "time_s": 0.87,
+          "event": "recovery_start"
+        }
+      ],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Attack_Special",
+      "purpose": "Attack_Special",
+      "duration_s": 2.0,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [
+        {
+          "time_s": 0.44,
+          "event": "anticipation_end"
+        },
+        {
+          "time_s": 0.84,
+          "event": "authored_attack_cue",
+          "validated_hit_window": false
+        },
+        {
+          "time_s": 1.2,
+          "event": "recovery_start"
+        }
+      ],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__React_Front",
+      "purpose": "React_Front",
+      "duration_s": 0.7,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__React_Back",
+      "purpose": "React_Back",
+      "duration_s": 0.8,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__React_Left",
+      "purpose": "React_Left",
+      "duration_s": 0.7333333333333333,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__React_Right",
+      "purpose": "React_Right",
+      "duration_s": 0.7333333333333333,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Stagger",
+      "purpose": "Stagger",
+      "duration_s": 1.1,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Knockdown",
+      "purpose": "Knockdown",
+      "duration_s": 1.2,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__GetUp",
+      "purpose": "GetUp",
+      "duration_s": 1.8,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Death",
+      "purpose": "Death",
+      "duration_s": 2.4,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    },
+    {
+      "name": "Tidal_Censer__Swim_Cruise_InPlace",
+      "purpose": "Swim_Cruise_InPlace",
+      "duration_s": 2.2,
+      "fps": 30,
+      "loop": true,
+      "motion_kind": "in_place",
+      "root_end_offset_m": [
+        0,
+        0,
+        0
+      ],
+      "events": [],
+      "contact_validation": "procedural, not approved; foot-contact/clipping review still required",
+      "rig": "Tidal_Censer_Rig",
+      "distinctness": "body-plan-specific channels and index-dependent timing/amplitude; procedural shared framework, not motion capture"
+    }
+  ],
+  "source": "original body construction using reusable mesh primitives; no copied franchise art",
+  "texture_resolution": 2048,
+  "texture_painting": "procedural UV textures, not hand-painted anatomy",
+  "sockets": {
+    "mouth": "head",
+    "effect_socket": "chest",
+    "root_motion": "root",
+    "feet": []
+  },
+  "engine_tested": false,
+  "iphone_tested": false,
+  "remaining": [
+    "Cinematic anatomy/material refinement",
+    "Contact/clipping and motion polish",
+    "Engine integration"
+  ]
+}
