@@ -1,0 +1,177 @@
+{
+  "asset": "Cinder_Crown",
+  "category": "dragons",
+  "original_source": "Nocturne_V4_Visual_Revision/dragons/Cinder_Crown/Cinder_Crown.blend",
+  "added_to_60_pack": false,
+  "canonical_glb": "models/dragons/Cinder_Crown/Cinder_Crown.glb",
+  "canonical_fbx": "models/dragons/Cinder_Crown/Cinder_Crown.fbx",
+  "editable_source": "models/dragons/Cinder_Crown/Cinder_Crown.blend",
+  "bones": [
+    "root",
+    "pelvis",
+    "chest",
+    "neck1",
+    "neck2",
+    "head",
+    "jaw",
+    "lidL",
+    "lidR",
+    "frontL",
+    "frontL_shin",
+    "frontL_foot",
+    "wingL",
+    "wingL_fore",
+    "wingL_digit0",
+    "wingL_digit1",
+    "wingL_digit2",
+    "wingL_digit3",
+    "frontR",
+    "frontR_shin",
+    "frontR_foot",
+    "wingR",
+    "wingR_fore",
+    "wingR_digit0",
+    "wingR_digit1",
+    "wingR_digit2",
+    "wingR_digit3",
+    "tail0",
+    "tail1",
+    "tail2",
+    "tail3",
+    "tail4",
+    "tail5",
+    "hindL",
+    "hindL_shin",
+    "hindL_foot",
+    "hindR",
+    "hindR_shin",
+    "hindR_foot"
+  ],
+  "clips": 27,
+  "vertices_before": 26340,
+  "vertices_after": 26340,
+  "geometry_changes": {},
+  "material_changes": {
+    "old_art_preserved": true,
+    "normal_maps_restrained": 1
+  },
+  "status": "candidate_repair_requires_visual_deformation_review",
+  "cinematic_quality_approved": false,
+  "engine_tested": false,
+  "iphone_tested": false,
+  "remaining": [
+    "Individual anatomical sculpting and final art review",
+    "All-frame weight/contact/clipping polish",
+    "Runtime integration"
+  ],
+  "fbx_action_names": [
+    {
+      "source": "Bite_InPlace",
+      "export": "Bite_InPlace"
+    },
+    {
+      "source": "Bite_Lunge_RootMotion",
+      "export": "Bite_Lunge_RootMotion"
+    },
+    {
+      "source": "Breath_Exhale",
+      "export": "Breath_Exhale"
+    },
+    {
+      "source": "Claw_Swipe_Left",
+      "export": "Claw_Swipe_Left"
+    },
+    {
+      "source": "Claw_Swipe_Right",
+      "export": "Claw_Swipe_Right"
+    },
+    {
+      "source": "Death_RootMotion",
+      "export": "Death_RootMotion"
+    },
+    {
+      "source": "Flight_Glide_InPlace",
+      "export": "Flight_Glide_InPlace"
+    },
+    {
+      "source": "Flight_Hover_InPlace",
+      "export": "Flight_Hover_InPlace"
+    },
+    {
+      "source": "Flight_Landing_RootMotion",
+      "export": "Flight_Landing_RootMotion"
+    },
+    {
+      "source": "Flight_Takeoff_RootMotion",
+      "export": "Flight_Takeoff_RootMotion"
+    },
+    {
+      "source": "Hit_Back",
+      "export": "Hit_Back"
+    },
+    {
+      "source": "Hit_Front",
+      "export": "Hit_Front"
+    },
+    {
+      "source": "Hit_Left",
+      "export": "Hit_Left"
+    },
+    {
+      "source": "Hit_Right",
+      "export": "Hit_Right"
+    },
+    {
+      "source": "Idle_Breathe",
+      "export": "Idle_Breathe"
+    },
+    {
+      "source": "Run_InPlace",
+      "export": "Run_InPlace"
+    },
+    {
+      "source": "Run_RootMotion",
+      "export": "Run_RootMotion"
+    },
+    {
+      "source": "Stagger",
+      "export": "Stagger"
+    },
+    {
+      "source": "Swim_Cruise_InPlace",
+      "export": "Swim_Cruise_InPlace"
+    },
+    {
+      "source": "Swim_Cruise_RootMotion",
+      "export": "Swim_Cruise_RootMotion"
+    },
+    {
+      "source": "Tail_Sweep",
+      "export": "Tail_Sweep"
+    },
+    {
+      "source": "Threat_Roar",
+      "export": "Threat_Roar"
+    },
+    {
+      "source": "Turn_Left",
+      "export": "Turn_Left"
+    },
+    {
+      "source": "Turn_Right",
+      "export": "Turn_Right"
+    },
+    {
+      "source": "Walk_InPlace",
+      "export": "Walk_InPlace"
+    },
+    {
+      "source": "Walk_RootMotion",
+      "export": "Walk_RootMotion"
+    },
+    {
+      "source": "Wing_Slam",
+      "export": "Wing_Slam"
+    }
+  ]
+}

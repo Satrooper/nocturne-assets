@@ -1,0 +1,155 @@
+{
+  "asset": "Iron_Seraph",
+  "category": "dragons",
+  "original_source": "Nocturne_V4_Visual_Revision/dragons/Iron_Seraph/Iron_Seraph.blend",
+  "added_to_60_pack": false,
+  "canonical_glb": "models/dragons/Iron_Seraph/Iron_Seraph.glb",
+  "canonical_fbx": "models/dragons/Iron_Seraph/Iron_Seraph.fbx",
+  "editable_source": "models/dragons/Iron_Seraph/Iron_Seraph.blend",
+  "bones": [
+    "root",
+    "pelvis",
+    "chest",
+    "neck1",
+    "neck2",
+    "head",
+    "jaw",
+    "frontL",
+    "frontL_shin",
+    "frontL_foot",
+    "wingL",
+    "wingL_fore",
+    "frontR",
+    "frontR_shin",
+    "frontR_foot",
+    "wingR",
+    "wingR_fore",
+    "tail0",
+    "tail1",
+    "tail2",
+    "tail3",
+    "tail4",
+    "tail5",
+    "hindL",
+    "hindL_shin",
+    "hindL_foot",
+    "hindR",
+    "hindR_shin",
+    "hindR_foot"
+  ],
+  "clips": 24,
+  "vertices_before": 25724,
+  "vertices_after": 25724,
+  "geometry_changes": {},
+  "material_changes": {
+    "old_art_preserved": true,
+    "normal_maps_restrained": 1
+  },
+  "status": "candidate_repair_requires_visual_deformation_review",
+  "cinematic_quality_approved": false,
+  "engine_tested": false,
+  "iphone_tested": false,
+  "remaining": [
+    "Individual anatomical sculpting and final art review",
+    "All-frame weight/contact/clipping polish",
+    "Runtime integration"
+  ],
+  "fbx_action_names": [
+    {
+      "source": "Armoured_Shoulder_Charge",
+      "export": "Armoured_Shoulder_Charge"
+    },
+    {
+      "source": "Blade_Tail_Spear",
+      "export": "Blade_Tail_Spear"
+    },
+    {
+      "source": "Death",
+      "export": "Death"
+    },
+    {
+      "source": "Dodge_Left",
+      "export": "Dodge_Left"
+    },
+    {
+      "source": "Dodge_Right",
+      "export": "Dodge_Right"
+    },
+    {
+      "source": "Flight_Glide",
+      "export": "Flight_Glide"
+    },
+    {
+      "source": "Flight_Hover",
+      "export": "Flight_Hover"
+    },
+    {
+      "source": "Flight_Landing",
+      "export": "Flight_Landing"
+    },
+    {
+      "source": "Flight_Takeoff",
+      "export": "Flight_Takeoff"
+    },
+    {
+      "source": "Hit_Back",
+      "export": "Hit_Back"
+    },
+    {
+      "source": "Hit_Front",
+      "export": "Hit_Front"
+    },
+    {
+      "source": "Idle_Breathe",
+      "export": "Idle_Breathe"
+    },
+    {
+      "source": "Iron_Wing_Scissor",
+      "export": "Iron_Wing_Scissor"
+    },
+    {
+      "source": "Landing_Wing_Sweep",
+      "export": "Landing_Wing_Sweep"
+    },
+    {
+      "source": "Locomotion_Run",
+      "export": "Locomotion_Run"
+    },
+    {
+      "source": "Locomotion_Walk",
+      "export": "Locomotion_Walk"
+    },
+    {
+      "source": "Mechanical_Dive",
+      "export": "Mechanical_Dive"
+    },
+    {
+      "source": "Quill_Volley",
+      "export": "Quill_Volley"
+    },
+    {
+      "source": "Stagger",
+      "export": "Stagger"
+    },
+    {
+      "source": "Steel_Jaw_Clamp",
+      "export": "Steel_Jaw_Clamp"
+    },
+    {
+      "source": "Threat_Roar",
+      "export": "Threat_Roar"
+    },
+    {
+      "source": "Turn_Left",
+      "export": "Turn_Left"
+    },
+    {
+      "source": "Turn_Right",
+      "export": "Turn_Right"
+    },
+    {
+      "source": "Wing_Guard_Reversal",
+      "export": "Wing_Guard_Reversal"
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+[
+  {
+    "path": "README.md",
+    "size": 3439,
+    "sha256": "78199043d80b1783e55934b97577994d53a494b5abaca3a59f1a4422769c716d"
+  },
+  {
+    "path": "Resume_Checklist.json",
+    "size": 1813,
+    "sha256": "aa1ec70527fd1e89811fb5ef08f92bd7ce8cefecf2d8584440e486e574a97abc"
+  },
+  {
+    "path": "audit/Cinematic_Preview_Progress.json",
+    "size": 1037,
+    "sha256": "af6b7718fcaa503dd13cb5fa4206bad96375704eecb14e2901a51931b5014242"
+  },
+  {
+    "path": "audit/Full_60_Resume_Inventory.json",
+    "size": 41306,
+    "sha256": "0cc7c49f1a3cd284a33b015adb14d4093c2a6950cb2c90bb3f5458b6662758d7"
+  },
+  {
+    "path": "audit/Nocturne_60_Downloads.json",
+    "size": 2698,
+    "sha256": "16e1626bf37ec95225258e29a26f5075f3e209ed8bbf838bacad294ea8881b0b"
+  },
+  {
+    "path": "audit/Nocturne_60_Final_Validation.json",
+    "size": 3854,
+    "sha256": "bae9e19dd56c89abe811040e7228ee77e2fe71df76bf1318ca4a564004c7ba52"
+  },
+  {
+    "path": "audit/Nocturne_60_SHA256.txt",
+    "size": 1016,
+    "sha256": "72e220cda14aea03e25359a7e2d4206c7977d74a2d975fca042a611944c30c56"
+  },
+  {
+    "path": "audit/Repair_Progress.json",
+    "size": 27363,
+    "sha256": "c9583570157ff694eb4f3bc8fb69cadc6e933bb8dc83b7ef3e74ffed2ba1d521"
+  },
+  {
+    "path": "audit/Repair_Validation.json",
+    "size": 7524,
+    "sha256": "9b3eb6ecf954efb3f97d7445aeb964307eb057cfbc75f5265d7c5eb3b3a1d7b4"
+  },
+  {
+    "path": "cinematics/Cinder_Crown/Cinematic.jpg",
+    "size": 25567,
+    "sha256": "5947e9341f8dd67b37d1debbd196e4b428154318ca8c22d2a6de4c36dbaaaf72"
+  },
+  {
+    "path": "cinematics/Cinder_Crown/Presentation.blend",
+    "size": 7931222,
+    "sha256": "50fd924aa0951c86fee4a4851cb2cba5d4120a983fc1bbb1014fc4a053b794b3"
+  },
+  {
+    "path": "cinematics/Iron_Executioner/Cinematic.jpg",
+    "size": 26026,
+    "sha256": "238fc323b8f08dbbd5a89f4666f428acbe16e9b5f885366d94df7a38947819a4"
+  },
+  {
+    "path": "cinematics/Iron_Executioner/Presentation.blend",
+    "size": 1504660,
+    "sha256": "b707e28909d54c0545d26fc3f19eff3bdd385a91d10722c86567c16924b66dbf"
+  },
+  {
+    "path": "godot_presentation/Presentation.tscn",
+    "size": 1403,
+    "sha256": "4977cdfb1a88afd6fa0f885d7dc423a83b396479ab81394757b00615fb953176"
+  },
+  {
+    "path": "godot_presentation/README.md",
+    "size": 1117,
+    "sha256": "c78244cde45ac0b1324a512a627d57983c5120bbe47b37c54b35cd67d2ffd765"
+  },
+  {
+    "path": "godot_presentation/flipbook.gdshader",
+    "size": 607,
+    "sha256": "8c9559485deaf5e15a2fa5466ffd06c84b3a3d81370e5c796de87641b01dc81c"
+  },
+  {
+    "path": "godot_presentation/presentation.gd",
+    "size": 1187,
+    "sha256": "c5489164630a23d474c51157975fa03d56c12a055c5553dc73faa49ec13d77e6"
+  },
+  {
+    "path": "godot_presentation/project.godot",
+    "size": 310,
+    "sha256": "090863152ab8b2c3bc986924671e6285867146bc671879a368991910b04b365f"
+  },
+  {
+    "path": "models/bosses/Iron_Executioner/Iron_Executioner.blend",
+    "size": 1052581,
+    "sha256": "9a983b7ef5b1a5291ca91d758cb3693ec635f7d23754937e7cc1ddff3eb3e537"
+  },
+  {
+    "path": "models/bosses/Iron_Executioner/Iron_Executioner.fbx",
+    "size": 5754188,
+    "sha256": "961c3453de5c429f4926f943efbb71bbff800e6aeb7861377977bf921c1c3c27"
+  },
+  {
+    "path": "models/bosses/Iron_Executioner/Iron_Executioner.glb",
+    "size": 3018068,
+    "sha256": "4a7087b5dbfc6ab883e261421f230f59330aa097e620f644aaa1b158eb73b309"
+  },
+  {
+    "path": "models/bosses/Iron_Executioner/repair.json",
+    "size": 4112,
+    "sha256": "1d538ae401f3753ffeb02940446dfc5144e90e6c0ef4e626979b1b2499134846"
+  },
+  {
+    "path": "models/dragons/Basilisk_Crownless/Basilisk_Crownless.blend",
+    "size": 2102020,
+    "sha256": "a27eb562a8654d0b1a62db7e3c7e6db0242fd99f524ea23966950731d5a23756"
+  },
+  {
+    "path": "models/dragons/Basilisk_Crownless/Basilisk_Crownless.fbx",
+    "size": 7876476,
+    "sha256": "8ac9b2797f6b401c8e13ada17dfe67124aae0942cc8fd5eb5cc898d1ac839871"
+  },
+  {
+    "path": "models/dragons/Basilisk_Crownless/Basilisk_Crownless.glb",
+    "size": 3471844,
+    "sha256": "efdcc2d19dbf2a871e5975661ef5e572fd3dc5628dd6f7547eedd1dce959e2a7"
+  },
+  {
+    "path": "models/dragons/Basilisk_Crownless/repair.json",
+    "size": 4284,
+    "sha256": "799cde25f4e30ce4d64a66ef87219953544b2da8d44b8a62c4d38016f810dbf0"
+  },
+  {
+    "path": "models/dragons/Cinder_Crown/Cinder_Crown.blend",
+    "size": 7393994,
+    "sha256": "3ce42be6f576c0ea553fb261628702e2f173c29e32e850c684a1458f400d1c9c"
+  },
+  {
+    "path": "models/dragons/Cinder_Crown/Cinder_Crown.fbx",
+    "size": 15733708,
+    "sha256": "6b841ec216968d57a3c3887801df42c0054ced5323648e962822ad3035004427"
+  },
+  {
+    "path": "models/dragons/Cinder_Crown/Cinder_Crown.glb",
+    "size": 8320056,
+    "sha256": "e94979c2628db2f79b2ad7d2236a31bef28c493f18ce35348abf2de92e22ec70"
+  },
+  {
+    "path": "models/dragons/Cinder_Crown/repair.json",
+    "size": 3701,
+    "sha256": "9efc41ea60500fce49bbfd7a4f025aacd20fc4eb688eb0d7fa52cf19dd39f498"
+  },
+  {
+    "path": "models/dragons/Crimson_Vesper/Crimson_Vesper.blend",
+    "size": 3698799,
+    "sha256": "75282b43f3e150bc203b06b676b553acf7006c407b97248020cfab9723176d32"
+  },
+  {
+    "path": "models/dragons/Crimson_Vesper/Crimson_Vesper.fbx",
+    "size": 8977868,
+    "sha256": "412e7379d027b414abd6797ebe4561f8635d9002dc705dba87d1b5eceead9ef3"
+  },
+  {
+    "path": "models/dragons/Crimson_Vesper/Crimson_Vesper.glb",
+    "size": 4858632,
+    "sha256": "0b2387b7f1576bbba728a88593304ab1ef6e0fae8792bf9977aecb3f147767c0"
+  },
+  {
+    "path": "models/dragons/Crimson_Vesper/repair.json",
+    "size": 3109,
+    "sha256": "2c5ae5a764f9ed8e1978eb13367d84c2011e7d0d16e9b4f9d86091c78f0cb1c2"
+  },
+  {
+    "path": "models/dragons/Dune_Glasswing/Dune_Glasswing.blend",
+    "size": 3665492,
+    "sha256": "4a46ed2e924a9c46b75f21d8c58c5a0220a54d4709e16e3a6352cae5ebb5d6f8"
+  },
+  {
+    "path": "models/dragons/Dune_Glasswing/Dune_Glasswing.fbx",
+    "size": 8977500,
+    "sha256": "6aab0a712f40615429d59288d3d555259de1edaf8002f960519a4d78f74af710"
+  },
+  {
+    "path": "models/dragons/Dune_Glasswing/Dune_Glasswing.glb",
+    "size": 4855068,
+    "sha256": "490ee0fb13ce4a79c52a2f164aff8f6d34c11ac527f2fa102e79453650d43bdd"
+  },
+  {
+    "path": "models/dragons/Dune_Glasswing/repair.json",
+    "size": 3103,
+    "sha256": "d53878f91253a6758a457ee1580bdad0e2fc3ae206684346fd2cef80e833b8ab"
+  },
+  {
+    "path": "models/dragons/Frost_Antler/Frost_Antler.blend",
+    "size": 3788099,
+    "sha256": "f0c22aab63a60ad629f88f4536000032ab99d12e5bc9eb9162ee8d13c5bdc7ec"
+  },
+  {
+    "path": "models/dragons/Frost_Antler/Frost_Antler.fbx",
+    "size": 10303452,
+    "sha256": "239092f6450bcc8d61947152e4d5dc68fd37290be100950b7a34a62cadb0feb4"
+  },
+  {
+    "path": "models/dragons/Frost_Antler/Frost_Antler.glb",
+    "size": 4942832,
+    "sha256": "62247abca9054bad21d41f9fe20f20b68f9a084457e62f9683cf6fc6e79d641d"
+  },
+  {
+    "path": "models/dragons/Frost_Antler/repair.json",
+    "size": 3149,
+    "sha256": "288b2947af4dc0fc12ec618fbd8f4b049b0162771a6a6f0503e920d7c54227e3"
+  },
+  {
+    "path": "models/dragons/Iron_Seraph/Iron_Seraph.blend",
+    "size": 3179059,
+    "sha256": "9878aea97f438d6e0fd7cfe9a3b358e136db1ec237bf0f0b9ed5e5bce36a5d72"
+  },
+  {
+    "path": "models/dragons/Iron_Seraph/Iron_Seraph.fbx",
+    "size": 9740588,
+    "sha256": "c6cef5515e941cead0a5fa3da610c55529eecadc0d4328ec17b83c67ad3a37d3"
+  },
+  {
+    "path": "models/dragons/Iron_Seraph/Iron_Seraph.glb",
+    "size": 4636052,
+    "sha256": "35a02671bd617fb695db317837210343f34fcaf652f142e800caed37611b3046"
+  },
+  {
+    "path": "models/dragons/Iron_Seraph/repair.json",
+    "size": 3214,
+    "sha256": "3dd81b9ad3be0919c4edd239de1ea53de6bfc87827ca81697c867964a0520a28"
+  },
+  {
+    "path": "models/dragons/Moonveil/Moonveil.blend",
+    "size": 3422267,
+    "sha256": "90943098a19a9a9e7febfca9c7670bf73ae49d61f5def886683bf935e8938fb1"
+  },
+  {
+    "path": "previews/Basilisk_Crownless/After_Closeup.jpg",
+    "size": 27778,
+    "sha256": "1c5f23b2a8b8e4fab01c5e12b36de8bb8f7a86e56b6cc533ae32adfb4dd9c6b5"
+  },
+  {
+    "path": "previews/Basilisk_Crownless/After_Front.jpg",
+    "size": 18448,
+    "sha256": "65cd7ad60da370006cb5bb0f4dad9b70d5259f5e65ba716abb0e5f555b93f503"
+  },
+  {
+    "path": "previews/Basilisk_Crownless/After_Threequarter.jpg",
+    "size": 18830,
+    "sha256": "ba31fdae17be9573f39283a95aece3a8192be491a86337d75e25685de2298c0b"
+  },
+  {
+    "path": "previews/Basilisk_Crownless/Before_Front.jpg",
+    "size": 19137,
+    "sha256": "b2851f61fe81c84061c2e1f49835e2120a7437772ddab336b4d0dccd5c50132a"
+  },
+  {
+    "path": "previews/Basilisk_Crownless/Before_Threequarter.jpg",
+    "size": 20208,
+    "sha256": "00d1f0b46938ac316abe6c2ef54cd376faeea1761affeab47013e63f0350e8dc"
+  },
+  {
+    "path": "previews/Basilisk_Crownless/Comparison.jpg",
+    "size": 50622,
+    "sha256": "f319e3ea94f59d176a8212d7cc18da0891c902a2f66e62494a67e0ad93ab5281"
+  },
+  {
+    "path": "previews/Cinder_Crown/After_Closeup.jpg",
+    "size": 30812,
+    "sha256": "8ec55ff7af7d9664b8612c02e5b3249dcab6723cad6804325695f123cb21bd67"
+  },
+  {
+    "path": "previews/Cinder_Crown/After_Front.jpg",
+    "size": 21003,
+    "sha256": "67a39955ed949cfd5f9d76f6aa37b3b91dd4b04f5c6840fd7428481c868874fe"
+  },
+  {
+    "path": "previews/Cinder_Crown/After_Threequarter.jpg",
+    "size": 19732,
+    "sha256": "8ddfb221a04bcbb573ad92a654b63cb89906aab2742954138662548744d33e5d"
+  },
+  {
+    "path": "previews/Cinder_Crown/Before_Front.jpg",
+    "size": 21038,
+    "sha256": "3633ffe2ef71b6c04183f42865d585f55184261991f52fcfa7b77441bdcab58a"
+  },
+  {
+    "path": "previews/Cinder_Crown/Before_Threequarter.jpg",
+    "size": 19812,
+    "sha256": "30849490c6c89db25803c2348995a6ca4dd5dc4cecb046124c6f6834f93741fd"
+  },
+  {
+    "path": "previews/Crimson_Vesper/After_Closeup.jpg",
+    "size": 26866,
+    "sha256": "dac2d4d29dd7d6e55122f63f50bd68958a03e88dab0660aa3c8b8eaa02b81f60"
+  },
+  {
+    "path": "previews/Crimson_Vesper/After_Front.jpg",
+    "size": 20494,
+    "sha256": "2225347cae7f50dbb8d93b0efeaa0c9415dca4890b3af15d240b544ba612ac80"
+  },
+  {
+    "path": "previews/Crimson_Vesper/After_Threequarter.jpg",
+    "size": 19917,
+    "sha256": "e6b19b984d965b8cd8845415960927eedb09d62a8e830ece7370ad2ea37c2425"
+  },
+  {
+    "path": "previews/Crimson_Vesper/Before_Front.jpg",
+    "size": 20607,
+    "sha256": "83a4d722d8284a58a5a7207ad54fa352e3269ad2d5848f55b04a4f55ac916ebc"
+  },
+  {
+    "path": "previews/Crimson_Vesper/Before_Threequarter.jpg",
+    "size": 20007,
+    "sha256": "74bb5f39915d9a690b1431b4d285ff122fb5a23468c2fe17e2f17d7320bcf832"
+  },
+  {
+    "path": "previews/Dune_Glasswing/After_Closeup.jpg",
+    "size": 26861,
+    "sha256": "bb364ee8a06beda01d67cdd14e3b3944fe61fb0ba54cef890abaeaaa8bc1c76c"
+  },
+  {
+    "path": "previews/Dune_Glasswing/After_Front.jpg",
+    "size": 20666,
+    "sha256": "cbe059b5d35a6ca2276f36579488b9fd64bab5bf35eefbda75cdb9f56b90bda0"
+  },
+  {
+    "path": "previews/Dune_Glasswing/After_Threequarter.jpg",
+    "size": 19382,
+    "sha256": "573bd2aec2776b71b727fdf8c8a43d16b01e7aac8ced4f62b14eef96a2d8c6f2"
+  },
+  {
+    "path": "previews/Dune_Glasswing/Before_Front.jpg",
+    "size": 20779,
+    "sha256": "238edfe70855080eb84dbafb088227244ae420572c88d2869e2ba64e633830dc"
+  },
+  {
+    "path": "previews/Dune_Glasswing/Before_Threequarter.jpg",
+    "size": 19457,
+    "sha256": "425eed010158cb9fd0bfa61a0f325e0a4725c4a9898734f1441d6716b8604b17"
+  },
+  {
+    "path": "previews/Frost_Antler/After_Closeup.jpg",
+    "size": 33798,
+    "sha256": "74680d6157a072f90e42d4ecb801564c7c161b98244253215d1dd0fce16931e0"
+  },
+  {
+    "path": "previews/Frost_Antler/After_Front.jpg",
+    "size": 21831,
+    "sha256": "f55bd1e2b4ad24064ac6dfee017f77d5c2782bfab61117190dae72bf344c3759"
+  },
+  {
+    "path": "previews/Frost_Antler/After_Threequarter.jpg",
+    "size": 21628,
+    "sha256": "876ca90b9a2602472048d075fff5c77c0da6153fd21912399b59fd0c9f3d1173"
+  },
+  {
+    "path": "previews/Frost_Antler/Before_Front.jpg",
+    "size": 21979,
+    "sha256": "e1592d9ed7f7b3b612441c98c421c189db4971fb41ddc0c1ee3a39af091c2cc6"
+  },
+  {
+    "path": "previews/Frost_Antler/Before_Threequarter.jpg",
+    "size": 21695,
+    "sha256": "79483afed0b744eac45d915f219276259f63012f8a9b679b1bc977afe1f51148"
+  },
+  {
+    "path": "previews/Iron_Executioner/After_Closeup.jpg",
+    "size": 20687,
+    "sha256": "48d0e3584cebb35f99ab51d0ec7606fb8d3761fe9c8296b66cfc93fddbe271b0"
+  },
+  {
+    "path": "previews/Iron_Executioner/After_Front.jpg",
+    "size": 24955,
+    "sha256": "9716d5c869954036f27dbcb2fc0ad283b60ce9ea7c3d59bedad289937cbf651d"
+  },
+  {
+    "path": "previews/Iron_Executioner/After_Threequarter.jpg",
+    "size": 25060,
+    "sha256": "cf277649ae12faa62dcd080f6aa724db35bb2be1e348b9b4a99cea618235bcda"
+  },
+  {
+    "path": "previews/Iron_Executioner/Before_Front.jpg",
+    "size": 27207,
+    "sha256": "9063650efd2e7854b9db48df418a8dff14c11f464fa955012547f14111b7dc93"
+  },
+  {
+    "path": "previews/Iron_Executioner/Before_Threequarter.jpg",
+    "size": 26752,
+    "sha256": "9d01c74d926bd02548b9b6e4e786d310efee8ed35aef594e998326d7d190b659"
+  },
+  {
+    "path": "previews/Iron_Executioner/Comparison.jpg",
+    "size": 64999,
+    "sha256": "d314024795224cdb60adf5acce57306d9aa0a189e58c7ace1d1c42e844e8e5cb"
+  },
+  {
+    "path": "previews/Iron_Executioner/Motion.json",
+    "size": 1276,
+    "sha256": "960b2efa380f7c4116e378b94a82fb819a3afcac1031b7e4fab4318749dc992e"
+  },
+  {
+    "path": "previews/Iron_Executioner/Motion_00.jpg",
+    "size": 15890,
+    "sha256": "7b4c6b736d71aa50fe2b3e5779d7136c00a058ee3993cc4bac5c4f8444ed5cd6"
+  },
+  {
+    "path": "previews/Iron_Executioner/Motion_01.jpg",
+    "size": 15522,
+    "sha256": "8deb3020e39f578e791974b88174f0d2eff68244a627628ac0383b4c74a87266"
+  },
+  {
+    "path": "previews/Iron_Executioner/Motion_02.jpg",
+    "size": 15213,
+    "sha256": "48e9326c595dcb7bf964078338be3417692daf5b3b519e528abb15e93b902172"
+  },
+  {
+    "path": "previews/Iron_Executioner/Motion_03.jpg",
+    "size": 15139,
+    "sha256": "d3375de898177575eef8b607329702dd24990a9409433de10accebf07838a0a0"
+  },
+  {
+    "path": "previews/Iron_Executioner/Motion_04.jpg",
+    "size": 15138,
+    "sha256": "ea7b8483ab52ccecdfe3d1f46a179e7f709ceebfec820e3e59b83a26278265bf"
+  },
+  {
+    "path": "previews/Iron_Executioner/Motion_05.jpg",
+    "size": 15293,
+    "sha256": "8e29549d5509bbda47a8a1e78761246376e2057c4d1004743db7c327a22695d3"
+  },
+  {
+    "path": "previews/Iron_Executioner/Motion_06.jpg",
+    "size": 15495,
+    "sha256": "668ee18ed9e629ac001251a5d44092bcaf39c063c2177bae678d09b7703b266c"
+  },
+  {
+    "path": "previews/Iron_Executioner/Motion_07.jpg",
+    "size": 15275,
+    "sha256": "1d46e6cef27a18cf5813ff695e98bf2a2045be035dbbf183f6d28e63d66eb685"
+  },
+  {
+    "path": "previews/Iron_Executioner/Motion_08.jpg",
+    "size": 15360,
+    "sha256": "dcbdf2cfbdd992e66199c11c0ad24e2c662c2e8c26a1877be54c8d6ad2a6d81d"
+  },
+  {
+    "path": "previews/Iron_Executioner/Motion_09.jpg",
+    "size": 15448,
+    "sha256": "23d90ec27f8f3c57d6dedd2bf04c3bc011b483998c088436fed38b8608715a3f"
+  },
+  {
+    "path": "previews/Iron_Executioner/Motion_10.jpg",
+    "size": 15604,
+    "sha256": "e8527350fff45500c1bed2417f7fe44132f833580f469eb40627dffc24745d5a"
+  },
+  {
+    "path": "previews/Iron_Executioner/Motion_11.jpg",
+    "size": 15754,
+    "sha256": "7081c6f8a49d710ccdca9328a3438b09219e77c059e86f5b55c74b8b9eadff72"
+  },
+  {
+    "path": "previews/Iron_Executioner/Walk_Preview.gif",
+    "size": 478687,
+    "sha256": "00d53721452db63c2e60df060d8fba98f6de14cd438952b3be78323957433118"
+  },
+  {
+    "path": "previews/Iron_Seraph/After_Closeup.jpg",
+    "size": 33454,
+    "sha256": "ab19a2893aff16bf0202a859e61ec54856d3d0b4826f904c6147ff49f3c37da1"
+  },
+  {
+    "path": "previews/Iron_Seraph/After_Front.jpg",
+    "size": 21446,
+    "sha256": "53ce9a31b92cfc0a8ac42878446ac1f7179898dcf0977a4a65942f29c5487283"
+  },
+  {
+    "path": "previews/Iron_Seraph/After_Threequarter.jpg",
+    "size": 20033,
+    "sha256": "139e154f60f70d3462a7b4315641cc9621277395c5282d32b87c6274d4c5f086"
+  },
+  {
+    "path": "previews/Iron_Seraph/Before_Front.jpg",
+    "size": 21486,
+    "sha256": "1658769a204d77b387360528e4ec1fe60b1cbaf8543c7b541ea2b0bee82b5794"
+  },
+  {
+    "path": "previews/Iron_Seraph/Before_Threequarter.jpg",
+    "size": 20071,
+    "sha256": "46d3c90c0c08262131a033e4e2dbde5ebd593208461e40266d17d004bd907723"
+  },
+  {
+    "path": "source/cinematic_showcase.py",
+    "size": 3594,
+    "sha256": "fa6914c5390e443797688c9f4419701c445362d44a48a0d653bcd3ee1a7927d2"
+  },
+  {
+    "path": "source/generate_micro_surfaces.py",
+    "size": 927,
+    "sha256": "cd9ee4edb9326146f48dddcee2934129390e42fd27875c07433257b4de02a395"
+  },
+  {
+    "path": "source/motion_preview.py",
+    "size": 1316,
+    "sha256": "a2128e6228390b7f9d1f5c7243c41186fd0d872e4816a31c52ab9e2fa41f4e61"
+  },
+  {
+    "path": "source/repair_collection.py",
+    "size": 20808,
+    "sha256": "75f3e830a8b32fcee4567b1e79b059938ee7677ee8c94427c1f5c7d3cfc4e973"
+  },
+  {
+    "path": "source/review_repairs.py",
+    "size": 3606,
+    "sha256": "fa125f8be187deb45f981b5942c309be29d3c1bf728736978e2b9c1f0a5f6016"
+  },
+  {
+    "path": "source/studio_helpers.py",
+    "size": 2787,
+    "sha256": "52a1aecf6553d13c194b67d705c5d454f9a09c05b9eb2b25ba4c180cb21edfad"
+  },
+  {
+    "path": "textures/metal_micro_normal.png",
+    "size": 7031,
+    "sha256": "1b20f89972a288ce58d5cd74d578ae6d711ace98948d2d3821e9d304f917f659"
+  },
+  {
+    "path": "textures/skin_micro_normal.png",
+    "size": 44029,
+    "sha256": "78aa0f31ff5797c28a6c287b865456da46c47922627a09ff990325019b71d768"
+  }
+]

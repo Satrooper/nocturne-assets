@@ -1,0 +1,160 @@
+{
+  "asset": "Basilisk_Crownless",
+  "category": "dragons",
+  "original_source": "Nocturne_Expansion_60/dragons/Basilisk_Crownless/Basilisk_Crownless.blend",
+  "added_to_60_pack": true,
+  "canonical_glb": "models/dragons/Basilisk_Crownless/Basilisk_Crownless.glb",
+  "canonical_fbx": "models/dragons/Basilisk_Crownless/Basilisk_Crownless.fbx",
+  "editable_source": "models/dragons/Basilisk_Crownless/Basilisk_Crownless.blend",
+  "bones": [
+    "root",
+    "pelvis",
+    "chest",
+    "neck1",
+    "neck2",
+    "head",
+    "jaw",
+    "leg0",
+    "leg0_shin",
+    "leg0_foot",
+    "leg1",
+    "leg1_shin",
+    "leg1_foot",
+    "leg2",
+    "leg2_shin",
+    "leg2_foot",
+    "leg3",
+    "leg3_shin",
+    "leg3_foot",
+    "leg4",
+    "leg4_shin",
+    "leg4_foot",
+    "leg5",
+    "leg5_shin",
+    "leg5_foot",
+    "leg6",
+    "leg6_shin",
+    "leg6_foot",
+    "leg7",
+    "leg7_shin",
+    "leg7_foot",
+    "tail0",
+    "tail1",
+    "tail2"
+  ],
+  "clips": 22,
+  "vertices_before": 10177,
+  "vertices_after": 29047,
+  "geometry_changes": {
+    "flesh_fused": true,
+    "voxel_size_m": 0.025,
+    "weight_transfer": "Inverse-square blend of three nearby source skin weights; detailed extremities retained",
+    "topology": "Voxel triangles/quads, not manually retopologized cinematic topology"
+  },
+  "material_changes": {
+    "new_surface": "Local-space vertex colour variation exported as COLOR_0; neutral metal/paint/rubber/skin/eye separation",
+    "stretched_texture_removed": true,
+    "export_texture_dependency": "Two small original micro-normal tiles embedded in GLB and packed in Blender; old texture sources preserved in base pack",
+    "UV_method": "Tiling object-space box projection with smaller facial/limb scale; not unique painted UVs",
+    "vertex_colour_attribute": "SurfaceDetail"
+  },
+  "status": "candidate_repair_requires_visual_deformation_review",
+  "cinematic_quality_approved": false,
+  "engine_tested": false,
+  "iphone_tested": false,
+  "remaining": [
+    "Individual anatomical sculpting and final art review",
+    "All-frame weight/contact/clipping polish",
+    "Runtime integration"
+  ],
+  "fbx_action_names": [
+    {
+      "source": "Basilisk_Crownless__Advance_RootMotion",
+      "export": "Advance_RootMotion"
+    },
+    {
+      "source": "Basilisk_Crownless__Attack_Charge_RootMotion",
+      "export": "Attack_Charge_RootMotion"
+    },
+    {
+      "source": "Basilisk_Crownless__Attack_Primary",
+      "export": "Attack_Primary"
+    },
+    {
+      "source": "Basilisk_Crownless__Attack_Special",
+      "export": "Attack_Special"
+    },
+    {
+      "source": "Basilisk_Crownless__Attack_Sweep",
+      "export": "Attack_Sweep"
+    },
+    {
+      "source": "Basilisk_Crownless__Death",
+      "export": "Death"
+    },
+    {
+      "source": "Basilisk_Crownless__Defensive_Brace",
+      "export": "Defensive_Brace"
+    },
+    {
+      "source": "Basilisk_Crownless__GetUp",
+      "export": "GetUp"
+    },
+    {
+      "source": "Basilisk_Crownless__Idle_Breath",
+      "export": "Idle_Breath"
+    },
+    {
+      "source": "Basilisk_Crownless__Knockdown",
+      "export": "Knockdown"
+    },
+    {
+      "source": "Basilisk_Crownless__Patrol_Scan",
+      "export": "Patrol_Scan"
+    },
+    {
+      "source": "Basilisk_Crownless__React_Back",
+      "export": "React_Back"
+    },
+    {
+      "source": "Basilisk_Crownless__React_Front",
+      "export": "React_Front"
+    },
+    {
+      "source": "Basilisk_Crownless__React_Left",
+      "export": "React_Left"
+    },
+    {
+      "source": "Basilisk_Crownless__React_Right",
+      "export": "React_Right"
+    },
+    {
+      "source": "Basilisk_Crownless__Run_InPlace",
+      "export": "Run_InPlace"
+    },
+    {
+      "source": "Basilisk_Crownless__Stagger",
+      "export": "Stagger"
+    },
+    {
+      "source": "Basilisk_Crownless__Start_Forward",
+      "export": "Start_Forward"
+    },
+    {
+      "source": "Basilisk_Crownless__Stop_Forward",
+      "export": "Stop_Forward"
+    },
+    {
+      "source": "Basilisk_Crownless__Turn_Left90_RootMotion",
+      "export": "Turn_Left90_RootMotion"
+    },
+    {
+      "source": "Basilisk_Crownless__Turn_Right90_RootMotion",
+      "export": "Turn_Right90_RootMotion"
+    },
+    {
+      "source": "Basilisk_Crownless__Walk_InPlace",
+      "export": "Walk_InPlace"
+    }
+  ]
+}

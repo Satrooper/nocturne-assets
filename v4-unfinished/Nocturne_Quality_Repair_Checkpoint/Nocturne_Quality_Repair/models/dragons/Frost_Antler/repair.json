@@ -1,0 +1,155 @@
+{
+  "asset": "Frost_Antler",
+  "category": "dragons",
+  "original_source": "Nocturne_V4_Visual_Revision/dragons/Frost_Antler/Frost_Antler.blend",
+  "added_to_60_pack": false,
+  "canonical_glb": "models/dragons/Frost_Antler/Frost_Antler.glb",
+  "canonical_fbx": "models/dragons/Frost_Antler/Frost_Antler.fbx",
+  "editable_source": "models/dragons/Frost_Antler/Frost_Antler.blend",
+  "bones": [
+    "root",
+    "pelvis",
+    "chest",
+    "neck1",
+    "neck2",
+    "head",
+    "jaw",
+    "frontL",
+    "frontL_shin",
+    "frontL_foot",
+    "wingL",
+    "wingL_fore",
+    "frontR",
+    "frontR_shin",
+    "frontR_foot",
+    "wingR",
+    "wingR_fore",
+    "tail0",
+    "tail1",
+    "tail2",
+    "tail3",
+    "tail4",
+    "tail5",
+    "hindL",
+    "hindL_shin",
+    "hindL_foot",
+    "hindR",
+    "hindR_shin",
+    "hindR_foot"
+  ],
+  "clips": 24,
+  "vertices_before": 25166,
+  "vertices_after": 25166,
+  "geometry_changes": {},
+  "material_changes": {
+    "old_art_preserved": true,
+    "normal_maps_restrained": 1
+  },
+  "status": "candidate_repair_requires_visual_deformation_review",
+  "cinematic_quality_approved": false,
+  "engine_tested": false,
+  "iphone_tested": false,
+  "remaining": [
+    "Individual anatomical sculpting and final art review",
+    "All-frame weight/contact/clipping polish",
+    "Runtime integration"
+  ],
+  "fbx_action_names": [
+    {
+      "source": "Antler_Rake",
+      "export": "Antler_Rake"
+    },
+    {
+      "source": "Death",
+      "export": "Death"
+    },
+    {
+      "source": "Dodge_Left",
+      "export": "Dodge_Left"
+    },
+    {
+      "source": "Dodge_Right",
+      "export": "Dodge_Right"
+    },
+    {
+      "source": "Double_Horn_Thrust",
+      "export": "Double_Horn_Thrust"
+    },
+    {
+      "source": "Flight_Glide",
+      "export": "Flight_Glide"
+    },
+    {
+      "source": "Flight_Hover",
+      "export": "Flight_Hover"
+    },
+    {
+      "source": "Flight_Landing",
+      "export": "Flight_Landing"
+    },
+    {
+      "source": "Flight_Takeoff",
+      "export": "Flight_Takeoff"
+    },
+    {
+      "source": "Freezing_Stomp",
+      "export": "Freezing_Stomp"
+    },
+    {
+      "source": "Frost_Exhale",
+      "export": "Frost_Exhale"
+    },
+    {
+      "source": "Glacial_Dive",
+      "export": "Glacial_Dive"
+    },
+    {
+      "source": "Hit_Back",
+      "export": "Hit_Back"
+    },
+    {
+      "source": "Hit_Front",
+      "export": "Hit_Front"
+    },
+    {
+      "source": "Horn_Lift",
+      "export": "Horn_Lift"
+    },
+    {
+      "source": "Idle_Breathe",
+      "export": "Idle_Breathe"
+    },
+    {
+      "source": "Locomotion_Run",
+      "export": "Locomotion_Run"
+    },
+    {
+      "source": "Locomotion_Walk",
+      "export": "Locomotion_Walk"
+    },
+    {
+      "source": "Sidestep_Bite",
+      "export": "Sidestep_Bite"
+    },
+    {
+      "source": "Stagger",
+      "export": "Stagger"
+    },
+    {
+      "source": "Tail_Crush",
+      "export": "Tail_Crush"
+    },
+    {
+      "source": "Threat_Roar",
+      "export": "Threat_Roar"
+    },
+    {
+      "source": "Turn_Left",
+      "export": "Turn_Left"
+    },
+    {
+      "source": "Turn_Right",
+      "export": "Turn_Right"
+    }
+  ]
+}

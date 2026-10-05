@@ -1,0 +1,1113 @@
+[
+  {
+    "asset": "Cinder_Crown",
+    "category": "dragons",
+    "original_source": "Nocturne_V4_Visual_Revision/dragons/Cinder_Crown/Cinder_Crown.blend",
+    "added_to_60_pack": false,
+    "canonical_glb": "models/dragons/Cinder_Crown/Cinder_Crown.glb",
+    "canonical_fbx": "models/dragons/Cinder_Crown/Cinder_Crown.fbx",
+    "editable_source": "models/dragons/Cinder_Crown/Cinder_Crown.blend",
+    "bones": [
+      "root",
+      "pelvis",
+      "chest",
+      "neck1",
+      "neck2",
+      "head",
+      "jaw",
+      "lidL",
+      "lidR",
+      "frontL",
+      "frontL_shin",
+      "frontL_foot",
+      "wingL",
+      "wingL_fore",
+      "wingL_digit0",
+      "wingL_digit1",
+      "wingL_digit2",
+      "wingL_digit3",
+      "frontR",
+      "frontR_shin",
+      "frontR_foot",
+      "wingR",
+      "wingR_fore",
+      "wingR_digit0",
+      "wingR_digit1",
+      "wingR_digit2",
+      "wingR_digit3",
+      "tail0",
+      "tail1",
+      "tail2",
+      "tail3",
+      "tail4",
+      "tail5",
+      "hindL",
+      "hindL_shin",
+      "hindL_foot",
+      "hindR",
+      "hindR_shin",
+      "hindR_foot"
+    ],
+    "clips": 27,
+    "vertices_before": 26340,
+    "vertices_after": 26340,
+    "geometry_changes": {},
+    "material_changes": {
+      "old_art_preserved": true,
+      "normal_maps_restrained": 1
+    },
+    "status": "retained_geometry_minor_material_adjustment",
+    "cinematic_quality_approved": false,
+    "engine_tested": false,
+    "iphone_tested": false,
+    "remaining": [
+      "Individual anatomical sculpting and final art review",
+      "All-frame weight/contact/clipping polish",
+      "Runtime integration"
+    ],
+    "fbx_action_names": [
+      {
+        "source": "Bite_InPlace",
+        "export": "Bite_InPlace"
+      },
+      {
+        "source": "Bite_Lunge_RootMotion",
+        "export": "Bite_Lunge_RootMotion"
+      },
+      {
+        "source": "Breath_Exhale",
+        "export": "Breath_Exhale"
+      },
+      {
+        "source": "Claw_Swipe_Left",
+        "export": "Claw_Swipe_Left"
+      },
+      {
+        "source": "Claw_Swipe_Right",
+        "export": "Claw_Swipe_Right"
+      },
+      {
+        "source": "Death_RootMotion",
+        "export": "Death_RootMotion"
+      },
+      {
+        "source": "Flight_Glide_InPlace",
+        "export": "Flight_Glide_InPlace"
+      },
+      {
+        "source": "Flight_Hover_InPlace",
+        "export": "Flight_Hover_InPlace"
+      },
+      {
+        "source": "Flight_Landing_RootMotion",
+        "export": "Flight_Landing_RootMotion"
+      },
+      {
+        "source": "Flight_Takeoff_RootMotion",
+        "export": "Flight_Takeoff_RootMotion"
+      },
+      {
+        "source": "Hit_Back",
+        "export": "Hit_Back"
+      },
+      {
+        "source": "Hit_Front",
+        "export": "Hit_Front"
+      },
+      {
+        "source": "Hit_Left",
+        "export": "Hit_Left"
+      },
+      {
+        "source": "Hit_Right",
+        "export": "Hit_Right"
+      },
+      {
+        "source": "Idle_Breathe",
+        "export": "Idle_Breathe"
+      },
+      {
+        "source": "Run_InPlace",
+        "export": "Run_InPlace"
+      },
+      {
+        "source": "Run_RootMotion",
+        "export": "Run_RootMotion"
+      },
+      {
+        "source": "Stagger",
+        "export": "Stagger"
+      },
+      {
+        "source": "Swim_Cruise_InPlace",
+        "export": "Swim_Cruise_InPlace"
+      },
+      {
+        "source": "Swim_Cruise_RootMotion",
+        "export": "Swim_Cruise_RootMotion"
+      },
+      {
+        "source": "Tail_Sweep",
+        "export": "Tail_Sweep"
+      },
+      {
+        "source": "Threat_Roar",
+        "export": "Threat_Roar"
+      },
+      {
+        "source": "Turn_Left",
+        "export": "Turn_Left"
+      },
+      {
+        "source": "Turn_Right",
+        "export": "Turn_Right"
+      },
+      {
+        "source": "Walk_InPlace",
+        "export": "Walk_InPlace"
+      },
+      {
+        "source": "Walk_RootMotion",
+        "export": "Walk_RootMotion"
+      },
+      {
+        "source": "Wing_Slam",
+        "export": "Wing_Slam"
+      }
+    ],
+    "animation_upgrade_this_checkpoint": false,
+    "visual_target_met": false
+  },
+  {
+    "asset": "Crimson_Vesper",
+    "category": "dragons",
+    "original_source": "Nocturne_V4_Visual_Revision/dragons/Crimson_Vesper/Crimson_Vesper.blend",
+    "added_to_60_pack": false,
+    "canonical_glb": "models/dragons/Crimson_Vesper/Crimson_Vesper.glb",
+    "canonical_fbx": "models/dragons/Crimson_Vesper/Crimson_Vesper.fbx",
+    "editable_source": "models/dragons/Crimson_Vesper/Crimson_Vesper.blend",
+    "bones": [
+      "root",
+      "pelvis",
+      "chest",
+      "neck1",
+      "neck2",
+      "head",
+      "jaw",
+      "wingL",
+      "wingL_fore",
+      "wingR",
+      "wingR_fore",
+      "tail0",
+      "tail1",
+      "tail2",
+      "tail3",
+      "tail4",
+      "tail5",
+      "hindL",
+      "hindL_shin",
+      "hindL_foot",
+      "hindR",
+      "hindR_shin",
+      "hindR_foot"
+    ],
+    "clips": 24,
+    "vertices_before": 24184,
+    "vertices_after": 24184,
+    "geometry_changes": {},
+    "material_changes": {
+      "old_art_preserved": true,
+      "normal_maps_restrained": 1
+    },
+    "status": "retained_geometry_minor_material_adjustment",
+    "cinematic_quality_approved": false,
+    "engine_tested": false,
+    "iphone_tested": false,
+    "remaining": [
+      "Individual anatomical sculpting and final art review",
+      "All-frame weight/contact/clipping polish",
+      "Runtime integration"
+    ],
+    "fbx_action_names": [
+      {
+        "source": "Backward_Wing_Cut",
+        "export": "Backward_Wing_Cut"
+      },
+      {
+        "source": "Batwing_Feint",
+        "export": "Batwing_Feint"
+      },
+      {
+        "source": "Blood_Cone",
+        "export": "Blood_Cone"
+      },
+      {
+        "source": "Blood_Screech",
+        "export": "Blood_Screech"
+      },
+      {
+        "source": "Crimson_Wing_Cross",
+        "export": "Crimson_Wing_Cross"
+      },
+      {
+        "source": "Death",
+        "export": "Death"
+      },
+      {
+        "source": "Dodge_Left",
+        "export": "Dodge_Left"
+      },
+      {
+        "source": "Dodge_Right",
+        "export": "Dodge_Right"
+      },
+      {
+        "source": "Flight_Glide",
+        "export": "Flight_Glide"
+      },
+      {
+        "source": "Flight_Hover",
+        "export": "Flight_Hover"
+      },
+      {
+        "source": "Flight_Landing",
+        "export": "Flight_Landing"
+      },
+      {
+        "source": "Flight_Takeoff",
+        "export": "Flight_Takeoff"
+      },
+      {
+        "source": "Hanging_Talon_Sweep",
+        "export": "Hanging_Talon_Sweep"
+      },
+      {
+        "source": "Hit_Back",
+        "export": "Hit_Back"
+      },
+      {
+        "source": "Hit_Front",
+        "export": "Hit_Front"
+      },
+      {
+        "source": "Idle_Breathe",
+        "export": "Idle_Breathe"
+      },
+      {
+        "source": "Leaping_Neck_Bite",
+        "export": "Leaping_Neck_Bite"
+      },
+      {
+        "source": "Locomotion_Run",
+        "export": "Locomotion_Run"
+      },
+      {
+        "source": "Locomotion_Walk",
+        "export": "Locomotion_Walk"
+      },
+      {
+        "source": "Stagger",
+        "export": "Stagger"
+      },
+      {
+        "source": "Threat_Roar",
+        "export": "Threat_Roar"
+      },
+      {
+        "source": "Turn_Left",
+        "export": "Turn_Left"
+      },
+      {
+        "source": "Turn_Right",
+        "export": "Turn_Right"
+      },
+      {
+        "source": "Twin_Fang_Lunge",
+        "export": "Twin_Fang_Lunge"
+      }
+    ],
+    "animation_upgrade_this_checkpoint": false,
+    "visual_target_met": false
+  },
+  {
+    "asset": "Dune_Glasswing",
+    "category": "dragons",
+    "original_source": "Nocturne_V4_Visual_Revision/dragons/Dune_Glasswing/Dune_Glasswing.blend",
+    "added_to_60_pack": false,
+    "canonical_glb": "models/dragons/Dune_Glasswing/Dune_Glasswing.glb",
+    "canonical_fbx": "models/dragons/Dune_Glasswing/Dune_Glasswing.fbx",
+    "editable_source": "models/dragons/Dune_Glasswing/Dune_Glasswing.blend",
+    "bones": [
+      "root",
+      "pelvis",
+      "chest",
+      "neck1",
+      "neck2",
+      "head",
+      "jaw",
+      "wingL",
+      "wingL_fore",
+      "wingR",
+      "wingR_fore",
+      "tail0",
+      "tail1",
+      "tail2",
+      "tail3",
+      "tail4",
+      "tail5",
+      "hindL",
+      "hindL_shin",
+      "hindL_foot",
+      "hindR",
+      "hindR_shin",
+      "hindR_foot"
+    ],
+    "clips": 24,
+    "vertices_before": 24327,
+    "vertices_after": 24327,
+    "geometry_changes": {},
+    "material_changes": {
+      "old_art_preserved": true,
+      "normal_maps_restrained": 1
+    },
+    "status": "retained_geometry_minor_material_adjustment",
+    "cinematic_quality_approved": false,
+    "engine_tested": false,
+    "iphone_tested": false,
+    "remaining": [
+      "Individual anatomical sculpting and final art review",
+      "All-frame weight/contact/clipping polish",
+      "Runtime integration"
+    ],
+    "fbx_action_names": [
+      {
+        "source": "Buried_Ambush",
+        "export": "Buried_Ambush"
+      },
+      {
+        "source": "Death",
+        "export": "Death"
+      },
+      {
+        "source": "Dodge_Left",
+        "export": "Dodge_Left"
+      },
+      {
+        "source": "Dodge_Right",
+        "export": "Dodge_Right"
+      },
+      {
+        "source": "Dust_Wingbeat",
+        "export": "Dust_Wingbeat"
+      },
+      {
+        "source": "Flight_Glide",
+        "export": "Flight_Glide"
+      },
+      {
+        "source": "Flight_Hover",
+        "export": "Flight_Hover"
+      },
+      {
+        "source": "Flight_Landing",
+        "export": "Flight_Landing"
+      },
+      {
+        "source": "Flight_Takeoff",
+        "export": "Flight_Takeoff"
+      },
+      {
+        "source": "Hit_Back",
+        "export": "Hit_Back"
+      },
+      {
+        "source": "Hit_Front",
+        "export": "Hit_Front"
+      },
+      {
+        "source": "Hooked_Talon_Drag",
+        "export": "Hooked_Talon_Drag"
+      },
+      {
+        "source": "Idle_Breathe",
+        "export": "Idle_Breathe"
+      },
+      {
+        "source": "Locomotion_Run",
+        "export": "Locomotion_Run"
+      },
+      {
+        "source": "Locomotion_Walk",
+        "export": "Locomotion_Walk"
+      },
+      {
+        "source": "Mirage_Sidestep",
+        "export": "Mirage_Sidestep"
+      },
+      {
+        "source": "Raking_Wing_Dive",
+        "export": "Raking_Wing_Dive"
+      },
+      {
+        "source": "Sand_Tail_Fan",
+        "export": "Sand_Tail_Fan"
+      },
+      {
+        "source": "Sandblast_Exhale",
+        "export": "Sandblast_Exhale"
+      },
+      {
+        "source": "Snapping_Retreat",
+        "export": "Snapping_Retreat"
+      },
+      {
+        "source": "Stagger",
+        "export": "Stagger"
+      },
+      {
+        "source": "Threat_Roar",
+        "export": "Threat_Roar"
+      },
+      {
+        "source": "Turn_Left",
+        "export": "Turn_Left"
+      },
+      {
+        "source": "Turn_Right",
+        "export": "Turn_Right"
+      }
+    ],
+    "animation_upgrade_this_checkpoint": false,
+    "visual_target_met": false
+  },
+  {
+    "asset": "Frost_Antler",
+    "category": "dragons",
+    "original_source": "Nocturne_V4_Visual_Revision/dragons/Frost_Antler/Frost_Antler.blend",
+    "added_to_60_pack": false,
+    "canonical_glb": "models/dragons/Frost_Antler/Frost_Antler.glb",
+    "canonical_fbx": "models/dragons/Frost_Antler/Frost_Antler.fbx",
+    "editable_source": "models/dragons/Frost_Antler/Frost_Antler.blend",
+    "bones": [
+      "root",
+      "pelvis",
+      "chest",
+      "neck1",
+      "neck2",
+      "head",
+      "jaw",
+      "frontL",
+      "frontL_shin",
+      "frontL_foot",
+      "wingL",
+      "wingL_fore",
+      "frontR",
+      "frontR_shin",
+      "frontR_foot",
+      "wingR",
+      "wingR_fore",
+      "tail0",
+      "tail1",
+      "tail2",
+      "tail3",
+      "tail4",
+      "tail5",
+      "hindL",
+      "hindL_shin",
+      "hindL_foot",
+      "hindR",
+      "hindR_shin",
+      "hindR_foot"
+    ],
+    "clips": 24,
+    "vertices_before": 25166,
+    "vertices_after": 25166,
+    "geometry_changes": {},
+    "material_changes": {
+      "old_art_preserved": true,
+      "normal_maps_restrained": 1
+    },
+    "status": "retained_geometry_minor_material_adjustment",
+    "cinematic_quality_approved": false,
+    "engine_tested": false,
+    "iphone_tested": false,
+    "remaining": [
+      "Individual anatomical sculpting and final art review",
+      "All-frame weight/contact/clipping polish",
+      "Runtime integration"
+    ],
+    "fbx_action_names": [
+      {
+        "source": "Antler_Rake",
+        "export": "Antler_Rake"
+      },
+      {
+        "source": "Death",
+        "export": "Death"
+      },
+      {
+        "source": "Dodge_Left",
+        "export": "Dodge_Left"
+      },
+      {
+        "source": "Dodge_Right",
+        "export": "Dodge_Right"
+      },
+      {
+        "source": "Double_Horn_Thrust",
+        "export": "Double_Horn_Thrust"
+      },
+      {
+        "source": "Flight_Glide",
+        "export": "Flight_Glide"
+      },
+      {
+        "source": "Flight_Hover",
+        "export": "Flight_Hover"
+      },
+      {
+        "source": "Flight_Landing",
+        "export": "Flight_Landing"
+      },
+      {
+        "source": "Flight_Takeoff",
+        "export": "Flight_Takeoff"
+      },
+      {
+        "source": "Freezing_Stomp",
+        "export": "Freezing_Stomp"
+      },
+      {
+        "source": "Frost_Exhale",
+        "export": "Frost_Exhale"
+      },
+      {
+        "source": "Glacial_Dive",
+        "export": "Glacial_Dive"
+      },
+      {
+        "source": "Hit_Back",
+        "export": "Hit_Back"
+      },
+      {
+        "source": "Hit_Front",
+        "export": "Hit_Front"
+      },
+      {
+        "source": "Horn_Lift",
+        "export": "Horn_Lift"
+      },
+      {
+        "source": "Idle_Breathe",
+        "export": "Idle_Breathe"
+      },
+      {
+        "source": "Locomotion_Run",
+        "export": "Locomotion_Run"
+      },
+      {
+        "source": "Locomotion_Walk",
+        "export": "Locomotion_Walk"
+      },
+      {
+        "source": "Sidestep_Bite",
+        "export": "Sidestep_Bite"
+      },
+      {
+        "source": "Stagger",
+        "export": "Stagger"
+      },
+      {
+        "source": "Tail_Crush",
+        "export": "Tail_Crush"
+      },
+      {
+        "source": "Threat_Roar",
+        "export": "Threat_Roar"
+      },
+      {
+        "source": "Turn_Left",
+        "export": "Turn_Left"
+      },
+      {
+        "source": "Turn_Right",
+        "export": "Turn_Right"
+      }
+    ],
+    "animation_upgrade_this_checkpoint": false,
+    "visual_target_met": false
+  },
+  {
+    "asset": "Iron_Seraph",
+    "category": "dragons",
+    "original_source": "Nocturne_V4_Visual_Revision/dragons/Iron_Seraph/Iron_Seraph.blend",
+    "added_to_60_pack": false,
+    "canonical_glb": "models/dragons/Iron_Seraph/Iron_Seraph.glb",
+    "canonical_fbx": "models/dragons/Iron_Seraph/Iron_Seraph.fbx",
+    "editable_source": "models/dragons/Iron_Seraph/Iron_Seraph.blend",
+    "bones": [
+      "root",
+      "pelvis",
+      "chest",
+      "neck1",
+      "neck2",
+      "head",
+      "jaw",
+      "frontL",
+      "frontL_shin",
+      "frontL_foot",
+      "wingL",
+      "wingL_fore",
+      "frontR",
+      "frontR_shin",
+      "frontR_foot",
+      "wingR",
+      "wingR_fore",
+      "tail0",
+      "tail1",
+      "tail2",
+      "tail3",
+      "tail4",
+      "tail5",
+      "hindL",
+      "hindL_shin",
+      "hindL_foot",
+      "hindR",
+      "hindR_shin",
+      "hindR_foot"
+    ],
+    "clips": 24,
+    "vertices_before": 25724,
+    "vertices_after": 25724,
+    "geometry_changes": {},
+    "material_changes": {
+      "old_art_preserved": true,
+      "normal_maps_restrained": 1
+    },
+    "status": "retained_geometry_minor_material_adjustment",
+    "cinematic_quality_approved": false,
+    "engine_tested": false,
+    "iphone_tested": false,
+    "remaining": [
+      "Individual anatomical sculpting and final art review",
+      "All-frame weight/contact/clipping polish",
+      "Runtime integration"
+    ],
+    "fbx_action_names": [
+      {
+        "source": "Armoured_Shoulder_Charge",
+        "export": "Armoured_Shoulder_Charge"
+      },
+      {
+        "source": "Blade_Tail_Spear",
+        "export": "Blade_Tail_Spear"
+      },
+      {
+        "source": "Death",
+        "export": "Death"
+      },
+      {
+        "source": "Dodge_Left",
+        "export": "Dodge_Left"
+      },
+      {
+        "source": "Dodge_Right",
+        "export": "Dodge_Right"
+      },
+      {
+        "source": "Flight_Glide",
+        "export": "Flight_Glide"
+      },
+      {
+        "source": "Flight_Hover",
+        "export": "Flight_Hover"
+      },
+      {
+        "source": "Flight_Landing",
+        "export": "Flight_Landing"
+      },
+      {
+        "source": "Flight_Takeoff",
+        "export": "Flight_Takeoff"
+      },
+      {
+        "source": "Hit_Back",
+        "export": "Hit_Back"
+      },
+      {
+        "source": "Hit_Front",
+        "export": "Hit_Front"
+      },
+      {
+        "source": "Idle_Breathe",
+        "export": "Idle_Breathe"
+      },
+      {
+        "source": "Iron_Wing_Scissor",
+        "export": "Iron_Wing_Scissor"
+      },
+      {
+        "source": "Landing_Wing_Sweep",
+        "export": "Landing_Wing_Sweep"
+      },
+      {
+        "source": "Locomotion_Run",
+        "export": "Locomotion_Run"
+      },
+      {
+        "source": "Locomotion_Walk",
+        "export": "Locomotion_Walk"
+      },
+      {
+        "source": "Mechanical_Dive",
+        "export": "Mechanical_Dive"
+      },
+      {
+        "source": "Quill_Volley",
+        "export": "Quill_Volley"
+      },
+      {
+        "source": "Stagger",
+        "export": "Stagger"
+      },
+      {
+        "source": "Steel_Jaw_Clamp",
+        "export": "Steel_Jaw_Clamp"
+      },
+      {
+        "source": "Threat_Roar",
+        "export": "Threat_Roar"
+      },
+      {
+        "source": "Turn_Left",
+        "export": "Turn_Left"
+      },
+      {
+        "source": "Turn_Right",
+        "export": "Turn_Right"
+      },
+      {
+        "source": "Wing_Guard_Reversal",
+        "export": "Wing_Guard_Reversal"
+      }
+    ],
+    "animation_upgrade_this_checkpoint": false,
+    "visual_target_met": false
+  },
+  {
+    "asset": "Basilisk_Crownless",
+    "category": "dragons",
+    "original_source": "Nocturne_Expansion_60/dragons/Basilisk_Crownless/Basilisk_Crownless.blend",
+    "added_to_60_pack": true,
+    "canonical_glb": "models/dragons/Basilisk_Crownless/Basilisk_Crownless.glb",
+    "canonical_fbx": "models/dragons/Basilisk_Crownless/Basilisk_Crownless.fbx",
+    "editable_source": "models/dragons/Basilisk_Crownless/Basilisk_Crownless.blend",
+    "bones": [
+      "root",
+      "pelvis",
+      "chest",
+      "neck1",
+      "neck2",
+      "head",
+      "jaw",
+      "leg0",
+      "leg0_shin",
+      "leg0_foot",
+      "leg1",
+      "leg1_shin",
+      "leg1_foot",
+      "leg2",
+      "leg2_shin",
+      "leg2_foot",
+      "leg3",
+      "leg3_shin",
+      "leg3_foot",
+      "leg4",
+      "leg4_shin",
+      "leg4_foot",
+      "leg5",
+      "leg5_shin",
+      "leg5_foot",
+      "leg6",
+      "leg6_shin",
+      "leg6_foot",
+      "leg7",
+      "leg7_shin",
+      "leg7_foot",
+      "tail0",
+      "tail1",
+      "tail2"
+    ],
+    "clips": 22,
+    "vertices_before": 10177,
+    "vertices_after": 29047,
+    "geometry_changes": {
+      "flesh_fused": true,
+      "voxel_size_m": 0.025,
+      "weight_transfer": "Inverse-square blend of three nearby source skin weights; detailed extremities retained",
+      "topology": "Voxel triangles/quads, not manually retopologized cinematic topology"
+    },
+    "material_changes": {
+      "new_surface": "Local-space vertex colour variation exported as COLOR_0; neutral metal/paint/rubber/skin/eye separation",
+      "stretched_texture_removed": true,
+      "export_texture_dependency": "Two small original micro-normal tiles embedded in GLB and packed in Blender; old texture sources preserved in base pack",
+      "UV_method": "Tiling object-space box projection with smaller facial/limb scale; not unique painted UVs",
+      "vertex_colour_attribute": "SurfaceDetail"
+    },
+    "status": "rejected_insufficient_visible_improvement",
+    "cinematic_quality_approved": false,
+    "engine_tested": false,
+    "iphone_tested": false,
+    "remaining": [
+      "Individual anatomical sculpting and final art review",
+      "All-frame weight/contact/clipping polish",
+      "Runtime integration"
+    ],
+    "fbx_action_names": [
+      {
+        "source": "Basilisk_Crownless__Advance_RootMotion",
+        "export": "Advance_RootMotion"
+      },
+      {
+        "source": "Basilisk_Crownless__Attack_Charge_RootMotion",
+        "export": "Attack_Charge_RootMotion"
+      },
+      {
+        "source": "Basilisk_Crownless__Attack_Primary",
+        "export": "Attack_Primary"
+      },
+      {
+        "source": "Basilisk_Crownless__Attack_Special",
+        "export": "Attack_Special"
+      },
+      {
+        "source": "Basilisk_Crownless__Attack_Sweep",
+        "export": "Attack_Sweep"
+      },
+      {
+        "source": "Basilisk_Crownless__Death",
+        "export": "Death"
+      },
+      {
+        "source": "Basilisk_Crownless__Defensive_Brace",
+        "export": "Defensive_Brace"
+      },
+      {
+        "source": "Basilisk_Crownless__GetUp",
+        "export": "GetUp"
+      },
+      {
+        "source": "Basilisk_Crownless__Idle_Breath",
+        "export": "Idle_Breath"
+      },
+      {
+        "source": "Basilisk_Crownless__Knockdown",
+        "export": "Knockdown"
+      },
+      {
+        "source": "Basilisk_Crownless__Patrol_Scan",
+        "export": "Patrol_Scan"
+      },
+      {
+        "source": "Basilisk_Crownless__React_Back",
+        "export": "React_Back"
+      },
+      {
+        "source": "Basilisk_Crownless__React_Front",
+        "export": "React_Front"
+      },
+      {
+        "source": "Basilisk_Crownless__React_Left",
+        "export": "React_Left"
+      },
+      {
+        "source": "Basilisk_Crownless__React_Right",
+        "export": "React_Right"
+      },
+      {
+        "source": "Basilisk_Crownless__Run_InPlace",
+        "export": "Run_InPlace"
+      },
+      {
+        "source": "Basilisk_Crownless__Stagger",
+        "export": "Stagger"
+      },
+      {
+        "source": "Basilisk_Crownless__Start_Forward",
+        "export": "Start_Forward"
+      },
+      {
+        "source": "Basilisk_Crownless__Stop_Forward",
+        "export": "Stop_Forward"
+      },
+      {
+        "source": "Basilisk_Crownless__Turn_Left90_RootMotion",
+        "export": "Turn_Left90_RootMotion"
+      },
+      {
+        "source": "Basilisk_Crownless__Turn_Right90_RootMotion",
+        "export": "Turn_Right90_RootMotion"
+      },
+      {
+        "source": "Basilisk_Crownless__Walk_InPlace",
+        "export": "Walk_InPlace"
+      }
+    ],
+    "animation_upgrade_this_checkpoint": false,
+    "visual_target_met": false
+  },
+  {
+    "asset": "Iron_Executioner",
+    "category": "bosses",
+    "original_source": "Nocturne_Expansion_60/bosses/Iron_Executioner/Iron_Executioner.blend",
+    "added_to_60_pack": true,
+    "canonical_glb": "models/bosses/Iron_Executioner/Iron_Executioner.glb",
+    "canonical_fbx": "models/bosses/Iron_Executioner/Iron_Executioner.fbx",
+    "editable_source": "models/bosses/Iron_Executioner/Iron_Executioner.blend",
+    "bones": [
+      "root",
+      "pelvis",
+      "chest",
+      "neck1",
+      "neck2",
+      "head",
+      "jaw",
+      "hind-1",
+      "hind-1_shin",
+      "hind-1_foot",
+      "hind1",
+      "hind1_shin",
+      "hind1_foot",
+      "arm-1",
+      "arm-1_fore",
+      "arm-1_hand",
+      "arm-1_finger0",
+      "arm-1_finger1",
+      "arm-1_finger2",
+      "arm-1_finger3",
+      "arm1",
+      "arm1_fore",
+      "arm1_hand",
+      "arm1_finger0",
+      "arm1_finger1",
+      "arm1_finger2",
+      "arm1_finger3"
+    ],
+    "clips": 22,
+    "vertices_before": 10843,
+    "vertices_after": 11385,
+    "geometry_changes": {
+      "new_parts": 62,
+      "head_rebuilt": true,
+      "geometry_change": "Tapered open armour shells, machined motor housings, rigid segment actuators and cable runs on existing articulated bones."
+    },
+    "material_changes": {
+      "new_surface": "Local-space vertex colour variation exported as COLOR_0; neutral metal/paint/rubber/skin/eye separation",
+      "stretched_texture_removed": true,
+      "export_texture_dependency": "Two small original micro-normal tiles embedded in GLB and packed in Blender; old texture sources preserved in base pack",
+      "UV_method": "Tiling object-space box projection with smaller facial/limb scale; not unique painted UVs",
+      "vertex_colour_attribute": "SurfaceDetail"
+    },
+    "status": "candidate_not_promoted",
+    "cinematic_quality_approved": false,
+    "engine_tested": false,
+    "iphone_tested": false,
+    "remaining": [
+      "Individual anatomical sculpting and final art review",
+      "All-frame weight/contact/clipping polish",
+      "Runtime integration"
+    ],
+    "fbx_action_names": [
+      {
+        "source": "Iron_Executioner__Advance_RootMotion",
+        "export": "Advance_RootMotion"
+      },
+      {
+        "source": "Iron_Executioner__Attack_Charge_RootMotion",
+        "export": "Attack_Charge_RootMotion"
+      },
+      {
+        "source": "Iron_Executioner__Attack_Primary",
+        "export": "Attack_Primary"
+      },
+      {
+        "source": "Iron_Executioner__Attack_Special",
+        "export": "Attack_Special"
+      },
+      {
+        "source": "Iron_Executioner__Attack_Sweep",
+        "export": "Attack_Sweep"
+      },
+      {
+        "source": "Iron_Executioner__Death",
+        "export": "Death"
+      },
+      {
+        "source": "Iron_Executioner__Defensive_Brace",
+        "export": "Defensive_Brace"
+      },
+      {
+        "source": "Iron_Executioner__GetUp",
+        "export": "GetUp"
+      },
+      {
+        "source": "Iron_Executioner__Idle_Breath",
+        "export": "Idle_Breath"
+      },
+      {
+        "source": "Iron_Executioner__Knockdown",
+        "export": "Knockdown"
+      },
+      {
+        "source": "Iron_Executioner__Patrol_Scan",
+        "export": "Patrol_Scan"
+      },
+      {
+        "source": "Iron_Executioner__React_Back",
+        "export": "React_Back"
+      },
+      {
+        "source": "Iron_Executioner__React_Front",
+        "export": "React_Front"
+      },
+      {
+        "source": "Iron_Executioner__React_Left",
+        "export": "React_Left"
+      },
+      {
+        "source": "Iron_Executioner__React_Right",
+        "export": "React_Right"
+      },
+      {
+        "source": "Iron_Executioner__Run_InPlace",
+        "export": "Run_InPlace"
+      },
+      {
+        "source": "Iron_Executioner__Stagger",
+        "export": "Stagger"
+      },
+      {
+        "source": "Iron_Executioner__Start_Forward",
+        "export": "Start_Forward"
+      },
+      {
+        "source": "Iron_Executioner__Stop_Forward",
+        "export": "Stop_Forward"
+      },
+      {
+        "source": "Iron_Executioner__Turn_Left90_RootMotion",
+        "export": "Turn_Left90_RootMotion"
+      },
+      {
+        "source": "Iron_Executioner__Turn_Right90_RootMotion",
+        "export": "Turn_Right90_RootMotion"
+      },
+      {
+        "source": "Iron_Executioner__Walk_InPlace",
+        "export": "Walk_InPlace"
+      }
+    ],
+    "animation_upgrade_this_checkpoint": false,
+    "visual_target_met": false
+  }
+]

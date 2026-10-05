@@ -1,0 +1,5 @@
+Godot 4 presentation template, not an integrated or runtime-tested game.
+Copy into a Godot project. Import the repaired GLB, assign its scene to actor_scene on Presentation, set focus_height and camera_distance for that creature, and choose an exact AnimationPlayer clip name. The animation selector uses delivered names rather than guessing attacks.
+Compatibility renderer, three local lights with only one casting shadows, ordinary environment fog, camera push-in. No volumetric fog, SSAO, expensive DOF, motion blur or claimed iPhone performance. Renderer support and GPU cost still need target-device measurement.
+Flipbook shader: assign a delivered atlas and its manifest grid/fps/frame count. Update age_seconds yourself and orient the effect quad to camera; particles, lights, decals, audio timing and damage gameplay still require integration. Use straight-alpha blend_mix instead of blend_add for smoke.
+Offline Blender scenes are separate editable presentation assets. They can render on CPU; render time depends on the machine. Better lighting does not establish cinematic model anatomy or motion quality.

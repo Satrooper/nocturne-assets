@@ -1,0 +1,152 @@
+{
+  "asset": "Iron_Executioner",
+  "category": "bosses",
+  "original_source": "Nocturne_Expansion_60/bosses/Iron_Executioner/Iron_Executioner.blend",
+  "added_to_60_pack": true,
+  "canonical_glb": "models/bosses/Iron_Executioner/Iron_Executioner.glb",
+  "canonical_fbx": "models/bosses/Iron_Executioner/Iron_Executioner.fbx",
+  "editable_source": "models/bosses/Iron_Executioner/Iron_Executioner.blend",
+  "bones": [
+    "root",
+    "pelvis",
+    "chest",
+    "neck1",
+    "neck2",
+    "head",
+    "jaw",
+    "hind-1",
+    "hind-1_shin",
+    "hind-1_foot",
+    "hind1",
+    "hind1_shin",
+    "hind1_foot",
+    "arm-1",
+    "arm-1_fore",
+    "arm-1_hand",
+    "arm-1_finger0",
+    "arm-1_finger1",
+    "arm-1_finger2",
+    "arm-1_finger3",
+    "arm1",
+    "arm1_fore",
+    "arm1_hand",
+    "arm1_finger0",
+    "arm1_finger1",
+    "arm1_finger2",
+    "arm1_finger3"
+  ],
+  "clips": 22,
+  "vertices_before": 10843,
+  "vertices_after": 11385,
+  "geometry_changes": {
+    "new_parts": 62,
+    "head_rebuilt": true,
+    "geometry_change": "Tapered open armour shells, machined motor housings, rigid segment actuators and cable runs on existing articulated bones."
+  },
+  "material_changes": {
+    "new_surface": "Local-space vertex colour variation exported as COLOR_0; neutral metal/paint/rubber/skin/eye separation",
+    "stretched_texture_removed": true,
+    "export_texture_dependency": "Two small original micro-normal tiles embedded in GLB and packed in Blender; old texture sources preserved in base pack",
+    "UV_method": "Tiling object-space box projection with smaller facial/limb scale; not unique painted UVs",
+    "vertex_colour_attribute": "SurfaceDetail"
+  },
+  "status": "candidate_repair_requires_visual_deformation_review",
+  "cinematic_quality_approved": false,
+  "engine_tested": false,
+  "iphone_tested": false,
+  "remaining": [
+    "Individual anatomical sculpting and final art review",
+    "All-frame weight/contact/clipping polish",
+    "Runtime integration"
+  ],
+  "fbx_action_names": [
+    {
+      "source": "Iron_Executioner__Advance_RootMotion",
+      "export": "Advance_RootMotion"
+    },
+    {
+      "source": "Iron_Executioner__Attack_Charge_RootMotion",
+      "export": "Attack_Charge_RootMotion"
+    },
+    {
+      "source": "Iron_Executioner__Attack_Primary",
+      "export": "Attack_Primary"
+    },
+    {
+      "source": "Iron_Executioner__Attack_Special",
+      "export": "Attack_Special"
+    },
+    {
+      "source": "Iron_Executioner__Attack_Sweep",
+      "export": "Attack_Sweep"
+    },
+    {
+      "source": "Iron_Executioner__Death",
+      "export": "Death"
+    },
+    {
+      "source": "Iron_Executioner__Defensive_Brace",
+      "export": "Defensive_Brace"
+    },
+    {
+      "source": "Iron_Executioner__GetUp",
+      "export": "GetUp"
+    },
+    {
+      "source": "Iron_Executioner__Idle_Breath",
+      "export": "Idle_Breath"
+    },
+    {
+      "source": "Iron_Executioner__Knockdown",
+      "export": "Knockdown"
+    },
+    {
+      "source": "Iron_Executioner__Patrol_Scan",
+      "export": "Patrol_Scan"
+    },
+    {
+      "source": "Iron_Executioner__React_Back",
+      "export": "React_Back"
+    },
+    {
+      "source": "Iron_Executioner__React_Front",
+      "export": "React_Front"
+    },
+    {
+      "source": "Iron_Executioner__React_Left",
+      "export": "React_Left"
+    },
+    {
+      "source": "Iron_Executioner__React_Right",
+      "export": "React_Right"
+    },
+    {
+      "source": "Iron_Executioner__Run_InPlace",
+      "export": "Run_InPlace"
+    },
+    {
+      "source": "Iron_Executioner__Stagger",
+      "export": "Stagger"
+    },
+    {
+      "source": "Iron_Executioner__Start_Forward",
+      "export": "Start_Forward"
+    },
+    {
+      "source": "Iron_Executioner__Stop_Forward",
+      "export": "Stop_Forward"
+    },
+    {
+      "source": "Iron_Executioner__Turn_Left90_RootMotion",
+      "export": "Turn_Left90_RootMotion"
+    },
+    {
+      "source": "Iron_Executioner__Turn_Right90_RootMotion",
+      "export": "Turn_Right90_RootMotion"
+    },
+    {
+      "source": "Iron_Executioner__Walk_InPlace",
+      "export": "Walk_InPlace"
+    }
+  ]
+}

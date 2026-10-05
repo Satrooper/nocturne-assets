@@ -1,0 +1,102 @@
+{
+  "title": "Nocturne Expanded 60 delivery validation",
+  "cinematic_scope_complete": false,
+  "quantity_expansion_complete": true,
+  "components": [
+    {
+      "filename": "Nocturne_60_Base_Original30.zip",
+      "bytes": 504372151,
+      "sha256": "72982d9bcd1abfbb899c7ca57c6f59e24d3f09e70dd7565631d76214d41beb94",
+      "entries_crc_passed": 1205,
+      "normal_unzip_extraction_passed": true
+    },
+    {
+      "filename": "Nocturne_Expansion_Textures_A.zip",
+      "bytes": 361246939,
+      "sha256": "dd0a495f388f34093a96d4e0671301f34d08b4953f02538359bf099abc3c7900",
+      "entries_crc_passed": 60,
+      "normal_unzip_extraction_passed": true
+    },
+    {
+      "filename": "Nocturne_Expansion_Textures_B.zip",
+      "bytes": 361420400,
+      "sha256": "9f802243439e36df38cdc490fd4c1da6ab6516c37a40dc1267f6b40acc9ee6eb",
+      "entries_crc_passed": 60,
+      "normal_unzip_extraction_passed": true
+    },
+    {
+      "filename": "Nocturne_Expansion_Media_Checkpoint.zip",
+      "bytes": 11603722,
+      "sha256": "0336b70bc0be08768dc748937846763bc0d344cef85e34c5435f4b18d82e27dc",
+      "entries_crc_passed": 91,
+      "normal_unzip_extraction_passed": true
+    },
+    {
+      "filename": "Nocturne_60_New_Models_Part01.zip",
+      "bytes": 385262581,
+      "sha256": "b218e6a4c88681009497a15afbb34d18c1f99853a9c7deeab4b5327f53e8ffd8",
+      "entries_crc_passed": 28,
+      "normal_unzip_extraction_passed": true
+    },
+    {
+      "filename": "Nocturne_60_New_Models_Part02.zip",
+      "bytes": 392425742,
+      "sha256": "35a17544f31f34aac2454ba0f8690def865659caafd48e3a915631995e6ff17f",
+      "entries_crc_passed": 28,
+      "normal_unzip_extraction_passed": true
+    },
+    {
+      "filename": "Nocturne_60_New_Models_Part03.zip",
+      "bytes": 383263415,
+      "sha256": "7adb44006e9cf3adeebdb27da5342c5212d4a5fa43c2c1323d6015d41a05856b",
+      "entries_crc_passed": 28,
+      "normal_unzip_extraction_passed": true
+    },
+    {
+      "filename": "Nocturne_60_New_Models_Part04.zip",
+      "bytes": 387351398,
+      "sha256": "301a5a7456f7a888cdd10e3f2ff3c15d444a715a95df3b21efcb9f64efd56255",
+      "entries_crc_passed": 28,
+      "normal_unzip_extraction_passed": true
+    },
+    {
+      "filename": "Nocturne_60_New_Models_Part05.zip",
+      "bytes": 202521730,
+      "sha256": "34a359803dd0394154731cb225bf3a1e0a00b38bad05a5f1596cf53ad079194e",
+      "entries_crc_passed": 56,
+      "normal_unzip_extraction_passed": true
+    },
+    {
+      "filename": "Nocturne_60_Catalogue_Previews_Validation.zip",
+      "bytes": 38197445,
+      "sha256": "6fcab8b7db607229e8954a9e74c948cfb7643de6fc1f84c27520392ec00ceec9",
+      "entries_crc_passed": 600,
+      "normal_unzip_extraction_passed": true
+    }
+  ],
+  "total_download_bytes": 3027665523,
+  "archive_entries_crc_passed": 2184,
+  "normal_combined_extraction_passed": true,
+  "extracted_latest_file_sha256_passed": 2176,
+  "counts": {
+    "creatures": 60,
+    "dragons": 20,
+    "bosses": 20,
+    "smaller_enemies": 20,
+    "weapons": 6,
+    "sounds": 140,
+    "effect_atlases": 24,
+    "creature_clip_instances": 1320,
+    "player_body_and_handling_clip_instances": 128,
+    "weapon_mechanism_clip_instances": 8,
+    "logical_clip_instances": 1456,
+    "new_texture_sets": 30,
+    "new_texture_maps": 120,
+    "optional_legacy_variants": 7
+  },
+  "structural": "Final FBX/GLB reimports, root-axis checks, 42 source opens, image decode and media checks included in Expansion/audit",
+  "visual": "Actual model previews included. Cinematic quality and all-frame contact/clipping not approved; original near-duplicate families remain flagged.",
+  "engine_tested": false,
+  "iphone_tested": false,
+  "packaging": "10 ordinary component ZIPs, one shared extraction folder. Extract in listed order; catalogue/source update last. Optional assembly script builds one consolidated local ZIP."
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "asset": "Cinder_Crown",
+    "delivered_model": "models/dragons/Cinder_Crown/Cinder_Crown.glb",
+    "scene": "cinematics/Cinder_Crown/Presentation.blend",
+    "render": "cinematics/Cinder_Crown/Cinematic.jpg",
+    "animation": "Idle_Breathe_Rig",
+    "presentation": "Actual GLB reimport, three lights, perspective lens, mild DOF and glow, editable camera push-in",
+    "rendering": "Blender Cycles CPU offline; not a GPU/mobile benchmark",
+    "cinematic_asset_quality_approved": false
+  },
+  {
+    "asset": "Iron_Executioner",
+    "delivered_model": "models/bosses/Iron_Executioner/Iron_Executioner.glb",
+    "scene": "cinematics/Iron_Executioner/Presentation.blend",
+    "render": "cinematics/Iron_Executioner/Cinematic.jpg",
+    "animation": "Idle_Breath_Iron_Executioner_Rig",
+    "presentation": "Actual GLB reimport, three lights, perspective lens, mild DOF and glow, editable camera push-in",
+    "rendering": "Blender Cycles CPU offline; not a GPU/mobile benchmark",
+    "cinematic_asset_quality_approved": false
+  }
+]

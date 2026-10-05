@@ -1,0 +1,57 @@
+{
+  "source": "models/bosses/Iron_Executioner/Iron_Executioner.glb",
+  "animation": "Walk_InPlace_Iron_Executioner_Rig",
+  "fps": 30,
+  "duration_s": 1.6,
+  "frames": [
+    {
+      "frame": 1,
+      "image": "previews/Iron_Executioner/Motion_00.jpg"
+    },
+    {
+      "frame": 5,
+      "image": "previews/Iron_Executioner/Motion_01.jpg"
+    },
+    {
+      "frame": 9,
+      "image": "previews/Iron_Executioner/Motion_02.jpg"
+    },
+    {
+      "frame": 13,
+      "image": "previews/Iron_Executioner/Motion_03.jpg"
+    },
+    {
+      "frame": 17,
+      "image": "previews/Iron_Executioner/Motion_04.jpg"
+    },
+    {
+      "frame": 21,
+      "image": "previews/Iron_Executioner/Motion_05.jpg"
+    },
+    {
+      "frame": 25,
+      "image": "previews/Iron_Executioner/Motion_06.jpg"
+    },
+    {
+      "frame": 29,
+      "image": "previews/Iron_Executioner/Motion_07.jpg"
+    },
+    {
+      "frame": 33,
+      "image": "previews/Iron_Executioner/Motion_08.jpg"
+    },
+    {
+      "frame": 37,
+      "image": "previews/Iron_Executioner/Motion_09.jpg"
+    },
+    {
+      "frame": 41,
+      "image": "previews/Iron_Executioner/Motion_10.jpg"
+    },
+    {
+      "frame": 45,
+      "image": "previews/Iron_Executioner/Motion_11.jpg"
+    }
+  ],
+  "contact_clipping_approved": false
+}

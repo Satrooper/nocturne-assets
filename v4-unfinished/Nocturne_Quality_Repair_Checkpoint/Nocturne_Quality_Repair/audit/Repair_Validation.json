@@ -1,0 +1,233 @@
+[
+  {
+    "asset": "Cinder_Crown",
+    "before_glb": "Nocturne_V4_Visual_Revision/dragons/Cinder_Crown/Cinder_Crown.glb",
+    "after_glb": "models/dragons/Cinder_Crown/Cinder_Crown.glb",
+    "neutral_lighting_and_framing_identical": true,
+    "formats": {
+      "glb": {
+        "reimport_passed": true,
+        "bones": 39,
+        "clips": 27,
+        "bone_names_match": true
+      },
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 39,
+        "clips": 27,
+        "bone_names_match": true
+      }
+    },
+    "cinematic_quality_approved": false,
+    "visual_review": "Previous geometry retained; presentation/material restraint only",
+    "engine_tested": false,
+    "Before_clips": 27,
+    "After_clips": 27,
+    "sampled_deformation": {
+      "clips": 27,
+      "frames_per_clip": 3,
+      "finite": true,
+      "clipping_contact_approved": false
+    },
+    "before_glb_sha256": "5482b86fe1edf36245377034278a1f1fb7e8fa6f62e4d27543ff63bb4ca9f2d5",
+    "after_glb_sha256": "e94979c2628db2f79b2ad7d2236a31bef28c493f18ce35348abf2de92e22ec70"
+  },
+  {
+    "asset": "Crimson_Vesper",
+    "before_glb": "Nocturne_V4_Visual_Revision/dragons/Crimson_Vesper/Crimson_Vesper.glb",
+    "after_glb": "models/dragons/Crimson_Vesper/Crimson_Vesper.glb",
+    "neutral_lighting_and_framing_identical": true,
+    "formats": {
+      "glb": {
+        "reimport_passed": true,
+        "bones": 23,
+        "clips": 24,
+        "bone_names_match": true
+      },
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 23,
+        "clips": 24,
+        "bone_names_match": true
+      }
+    },
+    "cinematic_quality_approved": false,
+    "visual_review": "Previous geometry retained; presentation/material restraint only",
+    "engine_tested": false,
+    "Before_clips": 24,
+    "After_clips": 24,
+    "sampled_deformation": {
+      "clips": 24,
+      "frames_per_clip": 3,
+      "finite": true,
+      "clipping_contact_approved": false
+    },
+    "before_glb_sha256": "a43beb7fb124ebf076117c897cdc332b63a5f991fb54ddc00588f60f10949031",
+    "after_glb_sha256": "0b2387b7f1576bbba728a88593304ab1ef6e0fae8792bf9977aecb3f147767c0"
+  },
+  {
+    "asset": "Dune_Glasswing",
+    "before_glb": "Nocturne_V4_Visual_Revision/dragons/Dune_Glasswing/Dune_Glasswing.glb",
+    "after_glb": "models/dragons/Dune_Glasswing/Dune_Glasswing.glb",
+    "neutral_lighting_and_framing_identical": true,
+    "formats": {
+      "glb": {
+        "reimport_passed": true,
+        "bones": 23,
+        "clips": 24,
+        "bone_names_match": true
+      },
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 23,
+        "clips": 24,
+        "bone_names_match": true
+      }
+    },
+    "cinematic_quality_approved": false,
+    "visual_review": "Previous geometry retained; presentation/material restraint only",
+    "engine_tested": false,
+    "Before_clips": 24,
+    "After_clips": 24,
+    "sampled_deformation": {
+      "clips": 24,
+      "frames_per_clip": 3,
+      "finite": true,
+      "clipping_contact_approved": false
+    },
+    "before_glb_sha256": "ffa5cbe77f5eee6ccaf9b456c73f35ef1179e3f24ed01e920f5b670297a2acf7",
+    "after_glb_sha256": "490ee0fb13ce4a79c52a2f164aff8f6d34c11ac527f2fa102e79453650d43bdd"
+  },
+  {
+    "asset": "Frost_Antler",
+    "before_glb": "Nocturne_V4_Visual_Revision/dragons/Frost_Antler/Frost_Antler.glb",
+    "after_glb": "models/dragons/Frost_Antler/Frost_Antler.glb",
+    "neutral_lighting_and_framing_identical": true,
+    "formats": {
+      "glb": {
+        "reimport_passed": true,
+        "bones": 29,
+        "clips": 24,
+        "bone_names_match": true
+      },
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 29,
+        "clips": 24,
+        "bone_names_match": true
+      }
+    },
+    "cinematic_quality_approved": false,
+    "visual_review": "Previous geometry retained; presentation/material restraint only",
+    "engine_tested": false,
+    "Before_clips": 24,
+    "After_clips": 24,
+    "sampled_deformation": {
+      "clips": 24,
+      "frames_per_clip": 3,
+      "finite": true,
+      "clipping_contact_approved": false
+    },
+    "before_glb_sha256": "921f05d7131edeab18199e099ead7418f5afe0ebdfadccf514125bbcec442c63",
+    "after_glb_sha256": "62247abca9054bad21d41f9fe20f20b68f9a084457e62f9683cf6fc6e79d641d"
+  },
+  {
+    "asset": "Iron_Seraph",
+    "before_glb": "Nocturne_V4_Visual_Revision/dragons/Iron_Seraph/Iron_Seraph.glb",
+    "after_glb": "models/dragons/Iron_Seraph/Iron_Seraph.glb",
+    "neutral_lighting_and_framing_identical": true,
+    "formats": {
+      "glb": {
+        "reimport_passed": true,
+        "bones": 29,
+        "clips": 24,
+        "bone_names_match": true
+      },
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 29,
+        "clips": 24,
+        "bone_names_match": true
+      }
+    },
+    "cinematic_quality_approved": false,
+    "visual_review": "Previous geometry retained; presentation/material restraint only",
+    "engine_tested": false,
+    "Before_clips": 24,
+    "After_clips": 24,
+    "sampled_deformation": {
+      "clips": 24,
+      "frames_per_clip": 3,
+      "finite": true,
+      "clipping_contact_approved": false
+    },
+    "before_glb_sha256": "20c8e17ec64cf1fc912637daf755c19512026a28f0af2df9d84335bda4dee1f5",
+    "after_glb_sha256": "35a02671bd617fb695db317837210343f34fcaf652f142e800caed37611b3046"
+  },
+  {
+    "asset": "Basilisk_Crownless",
+    "before_glb": "Nocturne_Expansion_60/dragons/Basilisk_Crownless/Basilisk_Crownless.glb",
+    "after_glb": "models/dragons/Basilisk_Crownless/Basilisk_Crownless.glb",
+    "neutral_lighting_and_framing_identical": true,
+    "formats": {
+      "glb": {
+        "reimport_passed": true,
+        "bones": 34,
+        "clips": 22,
+        "bone_names_match": true
+      },
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 34,
+        "clips": 22,
+        "bone_names_match": true
+      }
+    },
+    "cinematic_quality_approved": false,
+    "visual_review": "Insufficient improvement; candidate rejected for bulk application",
+    "engine_tested": false,
+    "Before_clips": 22,
+    "After_clips": 22,
+    "sampled_deformation": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "clipping_contact_approved": false
+    },
+    "before_glb_sha256": "5b68539130da1e36236030f453c05417780bf9704e8e6b5b94be8ca04fd4d881",
+    "after_glb_sha256": "efdcc2d19dbf2a871e5975661ef5e572fd3dc5628dd6f7547eedd1dce959e2a7"
+  },
+  {
+    "asset": "Iron_Executioner",
+    "before_glb": "Nocturne_Expansion_60/bosses/Iron_Executioner/Iron_Executioner.glb",
+    "after_glb": "models/bosses/Iron_Executioner/Iron_Executioner.glb",
+    "neutral_lighting_and_framing_identical": true,
+    "formats": {
+      "glb": {
+        "reimport_passed": true,
+        "bones": 27,
+        "clips": 22,
+        "bone_names_match": true
+      },
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 27,
+        "clips": 22,
+        "bone_names_match": true
+      }
+    },
+    "cinematic_quality_approved": false,
+    "visual_review": "Head/chest geometry changed; limbs and surfaces remain prototype quality, not promoted",
+    "engine_tested": false,
+    "Before_clips": 22,
+    "After_clips": 22,
+    "sampled_deformation": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "clipping_contact_approved": false
+    },
+    "before_glb_sha256": "bb7d8db206f1b3a6a447cd0084fc7bf59ef0a066f8c29f62f0af441082a4b336",
+    "after_glb_sha256": "4a7087b5dbfc6ab883e261421f230f59330aa097e620f644aaa1b158eb73b309"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "scope_complete": false,
+  "preserved_pack": "Nocturne 60 component ZIPs listed in Nocturne_60_Downloads.json",
+  "checkpoint": "Seven candidate/retained models, matching neutral previews; Iron walk preview; two editable offline presentation scenes; scripts and untested Godot template",
+  "not_promoted": [
+    "Iron_Executioner",
+    "Basilisk_Crownless"
+  ],
+  "next_task": "Do not run the current organic fusion across the collection. It did not substantially improve the model. Rework individual anatomy and mechanical forms, preserve prior files, then inspect actual reimports before promotion. Remaining 53 characters have no new repair output in this checkpoint.",
+  "remaining": [
+    "All 60 final visual approvals",
+    "Player and creature motion/contact refinement",
+    "Audio and effects quality upgrades",
+    "Destination engine and device testing"
+  ],
+  "capability_gap": "Blender CPU mesh editing and rendering available. No connected dedicated 3D generation/sculpting service; procedural geometry alone has not met cinematic target. No destination Godot project or runtime found.",
+  "resume_steps": [
+    "Extract the previous 60-pack parts and retain their download/validation manifests.",
+    "Place preserved Nocturne_V4_Visual_Revision and Nocturne_Expansion_60 sources next to this checkpoint directory when running its current build scripts.",
+    "Read audit/Full_60_Resume_Inventory.json and audit/Repair_Progress.json. Do not mistake a saved/exported candidate for an approved upgrade.",
+    "Existing repair scripts skip completed asset names. Revisions require removing that asset from progress and validation; preserve a backup first.",
+    "Use new individual modelling approaches before further bulk operations; render matching neutral comparisons and actual motion."
+  ]
+}

@@ -1,0 +1,841 @@
+{
+  "characters": [
+    {
+      "asset": "Cinder_Crown",
+      "category": "dragons",
+      "preserved_model": "Nocturne_V4_Visual_Revision/dragons/Cinder_Crown/Cinder_Crown.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/dragons/Cinder_Crown/Cinder_Crown.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/dragons/Cinder_Crown/Cinder_Crown.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ],
+      "repair_status": "retained_geometry_minor_material_adjustment",
+      "candidate_glb": "models/dragons/Cinder_Crown/Cinder_Crown.glb",
+      "candidate_fbx": "models/dragons/Cinder_Crown/Cinder_Crown.fbx",
+      "candidate_source": "models/dragons/Cinder_Crown/Cinder_Crown.blend"
+    },
+    {
+      "asset": "Crimson_Vesper",
+      "category": "dragons",
+      "preserved_model": "Nocturne_V4_Visual_Revision/dragons/Crimson_Vesper/Crimson_Vesper.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/dragons/Crimson_Vesper/Crimson_Vesper.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/dragons/Crimson_Vesper/Crimson_Vesper.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ],
+      "repair_status": "retained_geometry_minor_material_adjustment",
+      "candidate_glb": "models/dragons/Crimson_Vesper/Crimson_Vesper.glb",
+      "candidate_fbx": "models/dragons/Crimson_Vesper/Crimson_Vesper.fbx",
+      "candidate_source": "models/dragons/Crimson_Vesper/Crimson_Vesper.blend"
+    },
+    {
+      "asset": "Dune_Glasswing",
+      "category": "dragons",
+      "preserved_model": "Nocturne_V4_Visual_Revision/dragons/Dune_Glasswing/Dune_Glasswing.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/dragons/Dune_Glasswing/Dune_Glasswing.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/dragons/Dune_Glasswing/Dune_Glasswing.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ],
+      "repair_status": "retained_geometry_minor_material_adjustment",
+      "candidate_glb": "models/dragons/Dune_Glasswing/Dune_Glasswing.glb",
+      "candidate_fbx": "models/dragons/Dune_Glasswing/Dune_Glasswing.fbx",
+      "candidate_source": "models/dragons/Dune_Glasswing/Dune_Glasswing.blend"
+    },
+    {
+      "asset": "Frost_Antler",
+      "category": "dragons",
+      "preserved_model": "Nocturne_V4_Visual_Revision/dragons/Frost_Antler/Frost_Antler.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/dragons/Frost_Antler/Frost_Antler.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/dragons/Frost_Antler/Frost_Antler.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ],
+      "repair_status": "retained_geometry_minor_material_adjustment",
+      "candidate_glb": "models/dragons/Frost_Antler/Frost_Antler.glb",
+      "candidate_fbx": "models/dragons/Frost_Antler/Frost_Antler.fbx",
+      "candidate_source": "models/dragons/Frost_Antler/Frost_Antler.blend"
+    },
+    {
+      "asset": "Iron_Seraph",
+      "category": "dragons",
+      "preserved_model": "Nocturne_V4_Visual_Revision/dragons/Iron_Seraph/Iron_Seraph.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/dragons/Iron_Seraph/Iron_Seraph.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/dragons/Iron_Seraph/Iron_Seraph.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ],
+      "repair_status": "retained_geometry_minor_material_adjustment",
+      "candidate_glb": "models/dragons/Iron_Seraph/Iron_Seraph.glb",
+      "candidate_fbx": "models/dragons/Iron_Seraph/Iron_Seraph.fbx",
+      "candidate_source": "models/dragons/Iron_Seraph/Iron_Seraph.blend"
+    },
+    {
+      "asset": "Moonveil",
+      "category": "dragons",
+      "preserved_model": "Nocturne_V4_Visual_Revision/dragons/Moonveil/Moonveil.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/dragons/Moonveil/Moonveil.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/dragons/Moonveil/Moonveil.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Obsidian_Bastion",
+      "category": "dragons",
+      "preserved_model": "Nocturne_V4_Visual_Revision/dragons/Obsidian_Bastion/Obsidian_Bastion.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/dragons/Obsidian_Bastion/Obsidian_Bastion.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/dragons/Obsidian_Bastion/Obsidian_Bastion.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Storm_Wyvern",
+      "category": "dragons",
+      "preserved_model": "Nocturne_V4_Visual_Revision/dragons/Storm_Wyvern/Storm_Wyvern.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/dragons/Storm_Wyvern/Storm_Wyvern.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/dragons/Storm_Wyvern/Storm_Wyvern.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Sunken_Leviathan",
+      "category": "dragons",
+      "preserved_model": "Nocturne_V4_Visual_Revision/dragons/Sunken_Leviathan/Sunken_Leviathan.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/dragons/Sunken_Leviathan/Sunken_Leviathan.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/dragons/Sunken_Leviathan/Sunken_Leviathan.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Thornback",
+      "category": "dragons",
+      "preserved_model": "Nocturne_V4_Visual_Revision/dragons/Thornback/Thornback.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/dragons/Thornback/Thornback.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/dragons/Thornback/Thornback.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Abyss_Maw",
+      "category": "bosses",
+      "preserved_model": "Nocturne_V4_Visual_Revision/bosses/Abyss_Maw/Abyss_Maw.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/bosses/Abyss_Maw/Abyss_Maw.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/bosses/Abyss_Maw/Abyss_Maw.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Cathedral_Bellwarden",
+      "category": "bosses",
+      "preserved_model": "Nocturne_V4_Visual_Revision/bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Crypt_Arachnarch",
+      "category": "bosses",
+      "preserved_model": "Nocturne_V4_Visual_Revision/bosses/Crypt_Arachnarch/Crypt_Arachnarch.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/bosses/Crypt_Arachnarch/Crypt_Arachnarch.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/bosses/Crypt_Arachnarch/Crypt_Arachnarch.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Furnace_Titan",
+      "category": "bosses",
+      "preserved_model": "Nocturne_V4_Visual_Revision/bosses/Furnace_Titan/Furnace_Titan.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/bosses/Furnace_Titan/Furnace_Titan.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/bosses/Furnace_Titan/Furnace_Titan.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Horned_Regent",
+      "category": "bosses",
+      "preserved_model": "Nocturne_V4_Visual_Revision/bosses/Horned_Regent/Horned_Regent.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/bosses/Horned_Regent/Horned_Regent.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/bosses/Horned_Regent/Horned_Regent.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Hundredleg",
+      "category": "bosses",
+      "preserved_model": "Nocturne_V4_Visual_Revision/bosses/Hundredleg/Hundredleg.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/bosses/Hundredleg/Hundredleg.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/bosses/Hundredleg/Hundredleg.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Mirror_Colossus",
+      "category": "bosses",
+      "preserved_model": "Nocturne_V4_Visual_Revision/bosses/Mirror_Colossus/Mirror_Colossus.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/bosses/Mirror_Colossus/Mirror_Colossus.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/bosses/Mirror_Colossus/Mirror_Colossus.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Neon_Reaper",
+      "category": "bosses",
+      "preserved_model": "Nocturne_V4_Visual_Revision/bosses/Neon_Reaper/Neon_Reaper.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/bosses/Neon_Reaper/Neon_Reaper.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/bosses/Neon_Reaper/Neon_Reaper.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Root_Matriarch",
+      "category": "bosses",
+      "preserved_model": "Nocturne_V4_Visual_Revision/bosses/Root_Matriarch/Root_Matriarch.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/bosses/Root_Matriarch/Root_Matriarch.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/bosses/Root_Matriarch/Root_Matriarch.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Siege_Sentinel",
+      "category": "bosses",
+      "preserved_model": "Nocturne_V4_Visual_Revision/bosses/Siege_Sentinel/Siege_Sentinel.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/bosses/Siege_Sentinel/Siege_Sentinel.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/bosses/Siege_Sentinel/Siege_Sentinel.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Bamboo_Mantis",
+      "category": "enemies",
+      "preserved_model": "Nocturne_V4_Visual_Revision/enemies/Bamboo_Mantis/Bamboo_Mantis.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/enemies/Bamboo_Mantis/Bamboo_Mantis.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/enemies/Bamboo_Mantis/Bamboo_Mantis.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Cinder_Hound",
+      "category": "enemies",
+      "preserved_model": "Nocturne_V4_Visual_Revision/enemies/Cinder_Hound/Cinder_Hound.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/enemies/Cinder_Hound/Cinder_Hound.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/enemies/Cinder_Hound/Cinder_Hound.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Crimson_Imp",
+      "category": "enemies",
+      "preserved_model": "Nocturne_V4_Visual_Revision/enemies/Crimson_Imp/Crimson_Imp.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/enemies/Crimson_Imp/Crimson_Imp.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/enemies/Crimson_Imp/Crimson_Imp.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Crypt_Skitter",
+      "category": "enemies",
+      "preserved_model": "Nocturne_V4_Visual_Revision/enemies/Crypt_Skitter/Crypt_Skitter.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/enemies/Crypt_Skitter/Crypt_Skitter.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/enemies/Crypt_Skitter/Crypt_Skitter.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Moon_Bat",
+      "category": "enemies",
+      "preserved_model": "Nocturne_V4_Visual_Revision/enemies/Moon_Bat/Moon_Bat.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/enemies/Moon_Bat/Moon_Bat.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/enemies/Moon_Bat/Moon_Bat.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Neon_Wisp",
+      "category": "enemies",
+      "preserved_model": "Nocturne_V4_Visual_Revision/enemies/Neon_Wisp/Neon_Wisp.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/enemies/Neon_Wisp/Neon_Wisp.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/enemies/Neon_Wisp/Neon_Wisp.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Razorfin",
+      "category": "enemies",
+      "preserved_model": "Nocturne_V4_Visual_Revision/enemies/Razorfin/Razorfin.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/enemies/Razorfin/Razorfin.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/enemies/Razorfin/Razorfin.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Scrapling",
+      "category": "enemies",
+      "preserved_model": "Nocturne_V4_Visual_Revision/enemies/Scrapling/Scrapling.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/enemies/Scrapling/Scrapling.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/enemies/Scrapling/Scrapling.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Shard_Crab",
+      "category": "enemies",
+      "preserved_model": "Nocturne_V4_Visual_Revision/enemies/Shard_Crab/Shard_Crab.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/enemies/Shard_Crab/Shard_Crab.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/enemies/Shard_Crab/Shard_Crab.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Sporeling",
+      "category": "enemies",
+      "preserved_model": "Nocturne_V4_Visual_Revision/enemies/Sporeling/Sporeling.glb",
+      "preserved_fbx": "Nocturne_V4_Visual_Revision/enemies/Sporeling/Sporeling.fbx",
+      "preserved_source": "Nocturne_V4_Visual_Revision/enemies/Sporeling/Sporeling.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Basilisk_Crownless",
+      "category": "dragons",
+      "preserved_model": "Nocturne_Expansion_60/dragons/Basilisk_Crownless/Basilisk_Crownless.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/dragons/Basilisk_Crownless/Basilisk_Crownless.fbx",
+      "preserved_source": "Nocturne_Expansion_60/dragons/Basilisk_Crownless/Basilisk_Crownless.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ],
+      "repair_status": "rejected_insufficient_visible_improvement",
+      "candidate_glb": "models/dragons/Basilisk_Crownless/Basilisk_Crownless.glb",
+      "candidate_fbx": "models/dragons/Basilisk_Crownless/Basilisk_Crownless.fbx",
+      "candidate_source": "models/dragons/Basilisk_Crownless/Basilisk_Crownless.blend"
+    },
+    {
+      "asset": "Ossuary_Kite",
+      "category": "dragons",
+      "preserved_model": "Nocturne_Expansion_60/dragons/Ossuary_Kite/Ossuary_Kite.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/dragons/Ossuary_Kite/Ossuary_Kite.fbx",
+      "preserved_source": "Nocturne_Expansion_60/dragons/Ossuary_Kite/Ossuary_Kite.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Sable_Corkscrew",
+      "category": "dragons",
+      "preserved_model": "Nocturne_Expansion_60/dragons/Sable_Corkscrew/Sable_Corkscrew.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/dragons/Sable_Corkscrew/Sable_Corkscrew.fbx",
+      "preserved_source": "Nocturne_Expansion_60/dragons/Sable_Corkscrew/Sable_Corkscrew.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Marrow_Hammerhead",
+      "category": "dragons",
+      "preserved_model": "Nocturne_Expansion_60/dragons/Marrow_Hammerhead/Marrow_Hammerhead.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/dragons/Marrow_Hammerhead/Marrow_Hammerhead.fbx",
+      "preserved_source": "Nocturne_Expansion_60/dragons/Marrow_Hammerhead/Marrow_Hammerhead.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Gale_Triptych",
+      "category": "dragons",
+      "preserved_model": "Nocturne_Expansion_60/dragons/Gale_Triptych/Gale_Triptych.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/dragons/Gale_Triptych/Gale_Triptych.fbx",
+      "preserved_source": "Nocturne_Expansion_60/dragons/Gale_Triptych/Gale_Triptych.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Ashen_Tortoise",
+      "category": "dragons",
+      "preserved_model": "Nocturne_Expansion_60/dragons/Ashen_Tortoise/Ashen_Tortoise.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/dragons/Ashen_Tortoise/Ashen_Tortoise.fbx",
+      "preserved_source": "Nocturne_Expansion_60/dragons/Ashen_Tortoise/Ashen_Tortoise.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Crescent_Manta",
+      "category": "dragons",
+      "preserved_model": "Nocturne_Expansion_60/dragons/Crescent_Manta/Crescent_Manta.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/dragons/Crescent_Manta/Crescent_Manta.fbx",
+      "preserved_source": "Nocturne_Expansion_60/dragons/Crescent_Manta/Crescent_Manta.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Ivory_Ramwyrm",
+      "category": "dragons",
+      "preserved_model": "Nocturne_Expansion_60/dragons/Ivory_Ramwyrm/Ivory_Ramwyrm.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/dragons/Ivory_Ramwyrm/Ivory_Ramwyrm.fbx",
+      "preserved_source": "Nocturne_Expansion_60/dragons/Ivory_Ramwyrm/Ivory_Ramwyrm.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Glass_Needle",
+      "category": "dragons",
+      "preserved_model": "Nocturne_Expansion_60/dragons/Glass_Needle/Glass_Needle.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/dragons/Glass_Needle/Glass_Needle.fbx",
+      "preserved_source": "Nocturne_Expansion_60/dragons/Glass_Needle/Glass_Needle.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Brine_Sawback",
+      "category": "dragons",
+      "preserved_model": "Nocturne_Expansion_60/dragons/Brine_Sawback/Brine_Sawback.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/dragons/Brine_Sawback/Brine_Sawback.fbx",
+      "preserved_source": "Nocturne_Expansion_60/dragons/Brine_Sawback/Brine_Sawback.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Harbour_Dredger",
+      "category": "bosses",
+      "preserved_model": "Nocturne_Expansion_60/bosses/Harbour_Dredger/Harbour_Dredger.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/bosses/Harbour_Dredger/Harbour_Dredger.fbx",
+      "preserved_source": "Nocturne_Expansion_60/bosses/Harbour_Dredger/Harbour_Dredger.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Vector_Widow",
+      "category": "bosses",
+      "preserved_model": "Nocturne_Expansion_60/bosses/Vector_Widow/Vector_Widow.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/bosses/Vector_Widow/Vector_Widow.fbx",
+      "preserved_source": "Nocturne_Expansion_60/bosses/Vector_Widow/Vector_Widow.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Pendulum_Judge",
+      "category": "bosses",
+      "preserved_model": "Nocturne_Expansion_60/bosses/Pendulum_Judge/Pendulum_Judge.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/bosses/Pendulum_Judge/Pendulum_Judge.fbx",
+      "preserved_source": "Nocturne_Expansion_60/bosses/Pendulum_Judge/Pendulum_Judge.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Gorgon_Priest",
+      "category": "bosses",
+      "preserved_model": "Nocturne_Expansion_60/bosses/Gorgon_Priest/Gorgon_Priest.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/bosses/Gorgon_Priest/Gorgon_Priest.fbx",
+      "preserved_source": "Nocturne_Expansion_60/bosses/Gorgon_Priest/Gorgon_Priest.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Carrion_Choir",
+      "category": "bosses",
+      "preserved_model": "Nocturne_Expansion_60/bosses/Carrion_Choir/Carrion_Choir.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/bosses/Carrion_Choir/Carrion_Choir.fbx",
+      "preserved_source": "Nocturne_Expansion_60/bosses/Carrion_Choir/Carrion_Choir.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Molten_Ram",
+      "category": "bosses",
+      "preserved_model": "Nocturne_Expansion_60/bosses/Molten_Ram/Molten_Ram.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/bosses/Molten_Ram/Molten_Ram.fbx",
+      "preserved_source": "Nocturne_Expansion_60/bosses/Molten_Ram/Molten_Ram.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Tidal_Censer",
+      "category": "bosses",
+      "preserved_model": "Nocturne_Expansion_60/bosses/Tidal_Censer/Tidal_Censer.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/bosses/Tidal_Censer/Tidal_Censer.fbx",
+      "preserved_source": "Nocturne_Expansion_60/bosses/Tidal_Censer/Tidal_Censer.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Gravetusk",
+      "category": "bosses",
+      "preserved_model": "Nocturne_Expansion_60/bosses/Gravetusk/Gravetusk.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/bosses/Gravetusk/Gravetusk.fbx",
+      "preserved_source": "Nocturne_Expansion_60/bosses/Gravetusk/Gravetusk.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Rift_Oracle",
+      "category": "bosses",
+      "preserved_model": "Nocturne_Expansion_60/bosses/Rift_Oracle/Rift_Oracle.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/bosses/Rift_Oracle/Rift_Oracle.fbx",
+      "preserved_source": "Nocturne_Expansion_60/bosses/Rift_Oracle/Rift_Oracle.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Iron_Executioner",
+      "category": "bosses",
+      "preserved_model": "Nocturne_Expansion_60/bosses/Iron_Executioner/Iron_Executioner.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/bosses/Iron_Executioner/Iron_Executioner.fbx",
+      "preserved_source": "Nocturne_Expansion_60/bosses/Iron_Executioner/Iron_Executioner.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ],
+      "repair_status": "candidate_not_promoted",
+      "candidate_glb": "models/bosses/Iron_Executioner/Iron_Executioner.glb",
+      "candidate_fbx": "models/bosses/Iron_Executioner/Iron_Executioner.fbx",
+      "candidate_source": "models/bosses/Iron_Executioner/Iron_Executioner.blend"
+    },
+    {
+      "asset": "Latch_Leech",
+      "category": "enemies",
+      "preserved_model": "Nocturne_Expansion_60/enemies/Latch_Leech/Latch_Leech.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/enemies/Latch_Leech/Latch_Leech.fbx",
+      "preserved_source": "Nocturne_Expansion_60/enemies/Latch_Leech/Latch_Leech.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Needle_Tick",
+      "category": "enemies",
+      "preserved_model": "Nocturne_Expansion_60/enemies/Needle_Tick/Needle_Tick.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/enemies/Needle_Tick/Needle_Tick.fbx",
+      "preserved_source": "Nocturne_Expansion_60/enemies/Needle_Tick/Needle_Tick.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Rag_Pilgrim",
+      "category": "enemies",
+      "preserved_model": "Nocturne_Expansion_60/enemies/Rag_Pilgrim/Rag_Pilgrim.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/enemies/Rag_Pilgrim/Rag_Pilgrim.fbx",
+      "preserved_source": "Nocturne_Expansion_60/enemies/Rag_Pilgrim/Rag_Pilgrim.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Cable_Eel",
+      "category": "enemies",
+      "preserved_model": "Nocturne_Expansion_60/enemies/Cable_Eel/Cable_Eel.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/enemies/Cable_Eel/Cable_Eel.fbx",
+      "preserved_source": "Nocturne_Expansion_60/enemies/Cable_Eel/Cable_Eel.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Pollen_Moth",
+      "category": "enemies",
+      "preserved_model": "Nocturne_Expansion_60/enemies/Pollen_Moth/Pollen_Moth.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/enemies/Pollen_Moth/Pollen_Moth.fbx",
+      "preserved_source": "Nocturne_Expansion_60/enemies/Pollen_Moth/Pollen_Moth.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Bone_Grazer",
+      "category": "enemies",
+      "preserved_model": "Nocturne_Expansion_60/enemies/Bone_Grazer/Bone_Grazer.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/enemies/Bone_Grazer/Bone_Grazer.fbx",
+      "preserved_source": "Nocturne_Expansion_60/enemies/Bone_Grazer/Bone_Grazer.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Ratchet_Rook",
+      "category": "enemies",
+      "preserved_model": "Nocturne_Expansion_60/enemies/Ratchet_Rook/Ratchet_Rook.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/enemies/Ratchet_Rook/Ratchet_Rook.fbx",
+      "preserved_source": "Nocturne_Expansion_60/enemies/Ratchet_Rook/Ratchet_Rook.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Quarry_Slug",
+      "category": "enemies",
+      "preserved_model": "Nocturne_Expansion_60/enemies/Quarry_Slug/Quarry_Slug.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/enemies/Quarry_Slug/Quarry_Slug.fbx",
+      "preserved_source": "Nocturne_Expansion_60/enemies/Quarry_Slug/Quarry_Slug.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Lantern_Toad",
+      "category": "enemies",
+      "preserved_model": "Nocturne_Expansion_60/enemies/Lantern_Toad/Lantern_Toad.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/enemies/Lantern_Toad/Lantern_Toad.fbx",
+      "preserved_source": "Nocturne_Expansion_60/enemies/Lantern_Toad/Lantern_Toad.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    },
+    {
+      "asset": "Reef_Anemone",
+      "category": "enemies",
+      "preserved_model": "Nocturne_Expansion_60/enemies/Reef_Anemone/Reef_Anemone.glb",
+      "preserved_fbx": "Nocturne_Expansion_60/enemies/Reef_Anemone/Reef_Anemone.fbx",
+      "preserved_source": "Nocturne_Expansion_60/enemies/Reef_Anemone/Reef_Anemone.blend",
+      "status": "unfinished_quality_upgrade_previous_asset_retained",
+      "remaining": [
+        "Individual anatomy/mechanical reconstruction and material detail",
+        "Animation contact, clipping and choreography review",
+        "Final visual approval and engine playback"
+      ]
+    }
+  ],
+  "character_count": 60,
+  "cinematic_quality_completed": 0,
+  "scope_complete": false,
+  "requirements": [
+    {
+      "requirement": "Player weapon-handling quality polish",
+      "status": "unfinished; previous files preserved in base 60 pack"
+    },
+    {
+      "requirement": "Creature animation quality polish",
+      "status": "unfinished; previous files preserved in base 60 pack"
+    },
+    {
+      "requirement": "Sound realism",
+      "status": "unfinished; previous files preserved in base 60 pack"
+    },
+    {
+      "requirement": "Effect realism",
+      "status": "unfinished; previous files preserved in base 60 pack"
+    },
+    {
+      "requirement": "Paired alignment and clip-specific validated contact windows",
+      "status": "unfinished; previous files preserved in base 60 pack"
+    },
+    {
+      "requirement": "Engine and device testing",
+      "status": "unfinished; previous files preserved in base 60 pack"
+    }
+  ]
+}
