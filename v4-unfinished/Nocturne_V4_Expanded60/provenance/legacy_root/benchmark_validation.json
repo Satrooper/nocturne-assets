@@ -1,0 +1,1146 @@
+[
+  {
+    "asset": "Siege_Sentinel",
+    "structural": {
+      "fbx": {
+        "rigs": 1,
+        "meshes": 1,
+        "clips": 21,
+        "names_match": true,
+        "finite_vertices": true,
+        "max_weight_sum_error": 1.7881393432617188e-07,
+        "passed": true
+      },
+      "glb": {
+        "rigs": 1,
+        "meshes": 1,
+        "clips": 21,
+        "names_match": true,
+        "finite_vertices": true,
+        "max_weight_sum_error": 2.9802322387695312e-08,
+        "passed": true
+      }
+    },
+    "kinematic": {
+      "clips": [
+        {
+          "clip": "Idle_Breathe",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Walk_InPlace",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 2.189913098086503e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 2.059366354386397e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Walk_RootMotion",
+          "moving": true,
+          "root_delta_error_m": 4.436019551690151e-08,
+          "loop_pose_error_m": 2.1092612919629928e-06,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 2.2027061596557205e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 2.070000319480336e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Run_InPlace",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0003729639804363084,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.00021574606803545038,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Run_RootMotion",
+          "moving": true,
+          "root_delta_error_m": 5.545024706066215e-08,
+          "loop_pose_error_m": 2.7251147116096368e-06,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0003732010787577633,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.00021598565697678602,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Turn_Left",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.00033736907123178855,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.000383611150278973,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Turn_Right",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.00029312823929508275,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.00033548532555634545,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Hit_Front",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Hit_Back",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Hit_Left",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Hit_Right",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Stagger",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0016246542313071754,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0016248254020013752,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Death_RootMotion",
+          "moving": true,
+          "root_delta_error_m": 3.491311773018424e-08,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Threat_Scan",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Piston_Punch_Left",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Piston_Punch_Right",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Hydraulic_Backhand",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Cannon_Burst",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Ground_Slam",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Charge_RootMotion",
+          "moving": true,
+          "root_delta_error_m": 8.214851021648428e-08,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0003473505064248201,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.000347793623230061,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Brace",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0002269367010286413,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.00022691139133541112,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        }
+      ],
+      "all_moving": true,
+      "all_root_delta_passed": true,
+      "all_loop_pose_passed": true
+    },
+    "engine_tested": false,
+    "structural_passed": true
+  },
+  {
+    "asset": "Cinder_Crown",
+    "structural": {
+      "fbx": {
+        "rigs": 1,
+        "meshes": 1,
+        "clips": 27,
+        "names_match": true,
+        "finite_vertices": true,
+        "max_weight_sum_error": 6.705522537231445e-08,
+        "passed": true
+      },
+      "glb": {
+        "rigs": 1,
+        "meshes": 1,
+        "clips": 27,
+        "names_match": true,
+        "finite_vertices": true,
+        "max_weight_sum_error": 1.043081283569336e-07,
+        "passed": true
+      }
+    },
+    "kinematic": {
+      "clips": [
+        {
+          "clip": "Idle_Breathe",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0.0036875159198378475,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0.0036873340480279414,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Walk_InPlace",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0173376884656259,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0008387076820979272,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 1.1624586766283603e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 1.4725725272900692e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Walk_RootMotion",
+          "moving": true,
+          "root_delta_error_m": 3.6966831373774767e-08,
+          "loop_pose_error_m": 1.4404321032963951e-06,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0173379807310586,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0008384266398325402,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 1.207740723460595e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 1.4828983979458464e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Run_InPlace",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0011178888882995568,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 3.175172770700882e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 5.711459385199958e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 4.2945187924038875e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Run_RootMotion",
+          "moving": true,
+          "root_delta_error_m": 1.2979575928307082e-07,
+          "loop_pose_error_m": 1.5169148351803784e-06,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0011180415008518424,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 3.1916130640417515e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 5.699544363920768e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 4.274763718793742e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Turn_Left",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0006189769570046967,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.00033049543102357023,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0.013686400439583772,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0.000182844871934865,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Turn_Right",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0004987865007532977,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0002943182784303463,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0.013690739893393755,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0.00020144346272390077,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Hit_Front",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0.0003697426349125015,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0.00036952342630785205,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Hit_Back",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0.00039324584376335467,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0.00039354533077130924,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Hit_Left",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0.00230930628368259,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0.0002627690014509613,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Hit_Right",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0.00026276401241578034,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0.0023091433147699515,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Stagger",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0003534784950842453,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0003536096778772643,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0.0004944845875784954,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0.0004944799929540927,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Death_RootMotion",
+          "moving": true,
+          "root_delta_error_m": 2.3275411820122827e-08,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Threat_Roar",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Bite_Lunge_RootMotion",
+          "moving": true,
+          "root_delta_error_m": 1.8825700109914578e-08,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0003328279172841701,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0002065656044530074,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 8.588588780734445e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0.00012636038491464947,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Bite_InPlace",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 1.0191697102401063e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 1.0158876889473351e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Claw_Swipe_Left",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 3.801421444284781e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Claw_Swipe_Right",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 3.853798679596226e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Tail_Sweep",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 4.083005180267031e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 4.010865593481854e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 3.158005732015828e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 3.13129244459446e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Breath_Exhale",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0.00011946711375450781,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0.00011943838338660258,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Wing_Slam",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0.0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Flight_Takeoff_RootMotion",
+          "moving": true,
+          "root_delta_error_m": 3.3779966131401794e-07,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0.0003773687319348949,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0.0003774370651371423,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0.00015003631646422937,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0.00015002129137057843,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Flight_Hover_InPlace",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Flight_Glide_InPlace",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Flight_Landing_RootMotion",
+          "moving": true,
+          "root_delta_error_m": 2.599523253532246e-07,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 3.6612780752495297e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 3.6508513950523704e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 5.029819804879604e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 5.021910634331493e-05,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Swim_Cruise_InPlace",
+          "moving": true,
+          "root_delta_error_m": 0.0,
+          "loop_pose_error_m": 0,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        },
+        {
+          "clip": "Swim_Cruise_RootMotion",
+          "moving": true,
+          "root_delta_error_m": 7.530280043965831e-08,
+          "loop_pose_error_m": 1.73577075881056e-06,
+          "contacts": {
+            "hindL": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "hindR": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontL": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            },
+            "frontR": {
+              "max_stance_anchor_drift_m": 0,
+              "note": "bone endpoint measurement; not sole mesh/engine collision"
+            }
+          },
+          "loop_pose_passed": true,
+          "root_delta_passed": true
+        }
+      ],
+      "all_moving": true,
+      "all_root_delta_passed": true,
+      "all_loop_pose_passed": true
+    },
+    "engine_tested": false,
+    "structural_passed": true
+  }
+]

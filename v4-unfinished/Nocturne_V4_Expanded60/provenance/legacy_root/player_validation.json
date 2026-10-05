@@ -1,0 +1,764 @@
+[
+  {
+    "format": "fbx",
+    "rigs": 1,
+    "skinned_meshes": 0,
+    "clips": 46,
+    "names_match": true,
+    "all_root_delta_passed": true,
+    "all_loop_passed": true,
+    "all_moving": true,
+    "clips_review": [
+      {
+        "clip": "Pistol_Fire",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Pistol_Fire_Aimed",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Pistol_Reload_Tactical",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Pistol_Reload_Empty",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Forward_RootMotion",
+        "root_delta_error_m": 1.7881393432617188e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Forward_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Backward_RootMotion",
+        "root_delta_error_m": 1.3113020765393352e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Backward_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Left_RootMotion",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Left_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Right_RootMotion",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Right_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Backstep_RootMotion",
+        "root_delta_error_m": 1.0449698611548041e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Parry_Left",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Parry_Right",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Riposte_RootMotion",
+        "root_delta_error_m": 7.390976049332347e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Riposte_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Light_Combo_1_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Light_Combo_1_RootMotion",
+        "root_delta_error_m": 2.6226041611530202e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Light_Combo_2_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Light_Combo_2_RootMotion",
+        "root_delta_error_m": 2.6226041611530202e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Light_Combo_3_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Light_Combo_3_RootMotion",
+        "root_delta_error_m": 5.2248493057740205e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Heavy_Combo_1_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Heavy_Combo_1_RootMotion",
+        "root_delta_error_m": 4.05311553689436e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Heavy_Combo_2_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Heavy_Combo_2_RootMotion",
+        "root_delta_error_m": 4.05311553689436e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Weapon_Switch_Pistol_To_Sword",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Weapon_Switch_Sword_To_Pistol",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Hit_Front",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Hit_Back",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Hit_Left",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Hit_Right",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Knockdown_Back_RootMotion",
+        "root_delta_error_m": 5.960464477539063e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "GetUp_From_Back",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Idle_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": 0.0,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Tread_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": 0.0,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Crawl_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": 0.0,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Burst_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": 0.0,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Crawl_RootMotion",
+        "root_delta_error_m": 1.4305115030310843e-07,
+        "loop_joint_position_error_m": 7.275674114068569e-07,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Burst_RootMotion",
+        "root_delta_error_m": 2.3841856489070736e-07,
+        "loop_joint_position_error_m": 1.1980385328675377e-06,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Dive_RootMotion",
+        "root_delta_error_m": 8.429369702178807e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Paired_Backstab_Attacker",
+        "root_delta_error_m": 2.8610227396086353e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Paired_Backstab_Victim",
+        "root_delta_error_m": 5.960464477539063e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Paired_Frontal_Execution_Attacker",
+        "root_delta_error_m": 2.8610227396086353e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Paired_Frontal_Execution_Victim",
+        "root_delta_error_m": 1.1920928955078125e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      }
+    ],
+    "engine_tested": false
+  },
+  {
+    "format": "glb",
+    "rigs": 1,
+    "skinned_meshes": 2,
+    "clips": 46,
+    "names_match": true,
+    "all_root_delta_passed": true,
+    "all_loop_passed": true,
+    "all_moving": true,
+    "clips_review": [
+      {
+        "clip": "Pistol_Fire",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Pistol_Fire_Aimed",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Pistol_Reload_Tactical",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Pistol_Reload_Empty",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Forward_RootMotion",
+        "root_delta_error_m": 3.9488362023273533e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Forward_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Backward_RootMotion",
+        "root_delta_error_m": 2.5980583061268e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Backward_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Left_RootMotion",
+        "root_delta_error_m": 1.7881393432617188e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Left_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Right_RootMotion",
+        "root_delta_error_m": 1.7881393432617188e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Dodge_Right_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Backstep_RootMotion",
+        "root_delta_error_m": 1.924606711133477e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Parry_Left",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Parry_Right",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Riposte_RootMotion",
+        "root_delta_error_m": 1.431140491117894e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Riposte_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Light_Combo_1_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Light_Combo_1_RootMotion",
+        "root_delta_error_m": 4.851363889442934e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Light_Combo_2_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Light_Combo_2_RootMotion",
+        "root_delta_error_m": 4.851363889442934e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Light_Combo_3_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Light_Combo_3_RootMotion",
+        "root_delta_error_m": 9.623033555667384e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Heavy_Combo_1_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Heavy_Combo_1_RootMotion",
+        "root_delta_error_m": 9.297160217459874e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Heavy_Combo_2_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Sword_Heavy_Combo_2_RootMotion",
+        "root_delta_error_m": 9.297160217459874e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Weapon_Switch_Pistol_To_Sword",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Weapon_Switch_Sword_To_Pistol",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Hit_Front",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Hit_Back",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Hit_Left",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Hit_Right",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Knockdown_Back_RootMotion",
+        "root_delta_error_m": 1.999200562387517e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "GetUp_From_Back",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Idle_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": 0.0,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Tread_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": 0.0,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Crawl_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": 0.0,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Burst_InPlace",
+        "root_delta_error_m": 0.0,
+        "loop_joint_position_error_m": 0.0,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Crawl_RootMotion",
+        "root_delta_error_m": 2.5182808395011027e-07,
+        "loop_joint_position_error_m": 7.202056630608185e-07,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Burst_RootMotion",
+        "root_delta_error_m": 4.363143916026485e-07,
+        "loop_joint_position_error_m": 2.2722194334431762e-06,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Swim_Dive_RootMotion",
+        "root_delta_error_m": 2.457562461863554e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Paired_Backstab_Attacker",
+        "root_delta_error_m": 5.2523706289590394e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Paired_Backstab_Victim",
+        "root_delta_error_m": 1.1920928955078125e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Paired_Frontal_Execution_Attacker",
+        "root_delta_error_m": 5.2523706289590394e-08,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      },
+      {
+        "clip": "Paired_Frontal_Execution_Victim",
+        "root_delta_error_m": 2.457562461863554e-07,
+        "loop_joint_position_error_m": null,
+        "moving": true,
+        "root_delta_passed": true,
+        "loop_passed": true
+      }
+    ],
+    "engine_tested": false
+  }
+]

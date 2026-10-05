@@ -1,0 +1,42 @@
+[
+  {
+    "file": "bosses/Siege_Sentinel/Siege_Sentinel_LOD1.fbx",
+    "rigs": 1,
+    "meshes": 1,
+    "triangles": 18487,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.7881393432617188e-07,
+    "missing_external_textures": [],
+    "passed": true
+  },
+  {
+    "file": "bosses/Siege_Sentinel/Siege_Sentinel_LOD2.fbx",
+    "rigs": 1,
+    "meshes": 1,
+    "triangles": 9411,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.1920928955078125e-07,
+    "missing_external_textures": [],
+    "passed": true
+  },
+  {
+    "file": "dragons/Cinder_Crown/Cinder_Crown_LOD1.fbx",
+    "rigs": 1,
+    "meshes": 1,
+    "triangles": 27437,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.4901161193847656e-07,
+    "missing_external_textures": [],
+    "passed": true
+  },
+  {
+    "file": "dragons/Cinder_Crown/Cinder_Crown_LOD2.fbx",
+    "rigs": 1,
+    "meshes": 1,
+    "triangles": 13968,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.341104507446289e-07,
+    "missing_external_textures": [],
+    "passed": true
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "revision": "V4 benchmark iteration",
+  "full_pack_quality_upgrade_complete": false,
+  "new_creature_count": 0,
+  "benchmark_assets": [
+    {
+      "name": "Cinder_Crown",
+      "triangles": 49888,
+      "bones": 39,
+      "clips": 27
+    },
+    {
+      "name": "Siege_Sentinel",
+      "triangles": 33616,
+      "bones": 52,
+      "clips": 21
+    }
+  ],
+  "player_clips": 46,
+  "clip_count_is_not_distinct_animation_type_count": true,
+  "other_28_creatures": "unchanged V3 baseline, available in repaired V3 archive; not labeled upgraded",
+  "art_quality": "still stylized procedural artwork; requested realistic/AAA target not achieved",
+  "animation_quality": "new/refined procedural FK/IK authoring, not motion capture; not final production polish",
+  "structural_validation": {
+    "tool": "Blender 4.2.9 LTS reimport",
+    "benchmarks": [
+      {
+        "name": "Siege_Sentinel",
+        "max_measured_stance_anchor_drift_m": 0.0016248254020013752,
+        "all_structural_checks_passed": true,
+        "all_loop_pose_and_root_delta_checks_passed": true
+      },
+      {
+        "name": "Cinder_Crown",
+        "max_measured_stance_anchor_drift_m": 0.0173379807310586,
+        "all_structural_checks_passed": true,
+        "all_loop_pose_and_root_delta_checks_passed": true
+      }
+    ],
+    "player_formats": [
+      {
+        "format": "fbx",
+        "clips": 46,
+        "names_match": true,
+        "all_root_delta_passed": true,
+        "all_loop_passed": true,
+        "all_moving": true
+      },
+      {
+        "format": "glb",
+        "clips": 46,
+        "names_match": true,
+        "all_root_delta_passed": true,
+        "all_loop_passed": true,
+        "all_moving": true
+      }
+    ],
+    "all_lod_imports_passed": true
+  },
+  "visual_review": {
+    "completed": true,
+    "scope": "Neutral front, side, back, three-quarter and face/sensor close-up renders from imported delivered GLBs; selected creature motion previews and player/paired pose sequences visually inspected. Not an exhaustive intersection test on every frame of every clip.",
+    "findings": [
+      "Dragon still has a simplified long skull, exposed hinge forms and stylized proportions.",
+      "Scale pattern is procedural and height-varying; not a hand-sculpted anatomical scale layout.",
+      "Sentinel now has chamfered shells, articulated fingers, visor and service components, but remains a simplified machine.",
+      "Hydraulic parts are illustrative rigged components; no mechanical linkage solver or dynamic telescoping validation.",
+      "Player clips use the existing repository mannequin and lack weapon props. Hand placement must be refined for the actual pistol/sword.",
+      "Get-up and finishers use simplified body trajectories and need natural support/contact refinement.",
+      "Wing, joint and armour intersections may remain; a complete per-frame collision audit is not done."
+    ]
+  },
+  "engine_testing": {
+    "performed": false,
+    "reason": "No destination game project or engine-specific import/runtime setup was supplied or tested. Blender reimport is not engine testing."
+  },
+  "damage_windows_validated": false,
+  "remaining_work": [
+    "Manual production sculpting, retopology and anatomical scale/detail work on benchmarks",
+    "Final material and wear art direction, including membrane veins and face refinement",
+    "Natural, weapon-specific player pose/contact polish",
+    "Full mesh-contact/clipping review and terrain-foot placement",
+    "Upgrade remaining 28 assets only after benchmark art meets requested standard",
+    "Destination-engine tests, retargeting, transitions, root extraction, paired contacts and runtime effects",
+    "Gameplay code for stamina, lock-on, invulnerability, hit detection, projectiles and boss phases"
+  ]
+}

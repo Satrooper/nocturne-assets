@@ -1,0 +1,522 @@
+{
+  "name": "Shard_Crab",
+  "category": "enemies",
+  "body_type": "crab",
+  "triangles": 30016,
+  "bones": 26,
+  "materials": 5,
+  "clips": [
+    {
+      "name": "Idle_Breathe",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Walk",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Run",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Front",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Back",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Stagger",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Death",
+      "frames": 91,
+      "fps": 30,
+      "duration": 3.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Threat_Roar",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Left_Claw_Crush",
+      "frames": 65,
+      "fps": 30,
+      "duration": 2.15,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "slam",
+          0.85,
+          [
+            0.1,
+            0.622
+          ],
+          -1
+        ],
+        [
+          "jab",
+          0.4,
+          [
+            0.388,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.473,
+          "event": "anticipation"
+        },
+        {
+          "time": 0.924,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.763,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Right_Claw_Crush",
+      "frames": 69,
+      "fps": 30,
+      "duration": 2.27,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "slam",
+          0.85,
+          [
+            0.1,
+            0.622
+          ],
+          1
+        ],
+        [
+          "shake",
+          0.44,
+          [
+            0.388,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.499,
+          "event": "anticipation"
+        },
+        {
+          "time": 0.976,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.861,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Double_Claw_Clamp",
+      "frames": 73,
+      "fps": 30,
+      "duration": 2.3899999999999997,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          0.85,
+          [
+            0.1,
+            0.622
+          ],
+          -1
+        ],
+        [
+          "slam",
+          0.48000000000000004,
+          [
+            0.388,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.526,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.028,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.96,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Shell_Brace",
+      "frames": 76,
+      "fps": 30,
+      "duration": 2.51,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "guard",
+          0.85,
+          [
+            0.1,
+            0.622
+          ],
+          1
+        ],
+        [
+          "guard",
+          0.52,
+          [
+            0.388,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.552,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.079,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.058,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Sideways_Charge",
+      "frames": 80,
+      "fps": 30,
+      "duration": 2.63,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          0.85,
+          [
+            0.1,
+            0.622
+          ],
+          -1
+        ],
+        [
+          "jab",
+          0.56,
+          [
+            0.388,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.579,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.131,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.157,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Claw_Uppercut",
+      "frames": 83,
+      "fps": 30,
+      "duration": 2.75,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "sweep",
+          0.85,
+          [
+            0.1,
+            0.622
+          ],
+          1
+        ],
+        [
+          "shake",
+          0.6000000000000001,
+          [
+            0.388,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.605,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.182,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.255,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Ground_Claw_Scrape",
+      "frames": 87,
+      "fps": 30,
+      "duration": 2.87,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          0.85,
+          [
+            0.1,
+            0.622
+          ],
+          -1
+        ],
+        [
+          "slam",
+          0.64,
+          [
+            0.388,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.631,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.234,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.353,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Shell_Slam",
+      "frames": 91,
+      "fps": 30,
+      "duration": 2.9899999999999998,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "slam",
+          0.85,
+          [
+            0.1,
+            0.622
+          ],
+          1
+        ],
+        [
+          "guard",
+          0.68,
+          [
+            0.388,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.658,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.286,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.452,
+          "event": "recovery"
+        }
+      ]
+    }
+  ],
+  "lods": [
+    {
+      "level": 1,
+      "triangles": 7914
+    },
+    {
+      "level": 2,
+      "triangles": 4028
+    }
+  ],
+  "textures": "2048px basecolor/normal/roughness; original procedural PBR",
+  "skin_weights": "interpolated along anatomical tubes; rigid detail attachments",
+  "provenance": "original procedural artwork; not extracted franchise content",
+  "quality_status": "Actual geometry/material revision; cinematic realism, complete animation refinement and all-frame collision approval remain unproven",
+  "revision": "v4_full_roster_visual_iteration",
+  "animation_revision": "v2 motion bank retained; revised art, not new mocap",
+  "geometry_changes": "shaped plates, layered surfaces, anatomical/species proportions and accessories",
+  "visual_changes": [
+    "Removed 0 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+    "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+    "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+    "Converted 520 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+  ],
+  "vertices_before": 8109,
+  "vertices_after": 15338,
+  "texture_atlas": {
+    "size": 1024,
+    "maps": [
+      "textures/Shard_Crab_Visual4_basecolor.png",
+      "textures/Shard_Crab_Visual4_roughness.png",
+      "textures/Shard_Crab_Visual4_metallic.png",
+      "textures/Shard_Crab_Visual4_normal.png"
+    ]
+  },
+  "rig_rest_transforms_preserved": true,
+  "engine_tested": false
+}

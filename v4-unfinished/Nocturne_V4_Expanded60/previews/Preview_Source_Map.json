@@ -1,0 +1,602 @@
+[
+  {
+    "asset": "Cinder_Crown",
+    "after_model": "dragons/Cinder_Crown/Cinder_Crown_Experimental.glb",
+    "after_model_sha256": "e59243aef7ad218e7f2091b28ac210bfd830927d85a47775cf4d758d981363e3",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Cinder_Crown/After_Back.jpg",
+      "previews/roster/Cinder_Crown/After_Closeup.jpg",
+      "previews/roster/Cinder_Crown/After_Front.jpg",
+      "previews/roster/Cinder_Crown/After_Side.jpg",
+      "previews/roster/Cinder_Crown/After_Threequarter.jpg",
+      "previews/roster/Cinder_Crown/Before_Back.jpg",
+      "previews/roster/Cinder_Crown/Before_Closeup.jpg",
+      "previews/roster/Cinder_Crown/Before_Front.jpg",
+      "previews/roster/Cinder_Crown/Before_Side.jpg",
+      "previews/roster/Cinder_Crown/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Cinder_Crown/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Crimson_Vesper",
+    "after_model": "dragons/Crimson_Vesper/Crimson_Vesper.glb",
+    "after_model_sha256": "a43beb7fb124ebf076117c897cdc332b63a5f991fb54ddc00588f60f10949031",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Crimson_Vesper/After_Back.jpg",
+      "previews/roster/Crimson_Vesper/After_Closeup.jpg",
+      "previews/roster/Crimson_Vesper/After_Front.jpg",
+      "previews/roster/Crimson_Vesper/After_Side.jpg",
+      "previews/roster/Crimson_Vesper/After_Threequarter.jpg",
+      "previews/roster/Crimson_Vesper/Before_Back.jpg",
+      "previews/roster/Crimson_Vesper/Before_Closeup.jpg",
+      "previews/roster/Crimson_Vesper/Before_Front.jpg",
+      "previews/roster/Crimson_Vesper/Before_Side.jpg",
+      "previews/roster/Crimson_Vesper/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Crimson_Vesper/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Dune_Glasswing",
+    "after_model": "dragons/Dune_Glasswing/Dune_Glasswing.glb",
+    "after_model_sha256": "ffa5cbe77f5eee6ccaf9b456c73f35ef1179e3f24ed01e920f5b670297a2acf7",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Dune_Glasswing/After_Back.jpg",
+      "previews/roster/Dune_Glasswing/After_Closeup.jpg",
+      "previews/roster/Dune_Glasswing/After_Front.jpg",
+      "previews/roster/Dune_Glasswing/After_Side.jpg",
+      "previews/roster/Dune_Glasswing/After_Threequarter.jpg",
+      "previews/roster/Dune_Glasswing/Before_Back.jpg",
+      "previews/roster/Dune_Glasswing/Before_Closeup.jpg",
+      "previews/roster/Dune_Glasswing/Before_Front.jpg",
+      "previews/roster/Dune_Glasswing/Before_Side.jpg",
+      "previews/roster/Dune_Glasswing/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Dune_Glasswing/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Frost_Antler",
+    "after_model": "dragons/Frost_Antler/Frost_Antler.glb",
+    "after_model_sha256": "921f05d7131edeab18199e099ead7418f5afe0ebdfadccf514125bbcec442c63",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Frost_Antler/After_Back.jpg",
+      "previews/roster/Frost_Antler/After_Closeup.jpg",
+      "previews/roster/Frost_Antler/After_Front.jpg",
+      "previews/roster/Frost_Antler/After_Side.jpg",
+      "previews/roster/Frost_Antler/After_Threequarter.jpg",
+      "previews/roster/Frost_Antler/Before_Back.jpg",
+      "previews/roster/Frost_Antler/Before_Closeup.jpg",
+      "previews/roster/Frost_Antler/Before_Front.jpg",
+      "previews/roster/Frost_Antler/Before_Side.jpg",
+      "previews/roster/Frost_Antler/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Frost_Antler/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Iron_Seraph",
+    "after_model": "dragons/Iron_Seraph/Iron_Seraph.glb",
+    "after_model_sha256": "20c8e17ec64cf1fc912637daf755c19512026a28f0af2df9d84335bda4dee1f5",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Iron_Seraph/After_Back.jpg",
+      "previews/roster/Iron_Seraph/After_Closeup.jpg",
+      "previews/roster/Iron_Seraph/After_Front.jpg",
+      "previews/roster/Iron_Seraph/After_Side.jpg",
+      "previews/roster/Iron_Seraph/After_Threequarter.jpg",
+      "previews/roster/Iron_Seraph/Before_Back.jpg",
+      "previews/roster/Iron_Seraph/Before_Closeup.jpg",
+      "previews/roster/Iron_Seraph/Before_Front.jpg",
+      "previews/roster/Iron_Seraph/Before_Side.jpg",
+      "previews/roster/Iron_Seraph/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Iron_Seraph/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Moonveil",
+    "after_model": "dragons/Moonveil/Moonveil.glb",
+    "after_model_sha256": "abcd3d868cf0786a93269fc53b5818c931104d24698e639034bc2b1769a1fa68",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Moonveil/After_Back.jpg",
+      "previews/roster/Moonveil/After_Closeup.jpg",
+      "previews/roster/Moonveil/After_Front.jpg",
+      "previews/roster/Moonveil/After_Side.jpg",
+      "previews/roster/Moonveil/After_Threequarter.jpg",
+      "previews/roster/Moonveil/Before_Back.jpg",
+      "previews/roster/Moonveil/Before_Closeup.jpg",
+      "previews/roster/Moonveil/Before_Front.jpg",
+      "previews/roster/Moonveil/Before_Side.jpg",
+      "previews/roster/Moonveil/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Moonveil/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Obsidian_Bastion",
+    "after_model": "dragons/Obsidian_Bastion/Obsidian_Bastion.glb",
+    "after_model_sha256": "4a697c341377154cf8d874871cbaf7beb1aaf7f0d390480e2ae9d48cf18447ed",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Obsidian_Bastion/After_Back.jpg",
+      "previews/roster/Obsidian_Bastion/After_Closeup.jpg",
+      "previews/roster/Obsidian_Bastion/After_Front.jpg",
+      "previews/roster/Obsidian_Bastion/After_Side.jpg",
+      "previews/roster/Obsidian_Bastion/After_Threequarter.jpg",
+      "previews/roster/Obsidian_Bastion/Before_Back.jpg",
+      "previews/roster/Obsidian_Bastion/Before_Closeup.jpg",
+      "previews/roster/Obsidian_Bastion/Before_Front.jpg",
+      "previews/roster/Obsidian_Bastion/Before_Side.jpg",
+      "previews/roster/Obsidian_Bastion/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Obsidian_Bastion/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Storm_Wyvern",
+    "after_model": "dragons/Storm_Wyvern/Storm_Wyvern.glb",
+    "after_model_sha256": "fe3eab5056aa4925bc6e2f54a3661bae1d46f9e46bfb27353c6b1ff692794c4a",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Storm_Wyvern/After_Back.jpg",
+      "previews/roster/Storm_Wyvern/After_Closeup.jpg",
+      "previews/roster/Storm_Wyvern/After_Front.jpg",
+      "previews/roster/Storm_Wyvern/After_Side.jpg",
+      "previews/roster/Storm_Wyvern/After_Threequarter.jpg",
+      "previews/roster/Storm_Wyvern/Before_Back.jpg",
+      "previews/roster/Storm_Wyvern/Before_Closeup.jpg",
+      "previews/roster/Storm_Wyvern/Before_Front.jpg",
+      "previews/roster/Storm_Wyvern/Before_Side.jpg",
+      "previews/roster/Storm_Wyvern/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Storm_Wyvern/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Sunken_Leviathan",
+    "after_model": "dragons/Sunken_Leviathan/Sunken_Leviathan.glb",
+    "after_model_sha256": "6609e1f631ecf16220e071d505fa3e091525583a16441d596e62116802d02a0b",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Sunken_Leviathan/After_Back.jpg",
+      "previews/roster/Sunken_Leviathan/After_Closeup.jpg",
+      "previews/roster/Sunken_Leviathan/After_Front.jpg",
+      "previews/roster/Sunken_Leviathan/After_Side.jpg",
+      "previews/roster/Sunken_Leviathan/After_Threequarter.jpg",
+      "previews/roster/Sunken_Leviathan/Before_Back.jpg",
+      "previews/roster/Sunken_Leviathan/Before_Closeup.jpg",
+      "previews/roster/Sunken_Leviathan/Before_Front.jpg",
+      "previews/roster/Sunken_Leviathan/Before_Side.jpg",
+      "previews/roster/Sunken_Leviathan/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Sunken_Leviathan/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Thornback",
+    "after_model": "dragons/Thornback/Thornback.glb",
+    "after_model_sha256": "932dec95059034b4f890924f6278116de4f3fc83d057e36310675769749b576c",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Thornback/After_Back.jpg",
+      "previews/roster/Thornback/After_Closeup.jpg",
+      "previews/roster/Thornback/After_Front.jpg",
+      "previews/roster/Thornback/After_Side.jpg",
+      "previews/roster/Thornback/After_Threequarter.jpg",
+      "previews/roster/Thornback/Before_Back.jpg",
+      "previews/roster/Thornback/Before_Closeup.jpg",
+      "previews/roster/Thornback/Before_Front.jpg",
+      "previews/roster/Thornback/Before_Side.jpg",
+      "previews/roster/Thornback/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Thornback/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Abyss_Maw",
+    "after_model": "bosses/Abyss_Maw/Abyss_Maw.glb",
+    "after_model_sha256": "0cd925a38da5d9ac658aab7aa0a8e82749ffb48e6691b8ae4f413c3edc93fe72",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Abyss_Maw/After_Back.jpg",
+      "previews/roster/Abyss_Maw/After_Closeup.jpg",
+      "previews/roster/Abyss_Maw/After_Front.jpg",
+      "previews/roster/Abyss_Maw/After_Side.jpg",
+      "previews/roster/Abyss_Maw/After_Threequarter.jpg",
+      "previews/roster/Abyss_Maw/Before_Back.jpg",
+      "previews/roster/Abyss_Maw/Before_Closeup.jpg",
+      "previews/roster/Abyss_Maw/Before_Front.jpg",
+      "previews/roster/Abyss_Maw/Before_Side.jpg",
+      "previews/roster/Abyss_Maw/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Abyss_Maw/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Cathedral_Bellwarden",
+    "after_model": "bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.glb",
+    "after_model_sha256": "c03899c19782ed0613c63daeb960df5f0164865e4467583269ce28df5e1f1938",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Cathedral_Bellwarden/After_Back.jpg",
+      "previews/roster/Cathedral_Bellwarden/After_Closeup.jpg",
+      "previews/roster/Cathedral_Bellwarden/After_Front.jpg",
+      "previews/roster/Cathedral_Bellwarden/After_Side.jpg",
+      "previews/roster/Cathedral_Bellwarden/After_Threequarter.jpg",
+      "previews/roster/Cathedral_Bellwarden/Before_Back.jpg",
+      "previews/roster/Cathedral_Bellwarden/Before_Closeup.jpg",
+      "previews/roster/Cathedral_Bellwarden/Before_Front.jpg",
+      "previews/roster/Cathedral_Bellwarden/Before_Side.jpg",
+      "previews/roster/Cathedral_Bellwarden/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Cathedral_Bellwarden/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Crypt_Arachnarch",
+    "after_model": "bosses/Crypt_Arachnarch/Crypt_Arachnarch.glb",
+    "after_model_sha256": "a306ffe50678ff613c31081649dcf57927bca8ddd21bad9c1e750d67cd657f12",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Crypt_Arachnarch/After_Back.jpg",
+      "previews/roster/Crypt_Arachnarch/After_Closeup.jpg",
+      "previews/roster/Crypt_Arachnarch/After_Front.jpg",
+      "previews/roster/Crypt_Arachnarch/After_Side.jpg",
+      "previews/roster/Crypt_Arachnarch/After_Threequarter.jpg",
+      "previews/roster/Crypt_Arachnarch/Before_Back.jpg",
+      "previews/roster/Crypt_Arachnarch/Before_Closeup.jpg",
+      "previews/roster/Crypt_Arachnarch/Before_Front.jpg",
+      "previews/roster/Crypt_Arachnarch/Before_Side.jpg",
+      "previews/roster/Crypt_Arachnarch/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Crypt_Arachnarch/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Furnace_Titan",
+    "after_model": "bosses/Furnace_Titan/Furnace_Titan.glb",
+    "after_model_sha256": "dfee408a050236012d9285f5dc664becb3c8e34403f5bf70bdc83e826b3c5078",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Furnace_Titan/After_Back.jpg",
+      "previews/roster/Furnace_Titan/After_Closeup.jpg",
+      "previews/roster/Furnace_Titan/After_Front.jpg",
+      "previews/roster/Furnace_Titan/After_Side.jpg",
+      "previews/roster/Furnace_Titan/After_Threequarter.jpg",
+      "previews/roster/Furnace_Titan/Before_Back.jpg",
+      "previews/roster/Furnace_Titan/Before_Closeup.jpg",
+      "previews/roster/Furnace_Titan/Before_Front.jpg",
+      "previews/roster/Furnace_Titan/Before_Side.jpg",
+      "previews/roster/Furnace_Titan/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Furnace_Titan/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Horned_Regent",
+    "after_model": "bosses/Horned_Regent/Horned_Regent.glb",
+    "after_model_sha256": "167f9c372d5ee7857259111f392c72656508d0caf532a89b6ab4504c72ee96a4",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Horned_Regent/After_Back.jpg",
+      "previews/roster/Horned_Regent/After_Closeup.jpg",
+      "previews/roster/Horned_Regent/After_Front.jpg",
+      "previews/roster/Horned_Regent/After_Side.jpg",
+      "previews/roster/Horned_Regent/After_Threequarter.jpg",
+      "previews/roster/Horned_Regent/Before_Back.jpg",
+      "previews/roster/Horned_Regent/Before_Closeup.jpg",
+      "previews/roster/Horned_Regent/Before_Front.jpg",
+      "previews/roster/Horned_Regent/Before_Side.jpg",
+      "previews/roster/Horned_Regent/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Horned_Regent/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Hundredleg",
+    "after_model": "bosses/Hundredleg/Hundredleg.glb",
+    "after_model_sha256": "78e91e3aa5b894334f1fde42d960bde4d8cb644cb5a33a7d1af076857ad44560",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Hundredleg/After_Back.jpg",
+      "previews/roster/Hundredleg/After_Closeup.jpg",
+      "previews/roster/Hundredleg/After_Front.jpg",
+      "previews/roster/Hundredleg/After_Side.jpg",
+      "previews/roster/Hundredleg/After_Threequarter.jpg",
+      "previews/roster/Hundredleg/Before_Back.jpg",
+      "previews/roster/Hundredleg/Before_Closeup.jpg",
+      "previews/roster/Hundredleg/Before_Front.jpg",
+      "previews/roster/Hundredleg/Before_Side.jpg",
+      "previews/roster/Hundredleg/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Hundredleg/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Mirror_Colossus",
+    "after_model": "bosses/Mirror_Colossus/Mirror_Colossus.glb",
+    "after_model_sha256": "de2b8a6bb3b3ab02d3dfab830bf79de51386e92c2f572d27fd9b73a0e94e8e39",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Mirror_Colossus/After_Back.jpg",
+      "previews/roster/Mirror_Colossus/After_Closeup.jpg",
+      "previews/roster/Mirror_Colossus/After_Front.jpg",
+      "previews/roster/Mirror_Colossus/After_Side.jpg",
+      "previews/roster/Mirror_Colossus/After_Threequarter.jpg",
+      "previews/roster/Mirror_Colossus/Before_Back.jpg",
+      "previews/roster/Mirror_Colossus/Before_Closeup.jpg",
+      "previews/roster/Mirror_Colossus/Before_Front.jpg",
+      "previews/roster/Mirror_Colossus/Before_Side.jpg",
+      "previews/roster/Mirror_Colossus/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Mirror_Colossus/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Neon_Reaper",
+    "after_model": "bosses/Neon_Reaper/Neon_Reaper.glb",
+    "after_model_sha256": "172c485d653e147be91f8a6e2eaa4cbc5ffeb8b19284b69583f4e182e3bf1f08",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Neon_Reaper/After_Back.jpg",
+      "previews/roster/Neon_Reaper/After_Closeup.jpg",
+      "previews/roster/Neon_Reaper/After_Front.jpg",
+      "previews/roster/Neon_Reaper/After_Side.jpg",
+      "previews/roster/Neon_Reaper/After_Threequarter.jpg",
+      "previews/roster/Neon_Reaper/Before_Back.jpg",
+      "previews/roster/Neon_Reaper/Before_Closeup.jpg",
+      "previews/roster/Neon_Reaper/Before_Front.jpg",
+      "previews/roster/Neon_Reaper/Before_Side.jpg",
+      "previews/roster/Neon_Reaper/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Neon_Reaper/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Root_Matriarch",
+    "after_model": "bosses/Root_Matriarch/Root_Matriarch.glb",
+    "after_model_sha256": "318bf05252f113c607cd39a4b9aa3d26508d9c0275bce48ed7d19e76a8f3890a",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Root_Matriarch/After_Back.jpg",
+      "previews/roster/Root_Matriarch/After_Closeup.jpg",
+      "previews/roster/Root_Matriarch/After_Front.jpg",
+      "previews/roster/Root_Matriarch/After_Side.jpg",
+      "previews/roster/Root_Matriarch/After_Threequarter.jpg",
+      "previews/roster/Root_Matriarch/Before_Back.jpg",
+      "previews/roster/Root_Matriarch/Before_Closeup.jpg",
+      "previews/roster/Root_Matriarch/Before_Front.jpg",
+      "previews/roster/Root_Matriarch/Before_Side.jpg",
+      "previews/roster/Root_Matriarch/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Root_Matriarch/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Siege_Sentinel",
+    "after_model": "bosses/Siege_Sentinel/Siege_Sentinel.glb",
+    "after_model_sha256": "2efa70c26464abf0e89a17924fe0283295e596e63175f1a4986fc17b687eb7e1",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Siege_Sentinel/After_Back.jpg",
+      "previews/roster/Siege_Sentinel/After_Closeup.jpg",
+      "previews/roster/Siege_Sentinel/After_Front.jpg",
+      "previews/roster/Siege_Sentinel/After_Side.jpg",
+      "previews/roster/Siege_Sentinel/After_Threequarter.jpg",
+      "previews/roster/Siege_Sentinel/Before_Back.jpg",
+      "previews/roster/Siege_Sentinel/Before_Closeup.jpg",
+      "previews/roster/Siege_Sentinel/Before_Front.jpg",
+      "previews/roster/Siege_Sentinel/Before_Side.jpg",
+      "previews/roster/Siege_Sentinel/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Siege_Sentinel/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Bamboo_Mantis",
+    "after_model": "enemies/Bamboo_Mantis/Bamboo_Mantis.glb",
+    "after_model_sha256": "eff176641184d1cd71335095f70c9ebf165ecaaafec49bc9097b748283e0907f",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Bamboo_Mantis/After_Back.jpg",
+      "previews/roster/Bamboo_Mantis/After_Closeup.jpg",
+      "previews/roster/Bamboo_Mantis/After_Front.jpg",
+      "previews/roster/Bamboo_Mantis/After_Side.jpg",
+      "previews/roster/Bamboo_Mantis/After_Threequarter.jpg",
+      "previews/roster/Bamboo_Mantis/Before_Back.jpg",
+      "previews/roster/Bamboo_Mantis/Before_Closeup.jpg",
+      "previews/roster/Bamboo_Mantis/Before_Front.jpg",
+      "previews/roster/Bamboo_Mantis/Before_Side.jpg",
+      "previews/roster/Bamboo_Mantis/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Bamboo_Mantis/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Cinder_Hound",
+    "after_model": "enemies/Cinder_Hound/Cinder_Hound.glb",
+    "after_model_sha256": "31cc459c4874f1a3a24e4dcbe5ae5ed13b835800fb148b5df4bea52ccb43c709",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Cinder_Hound/After_Back.jpg",
+      "previews/roster/Cinder_Hound/After_Closeup.jpg",
+      "previews/roster/Cinder_Hound/After_Front.jpg",
+      "previews/roster/Cinder_Hound/After_Side.jpg",
+      "previews/roster/Cinder_Hound/After_Threequarter.jpg",
+      "previews/roster/Cinder_Hound/Before_Back.jpg",
+      "previews/roster/Cinder_Hound/Before_Closeup.jpg",
+      "previews/roster/Cinder_Hound/Before_Front.jpg",
+      "previews/roster/Cinder_Hound/Before_Side.jpg",
+      "previews/roster/Cinder_Hound/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Cinder_Hound/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Crimson_Imp",
+    "after_model": "enemies/Crimson_Imp/Crimson_Imp.glb",
+    "after_model_sha256": "5c64b26a7b44d5159955e0048ef813450f29a48144678efec99efe34a0895b5e",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Crimson_Imp/After_Back.jpg",
+      "previews/roster/Crimson_Imp/After_Closeup.jpg",
+      "previews/roster/Crimson_Imp/After_Front.jpg",
+      "previews/roster/Crimson_Imp/After_Side.jpg",
+      "previews/roster/Crimson_Imp/After_Threequarter.jpg",
+      "previews/roster/Crimson_Imp/Before_Back.jpg",
+      "previews/roster/Crimson_Imp/Before_Closeup.jpg",
+      "previews/roster/Crimson_Imp/Before_Front.jpg",
+      "previews/roster/Crimson_Imp/Before_Side.jpg",
+      "previews/roster/Crimson_Imp/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Crimson_Imp/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Crypt_Skitter",
+    "after_model": "enemies/Crypt_Skitter/Crypt_Skitter.glb",
+    "after_model_sha256": "376f6dbbdfd316828aaff50c712623f0399817129bc81f0200b4acb990026182",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Crypt_Skitter/After_Back.jpg",
+      "previews/roster/Crypt_Skitter/After_Closeup.jpg",
+      "previews/roster/Crypt_Skitter/After_Front.jpg",
+      "previews/roster/Crypt_Skitter/After_Side.jpg",
+      "previews/roster/Crypt_Skitter/After_Threequarter.jpg",
+      "previews/roster/Crypt_Skitter/Before_Back.jpg",
+      "previews/roster/Crypt_Skitter/Before_Closeup.jpg",
+      "previews/roster/Crypt_Skitter/Before_Front.jpg",
+      "previews/roster/Crypt_Skitter/Before_Side.jpg",
+      "previews/roster/Crypt_Skitter/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Crypt_Skitter/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Moon_Bat",
+    "after_model": "enemies/Moon_Bat/Moon_Bat.glb",
+    "after_model_sha256": "c7c4e8e371ef91040c01cb0cd0151f42821c6de77770a570725edcac73c96a83",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Moon_Bat/After_Back.jpg",
+      "previews/roster/Moon_Bat/After_Closeup.jpg",
+      "previews/roster/Moon_Bat/After_Front.jpg",
+      "previews/roster/Moon_Bat/After_Side.jpg",
+      "previews/roster/Moon_Bat/After_Threequarter.jpg",
+      "previews/roster/Moon_Bat/Before_Back.jpg",
+      "previews/roster/Moon_Bat/Before_Closeup.jpg",
+      "previews/roster/Moon_Bat/Before_Front.jpg",
+      "previews/roster/Moon_Bat/Before_Side.jpg",
+      "previews/roster/Moon_Bat/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Moon_Bat/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Neon_Wisp",
+    "after_model": "enemies/Neon_Wisp/Neon_Wisp.glb",
+    "after_model_sha256": "ed2e10b0ffe37f9734b8b9ebe7538aa3071451d27f7cba5df7b6929e0cf59fdf",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Neon_Wisp/After_Back.jpg",
+      "previews/roster/Neon_Wisp/After_Closeup.jpg",
+      "previews/roster/Neon_Wisp/After_Front.jpg",
+      "previews/roster/Neon_Wisp/After_Side.jpg",
+      "previews/roster/Neon_Wisp/After_Threequarter.jpg",
+      "previews/roster/Neon_Wisp/Before_Back.jpg",
+      "previews/roster/Neon_Wisp/Before_Closeup.jpg",
+      "previews/roster/Neon_Wisp/Before_Front.jpg",
+      "previews/roster/Neon_Wisp/Before_Side.jpg",
+      "previews/roster/Neon_Wisp/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Neon_Wisp/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Razorfin",
+    "after_model": "enemies/Razorfin/Razorfin.glb",
+    "after_model_sha256": "fea1da51594e8dfb26db4aba7bdec28da53693a87b934caf1027d6d1f5bc89e3",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Razorfin/After_Back.jpg",
+      "previews/roster/Razorfin/After_Closeup.jpg",
+      "previews/roster/Razorfin/After_Front.jpg",
+      "previews/roster/Razorfin/After_Side.jpg",
+      "previews/roster/Razorfin/After_Threequarter.jpg",
+      "previews/roster/Razorfin/Before_Back.jpg",
+      "previews/roster/Razorfin/Before_Closeup.jpg",
+      "previews/roster/Razorfin/Before_Front.jpg",
+      "previews/roster/Razorfin/Before_Side.jpg",
+      "previews/roster/Razorfin/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Razorfin/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Scrapling",
+    "after_model": "enemies/Scrapling/Scrapling.glb",
+    "after_model_sha256": "2e6a0154165e1e3ddaab2af0f13b9e8ebeb046bea7777a0b4f09a3117428fddc",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Scrapling/After_Back.jpg",
+      "previews/roster/Scrapling/After_Closeup.jpg",
+      "previews/roster/Scrapling/After_Front.jpg",
+      "previews/roster/Scrapling/After_Side.jpg",
+      "previews/roster/Scrapling/After_Threequarter.jpg",
+      "previews/roster/Scrapling/Before_Back.jpg",
+      "previews/roster/Scrapling/Before_Closeup.jpg",
+      "previews/roster/Scrapling/Before_Front.jpg",
+      "previews/roster/Scrapling/Before_Side.jpg",
+      "previews/roster/Scrapling/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Scrapling/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Shard_Crab",
+    "after_model": "enemies/Shard_Crab/Shard_Crab.glb",
+    "after_model_sha256": "de9f6612de77a3b44f81ce9a54e3072a2fe027723efbdd08c90660ca1ead4afc",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Shard_Crab/After_Back.jpg",
+      "previews/roster/Shard_Crab/After_Closeup.jpg",
+      "previews/roster/Shard_Crab/After_Front.jpg",
+      "previews/roster/Shard_Crab/After_Side.jpg",
+      "previews/roster/Shard_Crab/After_Threequarter.jpg",
+      "previews/roster/Shard_Crab/Before_Back.jpg",
+      "previews/roster/Shard_Crab/Before_Closeup.jpg",
+      "previews/roster/Shard_Crab/Before_Front.jpg",
+      "previews/roster/Shard_Crab/Before_Side.jpg",
+      "previews/roster/Shard_Crab/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Shard_Crab/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Sporeling",
+    "after_model": "enemies/Sporeling/Sporeling.glb",
+    "after_model_sha256": "e955883f70aa25fe0084ea3d364f1172f07c50fb97d30798ccd6bf507ecc3885",
+    "before_model_source": "previous saved V4 delivery",
+    "views": [
+      "previews/roster/Sporeling/After_Back.jpg",
+      "previews/roster/Sporeling/After_Closeup.jpg",
+      "previews/roster/Sporeling/After_Front.jpg",
+      "previews/roster/Sporeling/After_Side.jpg",
+      "previews/roster/Sporeling/After_Threequarter.jpg",
+      "previews/roster/Sporeling/Before_Back.jpg",
+      "previews/roster/Sporeling/Before_Closeup.jpg",
+      "previews/roster/Sporeling/Before_Front.jpg",
+      "previews/roster/Sporeling/Before_Side.jpg",
+      "previews/roster/Sporeling/Before_Threequarter.jpg"
+    ],
+    "motion_preview": "previews/roster/Sporeling/Delivered_Model_Motion.gif",
+    "visual_quality_approved": false
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "requirements": {
+    "Pistol fire/reload": "Prior46 prototype bank available; new weapon mechanisms delivered, player hand/weapon alignment unfinished.",
+    "Rifle aim/fire/reload": "New rifle mechanism only; player rifle choreography unfinished.",
+    "Directional dodges": "Prior directional hop/dodge prototypes available; natural rolls/recovery unfinished.",
+    "Weapon combos": "Prior sword light/heavy prototypes; charged/running/jumping and additional weapon sets unfinished.",
+    "Starts/stops/turns": "V3 generic turns exist; character-specific transitions unfinished.",
+    "Blocking/parry/guard break/riposte": "Prior parry/riposte prototype; block/guard break and full contact review unfinished.",
+    "Paired finishers": "Prior backstab/frontal prototype pair alignment metadata; weapon contact, resizing and choreography unfinished.",
+    "Weapon draw/switch/holster": "Prior switch prototype; new weapons require fitted grips and holster choreography.",
+    "Reactions/knockdown/get-up/deaths": "Prior reactions and rigid get-up prototypes; natural floor contact and full deaths unfinished.",
+    "Flight/swimming": "Prior prototypes and V3 motions; creature-specific propulsion/weight/contact review unfinished."
+  },
+  "validated_hit_windows": false,
+  "engine_integration_required": [
+    "damage and hit detection",
+    "stamina",
+    "invulnerability windows",
+    "lock-on",
+    "projectiles",
+    "magazine spawning",
+    "weapon hand attachments and aim offsets",
+    "paired actor alignment/adaptation",
+    "boss phases and AI",
+    "effect playback and audio routing"
+  ]
+}

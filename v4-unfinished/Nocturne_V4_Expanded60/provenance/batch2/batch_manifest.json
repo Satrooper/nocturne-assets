@@ -1,0 +1,19 @@
+{
+  "name": "Nocturne V4 Batch02",
+  "delivery_scope": "Incremental prototypes, not full V4",
+  "models": [
+    "Siege_Sentinel",
+    "Vesper_Pistol",
+    "Bastion_Rifle",
+    "Gravesong_Sword"
+  ],
+  "retained_creature_clips": 21,
+  "new_weapon_mechanism_clips": 4,
+  "new_player_animation_clips": 0,
+  "new_synthesized_audio_files": 4,
+  "structural_validation": "16/16 export reimports passed",
+  "visual_review": "partial revisions reviewed; realism target unfinished",
+  "engine_testing": false,
+  "iphone_performance_measured": false,
+  "full_collection_complete": false
+}

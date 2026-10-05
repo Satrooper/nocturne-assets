@@ -1,0 +1,477 @@
+.gitattributes
+animations/Action Adventure Pack/Ganfaul M Aure.fbx
+animations/Action Adventure Pack/cover to stand (2).fbx
+animations/Action Adventure Pack/cover to stand.fbx
+animations/Action Adventure Pack/crouched sneaking left.fbx
+animations/Action Adventure Pack/crouched sneaking right.fbx
+animations/Action Adventure Pack/falling idle.fbx
+animations/Action Adventure Pack/falling to roll.fbx
+animations/Action Adventure Pack/hard landing.fbx
+animations/Action Adventure Pack/idle (2).fbx
+animations/Action Adventure Pack/idle (3).fbx
+animations/Action Adventure Pack/idle (4).fbx
+animations/Action Adventure Pack/idle (5).fbx
+animations/Action Adventure Pack/idle.fbx
+animations/Action Adventure Pack/jumping up.fbx
+animations/Action Adventure Pack/left cover sneak.fbx
+animations/Action Adventure Pack/left turn.fbx
+animations/Action Adventure Pack/right cover sneak.fbx
+animations/Action Adventure Pack/right turn.fbx
+animations/Action Adventure Pack/run to stop.fbx
+animations/Action Adventure Pack/running.fbx
+animations/Action Adventure Pack/stand to cover (2).fbx
+animations/Action Adventure Pack/stand to cover.fbx
+animations/Action Adventure Pack/walking.fbx
+animations/Capoeira Pack/Ganfaul M Aure.fbx
+animations/Capoeira Pack/armada to esquiva.fbx
+animations/Capoeira Pack/armada.fbx
+animations/Capoeira Pack/au to role.fbx
+animations/Capoeira Pack/au.fbx
+animations/Capoeira Pack/bencao.fbx
+animations/Capoeira Pack/capoeira (2).fbx
+animations/Capoeira Pack/capoeira (3).fbx
+animations/Capoeira Pack/capoeira.fbx
+animations/Capoeira Pack/chapa 2.fbx
+animations/Capoeira Pack/chapa giratoria 2.fbx
+animations/Capoeira Pack/chapa-giratoria.fbx
+animations/Capoeira Pack/chapaeu de couro.fbx
+animations/Capoeira Pack/esquiva 1.fbx
+animations/Capoeira Pack/esquiva 2.fbx
+animations/Capoeira Pack/esquiva 3.fbx
+animations/Capoeira Pack/esquiva 4.fbx
+animations/Capoeira Pack/esquiva 5.fbx
+animations/Capoeira Pack/ginga backward.fbx
+animations/Capoeira Pack/ginga forward.fbx
+animations/Capoeira Pack/ginga sideways 1.fbx
+animations/Capoeira Pack/ginga sideways 2.fbx
+animations/Capoeira Pack/ginga sideways to au.fbx
+animations/Capoeira Pack/ginga variation 1.fbx
+animations/Capoeira Pack/ginga variation 2.fbx
+animations/Capoeira Pack/ginga variation 3.fbx
+animations/Capoeira Pack/macaco side.fbx
+animations/Capoeira Pack/martelo 2.fbx
+animations/Capoeira Pack/martelo 3.fbx
+animations/Capoeira Pack/martelo do chau sem mao.fbx
+animations/Capoeira Pack/martelo do chau.fbx
+animations/Capoeira Pack/meia lua de compasso back.fbx
+animations/Capoeira Pack/meia lua de compasso.fbx
+animations/Capoeira Pack/meia lua de frente.fbx
+animations/Capoeira Pack/pontera.fbx
+animations/Capoeira Pack/queshada 1.fbx
+animations/Capoeira Pack/queshada 2.fbx
+animations/Capoeira Pack/rasteira 1.fbx
+animations/Capoeira Pack/rasteira 2.fbx
+animations/Capoeira Pack/troca 1.fbx
+animations/Creature NPC Pack/Y Bot.fbx
+animations/Creature NPC Pack/left turn 45.fbx
+animations/Creature NPC Pack/mutant breathing idle.fbx
+animations/Creature NPC Pack/mutant dying.fbx
+animations/Creature NPC Pack/mutant flexing muscles.fbx
+animations/Creature NPC Pack/mutant idle.fbx
+animations/Creature NPC Pack/mutant jumping.fbx
+animations/Creature NPC Pack/mutant left turn 45.fbx
+animations/Creature NPC Pack/mutant right turn 45 (2).fbx
+animations/Creature NPC Pack/mutant right turn 45.fbx
+animations/Creature NPC Pack/mutant run.fbx
+animations/Creature NPC Pack/mutant swiping.fbx
+animations/Creature NPC Pack/mutant walking.fbx
+animations/Creature Pack/Y Bot.fbx
+animations/Creature Pack/jump attack.fbx
+animations/Creature Pack/left turn 45.fbx
+animations/Creature Pack/mutant breathing idle.fbx
+animations/Creature Pack/mutant dying.fbx
+animations/Creature Pack/mutant flexing muscles.fbx
+animations/Creature Pack/mutant idle (2).fbx
+animations/Creature Pack/mutant idle.fbx
+animations/Creature Pack/mutant jump attack.fbx
+animations/Creature Pack/mutant jumping (2).fbx
+animations/Creature Pack/mutant jumping.fbx
+animations/Creature Pack/mutant left turn 45.fbx
+animations/Creature Pack/mutant punch.fbx
+animations/Creature Pack/mutant right turn 45 (2).fbx
+animations/Creature Pack/mutant right turn 45.fbx
+animations/Creature Pack/mutant right turn 90.fbx
+animations/Creature Pack/mutant roaring.fbx
+animations/Creature Pack/mutant run.fbx
+animations/Creature Pack/mutant swiping.fbx
+animations/Creature Pack/mutant walking.fbx
+animations/Extras/Ascending Stairs.fbx
+animations/Extras/Dive Roll.fbx
+animations/Extras/Double Dagger Stab.fbx
+animations/Extras/Drinking Fountain.fbx
+animations/Extras/Drinking.fbx
+animations/Extras/Falling To Landing.fbx
+animations/Extras/Falling To Roll.fbx
+animations/Extras/Firing Rifle Running.fbx
+animations/Extras/Firing Rifle crouch.fbx
+animations/Extras/Firing Rifle.fbx
+animations/Extras/Flying Kick.fbx
+animations/Extras/Flying.fbx
+animations/Extras/Gathering Objects.fbx
+animations/Extras/Hard Landing 2.fbx
+animations/Extras/Hard Landing.fbx
+animations/Extras/Jump Falling To Roll.fbx
+animations/Extras/Jump Over.fbx
+animations/Extras/Kneeling Down.fbx
+animations/Extras/Kneeling.fbx
+animations/Extras/Landing.fbx
+animations/Extras/Lifting Object.fbx
+animations/Extras/Lifting.fbx
+animations/Extras/Neck Stretching.fbx
+animations/Extras/Prone Firing Rifle (1).fbx
+animations/Extras/Prone Firing Rifle.fbx
+animations/Extras/README.md
+animations/Extras/Rallying.fbx
+animations/Extras/Reload 2.fbx
+animations/Extras/Reload 3.fbx
+animations/Extras/Reload.fbx
+animations/Extras/Run To Rolling.fbx
+animations/Extras/Running Dive Roll.fbx
+animations/Extras/Sitting Drinking.fbx
+animations/Extras/Sprinting Forward Roll.fbx
+animations/Extras/Stabbing.fbx
+animations/Extras/Stand To Roll.fbx
+animations/Extras/Standing Jump.fbx
+animations/Extras/Standing Land To Standing Idle.fbx
+animations/Extras/Standing Up.fbx
+animations/Extras/Throw Object.fbx
+animations/Extras/Wall Crash.fbx
+animations/Extras/v7-mixamo-test.png
+animations/Great Sword Pack/Y Bot.fbx
+animations/Great Sword Pack/draw a great sword 1.fbx
+animations/Great Sword Pack/draw a great sword 2.fbx
+animations/Great Sword Pack/great sword 180 turn (2).fbx
+animations/Great Sword Pack/great sword 180 turn.fbx
+animations/Great Sword Pack/great sword attack.fbx
+animations/Great Sword Pack/great sword blocking (2).fbx
+animations/Great Sword Pack/great sword blocking (3).fbx
+animations/Great Sword Pack/great sword blocking.fbx
+animations/Great Sword Pack/great sword casting.fbx
+animations/Great Sword Pack/great sword crouching (2).fbx
+animations/Great Sword Pack/great sword crouching (3).fbx
+animations/Great Sword Pack/great sword crouching (4).fbx
+animations/Great Sword Pack/great sword crouching (5).fbx
+animations/Great Sword Pack/great sword crouching (6).fbx
+animations/Great Sword Pack/great sword crouching.fbx
+animations/Great Sword Pack/great sword high spin attack.fbx
+animations/Great Sword Pack/great sword idle (2).fbx
+animations/Great Sword Pack/great sword idle (3).fbx
+animations/Great Sword Pack/great sword idle (4).fbx
+animations/Great Sword Pack/great sword idle (5).fbx
+animations/Great Sword Pack/great sword idle.fbx
+animations/Great Sword Pack/great sword impact (2).fbx
+animations/Great Sword Pack/great sword impact (3).fbx
+animations/Great Sword Pack/great sword impact (4).fbx
+animations/Great Sword Pack/great sword impact (5).fbx
+animations/Great Sword Pack/great sword impact.fbx
+animations/Great Sword Pack/great sword jump (2).fbx
+animations/Great Sword Pack/great sword jump attack.fbx
+animations/Great Sword Pack/great sword jump.fbx
+animations/Great Sword Pack/great sword kick (2).fbx
+animations/Great Sword Pack/great sword kick.fbx
+animations/Great Sword Pack/great sword power up.fbx
+animations/Great Sword Pack/great sword run (2).fbx
+animations/Great Sword Pack/great sword run.fbx
+animations/Great Sword Pack/great sword slash (2).fbx
+animations/Great Sword Pack/great sword slash (3).fbx
+animations/Great Sword Pack/great sword slash (4).fbx
+animations/Great Sword Pack/great sword slash (5).fbx
+animations/Great Sword Pack/great sword slash.fbx
+animations/Great Sword Pack/great sword slide attack.fbx
+animations/Great Sword Pack/great sword strafe (2).fbx
+animations/Great Sword Pack/great sword strafe (3).fbx
+animations/Great Sword Pack/great sword strafe (4).fbx
+animations/Great Sword Pack/great sword strafe.fbx
+animations/Great Sword Pack/great sword turn (2).fbx
+animations/Great Sword Pack/great sword turn.fbx
+animations/Great Sword Pack/great sword walk (2).fbx
+animations/Great Sword Pack/great sword walk.fbx
+animations/Great Sword Pack/spell cast.fbx
+animations/Great Sword Pack/two handed sword death (2).fbx
+animations/Great Sword Pack/two handed sword death.fbx
+animations/Magic Spell Pack/Ganfaul M Aure.fbx
+animations/Magic Spell Pack/Standing 1H Magic Attack 01.fbx
+animations/Magic Spell Pack/Standing 1H Magic Attack 02.fbx
+animations/Magic Spell Pack/Standing 1H Magic Attack 03.fbx
+animations/Magic Spell Pack/Standing 2H Cast Spell 01.fbx
+animations/Magic Spell Pack/Standing 2H Magic Area Attack 01.fbx
+animations/Magic Spell Pack/Standing 2H Magic Area Attack 02.fbx
+animations/Magic Spell Pack/Standing 2H Magic Attack 01.fbx
+animations/Magic Spell Pack/Standing 2H Magic Attack 02.fbx
+animations/Magic Spell Pack/Standing 2H Magic Attack 03.fbx
+animations/Magic Spell Pack/Standing 2H Magic Attack 04.fbx
+animations/Magic Spell Pack/Standing 2H Magic Attack 05.fbx
+animations/Magic Spell Pack/standing 1H cast spell 01.fbx
+animations/Magic Spell Pack/standing idle.fbx
+animations/Not So Scary Zombie Pack/Ganfaul M Aure.fbx
+animations/Not So Scary Zombie Pack/walking (2).fbx
+animations/Not So Scary Zombie Pack/walking.fbx
+animations/Not So Scary Zombie Pack/zombie agonizing.fbx
+animations/Not So Scary Zombie Pack/zombie attack.fbx
+animations/Not So Scary Zombie Pack/zombie headbutt.fbx
+animations/Not So Scary Zombie Pack/zombie idle (2).fbx
+animations/Not So Scary Zombie Pack/zombie idle (3).fbx
+animations/Not So Scary Zombie Pack/zombie idle (4).fbx
+animations/Not So Scary Zombie Pack/zombie idle.fbx
+animations/Not So Scary Zombie Pack/zombie kicking (2).fbx
+animations/Not So Scary Zombie Pack/zombie kicking.fbx
+animations/Not So Scary Zombie Pack/zombie punching (2).fbx
+animations/Not So Scary Zombie Pack/zombie punching.fbx
+animations/Not So Scary Zombie Pack/zombie reaction hit (2).fbx
+animations/Not So Scary Zombie Pack/zombie reaction hit.fbx
+animations/Not So Scary Zombie Pack/zombie running.fbx
+animations/Not So Scary Zombie Pack/zombie scratch idle.fbx
+animations/Not So Scary Zombie Pack/zombie stand up (2).fbx
+animations/Not So Scary Zombie Pack/zombie stand up (3).fbx
+animations/Not So Scary Zombie Pack/zombie stand up.fbx
+animations/Not So Scary Zombie Pack/zombie stumbling.fbx
+animations/Not So Scary Zombie Pack/zombie transition (2).fbx
+animations/Not So Scary Zombie Pack/zombie transition.fbx
+animations/Not So Scary Zombie Pack/zombie turn.fbx
+animations/Pistol_Handgun Locomotion Pack/Y Bot.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol idle.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol jump (2).fbx
+animations/Pistol_Handgun Locomotion Pack/pistol jump.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol kneel to stand.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol kneeling idle.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol run arc (2).fbx
+animations/Pistol_Handgun Locomotion Pack/pistol run arc.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol run backward arc (2).fbx
+animations/Pistol_Handgun Locomotion Pack/pistol run backward arc.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol run backward.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol run.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol stand to kneel.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol strafe (2).fbx
+animations/Pistol_Handgun Locomotion Pack/pistol strafe.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol walk arc (2).fbx
+animations/Pistol_Handgun Locomotion Pack/pistol walk arc.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol walk backward arc (2).fbx
+animations/Pistol_Handgun Locomotion Pack/pistol walk backward arc.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol walk backward.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol walk.fbx
+animations/Pro Melee Axe Pack/Y Bot.fbx
+animations/Pro Melee Axe Pack/crouch idle.fbx
+animations/Pro Melee Axe Pack/crouch to standing idle.fbx
+animations/Pro Melee Axe Pack/standing block idle.fbx
+animations/Pro Melee Axe Pack/standing block react large.fbx
+animations/Pro Melee Axe Pack/standing disarm over shoulder.fbx
+animations/Pro Melee Axe Pack/standing disarm underarm.fbx
+animations/Pro Melee Axe Pack/standing idle looking ver. 1.fbx
+animations/Pro Melee Axe Pack/standing idle looking ver. 2.fbx
+animations/Pro Melee Axe Pack/standing idle.fbx
+animations/Pro Melee Axe Pack/standing jump.fbx
+animations/Pro Melee Axe Pack/standing melee attack 360 high.fbx
+animations/Pro Melee Axe Pack/standing melee attack 360 low.fbx
+animations/Pro Melee Axe Pack/standing melee attack backhand.fbx
+animations/Pro Melee Axe Pack/standing melee attack downward.fbx
+animations/Pro Melee Axe Pack/standing melee attack horizontal.fbx
+animations/Pro Melee Axe Pack/standing melee attack kick ver. 1.fbx
+animations/Pro Melee Axe Pack/standing melee attack kick ver. 2.fbx
+animations/Pro Melee Axe Pack/standing melee combo attack ver. 1.fbx
+animations/Pro Melee Axe Pack/standing melee combo attack ver. 2.fbx
+animations/Pro Melee Axe Pack/standing melee combo attack ver. 3.fbx
+animations/Pro Melee Axe Pack/standing melee run jump attack.fbx
+animations/Pro Melee Axe Pack/standing react large from left.fbx
+animations/Pro Melee Axe Pack/standing react large from right.fbx
+animations/Pro Melee Axe Pack/standing react large gut.fbx
+animations/Pro Melee Axe Pack/standing run back.fbx
+animations/Pro Melee Axe Pack/standing run forward.fbx
+animations/Pro Melee Axe Pack/standing taunt battlecry.fbx
+animations/Pro Melee Axe Pack/standing taunt chest thump.fbx
+animations/Pro Melee Axe Pack/standing turn left 90.fbx
+animations/Pro Melee Axe Pack/standing turn right 90.fbx
+animations/Pro Melee Axe Pack/standing walk back.fbx
+animations/Pro Melee Axe Pack/standing walk forward.fbx
+animations/Pro Melee Axe Pack/standing walk left.fbx
+animations/Pro Melee Axe Pack/standing walk right.fbx
+animations/Pro Melee Axe Pack/unarmed equip over shoulder.fbx
+animations/Pro Melee Axe Pack/unarmed equip underarm.fbx
+animations/Pro Melee Axe Pack/unarmed idle looking ver. 1.fbx
+animations/Pro Melee Axe Pack/unarmed idle looking ver. 2.fbx
+animations/Pro Melee Axe Pack/unarmed idle.fbx
+animations/Pro Melee Axe Pack/unarmed jump running.fbx
+animations/Pro Melee Axe Pack/unarmed jump.fbx
+animations/Pro Melee Axe Pack/unarmed run back.fbx
+animations/Pro Melee Axe Pack/unarmed run forward.fbx
+animations/Pro Melee Axe Pack/unarmed turn left 90.fbx
+animations/Pro Melee Axe Pack/unarmed turn right 90.fbx
+animations/Pro Melee Axe Pack/unarmed walk back.fbx
+animations/Pro Melee Axe Pack/unarmed walk forward.fbx
+animations/Pro Rifle Pack/Y Bot.fbx
+animations/Pro Rifle Pack/crouching turn 90 left.fbx
+animations/Pro Rifle Pack/crouching turn 90 right.fbx
+animations/Pro Rifle Pack/death crouching headshot front.fbx
+animations/Pro Rifle Pack/death from back headshot.fbx
+animations/Pro Rifle Pack/death from front headshot.fbx
+animations/Pro Rifle Pack/death from right.fbx
+animations/Pro Rifle Pack/death from the back.fbx
+animations/Pro Rifle Pack/death from the front.fbx
+animations/Pro Rifle Pack/idle aiming.fbx
+animations/Pro Rifle Pack/idle crouching aiming.fbx
+animations/Pro Rifle Pack/idle crouching.fbx
+animations/Pro Rifle Pack/idle.fbx
+animations/Pro Rifle Pack/jump down.fbx
+animations/Pro Rifle Pack/jump loop.fbx
+animations/Pro Rifle Pack/jump up.fbx
+animations/Pro Rifle Pack/run backward left.fbx
+animations/Pro Rifle Pack/run backward right.fbx
+animations/Pro Rifle Pack/run backward.fbx
+animations/Pro Rifle Pack/run forward left.fbx
+animations/Pro Rifle Pack/run forward right.fbx
+animations/Pro Rifle Pack/run forward.fbx
+animations/Pro Rifle Pack/run left.fbx
+animations/Pro Rifle Pack/run right.fbx
+animations/Pro Rifle Pack/sprint backward left.fbx
+animations/Pro Rifle Pack/sprint backward right.fbx
+animations/Pro Rifle Pack/sprint backward.fbx
+animations/Pro Rifle Pack/sprint forward left.fbx
+animations/Pro Rifle Pack/sprint forward right.fbx
+animations/Pro Rifle Pack/sprint forward.fbx
+animations/Pro Rifle Pack/sprint left.fbx
+animations/Pro Rifle Pack/sprint right.fbx
+animations/Pro Rifle Pack/turn 90 left.fbx
+animations/Pro Rifle Pack/turn 90 right.fbx
+animations/Pro Rifle Pack/walk backward left.fbx
+animations/Pro Rifle Pack/walk backward right.fbx
+animations/Pro Rifle Pack/walk backward.fbx
+animations/Pro Rifle Pack/walk crouching backward left.fbx
+animations/Pro Rifle Pack/walk crouching backward right.fbx
+animations/Pro Rifle Pack/walk crouching backward.fbx
+animations/Pro Rifle Pack/walk crouching forward left.fbx
+animations/Pro Rifle Pack/walk crouching forward right.fbx
+animations/Pro Rifle Pack/walk crouching forward.fbx
+animations/Pro Rifle Pack/walk crouching left.fbx
+animations/Pro Rifle Pack/walk crouching right.fbx
+animations/Pro Rifle Pack/walk forward left.fbx
+animations/Pro Rifle Pack/walk forward right.fbx
+animations/Pro Rifle Pack/walk forward.fbx
+animations/Pro Rifle Pack/walk left.fbx
+animations/Pro Rifle Pack/walk right.fbx
+animations/Pro Sword and Shield Pack/Y Bot.fbx
+animations/Pro Sword and Shield Pack/draw sword 1.fbx
+animations/Pro Sword and Shield Pack/draw sword 2.fbx
+animations/Pro Sword and Shield Pack/sheath sword 1.fbx
+animations/Pro Sword and Shield Pack/sheath sword 2.fbx
+animations/Pro Sword and Shield Pack/sword and shield 180 turn (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield 180 turn.fbx
+animations/Pro Sword and Shield Pack/sword and shield attack (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield attack (3).fbx
+animations/Pro Sword and Shield Pack/sword and shield attack (4).fbx
+animations/Pro Sword and Shield Pack/sword and shield attack.fbx
+animations/Pro Sword and Shield Pack/sword and shield block (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield block idle.fbx
+animations/Pro Sword and Shield Pack/sword and shield block.fbx
+animations/Pro Sword and Shield Pack/sword and shield casting (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield casting.fbx
+animations/Pro Sword and Shield Pack/sword and shield crouch block (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield crouch block idle.fbx
+animations/Pro Sword and Shield Pack/sword and shield crouch block.fbx
+animations/Pro Sword and Shield Pack/sword and shield crouch idle.fbx
+animations/Pro Sword and Shield Pack/sword and shield crouch.fbx
+animations/Pro Sword and Shield Pack/sword and shield crouching (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield crouching (3).fbx
+animations/Pro Sword and Shield Pack/sword and shield crouching.fbx
+animations/Pro Sword and Shield Pack/sword and shield death (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield death.fbx
+animations/Pro Sword and Shield Pack/sword and shield idle (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield idle (3).fbx
+animations/Pro Sword and Shield Pack/sword and shield idle (4).fbx
+animations/Pro Sword and Shield Pack/sword and shield idle.fbx
+animations/Pro Sword and Shield Pack/sword and shield impact (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield impact (3).fbx
+animations/Pro Sword and Shield Pack/sword and shield impact.fbx
+animations/Pro Sword and Shield Pack/sword and shield jump (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield jump.fbx
+animations/Pro Sword and Shield Pack/sword and shield kick.fbx
+animations/Pro Sword and Shield Pack/sword and shield power up.fbx
+animations/Pro Sword and Shield Pack/sword and shield run (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield run.fbx
+animations/Pro Sword and Shield Pack/sword and shield slash (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield slash (3).fbx
+animations/Pro Sword and Shield Pack/sword and shield slash (4).fbx
+animations/Pro Sword and Shield Pack/sword and shield slash (5).fbx
+animations/Pro Sword and Shield Pack/sword and shield slash.fbx
+animations/Pro Sword and Shield Pack/sword and shield strafe (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield strafe (3).fbx
+animations/Pro Sword and Shield Pack/sword and shield strafe (4).fbx
+animations/Pro Sword and Shield Pack/sword and shield strafe.fbx
+animations/Pro Sword and Shield Pack/sword and shield turn (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield turn.fbx
+animations/Pro Sword and Shield Pack/sword and shield walk (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield walk.fbx
+animations/Rifle 8-Way Locomotion Pack/Y Bot.fbx
+animations/Rifle 8-Way Locomotion Pack/crouching turn 90 left.fbx
+animations/Rifle 8-Way Locomotion Pack/crouching turn 90 right.fbx
+animations/Rifle 8-Way Locomotion Pack/death crouching headshot front.fbx
+animations/Rifle 8-Way Locomotion Pack/death from back headshot.fbx
+animations/Rifle 8-Way Locomotion Pack/death from front headshot.fbx
+animations/Rifle 8-Way Locomotion Pack/death from right.fbx
+animations/Rifle 8-Way Locomotion Pack/death from the back.fbx
+animations/Rifle 8-Way Locomotion Pack/death from the front.fbx
+animations/Rifle 8-Way Locomotion Pack/idle aiming.fbx
+animations/Rifle 8-Way Locomotion Pack/idle crouching aiming.fbx
+animations/Rifle 8-Way Locomotion Pack/idle crouching.fbx
+animations/Rifle 8-Way Locomotion Pack/idle.fbx
+animations/Rifle 8-Way Locomotion Pack/jump down.fbx
+animations/Rifle 8-Way Locomotion Pack/jump loop.fbx
+animations/Rifle 8-Way Locomotion Pack/jump up.fbx
+animations/Rifle 8-Way Locomotion Pack/run backward left.fbx
+animations/Rifle 8-Way Locomotion Pack/run backward right.fbx
+animations/Rifle 8-Way Locomotion Pack/run backward.fbx
+animations/Rifle 8-Way Locomotion Pack/run forward left.fbx
+animations/Rifle 8-Way Locomotion Pack/run forward right.fbx
+animations/Rifle 8-Way Locomotion Pack/run forward.fbx
+animations/Rifle 8-Way Locomotion Pack/run left.fbx
+animations/Rifle 8-Way Locomotion Pack/run right.fbx
+animations/Rifle 8-Way Locomotion Pack/sprint backward left.fbx
+animations/Rifle 8-Way Locomotion Pack/sprint backward right.fbx
+animations/Rifle 8-Way Locomotion Pack/sprint backward.fbx
+animations/Rifle 8-Way Locomotion Pack/sprint forward left.fbx
+animations/Rifle 8-Way Locomotion Pack/sprint forward right.fbx
+animations/Rifle 8-Way Locomotion Pack/sprint forward.fbx
+animations/Rifle 8-Way Locomotion Pack/sprint left.fbx
+animations/Rifle 8-Way Locomotion Pack/sprint right.fbx
+animations/Rifle 8-Way Locomotion Pack/turn 90 left.fbx
+animations/Rifle 8-Way Locomotion Pack/turn 90 right.fbx
+animations/Rifle 8-Way Locomotion Pack/walk backward left.fbx
+animations/Rifle 8-Way Locomotion Pack/walk backward right.fbx
+animations/Rifle 8-Way Locomotion Pack/walk backward.fbx
+animations/Rifle 8-Way Locomotion Pack/walk crouching backward left.fbx
+animations/Rifle 8-Way Locomotion Pack/walk crouching backward right.fbx
+animations/Rifle 8-Way Locomotion Pack/walk crouching backward.fbx
+animations/Rifle 8-Way Locomotion Pack/walk crouching forward left.fbx
+animations/Rifle 8-Way Locomotion Pack/walk crouching forward right.fbx
+animations/Rifle 8-Way Locomotion Pack/walk crouching forward.fbx
+animations/Rifle 8-Way Locomotion Pack/walk crouching left.fbx
+animations/Rifle 8-Way Locomotion Pack/walk crouching right.fbx
+animations/Rifle 8-Way Locomotion Pack/walk forward left.fbx
+animations/Rifle 8-Way Locomotion Pack/walk forward right.fbx
+animations/Rifle 8-Way Locomotion Pack/walk forward.fbx
+animations/Rifle 8-Way Locomotion Pack/walk left.fbx
+animations/Rifle 8-Way Locomotion Pack/walk right.fbx
+animations/Scary Zombie Pack/Ganfaul M Aure.fbx
+animations/Scary Zombie Pack/running crawl.fbx
+animations/Scary Zombie Pack/zombie attack.fbx
+animations/Scary Zombie Pack/zombie biting (2).fbx
+animations/Scary Zombie Pack/zombie biting.fbx
+animations/Scary Zombie Pack/zombie crawl.fbx
+animations/Scary Zombie Pack/zombie death.fbx
+animations/Scary Zombie Pack/zombie dying.fbx
+animations/Scary Zombie Pack/zombie idle.fbx
+animations/Scary Zombie Pack/zombie neck bite.fbx
+animations/Scary Zombie Pack/zombie run.fbx
+animations/Scary Zombie Pack/zombie scream.fbx
+animations/Scary Zombie Pack/zombie walk.fbx
+characters/Ch24_nonPBR.fbx
+characters/Ganfaul M Aure.fbx
+characters/Heraklios By A. Dizon.fbx
+characters/Maria WProp J J Ong.fbx
+characters/Maw J Laygo.fbx
+characters/Mutant.fbx
+characters/Paladin WProp J Nordstrom.fbx
+characters/Skeletonzombie T Avelange.fbx
+characters/The Boss.fbx
+characters/Vampire A Lusth.fbx
+characters/Warrok W Kurniawan.fbx
+characters/Y Bot.fbx
+credits.txt

@@ -1,0 +1,74 @@
+[
+  {
+    "file": "previews/motion/Cinder_Crown_Bite_Lunge_RootMotion.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Cinder_Crown_Flight_Takeoff_RootMotion.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Cinder_Crown_Motion_Preview.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Cinder_Crown_Swim_Cruise_InPlace.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Cinder_Crown_Walk_RootMotion.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Player_Dodge_Forward_RootMotion.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Player_GetUp_From_Back.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Player_Motion_Preview.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Player_Paired_Backstab.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Player_Pistol_Reload_Empty.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Player_Swim_Crawl_RootMotion.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Player_Sword_Heavy_Combo_1_RootMotion.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Player_Sword_Light_Combo_2_RootMotion.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Siege_Sentinel_Cannon_Burst.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Siege_Sentinel_Ground_Slam.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Siege_Sentinel_Motion_Preview.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Siege_Sentinel_Piston_Punch_Right.mp4",
+    "full_decode_passed": true
+  },
+  {
+    "file": "previews/motion/Siege_Sentinel_Walk_RootMotion.mp4",
+    "full_decode_passed": true
+  }
+]

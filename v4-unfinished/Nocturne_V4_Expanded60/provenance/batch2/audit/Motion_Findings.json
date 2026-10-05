@@ -1,0 +1,24 @@
+{
+  "source_clips": 656,
+  "sampled_clips": 656,
+  "root_return_candidates": 143,
+  "identical_sampled_pose_groups": [
+    [
+      "Flight_Takeoff",
+      "Flight_Hover",
+      "Flight_Glide",
+      "Flight_Landing"
+    ],
+    [
+      "Swim_Turn",
+      "Swim_Surface"
+    ]
+  ],
+  "declared_loops_over_1cm_joint_endpoint_error": 0,
+  "limitations": [
+    "17 samples per source action; rig-joint positions only.",
+    "Root-return candidates include intentional motion; they are triage findings, not confirmed bugs.",
+    "Pose signatures do not prove distinct choreography; similar procedural recipes can differ numerically.",
+    "No mesh intersections, sole-contact intervals or combat hit windows validated."
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "coordinate_conventions": {
+    "authoring": "metres; Blender Z up, -Y forward; right-handed. Player anatomical left is +X.",
+    "glb": "glTF uses Y up; importer applies basis conversion. Resolve sockets by bone names rather than copying authoring XYZ into engine coordinates.",
+    "fbx": "Units and axis conversion must be verified in the destination importer; do not double-apply armature scale."
+  },
+  "engine_tested": false,
+  "assets": [
+    {
+      "name": "Cinder_Crown",
+      "rig_object_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "anchors": {
+        "mouth_and_breath": {
+          "bone": "head",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            1.2427054643630981,
+            -0.07662826776504517
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -0.9884970188140869,
+              0.15123996138572693,
+              -2.4000003337860107
+            ],
+            [
+              0.0,
+              -0.15124011039733887,
+              -0.9884970188140869,
+              2.499000072479248
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            0.0,
+            -3.640000104904175,
+            2.3868000507354736
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        },
+        "jaw_contact": {
+          "bone": "jaw",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.8713751435279846,
+            -0.014346837997436523
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -0.9971875548362732,
+              0.07494654506444931,
+              -2.500000238418579
+            ],
+            [
+              0.0,
+              -0.07494670897722244,
+              -0.9971874952316284,
+              2.223600149154663
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            0.0,
+            -3.369999885559082,
+            2.172600030899048
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        },
+        "claw_L": {
+          "bone": "frontL_foot",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              0.9759035706520081,
+              -0.05682939291000366,
+              -0.21067172288894653,
+              -0.9239999651908875
+            ],
+            [
+              0.05682945251464844,
+              -0.8659726977348328,
+              0.4968518614768982,
+              -0.699999988079071
+            ],
+            [
+              -0.21067169308662415,
+              -0.4968518614768982,
+              -0.841876208782196,
+              0.3060000538825989
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            -0.9239999651908875,
+            -0.699999988079071,
+            0.3060000538825989
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        },
+        "claw_R": {
+          "bone": "frontR_foot",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              0.9759035706520081,
+              0.05682939291000366,
+              0.21067172288894653,
+              0.9239999651908875
+            ],
+            [
+              -0.05682945251464844,
+              -0.8659726977348328,
+              0.4968518614768982,
+              -0.699999988079071
+            ],
+            [
+              0.21067169308662415,
+              -0.4968518614768982,
+              -0.841876208782196,
+              0.3060000538825989
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            0.9239999651908875,
+            -0.699999988079071,
+            0.3060000538825989
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        },
+        "tail_tip": {
+          "bone": "tail5",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              0.9843382239341736,
+              -0.17599841952323914,
+              0.010142864659428596,
+              -0.08399996906518936
+            ],
+            [
+              0.17599844932556152,
+              0.9777693748474121,
+              -0.11397978663444519,
+              4.699999809265137
+            ],
+            [
+              0.01014290563762188,
+              0.11397993564605713,
+              0.9934313297271729,
+              0.4079999327659607
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            -0.08399996906518936,
+            4.699999809265137,
+            0.4079999327659607
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        },
+        "body_origin": {
+          "bone": "root",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              -1.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        }
+      },
+      "root_motion_bone": "root",
+      "root_extraction": "Use accumulated root transform; subtract the clip first-frame transform. Apply final displacement to actor once, then reset animation root at a state transition. A looping travel clip wraps its sampled root; accumulate cycle displacement rather than teleporting actor back.",
+      "root_rotation": "Cinder turns authored 45 degrees; Sentinel turns 90 degrees. Paired frontal victim begins rotated 180 degrees. Extract yaw as well as translation for turning clips.",
+      "bounds_and_collision": "Mesh bounds are art bounds. Collision capsules, hurtboxes and swept weapon hitboxes are not supplied or validated."
+    },
+    {
+      "name": "Siege_Sentinel",
+      "rig_object_scale": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "anchors": {
+        "muzzle_L": {
+          "bone": "turretL_recoil",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.5600000619888306,
+            0.0
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              -1.0,
+              0.0,
+              0.0,
+              -0.5299999713897705
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0,
+              0.08000004291534424
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              2.5999999046325684
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            -0.5299999713897705,
+            -0.48000001907348633,
+            2.5999999046325684
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        },
+        "fist_L": {
+          "bone": "armL_hand",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              0.9869094491004944,
+              -0.11013339459896088,
+              -0.11781449615955353,
+              -1.0199999809265137
+            ],
+            [
+              0.11013343185186386,
+              -0.07342231273651123,
+              0.9912010431289673,
+              -0.09999999403953552
+            ],
+            [
+              -0.11781462281942368,
+              -0.9912012219429016,
+              -0.06033187359571457,
+              1.3899999856948853
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            -1.0199999809265137,
+            -0.09999999403953552,
+            1.3899999856948853
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        },
+        "muzzle_R": {
+          "bone": "turretR_recoil",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.5600000619888306,
+            0.0
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              -1.0,
+              0.0,
+              0.0,
+              0.5299999713897705
+            ],
+            [
+              0.0,
+              -1.0,
+              0.0,
+              0.08000004291534424
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              2.5999999046325684
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            0.5299999713897705,
+            -0.48000001907348633,
+            2.5999999046325684
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        },
+        "fist_R": {
+          "bone": "armR_hand",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              0.9869094491004944,
+              0.11013339459896088,
+              0.11781449615955353,
+              1.0199999809265137
+            ],
+            [
+              -0.11013343185186386,
+              -0.07342231273651123,
+              0.9912010431289673,
+              -0.09999999403953552
+            ],
+            [
+              0.11781462281942368,
+              -0.9912012219429016,
+              -0.06033187359571457,
+              1.3899999856948853
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            1.0199999809265137,
+            -0.09999999403953552,
+            1.3899999856948853
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        },
+        "ground_slam_reference": {
+          "bone": "root",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              -1.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        }
+      },
+      "root_motion_bone": "root",
+      "root_extraction": "Use accumulated root transform; subtract the clip first-frame transform. Apply final displacement to actor once, then reset animation root at a state transition. A looping travel clip wraps its sampled root; accumulate cycle displacement rather than teleporting actor back.",
+      "root_rotation": "Cinder turns authored 45 degrees; Sentinel turns 90 degrees. Paired frontal victim begins rotated 180 degrees. Extract yaw as well as translation for turning clips.",
+      "bounds_and_collision": "Mesh bounds are art bounds. Collision capsules, hurtboxes and swept weapon hitboxes are not supplied or validated."
+    },
+    {
+      "name": "player_animation",
+      "rig_object_scale": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "anchors": {
+        "weapon_R": {
+          "bone": "WeaponSocket_R",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              -8.594636165071279e-05,
+              -1.000000238418579,
+              5.033165280110552e-07,
+              -80.78291320800781
+            ],
+            [
+              1.0,
+              -8.600410365033895e-05,
+              -6.793916327296756e-07,
+              143.55850219726562
+            ],
+            [
+              6.514677579616546e-07,
+              6.502326073132281e-07,
+              1.0000001192092896,
+              -6.171355247497559
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            -80.78291320800781,
+            143.55850219726562,
+            -6.171355247497559
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        },
+        "weapon_L": {
+          "bone": "WeaponSocket_L",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              8.743596845306456e-05,
+              1.0000001192092896,
+              -1.097852919684783e-08,
+              80.77696228027344
+            ],
+            [
+              -1.0,
+              8.739126496948302e-05,
+              -1.395682716065494e-07,
+              143.57269287109375
+            ],
+            [
+              -1.3027087675254734e-07,
+              1.3004651577830373e-07,
+              1.0000001192092896,
+              -6.17146635055542
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            80.77696228027344,
+            143.57269287109375,
+            -6.17146635055542
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        },
+        "pelvis": {
+          "bone": "mixamorig:Hips",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              1.0,
+              -8.780962525634095e-05,
+              -2.786995310088969e-06,
+              -6.757011760782916e-06
+            ],
+            [
+              8.780962525634095e-05,
+              1.0,
+              -2.445830205033417e-10,
+              99.79193878173828
+            ],
+            [
+              2.7869950827152934e-06,
+              -1.4210854715202004e-13,
+              1.0,
+              4.844740033149719e-05
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            -6.757011760782916e-06,
+            99.79193878173828,
+            4.844740033149719e-05
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        },
+        "root_motion": {
+          "bone": "NocturneRoot",
+          "offset_bone_local_authoring_units": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "bone_rest_matrix_armature_local_row_major": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              -7.549789415861596e-08,
+              0.0
+            ],
+            [
+              0.0,
+              7.549789415861596e-08,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "rest_point_armature_local": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "status": "authored attachment; effect direction and collision still require engine review"
+        }
+      },
+      "root_motion_bone": "NocturneRoot",
+      "root_extraction": "Use accumulated root transform; subtract the clip first-frame transform. Apply final displacement to actor once, then reset animation root at a state transition. A looping travel clip wraps its sampled root; accumulate cycle displacement rather than teleporting actor back.",
+      "root_rotation": "Cinder turns authored 45 degrees; Sentinel turns 90 degrees. Paired frontal victim begins rotated 180 degrees. Extract yaw as well as translation for turning clips.",
+      "bounds_and_collision": "Mesh bounds are art bounds. Collision capsules, hurtboxes and swept weapon hitboxes are not supplied or validated."
+    }
+  ],
+  "gameplay_code_required": [
+    "stamina costs and regeneration",
+    "target selection and lock-on camera",
+    "dodge/parry invulnerability and cancel rules",
+    "hurtboxes, swept hit detection, damage and stagger",
+    "projectile spawning, trajectories, ammo and reload state",
+    "weapon attachment and switching state",
+    "root-motion controller and blending",
+    "paired-animation synchronization and collision suppression",
+    "swimming movement, water level and buoyancy",
+    "boss phase selection, AI navigation and encounter logic",
+    "ground alignment, foot placement on slopes and physics recovery",
+    "sound/VFX playback bound to authored cues"
+  ],
+  "contact_and_timing_validation": "Per-clip authoring cues and ankle-anchor samples are included. Bone stance drift is measured on reimported benchmark GLBs. This does not validate sole geometry contacts, damage windows, invulnerability or effect direction in a game engine."
+}

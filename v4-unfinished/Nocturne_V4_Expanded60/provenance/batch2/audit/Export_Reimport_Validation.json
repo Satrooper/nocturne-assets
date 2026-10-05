@@ -1,0 +1,488 @@
+[
+  {
+    "file": "bosses/Siege_Sentinel/Siege_Sentinel.fbx",
+    "rig_bones": 52,
+    "mesh_count": 1,
+    "triangles": 30463,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.7881393432617188e-07,
+    "missing_texture_paths": [],
+    "action_names": [
+      "Brace",
+      "Cannon_Burst",
+      "Charge_RootMotion",
+      "Death_RootMotion",
+      "Ground_Slam",
+      "Hit_Back",
+      "Hit_Front",
+      "Hit_Left",
+      "Hit_Right",
+      "Hydraulic_Backhand",
+      "Idle_Breathe",
+      "Piston_Punch_Left",
+      "Piston_Punch_Right",
+      "Run_InPlace",
+      "Run_RootMotion",
+      "Stagger",
+      "Threat_Scan",
+      "Turn_Left",
+      "Turn_Right",
+      "Walk_InPlace",
+      "Walk_RootMotion"
+    ],
+    "expected_actions_present": true,
+    "sampled_motion": [
+      {
+        "name": "Rig|Rig|Brace",
+        "sampled_joint_movement_m": 1.2251532058065513
+      },
+      {
+        "name": "Rig|Rig|Cannon_Burst",
+        "sampled_joint_movement_m": 0.029101785157400396
+      },
+      {
+        "name": "Rig|Rig|Charge_RootMotion",
+        "sampled_joint_movement_m": 2.400000452995375
+      },
+      {
+        "name": "Rig|Rig|Death_RootMotion",
+        "sampled_joint_movement_m": 5.370911594776919
+      },
+      {
+        "name": "Rig|Rig|Ground_Slam",
+        "sampled_joint_movement_m": 1.9008782259154202
+      },
+      {
+        "name": "Rig|Rig|Hit_Back",
+        "sampled_joint_movement_m": 0.26048678874210185
+      },
+      {
+        "name": "Rig|Rig|Hit_Front",
+        "sampled_joint_movement_m": 0.26048697868004106
+      },
+      {
+        "name": "Rig|Rig|Hit_Left",
+        "sampled_joint_movement_m": 0.27750814268009943
+      },
+      {
+        "name": "Rig|Rig|Hit_Right",
+        "sampled_joint_movement_m": 0.2775081615333191
+      },
+      {
+        "name": "Rig|Rig|Hydraulic_Backhand",
+        "sampled_joint_movement_m": 2.5422139623147078
+      },
+      {
+        "name": "Rig|Rig|Idle_Breathe",
+        "sampled_joint_movement_m": 0.031028810018871842
+      },
+      {
+        "name": "Rig|Rig|Piston_Punch_Left",
+        "sampled_joint_movement_m": 2.342545992322048
+      },
+      {
+        "name": "Rig|Rig|Piston_Punch_Right",
+        "sampled_joint_movement_m": 2.342545277040177
+      },
+      {
+        "name": "Rig|Rig|Run_InPlace",
+        "sampled_joint_movement_m": 0.4458219365726465
+      },
+      {
+        "name": "Rig|Rig|Run_RootMotion",
+        "sampled_joint_movement_m": 1.6200001984834858
+      },
+      {
+        "name": "Rig|Rig|Stagger",
+        "sampled_joint_movement_m": 0.4234233019317035
+      },
+      {
+        "name": "Rig|Rig|Threat_Scan",
+        "sampled_joint_movement_m": 0.02527379725858761
+      },
+      {
+        "name": "Rig|Rig|Turn_Left",
+        "sampled_joint_movement_m": 1.247934662509628
+      },
+      {
+        "name": "Rig|Rig|Turn_Right",
+        "sampled_joint_movement_m": 1.2479348251792768
+      },
+      {
+        "name": "Rig|Rig|Walk_InPlace",
+        "sampled_joint_movement_m": 0.6479974687145785
+      },
+      {
+        "name": "Rig|Rig|Walk_RootMotion",
+        "sampled_joint_movement_m": 1.2960018858182647
+      }
+    ],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "bosses/Siege_Sentinel/Siege_Sentinel_LOD1.fbx",
+    "rig_bones": 52,
+    "mesh_count": 1,
+    "triangles": 16754,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.7881393432617188e-07,
+    "missing_texture_paths": [],
+    "action_names": [],
+    "expected_actions_present": null,
+    "sampled_motion": [],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "bosses/Siege_Sentinel/Siege_Sentinel_LOD2.fbx",
+    "rig_bones": 52,
+    "mesh_count": 1,
+    "triangles": 8529,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.1920928955078125e-07,
+    "missing_texture_paths": [],
+    "action_names": [],
+    "expected_actions_present": null,
+    "sampled_motion": [],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "bosses/Siege_Sentinel/Siege_Sentinel.glb",
+    "rig_bones": 52,
+    "mesh_count": 1,
+    "triangles": 30463,
+    "finite_vertices": true,
+    "max_weight_sum_error": 2.9802322387695312e-08,
+    "missing_texture_paths": [],
+    "action_names": [
+      "Brace",
+      "Cannon_Burst",
+      "Charge_RootMotion",
+      "Death_RootMotion",
+      "Ground_Slam",
+      "Hit_Back",
+      "Hit_Front",
+      "Hit_Left",
+      "Hit_Right",
+      "Hydraulic_Backhand",
+      "Idle_Breathe",
+      "Piston_Punch_Left",
+      "Piston_Punch_Right",
+      "Run_InPlace",
+      "Run_RootMotion",
+      "Stagger",
+      "Threat_Scan",
+      "Turn_Left",
+      "Turn_Right",
+      "Walk_InPlace",
+      "Walk_RootMotion"
+    ],
+    "expected_actions_present": true,
+    "sampled_motion": [
+      {
+        "name": "Brace_Rig",
+        "sampled_joint_movement_m": 1.2251530462233815
+      },
+      {
+        "name": "Cannon_Burst_Rig",
+        "sampled_joint_movement_m": 0.029101751993077848
+      },
+      {
+        "name": "Charge_RootMotion_Rig",
+        "sampled_joint_movement_m": 2.4000004529953216
+      },
+      {
+        "name": "Death_RootMotion_Rig",
+        "sampled_joint_movement_m": 5.370909528049043
+      },
+      {
+        "name": "Ground_Slam_Rig",
+        "sampled_joint_movement_m": 2.317044236800268
+      },
+      {
+        "name": "Hit_Back_Rig",
+        "sampled_joint_movement_m": 0.2604868517645672
+      },
+      {
+        "name": "Hit_Front_Rig",
+        "sampled_joint_movement_m": 0.2604867727656114
+      },
+      {
+        "name": "Hit_Left_Rig",
+        "sampled_joint_movement_m": 0.27750804445116445
+      },
+      {
+        "name": "Hit_Right_Rig",
+        "sampled_joint_movement_m": 0.2775081549624179
+      },
+      {
+        "name": "Hydraulic_Backhand_Rig",
+        "sampled_joint_movement_m": 2.5422146456282317
+      },
+      {
+        "name": "Idle_Breathe_Rig",
+        "sampled_joint_movement_m": 0.031097003653439533
+      },
+      {
+        "name": "Piston_Punch_Left_Rig",
+        "sampled_joint_movement_m": 2.342545819921172
+      },
+      {
+        "name": "Piston_Punch_Right_Rig",
+        "sampled_joint_movement_m": 2.342547061340678
+      },
+      {
+        "name": "Run_InPlace_Rig",
+        "sampled_joint_movement_m": 0.4458221024811683
+      },
+      {
+        "name": "Run_RootMotion_Rig",
+        "sampled_joint_movement_m": 1.6200003027922314
+      },
+      {
+        "name": "Stagger_Rig",
+        "sampled_joint_movement_m": 0.4234227422635852
+      },
+      {
+        "name": "Threat_Scan_Rig",
+        "sampled_joint_movement_m": 0.025273792494507546
+      },
+      {
+        "name": "Turn_Left_Rig",
+        "sampled_joint_movement_m": 1.2479369933479036
+      },
+      {
+        "name": "Turn_Right_Rig",
+        "sampled_joint_movement_m": 1.2479368388511063
+      },
+      {
+        "name": "Walk_InPlace_Rig",
+        "sampled_joint_movement_m": 0.6479986608093682
+      },
+      {
+        "name": "Walk_RootMotion_Rig",
+        "sampled_joint_movement_m": 1.2960026606953574
+      }
+    ],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Bastion_Rifle/Bastion_Rifle.fbx",
+    "rig_bones": 9,
+    "mesh_count": 1,
+    "triangles": 19600,
+    "finite_vertices": true,
+    "max_weight_sum_error": 4.76837158203125e-07,
+    "missing_texture_paths": [],
+    "action_names": [
+      "Mechanical_Fire",
+      "Mechanical_Reload"
+    ],
+    "expected_actions_present": true,
+    "sampled_motion": [
+      {
+        "name": "Bastion_Rifle_Rig|Bastion_Rifle_Rig|Mechanical_Fire",
+        "sampled_joint_movement_m": 0.027955553494393826
+      },
+      {
+        "name": "Bastion_Rifle_Rig|Bastion_Rifle_Rig|Mechanical_Reload",
+        "sampled_joint_movement_m": 0.1619413405380377
+      }
+    ],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Bastion_Rifle/Bastion_Rifle_LOD1.fbx",
+    "rig_bones": 9,
+    "mesh_count": 1,
+    "triangles": 11760,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.7881393432617188e-07,
+    "missing_texture_paths": [],
+    "action_names": [],
+    "expected_actions_present": null,
+    "sampled_motion": [],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Bastion_Rifle/Bastion_Rifle_LOD2.fbx",
+    "rig_bones": 9,
+    "mesh_count": 1,
+    "triangles": 5880,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.7881393432617188e-07,
+    "missing_texture_paths": [],
+    "action_names": [],
+    "expected_actions_present": null,
+    "sampled_motion": [],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Bastion_Rifle/Bastion_Rifle.glb",
+    "rig_bones": 9,
+    "mesh_count": 1,
+    "triangles": 19600,
+    "finite_vertices": true,
+    "max_weight_sum_error": 0.0,
+    "missing_texture_paths": [],
+    "action_names": [
+      "Mechanical_Fire",
+      "Mechanical_Reload"
+    ],
+    "expected_actions_present": true,
+    "sampled_motion": [
+      {
+        "name": "Mechanical_Fire_Bastion_Rifle_Rig",
+        "sampled_joint_movement_m": 0.027955541387204366
+      },
+      {
+        "name": "Mechanical_Reload_Bastion_Rifle_Rig",
+        "sampled_joint_movement_m": 0.16194128440840616
+      }
+    ],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Gravesong_Sword/Gravesong_Sword.fbx",
+    "rig_bones": 11,
+    "mesh_count": 1,
+    "triangles": 10680,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.7881393432617188e-07,
+    "missing_texture_paths": [],
+    "action_names": [],
+    "expected_actions_present": true,
+    "sampled_motion": [],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Gravesong_Sword/Gravesong_Sword_LOD1.fbx",
+    "rig_bones": 11,
+    "mesh_count": 1,
+    "triangles": 6408,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.1920928955078125e-07,
+    "missing_texture_paths": [],
+    "action_names": [],
+    "expected_actions_present": null,
+    "sampled_motion": [],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Gravesong_Sword/Gravesong_Sword_LOD2.fbx",
+    "rig_bones": 11,
+    "mesh_count": 1,
+    "triangles": 3204,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.7881393432617188e-07,
+    "missing_texture_paths": [],
+    "action_names": [],
+    "expected_actions_present": null,
+    "sampled_motion": [],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Gravesong_Sword/Gravesong_Sword.glb",
+    "rig_bones": 11,
+    "mesh_count": 1,
+    "triangles": 10680,
+    "finite_vertices": true,
+    "max_weight_sum_error": 0.0,
+    "missing_texture_paths": [],
+    "action_names": [],
+    "expected_actions_present": true,
+    "sampled_motion": [],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Vesper_Pistol/Vesper_Pistol.fbx",
+    "rig_bones": 9,
+    "mesh_count": 1,
+    "triangles": 12216,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.7881393432617188e-07,
+    "missing_texture_paths": [],
+    "action_names": [
+      "Mechanical_Fire",
+      "Mechanical_Reload"
+    ],
+    "expected_actions_present": true,
+    "sampled_motion": [
+      {
+        "name": "Vesper_Pistol_Rig|Vesper_Pistol_Rig|Mechanical_Fire",
+        "sampled_joint_movement_m": 0.0279555544257164
+      },
+      {
+        "name": "Vesper_Pistol_Rig|Vesper_Pistol_Rig|Mechanical_Reload",
+        "sampled_joint_movement_m": 0.1619413405380377
+      }
+    ],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Vesper_Pistol/Vesper_Pistol_LOD1.fbx",
+    "rig_bones": 9,
+    "mesh_count": 1,
+    "triangles": 7328,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.7881393432617188e-07,
+    "missing_texture_paths": [],
+    "action_names": [],
+    "expected_actions_present": null,
+    "sampled_motion": [],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Vesper_Pistol/Vesper_Pistol_LOD2.fbx",
+    "rig_bones": 9,
+    "mesh_count": 1,
+    "triangles": 3664,
+    "finite_vertices": true,
+    "max_weight_sum_error": 1.1920928955078125e-07,
+    "missing_texture_paths": [],
+    "action_names": [],
+    "expected_actions_present": null,
+    "sampled_motion": [],
+    "structural_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Vesper_Pistol/Vesper_Pistol.glb",
+    "rig_bones": 9,
+    "mesh_count": 1,
+    "triangles": 12216,
+    "finite_vertices": true,
+    "max_weight_sum_error": 0.0,
+    "missing_texture_paths": [],
+    "action_names": [
+      "Mechanical_Fire",
+      "Mechanical_Reload"
+    ],
+    "expected_actions_present": true,
+    "sampled_motion": [
+      {
+        "name": "Mechanical_Fire_Vesper_Pistol_Rig",
+        "sampled_joint_movement_m": 0.027955545976892527
+      },
+      {
+        "name": "Mechanical_Reload_Vesper_Pistol_Rig",
+        "sampled_joint_movement_m": 0.16194128274061895
+      }
+    ],
+    "structural_passed": true,
+    "engine_tested": false
+  }
+]

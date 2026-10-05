@@ -1,0 +1,356 @@
+[
+  {
+    "file": "textures/abyss_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/abyss_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/abyss_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/bark_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/bark_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/bark_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/bone_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/bone_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/bone_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/chitin_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/chitin_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/chitin_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/cinder_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/cinder_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/cinder_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/cloth_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/cloth_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/cloth_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/crimson_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/crimson_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/crimson_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/dune_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/dune_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/dune_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/flesh_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/flesh_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/flesh_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/frost_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/frost_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/frost_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/iron_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/iron_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/iron_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/leather_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/leather_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/leather_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/metal_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/metal_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/metal_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/moon_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/moon_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/moon_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/obsidian_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/obsidian_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/obsidian_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/storm_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/storm_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/storm_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "textures/thorn_basecolor.png",
+    "passed": true
+  },
+  {
+    "file": "textures/thorn_normal.png",
+    "passed": true
+  },
+  {
+    "file": "textures/thorn_roughness.png",
+    "passed": true
+  },
+  {
+    "file": "bosses/Abyss_Maw/Abyss_Maw.glb",
+    "embedded_images_verified": 6,
+    "passed": true
+  },
+  {
+    "file": "bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.glb",
+    "embedded_images_verified": 3,
+    "passed": true
+  },
+  {
+    "file": "bosses/Crypt_Arachnarch/Crypt_Arachnarch.glb",
+    "embedded_images_verified": 6,
+    "passed": true
+  },
+  {
+    "file": "bosses/Furnace_Titan/Furnace_Titan.glb",
+    "embedded_images_verified": 5,
+    "passed": true
+  },
+  {
+    "file": "bosses/Horned_Regent/Horned_Regent.glb",
+    "embedded_images_verified": 8,
+    "passed": true
+  },
+  {
+    "file": "bosses/Hundredleg/Hundredleg.glb",
+    "embedded_images_verified": 6,
+    "passed": true
+  },
+  {
+    "file": "bosses/Mirror_Colossus/Mirror_Colossus.glb",
+    "embedded_images_verified": 9,
+    "passed": true
+  },
+  {
+    "file": "bosses/Neon_Reaper/Neon_Reaper.glb",
+    "embedded_images_verified": 12,
+    "passed": true
+  },
+  {
+    "file": "bosses/Root_Matriarch/Root_Matriarch.glb",
+    "embedded_images_verified": 6,
+    "passed": true
+  },
+  {
+    "file": "bosses/Siege_Sentinel/Siege_Sentinel.glb",
+    "embedded_images_verified": 3,
+    "passed": true
+  },
+  {
+    "file": "dragons/Cinder_Crown/Cinder_Crown.glb",
+    "embedded_images_verified": 11,
+    "passed": true
+  },
+  {
+    "file": "dragons/Crimson_Vesper/Crimson_Vesper.glb",
+    "embedded_images_verified": 11,
+    "passed": true
+  },
+  {
+    "file": "dragons/Dune_Glasswing/Dune_Glasswing.glb",
+    "embedded_images_verified": 11,
+    "passed": true
+  },
+  {
+    "file": "dragons/Frost_Antler/Frost_Antler.glb",
+    "embedded_images_verified": 11,
+    "passed": true
+  },
+  {
+    "file": "dragons/Iron_Seraph/Iron_Seraph.glb",
+    "embedded_images_verified": 12,
+    "passed": true
+  },
+  {
+    "file": "dragons/Moonveil/Moonveil.glb",
+    "embedded_images_verified": 11,
+    "passed": true
+  },
+  {
+    "file": "dragons/Obsidian_Bastion/Obsidian_Bastion.glb",
+    "embedded_images_verified": 11,
+    "passed": true
+  },
+  {
+    "file": "dragons/Storm_Wyvern/Storm_Wyvern.glb",
+    "embedded_images_verified": 11,
+    "passed": true
+  },
+  {
+    "file": "dragons/Sunken_Leviathan/Sunken_Leviathan.glb",
+    "embedded_images_verified": 11,
+    "passed": true
+  },
+  {
+    "file": "dragons/Thornback/Thornback.glb",
+    "embedded_images_verified": 11,
+    "passed": true
+  },
+  {
+    "file": "enemies/Bamboo_Mantis/Bamboo_Mantis.glb",
+    "embedded_images_verified": 9,
+    "passed": true
+  },
+  {
+    "file": "enemies/Cinder_Hound/Cinder_Hound.glb",
+    "embedded_images_verified": 6,
+    "passed": true
+  },
+  {
+    "file": "enemies/Crimson_Imp/Crimson_Imp.glb",
+    "embedded_images_verified": 8,
+    "passed": true
+  },
+  {
+    "file": "enemies/Crypt_Skitter/Crypt_Skitter.glb",
+    "embedded_images_verified": 6,
+    "passed": true
+  },
+  {
+    "file": "enemies/Moon_Bat/Moon_Bat.glb",
+    "embedded_images_verified": 9,
+    "passed": true
+  },
+  {
+    "file": "enemies/Neon_Wisp/Neon_Wisp.glb",
+    "embedded_images_verified": 2,
+    "passed": true
+  },
+  {
+    "file": "enemies/Razorfin/Razorfin.glb",
+    "embedded_images_verified": 6,
+    "passed": true
+  },
+  {
+    "file": "enemies/Scrapling/Scrapling.glb",
+    "embedded_images_verified": 5,
+    "passed": true
+  },
+  {
+    "file": "enemies/Shard_Crab/Shard_Crab.glb",
+    "embedded_images_verified": 8,
+    "passed": true
+  },
+  {
+    "file": "enemies/Sporeling/Sporeling.glb",
+    "embedded_images_verified": 6,
+    "passed": true
+  }
+]

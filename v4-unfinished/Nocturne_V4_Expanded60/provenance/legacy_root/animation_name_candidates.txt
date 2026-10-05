@@ -1,0 +1,131 @@
+animations/Extras/Stabbing.fbx
+animations/Great Sword Pack/Y Bot.fbx
+animations/Great Sword Pack/draw a great sword 1.fbx
+animations/Great Sword Pack/draw a great sword 2.fbx
+animations/Great Sword Pack/great sword 180 turn (2).fbx
+animations/Great Sword Pack/great sword 180 turn.fbx
+animations/Great Sword Pack/great sword attack.fbx
+animations/Great Sword Pack/great sword blocking (2).fbx
+animations/Great Sword Pack/great sword blocking (3).fbx
+animations/Great Sword Pack/great sword blocking.fbx
+animations/Great Sword Pack/great sword casting.fbx
+animations/Great Sword Pack/great sword crouching (2).fbx
+animations/Great Sword Pack/great sword crouching (3).fbx
+animations/Great Sword Pack/great sword crouching (4).fbx
+animations/Great Sword Pack/great sword crouching (5).fbx
+animations/Great Sword Pack/great sword crouching (6).fbx
+animations/Great Sword Pack/great sword crouching.fbx
+animations/Great Sword Pack/great sword high spin attack.fbx
+animations/Great Sword Pack/great sword idle (2).fbx
+animations/Great Sword Pack/great sword idle (3).fbx
+animations/Great Sword Pack/great sword idle (4).fbx
+animations/Great Sword Pack/great sword idle (5).fbx
+animations/Great Sword Pack/great sword idle.fbx
+animations/Great Sword Pack/great sword impact (2).fbx
+animations/Great Sword Pack/great sword impact (3).fbx
+animations/Great Sword Pack/great sword impact (4).fbx
+animations/Great Sword Pack/great sword impact (5).fbx
+animations/Great Sword Pack/great sword impact.fbx
+animations/Great Sword Pack/great sword jump (2).fbx
+animations/Great Sword Pack/great sword jump attack.fbx
+animations/Great Sword Pack/great sword jump.fbx
+animations/Great Sword Pack/great sword kick (2).fbx
+animations/Great Sword Pack/great sword kick.fbx
+animations/Great Sword Pack/great sword power up.fbx
+animations/Great Sword Pack/great sword run (2).fbx
+animations/Great Sword Pack/great sword run.fbx
+animations/Great Sword Pack/great sword slash (2).fbx
+animations/Great Sword Pack/great sword slash (3).fbx
+animations/Great Sword Pack/great sword slash (4).fbx
+animations/Great Sword Pack/great sword slash (5).fbx
+animations/Great Sword Pack/great sword slash.fbx
+animations/Great Sword Pack/great sword slide attack.fbx
+animations/Great Sword Pack/great sword strafe (2).fbx
+animations/Great Sword Pack/great sword strafe (3).fbx
+animations/Great Sword Pack/great sword strafe (4).fbx
+animations/Great Sword Pack/great sword strafe.fbx
+animations/Great Sword Pack/great sword turn (2).fbx
+animations/Great Sword Pack/great sword turn.fbx
+animations/Great Sword Pack/great sword walk (2).fbx
+animations/Great Sword Pack/great sword walk.fbx
+animations/Great Sword Pack/spell cast.fbx
+animations/Great Sword Pack/two handed sword death (2).fbx
+animations/Great Sword Pack/two handed sword death.fbx
+animations/Not So Scary Zombie Pack/zombie reaction hit (2).fbx
+animations/Not So Scary Zombie Pack/zombie reaction hit.fbx
+animations/Not So Scary Zombie Pack/zombie stand up (2).fbx
+animations/Not So Scary Zombie Pack/zombie stand up (3).fbx
+animations/Not So Scary Zombie Pack/zombie stand up.fbx
+animations/Pistol_Handgun Locomotion Pack/Y Bot.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol idle.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol jump (2).fbx
+animations/Pistol_Handgun Locomotion Pack/pistol jump.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol kneel to stand.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol kneeling idle.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol run arc (2).fbx
+animations/Pistol_Handgun Locomotion Pack/pistol run arc.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol run backward arc (2).fbx
+animations/Pistol_Handgun Locomotion Pack/pistol run backward arc.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol run backward.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol run.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol stand to kneel.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol strafe (2).fbx
+animations/Pistol_Handgun Locomotion Pack/pistol strafe.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol walk arc (2).fbx
+animations/Pistol_Handgun Locomotion Pack/pistol walk arc.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol walk backward arc (2).fbx
+animations/Pistol_Handgun Locomotion Pack/pistol walk backward arc.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol walk backward.fbx
+animations/Pistol_Handgun Locomotion Pack/pistol walk.fbx
+animations/Pro Sword and Shield Pack/Y Bot.fbx
+animations/Pro Sword and Shield Pack/draw sword 1.fbx
+animations/Pro Sword and Shield Pack/draw sword 2.fbx
+animations/Pro Sword and Shield Pack/sheath sword 1.fbx
+animations/Pro Sword and Shield Pack/sheath sword 2.fbx
+animations/Pro Sword and Shield Pack/sword and shield 180 turn (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield 180 turn.fbx
+animations/Pro Sword and Shield Pack/sword and shield attack (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield attack (3).fbx
+animations/Pro Sword and Shield Pack/sword and shield attack (4).fbx
+animations/Pro Sword and Shield Pack/sword and shield attack.fbx
+animations/Pro Sword and Shield Pack/sword and shield block (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield block idle.fbx
+animations/Pro Sword and Shield Pack/sword and shield block.fbx
+animations/Pro Sword and Shield Pack/sword and shield casting (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield casting.fbx
+animations/Pro Sword and Shield Pack/sword and shield crouch block (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield crouch block idle.fbx
+animations/Pro Sword and Shield Pack/sword and shield crouch block.fbx
+animations/Pro Sword and Shield Pack/sword and shield crouch idle.fbx
+animations/Pro Sword and Shield Pack/sword and shield crouch.fbx
+animations/Pro Sword and Shield Pack/sword and shield crouching (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield crouching (3).fbx
+animations/Pro Sword and Shield Pack/sword and shield crouching.fbx
+animations/Pro Sword and Shield Pack/sword and shield death (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield death.fbx
+animations/Pro Sword and Shield Pack/sword and shield idle (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield idle (3).fbx
+animations/Pro Sword and Shield Pack/sword and shield idle (4).fbx
+animations/Pro Sword and Shield Pack/sword and shield idle.fbx
+animations/Pro Sword and Shield Pack/sword and shield impact (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield impact (3).fbx
+animations/Pro Sword and Shield Pack/sword and shield impact.fbx
+animations/Pro Sword and Shield Pack/sword and shield jump (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield jump.fbx
+animations/Pro Sword and Shield Pack/sword and shield kick.fbx
+animations/Pro Sword and Shield Pack/sword and shield power up.fbx
+animations/Pro Sword and Shield Pack/sword and shield run (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield run.fbx
+animations/Pro Sword and Shield Pack/sword and shield slash (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield slash (3).fbx
+animations/Pro Sword and Shield Pack/sword and shield slash (4).fbx
+animations/Pro Sword and Shield Pack/sword and shield slash (5).fbx
+animations/Pro Sword and Shield Pack/sword and shield slash.fbx
+animations/Pro Sword and Shield Pack/sword and shield strafe (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield strafe (3).fbx
+animations/Pro Sword and Shield Pack/sword and shield strafe (4).fbx
+animations/Pro Sword and Shield Pack/sword and shield strafe.fbx
+animations/Pro Sword and Shield Pack/sword and shield turn (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield turn.fbx
+animations/Pro Sword and Shield Pack/sword and shield walk (2).fbx
+animations/Pro Sword and Shield Pack/sword and shield walk.fbx

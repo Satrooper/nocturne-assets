@@ -1,0 +1,769 @@
+[
+  {
+    "file": "nocturne-v4/dragons/Cinder_Crown/Cinder_Crown.blend",
+    "actions": [
+      {
+        "name": "Bite_InPlace",
+        "frame_range": [
+          1.0,
+          51.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Bite_Lunge_RootMotion",
+        "frame_range": [
+          1.0,
+          51.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Breath_Exhale",
+        "frame_range": [
+          1.0,
+          91.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Claw_Swipe_Left",
+        "frame_range": [
+          1.0,
+          49.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Claw_Swipe_Right",
+        "frame_range": [
+          1.0,
+          49.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Death_RootMotion",
+        "frame_range": [
+          1.0,
+          73.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Flight_Glide_InPlace",
+        "frame_range": [
+          1.0,
+          61.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Flight_Hover_InPlace",
+        "frame_range": [
+          1.0,
+          61.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Flight_Landing_RootMotion",
+        "frame_range": [
+          1.0,
+          73.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Flight_Takeoff_RootMotion",
+        "frame_range": [
+          1.0,
+          73.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Hit_Back",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Hit_Front",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Hit_Left",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Hit_Right",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Idle_Breathe",
+        "frame_range": [
+          1.0,
+          91.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Run_InPlace",
+        "frame_range": [
+          1.0,
+          37.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Run_RootMotion",
+        "frame_range": [
+          1.0,
+          37.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Stagger",
+        "frame_range": [
+          1.0,
+          40.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Swim_Cruise_InPlace",
+        "frame_range": [
+          1.0,
+          61.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Swim_Cruise_RootMotion",
+        "frame_range": [
+          1.0,
+          61.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Tail_Sweep",
+        "frame_range": [
+          1.0,
+          61.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Threat_Roar",
+        "frame_range": [
+          1.0,
+          67.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Turn_Left",
+        "frame_range": [
+          1.0,
+          43.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Turn_Right",
+        "frame_range": [
+          1.0,
+          43.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Walk_InPlace",
+        "frame_range": [
+          1.0,
+          73.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Walk_RootMotion",
+        "frame_range": [
+          1.0,
+          73.0
+        ],
+        "fcurves": 351
+      },
+      {
+        "name": "Wing_Slam",
+        "frame_range": [
+          1.0,
+          58.0
+        ],
+        "fcurves": 351
+      }
+    ]
+  },
+  {
+    "file": "nocturne-v4/bosses/Siege_Sentinel/Siege_Sentinel.blend",
+    "actions": [
+      {
+        "name": "Brace",
+        "frame_range": [
+          1.0,
+          43.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Cannon_Burst",
+        "frame_range": [
+          1.0,
+          51.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Charge_RootMotion",
+        "frame_range": [
+          1.0,
+          49.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Death_RootMotion",
+        "frame_range": [
+          1.0,
+          73.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Ground_Slam",
+        "frame_range": [
+          1.0,
+          58.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Hit_Back",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Hit_Front",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Hit_Left",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Hit_Right",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Hydraulic_Backhand",
+        "frame_range": [
+          1.0,
+          46.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Idle_Breathe",
+        "frame_range": [
+          1.0,
+          91.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Piston_Punch_Left",
+        "frame_range": [
+          1.0,
+          35.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Piston_Punch_Right",
+        "frame_range": [
+          1.0,
+          35.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Run_InPlace",
+        "frame_range": [
+          1.0,
+          37.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Run_RootMotion",
+        "frame_range": [
+          1.0,
+          37.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Stagger",
+        "frame_range": [
+          1.0,
+          40.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Threat_Scan",
+        "frame_range": [
+          1.0,
+          67.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Turn_Left",
+        "frame_range": [
+          1.0,
+          43.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Turn_Right",
+        "frame_range": [
+          1.0,
+          43.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Walk_InPlace",
+        "frame_range": [
+          1.0,
+          73.0
+        ],
+        "fcurves": 468
+      },
+      {
+        "name": "Walk_RootMotion",
+        "frame_range": [
+          1.0,
+          73.0
+        ],
+        "fcurves": 468
+      }
+    ]
+  },
+  {
+    "file": "nocturne-v4/player_animation/Player_Moves.blend",
+    "actions": [
+      {
+        "name": "Backstep_RootMotion",
+        "frame_range": [
+          1.0,
+          16.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Dodge_Backward_InPlace",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Dodge_Backward_RootMotion",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Dodge_Forward_InPlace",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Dodge_Forward_RootMotion",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Dodge_Left_InPlace",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Dodge_Left_RootMotion",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Dodge_Right_InPlace",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Dodge_Right_RootMotion",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "GetUp_From_Back",
+        "frame_range": [
+          1.0,
+          58.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Hit_Back",
+        "frame_range": [
+          1.0,
+          17.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Hit_Front",
+        "frame_range": [
+          1.0,
+          17.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Hit_Left",
+        "frame_range": [
+          1.0,
+          17.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Hit_Right",
+        "frame_range": [
+          1.0,
+          17.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Knockdown_Back_RootMotion",
+        "frame_range": [
+          1.0,
+          33.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Paired_Backstab_Attacker",
+        "frame_range": [
+          1.0,
+          73.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Paired_Backstab_Victim",
+        "frame_range": [
+          1.0,
+          73.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Paired_Frontal_Execution_Attacker",
+        "frame_range": [
+          1.0,
+          73.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Paired_Frontal_Execution_Victim",
+        "frame_range": [
+          1.0,
+          73.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Pistol_Fire",
+        "frame_range": [
+          1.0,
+          14.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Pistol_Fire_Aimed",
+        "frame_range": [
+          1.0,
+          15.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Pistol_Reload_Empty",
+        "frame_range": [
+          1.0,
+          83.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Pistol_Reload_Tactical",
+        "frame_range": [
+          1.0,
+          69.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Swim_Burst_InPlace",
+        "frame_range": [
+          1.0,
+          61.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Swim_Burst_RootMotion",
+        "frame_range": [
+          1.0,
+          61.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Swim_Crawl_InPlace",
+        "frame_range": [
+          1.0,
+          61.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Swim_Crawl_RootMotion",
+        "frame_range": [
+          1.0,
+          61.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Swim_Dive_RootMotion",
+        "frame_range": [
+          1.0,
+          46.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Swim_Idle_InPlace",
+        "frame_range": [
+          1.0,
+          61.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Swim_Tread_InPlace",
+        "frame_range": [
+          1.0,
+          61.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Heavy_Combo_1_InPlace",
+        "frame_range": [
+          1.0,
+          33.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Heavy_Combo_1_RootMotion",
+        "frame_range": [
+          1.0,
+          33.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Heavy_Combo_2_InPlace",
+        "frame_range": [
+          1.0,
+          38.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Heavy_Combo_2_RootMotion",
+        "frame_range": [
+          1.0,
+          38.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Light_Combo_1_InPlace",
+        "frame_range": [
+          1.0,
+          17.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Light_Combo_1_RootMotion",
+        "frame_range": [
+          1.0,
+          17.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Light_Combo_2_InPlace",
+        "frame_range": [
+          1.0,
+          18.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Light_Combo_2_RootMotion",
+        "frame_range": [
+          1.0,
+          18.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Light_Combo_3_InPlace",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Light_Combo_3_RootMotion",
+        "frame_range": [
+          1.0,
+          22.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Parry_Left",
+        "frame_range": [
+          1.0,
+          21.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Parry_Right",
+        "frame_range": [
+          1.0,
+          21.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Riposte_InPlace",
+        "frame_range": [
+          1.0,
+          35.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Sword_Riposte_RootMotion",
+        "frame_range": [
+          1.0,
+          35.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Weapon_Switch_Pistol_To_Sword",
+        "frame_range": [
+          1.0,
+          31.0
+        ],
+        "fcurves": 612
+      },
+      {
+        "name": "Weapon_Switch_Sword_To_Pistol",
+        "frame_range": [
+          1.0,
+          31.0
+        ],
+        "fcurves": 612
+      }
+    ]
+  }
+]

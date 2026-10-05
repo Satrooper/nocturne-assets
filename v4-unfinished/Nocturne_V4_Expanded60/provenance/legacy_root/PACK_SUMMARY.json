@@ -1,0 +1,22 @@
+{
+  "revision": 3,
+  "models": 30,
+  "animation_clips": 656,
+  "animation_note": "v2 bank retained; three wisp tracks adapted for its new floating body",
+  "new_motion_capture_types": 0,
+  "texture_maps": 51,
+  "wav": 66,
+  "effect_atlases": 12,
+  "base_triangle_range": [
+    2034,
+    47328
+  ],
+  "quality_status": "Detailed procedural stylised art; reference AAA realism not achieved",
+  "engine_tested": false,
+  "validation": {
+    "base_models_passed": 30,
+    "lod_models_passed": 60,
+    "texture_and_glb_content_passed": 81,
+    "audio_effects_files_passed": 78
+  }
+}

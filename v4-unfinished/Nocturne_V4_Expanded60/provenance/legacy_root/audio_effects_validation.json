@@ -1,0 +1,446 @@
+[
+  {
+    "file": "wing_whoosh_03.wav",
+    "passed": true,
+    "frames": 81600,
+    "rms": 0.1275166706014041
+  },
+  {
+    "file": "dragon_roar_01.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.20073994617371924
+  },
+  {
+    "file": "ice_fracture_01.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.08152102889966364
+  },
+  {
+    "file": "ice_fracture_03.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.06395699671232233
+  },
+  {
+    "file": "dragon_roar_03.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.18610138906061335
+  },
+  {
+    "file": "water_burst_01.wav",
+    "passed": true,
+    "frames": 81600,
+    "rms": 0.07564925092126953
+  },
+  {
+    "file": "enemy_call_08.wav",
+    "passed": true,
+    "frames": 62400,
+    "rms": 0.25799726427458347
+  },
+  {
+    "file": "boss_growl_10.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.18630829207201324
+  },
+  {
+    "file": "bone_impact_03.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.07948969901809991
+  },
+  {
+    "file": "water_burst_02.wav",
+    "passed": true,
+    "frames": 81600,
+    "rms": 0.07559540735340461
+  },
+  {
+    "file": "claw_scrape_02.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.07357469552053501
+  },
+  {
+    "file": "dragon_roar_08.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.22217168345946647
+  },
+  {
+    "file": "boss_growl_02.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.2232285438871678
+  },
+  {
+    "file": "magic_pulse_02.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.09286213074963809
+  },
+  {
+    "file": "magic_pulse_01.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.11054897057948737
+  },
+  {
+    "file": "dragon_roar_06.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.21283309175411042
+  },
+  {
+    "file": "enemy_call_01.wav",
+    "passed": true,
+    "frames": 62400,
+    "rms": 0.24974880777559832
+  },
+  {
+    "file": "boss_growl_08.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.20004434734470306
+  },
+  {
+    "file": "enemy_call_10.wav",
+    "passed": true,
+    "frames": 62400,
+    "rms": 0.2594930854653148
+  },
+  {
+    "file": "fire_breath_03.wav",
+    "passed": true,
+    "frames": 81600,
+    "rms": 0.18797208373057708
+  },
+  {
+    "file": "ice_fracture_02.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.07981969004472643
+  },
+  {
+    "file": "enemy_call_07.wav",
+    "passed": true,
+    "frames": 62400,
+    "rms": 0.24546527545128136
+  },
+  {
+    "file": "claw_scrape_03.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.07567457383615128
+  },
+  {
+    "file": "boss_growl_09.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.1901118284576465
+  },
+  {
+    "file": "armour_hit_02.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.06273869257178134
+  },
+  {
+    "file": "enemy_call_03.wav",
+    "passed": true,
+    "frames": 62400,
+    "rms": 0.2451721166272471
+  },
+  {
+    "file": "heavy_footstep_02.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.08803686431298778
+  },
+  {
+    "file": "blade_swing_03.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.10462012373046775
+  },
+  {
+    "file": "enemy_call_04.wav",
+    "passed": true,
+    "frames": 62400,
+    "rms": 0.24807577345780218
+  },
+  {
+    "file": "enemy_call_06.wav",
+    "passed": true,
+    "frames": 62400,
+    "rms": 0.2533647165900096
+  },
+  {
+    "file": "boss_growl_06.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.19032805327180394
+  },
+  {
+    "file": "boss_growl_01.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.2258691014441465
+  },
+  {
+    "file": "blade_swing_02.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.12788338191388068
+  },
+  {
+    "file": "enemy_call_09.wav",
+    "passed": true,
+    "frames": 62400,
+    "rms": 0.25757014258647387
+  },
+  {
+    "file": "enemy_call_05.wav",
+    "passed": true,
+    "frames": 62400,
+    "rms": 0.25762537066405194
+  },
+  {
+    "file": "heavy_footstep_01.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.06908499171548547
+  },
+  {
+    "file": "wing_whoosh_01.wav",
+    "passed": true,
+    "frames": 81600,
+    "rms": 0.11638501848913797
+  },
+  {
+    "file": "boss_growl_04.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.21797372617177757
+  },
+  {
+    "file": "water_burst_03.wav",
+    "passed": true,
+    "frames": 81600,
+    "rms": 0.08438691883055148
+  },
+  {
+    "file": "lightning_crack_03.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.06515088426180494
+  },
+  {
+    "file": "armour_hit_01.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.06567965249587493
+  },
+  {
+    "file": "lightning_crack_02.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.07724446365813124
+  },
+  {
+    "file": "wing_whoosh_02.wav",
+    "passed": true,
+    "frames": 81600,
+    "rms": 0.1103097831079392
+  },
+  {
+    "file": "magic_pulse_03.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.10064877696321639
+  },
+  {
+    "file": "armour_hit_03.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.08150996802715543
+  },
+  {
+    "file": "claw_scrape_01.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.07616101507631962
+  },
+  {
+    "file": "dragon_roar_10.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.22924673939759255
+  },
+  {
+    "file": "fire_breath_02.wav",
+    "passed": true,
+    "frames": 81600,
+    "rms": 0.15965035758799423
+  },
+  {
+    "file": "bone_impact_02.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.0786820678718984
+  },
+  {
+    "file": "blade_impact_03.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.07966463087900921
+  },
+  {
+    "file": "boss_growl_03.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.219580130317316
+  },
+  {
+    "file": "enemy_call_02.wav",
+    "passed": true,
+    "frames": 62400,
+    "rms": 0.2576423680624905
+  },
+  {
+    "file": "blade_swing_01.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.0983996283397308
+  },
+  {
+    "file": "dragon_roar_05.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.1882112071179819
+  },
+  {
+    "file": "heavy_footstep_03.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.08515686719064493
+  },
+  {
+    "file": "lightning_crack_01.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.07442217757207988
+  },
+  {
+    "file": "bone_impact_01.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.06882486525761794
+  },
+  {
+    "file": "boss_growl_05.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.18116863752845086
+  },
+  {
+    "file": "blade_impact_01.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.06932592613500345
+  },
+  {
+    "file": "fire_breath_01.wav",
+    "passed": true,
+    "frames": 81600,
+    "rms": 0.1493965023540399
+  },
+  {
+    "file": "dragon_roar_07.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.21180232504001795
+  },
+  {
+    "file": "blade_impact_02.wav",
+    "passed": true,
+    "frames": 40800,
+    "rms": 0.08313401185408113
+  },
+  {
+    "file": "dragon_roar_04.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.19901095006668518
+  },
+  {
+    "file": "boss_growl_07.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.1758154306795306
+  },
+  {
+    "file": "dragon_roar_09.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.23207911828186586
+  },
+  {
+    "file": "dragon_roar_02.wav",
+    "passed": true,
+    "frames": 153600,
+    "rms": 0.20808367439174325
+  },
+  {
+    "file": "ember_burst_atlas.png",
+    "passed": true
+  },
+  {
+    "file": "toxic_cloud_atlas.png",
+    "passed": true
+  },
+  {
+    "file": "shadow_smoke_atlas.png",
+    "passed": true
+  },
+  {
+    "file": "blood_mist_atlas.png",
+    "passed": true
+  },
+  {
+    "file": "lunar_pulse_atlas.png",
+    "passed": true
+  },
+  {
+    "file": "metal_sparks_atlas.png",
+    "passed": true
+  },
+  {
+    "file": "lightning_arc_atlas.png",
+    "passed": true
+  },
+  {
+    "file": "water_splash_atlas.png",
+    "passed": true
+  },
+  {
+    "file": "spore_burst_atlas.png",
+    "passed": true
+  },
+  {
+    "file": "frost_shatter_atlas.png",
+    "passed": true
+  },
+  {
+    "file": "flame_plume_atlas.png",
+    "passed": true
+  },
+  {
+    "file": "dust_impact_atlas.png",
+    "passed": true
+  }
+]

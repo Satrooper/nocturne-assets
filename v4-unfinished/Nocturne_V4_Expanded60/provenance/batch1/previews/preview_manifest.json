@@ -1,0 +1,137 @@
+[
+  {
+    "asset": "Cinder_Crown",
+    "clip": "Bite_Lunge_RootMotion",
+    "duration_s": 1.65,
+    "render_frames": 24,
+    "file": "previews/motion/Cinder_Crown_Bite_Lunge_RootMotion.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Cinder_Crown",
+    "clip": "Flight_Takeoff_RootMotion",
+    "duration_s": 2.4,
+    "render_frames": 24,
+    "file": "previews/motion/Cinder_Crown_Flight_Takeoff_RootMotion.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Cinder_Crown",
+    "clip": "Swim_Cruise_InPlace",
+    "duration_s": 2.0,
+    "render_frames": 24,
+    "file": "previews/motion/Cinder_Crown_Swim_Cruise_InPlace.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Cinder_Crown",
+    "clip": "Walk_RootMotion",
+    "duration_s": 2.4,
+    "render_frames": 24,
+    "file": "previews/motion/Cinder_Crown_Walk_RootMotion.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Cinder_Crown",
+    "rendered_model_sha256": "278cb42a63ba21711bf59a49c887275b6a7bb66ebf936726aedc3244b0870e29",
+    "preview_file": "previews/motion/Cinder_Crown_Motion_Preview.mp4"
+  },
+  {
+    "asset": "Siege_Sentinel",
+    "clip": "Cannon_Burst",
+    "duration_s": 1.65,
+    "render_frames": 24,
+    "file": "previews/motion/Siege_Sentinel_Cannon_Burst.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Siege_Sentinel",
+    "clip": "Ground_Slam",
+    "duration_s": 1.9,
+    "render_frames": 24,
+    "file": "previews/motion/Siege_Sentinel_Ground_Slam.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Siege_Sentinel",
+    "clip": "Piston_Punch_Right",
+    "duration_s": 1.15,
+    "render_frames": 24,
+    "file": "previews/motion/Siege_Sentinel_Piston_Punch_Right.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Siege_Sentinel",
+    "clip": "Walk_RootMotion",
+    "duration_s": 2.4,
+    "render_frames": 24,
+    "file": "previews/motion/Siege_Sentinel_Walk_RootMotion.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Siege_Sentinel",
+    "rendered_model_sha256": "e9cbd7296b437277d302581d6b7337ab9035f5a54b47f14ee63aeb913b5e6cea",
+    "preview_file": "previews/motion/Siege_Sentinel_Motion_Preview.mp4"
+  },
+  {
+    "asset": "Player",
+    "clip": "Dodge_Forward_RootMotion",
+    "duration_s": 0.7,
+    "render_frames": 24,
+    "file": "previews/motion/Player_Dodge_Forward_RootMotion.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Player",
+    "clip": "GetUp_From_Back",
+    "duration_s": 1.9,
+    "render_frames": 24,
+    "file": "previews/motion/Player_GetUp_From_Back.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Player",
+    "clip": "Paired_Backstab",
+    "duration_s": 2.4,
+    "render_frames": 24,
+    "file": "previews/motion/Player_Paired_Backstab.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Player",
+    "clip": "Pistol_Reload_Empty",
+    "duration_s": 2.75,
+    "render_frames": 24,
+    "file": "previews/motion/Player_Pistol_Reload_Empty.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Player",
+    "clip": "Swim_Crawl_RootMotion",
+    "duration_s": 2.0,
+    "render_frames": 24,
+    "file": "previews/motion/Player_Swim_Crawl_RootMotion.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Player",
+    "clip": "Sword_Heavy_Combo_1_RootMotion",
+    "duration_s": 1.05,
+    "render_frames": 24,
+    "file": "previews/motion/Player_Sword_Heavy_Combo_1_RootMotion.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Player",
+    "clip": "Sword_Light_Combo_2_RootMotion",
+    "duration_s": 0.56,
+    "render_frames": 24,
+    "file": "previews/motion/Player_Sword_Light_Combo_2_RootMotion.mp4",
+    "source": "Actual delivered GLB imported into Blender, not concept art. Player has no weapon props."
+  },
+  {
+    "asset": "Player",
+    "rendered_model_sha256": "89a73863530dacb07a1d9fb1980cce651bc50c3466b1866045842d5be5a735c9",
+    "preview_file": "previews/motion/Player_Motion_Preview.mp4"
+  }
+]
