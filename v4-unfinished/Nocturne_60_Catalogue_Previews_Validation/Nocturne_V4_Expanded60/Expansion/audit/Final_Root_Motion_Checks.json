@@ -1,0 +1,3002 @@
+[
+  {
+    "asset": "Basilisk_Crownless",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 34,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.2000000476837158,
+              5.245366807571372e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.2000000476837158,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.1995207071304321,
+              5.2432714170436157e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.2000000476837158,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 34,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              4.107425866095582e-08,
+              -1.2000000476837158,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.2000000476837158,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              4.105785222918712e-08,
+              -1.1995207071304321,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.2000000476837158,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819542,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819556,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Ossuary_Kite",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 26,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.2599999904632568,
+              5.507634881496415e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.2599999904632568,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.259496808052063,
+              5.5054353964578695e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.2599999904632568,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 26,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              4.312796164640531e-08,
+              -1.2599998712539673,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.2599999904632568,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              4.3110745195917843e-08,
+              -1.259496808052063,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.2599999904632568,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819562,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819535,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Sable_Corkscrew",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 26,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.3199999332427979,
+              2.1505529446130822e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.3200000524520874,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.3194726705551147,
+              2.1496938984455483e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.3200000524520874,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015734,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819532,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 26,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              1.1217455408996102e-07,
+              -1.3199998140335083,
+              1.573562542489526e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.3200000524520874,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              1.1212975437047135e-07,
+              -1.3194726705551147,
+              1.5729341384940199e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.3200000524520874,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819576,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819623,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Marrow_Hammerhead",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 32,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.3799999952316284,
+              6.032171739889236e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.3799999952316284,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.3794488906860352,
+              6.029762289472274e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.3799999952316284,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 32,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              4.7235388933586364e-08,
+              -1.3799998760223389,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.3799999952316284,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              4.721652757666561e-08,
+              -1.3794488906860352,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.3799999952316284,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819562,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819535,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Gale_Triptych",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 46,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.440000057220459,
+              6.294440169085647e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.440000057220459,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.4394248723983765,
+              6.291926268886527e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.440000057220459,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 46,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              4.928910257717689e-08,
+              -1.4399999380111694,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.440000057220459,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              4.926941699068266e-08,
+              -1.439424753189087,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.440000057220459,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819562,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819535,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Ashen_Tortoise",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 22,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.5,
+              6.556707887739321e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.5,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.4994009733200073,
+              6.554089537758045e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.5,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 22,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              5.1342819773481096e-08,
+              -1.4999998807907104,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.5,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              5.132232061555442e-08,
+              -1.4994009733200073,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.5,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819542,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819556,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Crescent_Manta",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 20,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.559999942779541,
+              6.818976316935732e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.559999942779541,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.5593769550323486,
+              6.816252806629564e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.559999942779541,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 20,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              5.3396526311644266e-08,
+              -1.5599998235702515,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.559999942779541,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              5.3375199371430426e-08,
+              -1.559376835823059,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.559999942779541,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819562,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819535,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Ivory_Ramwyrm",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 46,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.6200000047683716,
+              7.081244746132143e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.6200000047683716,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.61935293674469,
+              7.078416786043817e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.6200000047683716,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 46,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              5.545023995523479e-08,
+              -1.619999885559082,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.6200000047683716,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              5.542809233816115e-08,
+              -1.6193528175354004,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.6200000047683716,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819562,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819535,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Glass_Needle",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 36,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.6799999475479126,
+              7.343513175328553e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.6799999475479126,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.6793290376663208,
+              7.340580054915335e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.6799999475479126,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 36,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              5.7503957151539e-08,
+              -1.679999828338623,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.6799999475479126,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              5.748099596303291e-08,
+              -1.6793290376663208,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.6799999475479126,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819542,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819556,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Brine_Sawback",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 16,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.7400000095367432,
+              7.605781604524964e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.7400000095367432,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.739305019378662,
+              7.60274403432959e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.7400000095367432,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 16,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              5.955766368970217e-08,
+              -1.7399998903274536,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.7400000095367432,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              5.9533881824336277e-08,
+              -1.739305019378662,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.7400000095367432,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819562,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819535,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Harbour_Dredger",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 30,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -2.5199999809265137,
+              1.1015269052450094e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.5199999809265137,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -2.518993616104126,
+              1.1010870082373003e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.5199999809265137,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015702,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 30,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              8.625592329281062e-08,
+              -2.5199997425079346,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -2.5199999809265137,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              8.622148328640833e-08,
+              -2.518993616104126,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -2.5199999809265137,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819549,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819559,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Vector_Widow",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 25,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -2.6040000915527344,
+              1.1382444853325069e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.6040000915527344,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -2.6029598712921143,
+              1.1377898800901676e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.6040000915527344,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015702,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 25,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              8.913112736763651e-08,
+              -2.6039998531341553,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -2.6040000915527344,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              8.909553628200229e-08,
+              -2.6029598712921143,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -2.6040000915527344,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819549,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819559,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Pendulum_Judge",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 29,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -2.687999963760376,
+              1.1749620654200044e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.687999963760376,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -2.6869263648986816,
+              1.1744928229973084e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.687999963760376,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015702,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 29,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              9.200631723160768e-08,
+              -2.687999725341797,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -2.687999963760376,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              9.196957506674153e-08,
+              -2.6869263648986816,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -2.687999963760376,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819549,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819559,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Gorgon_Priest",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 50,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -2.7720000743865967,
+              1.2116795744532283e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.7720000743865967,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -2.770892858505249,
+              1.2111956948501756e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.7720000743865967,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015702,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 50,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              9.488152130643357e-08,
+              -2.7719998359680176,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -2.7720000743865967,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              9.484362095690813e-08,
+              -2.77089262008667,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -2.7720000743865967,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819549,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819559,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Carrion_Choir",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 26,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -2.8559999465942383,
+              1.2483971545407258e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.8559999465942383,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -2.8548593521118164,
+              1.2478986377573165e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.8559999465942383,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015702,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 26,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              9.775671117040474e-08,
+              -2.85599946975708,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -2.8559999465942383,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              9.771768105792944e-08,
+              -2.8548593521118164,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -2.8559999465942383,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819549,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819559,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Molten_Ram",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 22,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -2.93999981880188,
+              1.2851147346282232e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.940000057220459,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -2.938825845718384,
+              1.2846015806644573e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.940000057220459,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015702,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 22,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              2.4984331048472086e-07,
+              -2.939999580383301,
+              3.504752896787977e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.940000057220459,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              2.4974355028462014e-07,
+              -2.9388256072998047,
+              3.503353411815624e-07
+            ],
+            "expected_m": [
+              0.0,
+              -2.940000057220459,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819655,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819637,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Tidal_Censer",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 31,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -3.0240001678466797,
+              1.3218323147157207e-07
+            ],
+            "expected_m": [
+              0.0,
+              -3.0239999294281006,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -3.022792100906372,
+              1.321304381463051e-07
+            ],
+            "expected_m": [
+              0.0,
+              -3.0239999294281006,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015702,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 31,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              2.5698170702526113e-07,
+              -3.0239996910095215,
+              3.6048891161044594e-07
+            ],
+            "expected_m": [
+              0.0,
+              -3.0239999294281006,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              2.5687907623250794e-07,
+              -3.022791862487793,
+              3.603448988087621e-07
+            ],
+            "expected_m": [
+              0.0,
+              -3.0239999294281006,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819655,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819637,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Gravetusk",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 25,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -3.1080000400543213,
+              1.3585498948032182e-07
+            ],
+            "expected_m": [
+              0.0,
+              -3.1080000400543213,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -3.1067585945129395,
+              1.3580073243701918e-07
+            ],
+            "expected_m": [
+              0.0,
+              -3.1080000400543213,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015702,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 25,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              1.0638230918402769e-07,
+              -3.107999563217163,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -3.1080000400543213,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              1.063398258338566e-07,
+              -3.1067585945129395,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -3.1080000400543213,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819549,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819559,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Rift_Oracle",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 25,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -3.191999912261963,
+              1.3952674748907157e-07
+            ],
+            "expected_m": [
+              0.0,
+              -3.191999912261963,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -3.190725088119507,
+              1.3947102672773326e-07
+            ],
+            "expected_m": [
+              0.0,
+              -3.191999912261963,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015702,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 25,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              1.092574919425715e-07,
+              -3.191999673843384,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -3.191999912261963,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              1.0921387172402319e-07,
+              -3.190725088119507,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -3.191999912261963,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819563,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819545,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Iron_Executioner",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 27,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -3.2759997844696045,
+              1.431984912869666e-07
+            ],
+            "expected_m": [
+              0.0,
+              -3.2760000228881836,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -3.274691343307495,
+              1.4314130680759263e-07
+            ],
+            "expected_m": [
+              0.0,
+              -3.2760000228881836,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015702,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 27,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              1.1213271022825211e-07,
+              -3.2759997844696045,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -3.2760000228881836,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              1.1208792471961715e-07,
+              -3.274691343307495,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -3.2760000228881836,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819549,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819559,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Latch_Leech",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 13,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.1999999284744263,
+              1.9550481056285207e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.2000000476837158,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.1995205879211426,
+              1.9542672191619204e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.2000000476837158,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015734,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819532,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 13,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              1.0197687316804149e-07,
+              -1.1999999284744263,
+              1.4305115314527939e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.2000000476837158,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              1.0193613775300037e-07,
+              -1.1995205879211426,
+              1.4299401129846956e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.2000000476837158,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819576,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819623,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Needle_Tick",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 19,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.2300000190734863,
+              5.3765006668982096e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.2300000190734863,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.2295087575912476,
+              5.3743534067507426e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.2300000190734863,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 19,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              4.2101106600966887e-08,
+              -1.2299998998641968,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.2300000190734863,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              4.2084291607125124e-08,
+              -1.229508638381958,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.2300000190734863,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819562,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819535,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Rag_Pilgrim",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 27,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.2599999904632568,
+              5.507634881496415e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.2599999904632568,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.259496808052063,
+              5.5054353964578695e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.2599999904632568,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 27,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              4.312796164640531e-08,
+              -1.2599998712539673,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.2599999904632568,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              4.3110745195917843e-08,
+              -1.259496808052063,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.2599999904632568,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819562,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819535,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Cable_Eel",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 13,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.2899998426437378,
+              2.101676557231258e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.2899999618530273,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.2894846200942993,
+              2.100837264151778e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.2899999618530273,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015734,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819532,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 13,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              1.0962513385948114e-07,
+              -1.2899998426437378,
+              1.537799789730343e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.2899999618530273,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              1.0958134311067624e-07,
+              -1.2894845008850098,
+              1.5371854544810049e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.2899999618530273,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819576,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819623,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Pollen_Moth",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 49,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.3200000524520874,
+              5.7699033106928255e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.3200000524520874,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.3194727897644043,
+              5.7675986653293876e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.3200000524520874,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 49,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              4.5181678842709516e-08,
+              -1.3199999332427979,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.3200000524520874,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              4.516363460993489e-08,
+              -1.3194727897644043,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.3200000524520874,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819562,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819535,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Bone_Grazer",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 36,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.350000023841858,
+              5.901037525291031e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.350000023841858,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.3494608402252197,
+              5.8986806550365145e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.350000023841858,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 36,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              4.620853388814794e-08,
+              -1.3499999046325684,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.350000023841858,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              4.619008109330025e-08,
+              -1.3494608402252197,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.350000023841858,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819562,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819535,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Ratchet_Rook",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 26,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.3799999952316284,
+              6.032171739889236e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.3799999952316284,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.3794488906860352,
+              6.029762289472274e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.3799999952316284,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 26,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              4.7235388933586364e-08,
+              -1.3799998760223389,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.3799999952316284,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              4.721652757666561e-08,
+              -1.3794488906860352,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.3799999952316284,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819562,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819535,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Quarry_Slug",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 17,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.4099998474121094,
+              2.2971815383243666e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.409999966621399,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.4094367027282715,
+              2.296263943435406e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.409999966621399,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015734,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819532,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 17,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              1.1982281478140067e-07,
+              -1.4099998474121094,
+              1.6808509428756224e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.409999966621399,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              1.1977496683357458e-07,
+              -1.4094367027282715,
+              1.6801796220988763e-07
+            ],
+            "expected_m": [
+              0.0,
+              -1.409999966621399,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819576,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819623,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Lantern_Toad",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 22,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.440000057220459,
+              6.294440169085647e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.440000057220459,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.4394248723983765,
+              6.291926268886527e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.440000057220459,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 22,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              4.928910257717689e-08,
+              -1.4399999380111694,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.440000057220459,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              4.926941699068266e-08,
+              -1.439424753189087,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.440000057220459,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819562,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819535,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "asset": "Reef_Anemone",
+    "revision": "world-to-bone root translation and world-Z yaw corrected",
+    "formats": {
+      "fbx": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 43,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.4700000286102295,
+              6.425574383683852e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.4700000286102295,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              0.0,
+              -1.469412922859192,
+              6.423007903322286e-08
+            ],
+            "expected_m": [
+              0.0,
+              -1.4700000286102295,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 89.99997872015862,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.0000076981944,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      },
+      "glb": {
+        "reimport_passed": true,
+        "clips": 22,
+        "bones": 43,
+        "root_checks": [
+          {
+            "clip": "Advance_RootMotion",
+            "end_displacement_m": [
+              5.0315957622615315e-08,
+              -1.46999990940094,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.4700000286102295,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Attack_Charge_RootMotion",
+            "end_displacement_m": [
+              5.02958670267617e-08,
+              -1.469412922859192,
+              0.0
+            ],
+            "expected_m": [
+              0.0,
+              -1.4700000286102295,
+              0.0
+            ],
+            "unwanted_end_snapback": false,
+            "translation_axis_passed": true
+          },
+          {
+            "clip": "Turn_Left90_RootMotion",
+            "yaw_degrees": 90.00000769819562,
+            "world_Z_yaw_passed": true
+          },
+          {
+            "clip": "Turn_Right90_RootMotion",
+            "yaw_degrees": -90.00000769819535,
+            "world_Z_yaw_passed": true
+          }
+        ]
+      }
+    }
+  }
+]

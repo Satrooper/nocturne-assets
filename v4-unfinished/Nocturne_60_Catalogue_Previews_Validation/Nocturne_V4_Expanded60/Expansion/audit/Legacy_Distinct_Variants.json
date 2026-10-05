@@ -1,0 +1,86 @@
+[
+  {
+    "asset": "Hundredleg",
+    "category": "bosses",
+    "original_preserved": "bosses/Hundredleg/Hundredleg.glb",
+    "candidate_glb": "legacy_distinct_variants/Hundredleg/Hundredleg_Distinct.glb",
+    "candidate_fbx": "legacy_distinct_variants/Hundredleg/Hundredleg_Distinct.fbx",
+    "changes": "Long narrow segmented crawler with radial leg reach; no longer the compact arachnarch shape.",
+    "status": "alternate_prototype_requires_visual_and_animation_review",
+    "canonical_replaced": false,
+    "clips_choreography": "retained; changed proportions require contact and clipping review",
+    "cinematic_approved": false
+  },
+  {
+    "asset": "Crypt_Skitter",
+    "category": "enemies",
+    "original_preserved": "enemies/Crypt_Skitter/Crypt_Skitter.glb",
+    "candidate_glb": "legacy_distinct_variants/Crypt_Skitter/Crypt_Skitter_Distinct.glb",
+    "candidate_fbx": "legacy_distinct_variants/Crypt_Skitter/Crypt_Skitter_Distinct.fbx",
+    "changes": "Broad flattened four-forward-feeding silhouette and raised frontal sensory ridges.",
+    "status": "alternate_prototype_requires_visual_and_animation_review",
+    "canonical_replaced": false,
+    "clips_choreography": "retained; changed proportions require contact and clipping review",
+    "cinematic_approved": false
+  },
+  {
+    "asset": "Razorfin",
+    "category": "enemies",
+    "original_preserved": "enemies/Razorfin/Razorfin.glb",
+    "candidate_glb": "legacy_distinct_variants/Razorfin/Razorfin_Distinct.glb",
+    "candidate_fbx": "legacy_distinct_variants/Razorfin/Razorfin_Distinct.fbx",
+    "changes": "Narrow needlefish body and elongated snout; distinct from broad Abyss Maw.",
+    "status": "alternate_prototype_requires_visual_and_animation_review",
+    "canonical_replaced": false,
+    "clips_choreography": "retained; changed proportions require contact and clipping review",
+    "cinematic_approved": false
+  },
+  {
+    "asset": "Crimson_Imp",
+    "category": "enemies",
+    "original_preserved": "enemies/Crimson_Imp/Crimson_Imp.glb",
+    "candidate_glb": "legacy_distinct_variants/Crimson_Imp/Crimson_Imp_Distinct.glb",
+    "candidate_fbx": "legacy_distinct_variants/Crimson_Imp/Crimson_Imp_Distinct.fbx",
+    "changes": "Lean long-armed imp with curling balance tail; distinct from heavy Horned Regent.",
+    "status": "alternate_prototype_requires_visual_and_animation_review",
+    "canonical_replaced": false,
+    "clips_choreography": "retained; changed proportions require contact and clipping review",
+    "cinematic_approved": false
+  },
+  {
+    "asset": "Sporeling",
+    "category": "enemies",
+    "original_preserved": "enemies/Sporeling/Sporeling.glb",
+    "candidate_glb": "legacy_distinct_variants/Sporeling/Sporeling_Distinct.glb",
+    "candidate_fbx": "legacy_distinct_variants/Sporeling/Sporeling_Distinct.fbx",
+    "changes": "Low mushroom-bodied enemy with broad fleshy umbrella crown; distinct from Root Matriarch.",
+    "status": "alternate_prototype_requires_visual_and_animation_review",
+    "canonical_replaced": false,
+    "clips_choreography": "retained; changed proportions require contact and clipping review",
+    "cinematic_approved": false
+  },
+  {
+    "asset": "Scrapling",
+    "category": "enemies",
+    "original_preserved": "enemies/Scrapling/Scrapling.glb",
+    "candidate_glb": "legacy_distinct_variants/Scrapling/Scrapling_Distinct.glb",
+    "candidate_fbx": "legacy_distinct_variants/Scrapling/Scrapling_Distinct.fbx",
+    "changes": "Low compact worker robot with large independent forearm grippers and elevated dorsal sensor mast.",
+    "status": "alternate_prototype_requires_visual_and_animation_review",
+    "canonical_replaced": false,
+    "clips_choreography": "retained; changed proportions require contact and clipping review",
+    "cinematic_approved": false
+  },
+  {
+    "asset": "Furnace_Titan",
+    "category": "bosses",
+    "original_preserved": "bosses/Furnace_Titan/Furnace_Titan.glb",
+    "candidate_glb": "legacy_distinct_variants/Furnace_Titan/Furnace_Titan_Distinct.glb",
+    "candidate_fbx": "legacy_distinct_variants/Furnace_Titan/Furnace_Titan_Distinct.fbx",
+    "changes": "Broad low-headed furnace frame with paired rear exhaust chambers; distinct from upright Siege Sentinel.",
+    "status": "alternate_prototype_requires_visual_and_animation_review",
+    "canonical_replaced": false,
+    "clips_choreography": "retained; changed proportions require contact and clipping review",
+    "cinematic_approved": false
+  }
+]

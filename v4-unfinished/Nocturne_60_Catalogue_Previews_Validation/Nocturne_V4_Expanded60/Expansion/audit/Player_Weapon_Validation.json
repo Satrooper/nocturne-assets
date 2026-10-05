@@ -1,0 +1,37 @@
+[
+  {
+    "file": "player_handling/Player_With_Firearms.glb",
+    "bones": 86,
+    "clips": 18,
+    "reimport_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "player_animation/Expanded_Player_Moves.glb",
+    "bones": 68,
+    "clips": 46,
+    "reimport_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Sable_Revolver/Sable_Revolver.glb",
+    "bones": 6,
+    "clips": 2,
+    "reimport_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Helix_Carbine/Helix_Carbine.glb",
+    "bones": 6,
+    "clips": 2,
+    "reimport_passed": true,
+    "engine_tested": false
+  },
+  {
+    "file": "weapons/Tidebreaker_Poleaxe/Tidebreaker_Poleaxe.glb",
+    "bones": 4,
+    "clips": 0,
+    "reimport_passed": true,
+    "engine_tested": false
+  }
+]

@@ -1,0 +1,2 @@
+
+Read Completion_Checklist.json and Expansion/audit/Expanded60_Duplicate_Audit.json. Preserve all canonical assets. Next task: manually art-direct and sculpt a reviewed mechanical and organic asset beyond prototype forms, then use that approved standard across the original and expanded roster. Polish all-frame motion/contact and runtime integration afterward. Optional legacy variants require review before promotion.

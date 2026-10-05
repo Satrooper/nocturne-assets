@@ -1,0 +1,1844 @@
+{
+  "external": [
+    {
+      "file": "textures/Ashen_Tortoise_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ashen_Tortoise_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ashen_Tortoise_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ashen_Tortoise_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Basilisk_Crownless_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Basilisk_Crownless_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Basilisk_Crownless_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Basilisk_Crownless_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Bone_Grazer_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Bone_Grazer_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Bone_Grazer_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Bone_Grazer_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Brine_Sawback_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Brine_Sawback_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Brine_Sawback_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Brine_Sawback_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Cable_Eel_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Cable_Eel_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Cable_Eel_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Cable_Eel_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Carrion_Choir_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Carrion_Choir_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Carrion_Choir_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Carrion_Choir_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Crescent_Manta_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Crescent_Manta_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Crescent_Manta_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Crescent_Manta_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Gale_Triptych_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Gale_Triptych_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Gale_Triptych_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Gale_Triptych_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Glass_Needle_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Glass_Needle_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Glass_Needle_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Glass_Needle_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Gorgon_Priest_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Gorgon_Priest_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Gorgon_Priest_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Gorgon_Priest_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Gravetusk_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Gravetusk_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Gravetusk_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Gravetusk_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Harbour_Dredger_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Harbour_Dredger_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Harbour_Dredger_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Harbour_Dredger_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Iron_Executioner_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Iron_Executioner_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Iron_Executioner_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Iron_Executioner_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ivory_Ramwyrm_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ivory_Ramwyrm_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ivory_Ramwyrm_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ivory_Ramwyrm_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Lantern_Toad_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Lantern_Toad_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Lantern_Toad_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Lantern_Toad_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Latch_Leech_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Latch_Leech_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Latch_Leech_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Latch_Leech_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Marrow_Hammerhead_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Marrow_Hammerhead_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Marrow_Hammerhead_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Marrow_Hammerhead_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Molten_Ram_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Molten_Ram_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Molten_Ram_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Molten_Ram_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Needle_Tick_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Needle_Tick_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Needle_Tick_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Needle_Tick_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ossuary_Kite_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ossuary_Kite_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ossuary_Kite_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ossuary_Kite_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Pendulum_Judge_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Pendulum_Judge_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Pendulum_Judge_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Pendulum_Judge_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Pollen_Moth_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Pollen_Moth_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Pollen_Moth_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Pollen_Moth_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Quarry_Slug_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Quarry_Slug_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Quarry_Slug_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Quarry_Slug_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Rag_Pilgrim_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Rag_Pilgrim_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Rag_Pilgrim_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Rag_Pilgrim_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ratchet_Rook_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ratchet_Rook_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ratchet_Rook_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Ratchet_Rook_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Reef_Anemone_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Reef_Anemone_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Reef_Anemone_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Reef_Anemone_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Rift_Oracle_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Rift_Oracle_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Rift_Oracle_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Rift_Oracle_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Sable_Corkscrew_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Sable_Corkscrew_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Sable_Corkscrew_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Sable_Corkscrew_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Tidal_Censer_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Tidal_Censer_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Tidal_Censer_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Tidal_Censer_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Vector_Widow_BaseColor.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Vector_Widow_Height_Source16.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Vector_Widow_Normal.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    {
+      "file": "textures/Vector_Widow_Roughness.png",
+      "decoded": true,
+      "size": [
+        2048,
+        2048
+      ]
+    }
+  ],
+  "glb": [
+    {
+      "file": "bosses/Carrion_Choir/Carrion_Choir.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "bosses/Gorgon_Priest/Gorgon_Priest.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "bosses/Gravetusk/Gravetusk.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "bosses/Harbour_Dredger/Harbour_Dredger.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "bosses/Iron_Executioner/Iron_Executioner.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "bosses/Molten_Ram/Molten_Ram.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "bosses/Pendulum_Judge/Pendulum_Judge.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "bosses/Rift_Oracle/Rift_Oracle.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "bosses/Tidal_Censer/Tidal_Censer.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "bosses/Vector_Widow/Vector_Widow.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "dragons/Ashen_Tortoise/Ashen_Tortoise.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "dragons/Basilisk_Crownless/Basilisk_Crownless.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "dragons/Brine_Sawback/Brine_Sawback.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "dragons/Crescent_Manta/Crescent_Manta.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "dragons/Gale_Triptych/Gale_Triptych.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "dragons/Glass_Needle/Glass_Needle.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "dragons/Ivory_Ramwyrm/Ivory_Ramwyrm.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "dragons/Marrow_Hammerhead/Marrow_Hammerhead.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "dragons/Ossuary_Kite/Ossuary_Kite.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "dragons/Sable_Corkscrew/Sable_Corkscrew.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "enemies/Bone_Grazer/Bone_Grazer.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "enemies/Cable_Eel/Cable_Eel.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "enemies/Lantern_Toad/Lantern_Toad.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "enemies/Latch_Leech/Latch_Leech.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "enemies/Needle_Tick/Needle_Tick.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "enemies/Pollen_Moth/Pollen_Moth.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "enemies/Quarry_Slug/Quarry_Slug.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "enemies/Rag_Pilgrim/Rag_Pilgrim.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "enemies/Ratchet_Rook/Ratchet_Rook.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "enemies/Reef_Anemone/Reef_Anemone.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            2048,
+            2048
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "player_animation/Expanded_Player_Moves.glb",
+      "embedded_images": [],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "player_handling/Player_With_Firearms.glb",
+      "embedded_images": [
+        {
+          "decoded": true,
+          "size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "decoded": true,
+          "size": [
+            1024,
+            1024
+          ]
+        }
+      ],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "weapons/Helix_Carbine/Helix_Carbine.glb",
+      "embedded_images": [],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "weapons/Sable_Revolver/Sable_Revolver.glb",
+      "embedded_images": [],
+      "external_texture_dependency": false
+    },
+    {
+      "file": "weapons/Tidebreaker_Poleaxe/Tidebreaker_Poleaxe.glb",
+      "embedded_images": [],
+      "external_texture_dependency": false
+    }
+  ]
+}

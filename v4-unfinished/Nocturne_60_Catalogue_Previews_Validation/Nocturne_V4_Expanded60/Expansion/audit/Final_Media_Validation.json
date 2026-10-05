@@ -1,0 +1,676 @@
+{
+  "new_audio": [
+    {
+      "file": "audio/Acid_Drip.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 75840,
+      "duration_s": 1.58,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Ashen_Tortoise_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 100800,
+      "duration_s": 2.1,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Ashen_Tortoise_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 46080,
+      "duration_s": 0.96,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Basilisk_Crownless_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 100800,
+      "duration_s": 2.1,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Basilisk_Crownless_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 38400,
+      "duration_s": 0.8,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Blade_Shear.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 33600,
+      "duration_s": 0.7,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Bone_Grazer_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 100800,
+      "duration_s": 2.1,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Bone_Grazer_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 46080,
+      "duration_s": 0.96,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Brine_Sawback_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 152640,
+      "duration_s": 3.18,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Brine_Sawback_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 46080,
+      "duration_s": 0.96,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Cable_Eel_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 139680,
+      "duration_s": 2.91,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Cable_Eel_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 61440,
+      "duration_s": 1.28,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Cable_Tension.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 44160,
+      "duration_s": 0.92,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Carrion_Choir_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 152640,
+      "duration_s": 3.18,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Carrion_Choir_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 53760,
+      "duration_s": 1.12,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Crescent_Manta_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 113760,
+      "duration_s": 2.37,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Crescent_Manta_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 53760,
+      "duration_s": 1.12,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Gale_Triptych_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 152640,
+      "duration_s": 3.18,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Gale_Triptych_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 38400,
+      "duration_s": 0.8,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Glass_Needle_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 139680,
+      "duration_s": 2.91,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Glass_Needle_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 38400,
+      "duration_s": 0.8,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Gorgon_Priest_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 139680,
+      "duration_s": 2.91,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Gorgon_Priest_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 46080,
+      "duration_s": 0.96,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Gravetusk_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 126720,
+      "duration_s": 2.64,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Gravetusk_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 46080,
+      "duration_s": 0.96,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Harbour_Dredger_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 100800,
+      "duration_s": 2.1,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Harbour_Dredger_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 53760,
+      "duration_s": 1.12,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Heavy_Cleaver_Impact.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 38880,
+      "duration_s": 0.81,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Iron_Executioner_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 152640,
+      "duration_s": 3.18,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Iron_Executioner_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 61440,
+      "duration_s": 1.28,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Ivory_Ramwyrm_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 126720,
+      "duration_s": 2.64,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Ivory_Ramwyrm_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 61440,
+      "duration_s": 1.28,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Lantern_Toad_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 139680,
+      "duration_s": 2.91,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Lantern_Toad_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 38400,
+      "duration_s": 0.8,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Latch_Leech_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 100800,
+      "duration_s": 2.1,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Latch_Leech_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 38400,
+      "duration_s": 0.8,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Marrow_Hammerhead_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 139680,
+      "duration_s": 2.91,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Marrow_Hammerhead_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 61440,
+      "duration_s": 1.28,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Molten_Ram_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 100800,
+      "duration_s": 2.1,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Molten_Ram_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 61440,
+      "duration_s": 1.28,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Needle_Tick_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 113760,
+      "duration_s": 2.37,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Needle_Tick_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 46080,
+      "duration_s": 0.96,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Ossuary_Kite_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 113760,
+      "duration_s": 2.37,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Ossuary_Kite_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 46080,
+      "duration_s": 0.96,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Pendulum_Judge_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 126720,
+      "duration_s": 2.64,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Pendulum_Judge_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 38400,
+      "duration_s": 0.8,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Pincer_Snap.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 49440,
+      "duration_s": 1.03,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Pollen_Moth_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 152640,
+      "duration_s": 3.18,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Pollen_Moth_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 38400,
+      "duration_s": 0.8,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Quarry_Slug_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 126720,
+      "duration_s": 2.64,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Quarry_Slug_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 61440,
+      "duration_s": 1.28,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Rag_Pilgrim_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 126720,
+      "duration_s": 2.64,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Rag_Pilgrim_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 53760,
+      "duration_s": 1.12,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Ratchet_Rook_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 113760,
+      "duration_s": 2.37,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Ratchet_Rook_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 53760,
+      "duration_s": 1.12,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Reef_Anemone_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 152640,
+      "duration_s": 3.18,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Reef_Anemone_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 46080,
+      "duration_s": 0.96,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Rift_Oracle_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 139680,
+      "duration_s": 2.91,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Rift_Oracle_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 53760,
+      "duration_s": 1.12,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Sable_Corkscrew_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 126720,
+      "duration_s": 2.64,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Sable_Corkscrew_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 53760,
+      "duration_s": 1.12,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Servo_Start.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 54719,
+      "duration_s": 1.1399791666666668,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Servo_Stop.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 60000,
+      "duration_s": 1.25,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Shell_Scrape.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 70560,
+      "duration_s": 1.47,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Stone_Resonance.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 81120,
+      "duration_s": 1.69,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Tidal_Censer_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 113760,
+      "duration_s": 2.37,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Tidal_Censer_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 38400,
+      "duration_s": 0.8,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Vector_Widow_Call.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 113760,
+      "duration_s": 2.37,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Vector_Widow_Movement.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 61440,
+      "duration_s": 1.28,
+      "synthesized": true
+    },
+    {
+      "file": "audio/Wing_Canopy.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 65279,
+      "duration_s": 1.3599791666666667,
+      "synthesized": true
+    }
+  ],
+  "new_effects": [
+    {
+      "file": "effects/acid_ribbon.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoded": true
+    },
+    {
+      "file": "effects/bioluminescent_trail.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoded": true
+    },
+    {
+      "file": "effects/bone_fragments.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoded": true
+    },
+    {
+      "file": "effects/electric_tether.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoded": true
+    },
+    {
+      "file": "effects/gravity_well.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoded": true
+    },
+    {
+      "file": "effects/ink_ring.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoded": true
+    },
+    {
+      "file": "effects/oil_spray.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoded": true
+    },
+    {
+      "file": "effects/plasma_lattice.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoded": true
+    },
+    {
+      "file": "effects/sand_vortex.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoded": true
+    },
+    {
+      "file": "effects/shield_hex_break.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoded": true
+    },
+    {
+      "file": "effects/sonic_cone.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoded": true
+    },
+    {
+      "file": "effects/steam_vent.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoded": true
+    }
+  ],
+  "audio_exact_byte_groups": [],
+  "effect_exact_byte_groups": []
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "asset": "Hundredleg",
+    "before_source": "bosses/Hundredleg/Hundredleg.glb",
+    "after_source": "legacy_distinct_variants/Hundredleg/Hundredleg_Distinct.glb",
+    "visual_status": "prototype body-plan variation; motion quality not approved",
+    "canonical_replaced": false,
+    "Before_bones": 36,
+    "Before_clips": 20,
+    "After_bones": 36,
+    "After_clips": 20,
+    "fbx_reimport_passed": true,
+    "fbx_clips": 20
+  },
+  {
+    "asset": "Crypt_Skitter",
+    "before_source": "enemies/Crypt_Skitter/Crypt_Skitter.glb",
+    "after_source": "legacy_distinct_variants/Crypt_Skitter/Crypt_Skitter_Distinct.glb",
+    "visual_status": "prototype body-plan variation; motion quality not approved",
+    "canonical_replaced": false,
+    "Before_bones": 30,
+    "Before_clips": 20,
+    "After_bones": 30,
+    "After_clips": 20,
+    "fbx_reimport_passed": true,
+    "fbx_clips": 20
+  },
+  {
+    "asset": "Razorfin",
+    "before_source": "enemies/Razorfin/Razorfin.glb",
+    "after_source": "legacy_distinct_variants/Razorfin/Razorfin_Distinct.glb",
+    "visual_status": "prototype body-plan variation; motion quality not approved",
+    "canonical_replaced": false,
+    "Before_bones": 8,
+    "Before_clips": 24,
+    "After_bones": 8,
+    "After_clips": 24,
+    "fbx_reimport_passed": true,
+    "fbx_clips": 24
+  },
+  {
+    "asset": "Crimson_Imp",
+    "before_source": "enemies/Crimson_Imp/Crimson_Imp.glb",
+    "after_source": "legacy_distinct_variants/Crimson_Imp/Crimson_Imp_Distinct.glb",
+    "visual_status": "prototype body-plan variation; motion quality not approved",
+    "canonical_replaced": false,
+    "Before_bones": 18,
+    "Before_clips": 20,
+    "After_bones": 18,
+    "After_clips": 20,
+    "fbx_reimport_passed": true,
+    "fbx_clips": 20
+  },
+  {
+    "asset": "Sporeling",
+    "before_source": "enemies/Sporeling/Sporeling.glb",
+    "after_source": "legacy_distinct_variants/Sporeling/Sporeling_Distinct.glb",
+    "visual_status": "prototype body-plan variation; motion quality not approved",
+    "canonical_replaced": false,
+    "Before_bones": 18,
+    "Before_clips": 20,
+    "After_bones": 18,
+    "After_clips": 20,
+    "fbx_reimport_passed": true,
+    "fbx_clips": 20
+  },
+  {
+    "asset": "Scrapling",
+    "before_source": "enemies/Scrapling/Scrapling.glb",
+    "after_source": "legacy_distinct_variants/Scrapling/Scrapling_Distinct.glb",
+    "visual_status": "prototype body-plan variation; motion quality not approved",
+    "canonical_replaced": false,
+    "Before_bones": 18,
+    "Before_clips": 20,
+    "After_bones": 18,
+    "After_clips": 20,
+    "fbx_reimport_passed": true,
+    "fbx_clips": 20
+  },
+  {
+    "asset": "Furnace_Titan",
+    "before_source": "bosses/Furnace_Titan/Furnace_Titan.glb",
+    "after_source": "legacy_distinct_variants/Furnace_Titan/Furnace_Titan_Distinct.glb",
+    "visual_status": "prototype body-plan variation; motion quality not approved",
+    "canonical_replaced": false,
+    "Before_bones": 18,
+    "Before_clips": 20,
+    "After_bones": 18,
+    "After_clips": 20,
+    "fbx_reimport_passed": true,
+    "fbx_clips": 20
+  }
+]

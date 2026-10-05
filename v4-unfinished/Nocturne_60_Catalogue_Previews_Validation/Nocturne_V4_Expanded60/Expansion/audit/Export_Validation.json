@@ -1,0 +1,2042 @@
+[
+  {
+    "asset": "Basilisk_Crownless",
+    "source_glb": "dragons/Basilisk_Crownless/Basilisk_Crownless.glb",
+    "source_fbx": "dragons/Basilisk_Crownless/Basilisk_Crownless.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 34,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.3161954879760742,
+            -1.509710669517517,
+            0.10819107294082642
+          ],
+          [
+            1.3161954879760742,
+            3.4254961013793945,
+            1.2896798849105835
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 34,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.3161958456039429,
+            -1.5097109079360962,
+            0.10819052904844284
+          ],
+          [
+            1.3161957263946533,
+            3.4254965782165527,
+            1.2896801233291626
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Basilisk_Crownless_Rig",
+      "frames": [
+        "previews/characters/Basilisk_Crownless/Motion_0.jpg",
+        "previews/characters/Basilisk_Crownless/Motion_1.jpg",
+        "previews/characters/Basilisk_Crownless/Motion_2.jpg",
+        "previews/characters/Basilisk_Crownless/Motion_3.jpg",
+        "previews/characters/Basilisk_Crownless/Motion_4.jpg",
+        "previews/characters/Basilisk_Crownless/Motion_5.jpg",
+        "previews/characters/Basilisk_Crownless/Motion_6.jpg",
+        "previews/characters/Basilisk_Crownless/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Ossuary_Kite",
+    "source_glb": "dragons/Ossuary_Kite/Ossuary_Kite.glb",
+    "source_fbx": "dragons/Ossuary_Kite/Ossuary_Kite.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 26,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -3.3586182594299316,
+            -2.0616278648376465,
+            -0.005205510184168816
+          ],
+          [
+            3.3586182594299316,
+            3.524517297744751,
+            2.3530330657958984
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 26,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -3.35861873626709,
+            -2.0616283416748047,
+            -0.005206487141549587
+          ],
+          [
+            3.358619451522827,
+            3.5245189666748047,
+            2.3530328273773193
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Ossuary_Kite_Rig",
+      "frames": [
+        "previews/characters/Ossuary_Kite/Motion_0.jpg",
+        "previews/characters/Ossuary_Kite/Motion_1.jpg",
+        "previews/characters/Ossuary_Kite/Motion_2.jpg",
+        "previews/characters/Ossuary_Kite/Motion_3.jpg",
+        "previews/characters/Ossuary_Kite/Motion_4.jpg",
+        "previews/characters/Ossuary_Kite/Motion_5.jpg",
+        "previews/characters/Ossuary_Kite/Motion_6.jpg",
+        "previews/characters/Ossuary_Kite/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Sable_Corkscrew",
+    "source_glb": "dragons/Sable_Corkscrew/Sable_Corkscrew.glb",
+    "source_fbx": "dragons/Sable_Corkscrew/Sable_Corkscrew.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 26,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.3260058164596558,
+            -1.4025278091430664,
+            0.24897369742393494
+          ],
+          [
+            1.3260058164596558,
+            4.437055587768555,
+            1.0218455791473389
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 26,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.3260056972503662,
+            -1.4025275707244873,
+            0.24897336959838867
+          ],
+          [
+            1.3260059356689453,
+            4.437056064605713,
+            1.0218455791473389
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Sable_Corkscrew_Rig",
+      "frames": [
+        "previews/characters/Sable_Corkscrew/Motion_0.jpg",
+        "previews/characters/Sable_Corkscrew/Motion_1.jpg",
+        "previews/characters/Sable_Corkscrew/Motion_2.jpg",
+        "previews/characters/Sable_Corkscrew/Motion_3.jpg",
+        "previews/characters/Sable_Corkscrew/Motion_4.jpg",
+        "previews/characters/Sable_Corkscrew/Motion_5.jpg",
+        "previews/characters/Sable_Corkscrew/Motion_6.jpg",
+        "previews/characters/Sable_Corkscrew/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Marrow_Hammerhead",
+    "source_glb": "dragons/Marrow_Hammerhead/Marrow_Hammerhead.glb",
+    "source_fbx": "dragons/Marrow_Hammerhead/Marrow_Hammerhead.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 32,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -2.1636788845062256,
+            -1.7355427742004395,
+            -0.005205496679991484
+          ],
+          [
+            2.1636788845062256,
+            3.52451753616333,
+            1.67257821559906
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 32,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -2.1636788845062256,
+            -1.735542893409729,
+            -0.005205883644521236
+          ],
+          [
+            2.1636791229248047,
+            3.5245189666748047,
+            1.6725785732269287
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Marrow_Hammerhead_Rig",
+      "frames": [
+        "previews/characters/Marrow_Hammerhead/Motion_0.jpg",
+        "previews/characters/Marrow_Hammerhead/Motion_1.jpg",
+        "previews/characters/Marrow_Hammerhead/Motion_2.jpg",
+        "previews/characters/Marrow_Hammerhead/Motion_3.jpg",
+        "previews/characters/Marrow_Hammerhead/Motion_4.jpg",
+        "previews/characters/Marrow_Hammerhead/Motion_5.jpg",
+        "previews/characters/Marrow_Hammerhead/Motion_6.jpg",
+        "previews/characters/Marrow_Hammerhead/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Gale_Triptych",
+    "source_glb": "dragons/Gale_Triptych/Gale_Triptych.glb",
+    "source_fbx": "dragons/Gale_Triptych/Gale_Triptych.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 46,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -2.571235179901123,
+            -1.7719993591308594,
+            -0.0052054463885724545
+          ],
+          [
+            2.571235179901123,
+            3.52451753616333,
+            1.672747015953064
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 46,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -2.571234703063965,
+            -1.7719993591308594,
+            -0.0052055297419428825
+          ],
+          [
+            2.571234703063965,
+            3.5245189666748047,
+            1.672747254371643
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Gale_Triptych_Rig",
+      "frames": [
+        "previews/characters/Gale_Triptych/Motion_0.jpg",
+        "previews/characters/Gale_Triptych/Motion_1.jpg",
+        "previews/characters/Gale_Triptych/Motion_2.jpg",
+        "previews/characters/Gale_Triptych/Motion_3.jpg",
+        "previews/characters/Gale_Triptych/Motion_4.jpg",
+        "previews/characters/Gale_Triptych/Motion_5.jpg",
+        "previews/characters/Gale_Triptych/Motion_6.jpg",
+        "previews/characters/Gale_Triptych/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Ashen_Tortoise",
+    "source_glb": "dragons/Ashen_Tortoise/Ashen_Tortoise.glb",
+    "source_fbx": "dragons/Ashen_Tortoise/Ashen_Tortoise.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 22,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.402040958404541,
+            -1.7719992399215698,
+            -0.011150014586746693
+          ],
+          [
+            1.402040958404541,
+            3.524517059326172,
+            1.2500001192092896
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 22,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.402040958404541,
+            -1.7719995975494385,
+            -0.01115056686103344
+          ],
+          [
+            1.4020410776138306,
+            3.524517297744751,
+            1.25
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Ashen_Tortoise_Rig",
+      "frames": [
+        "previews/characters/Ashen_Tortoise/Motion_0.jpg",
+        "previews/characters/Ashen_Tortoise/Motion_1.jpg",
+        "previews/characters/Ashen_Tortoise/Motion_2.jpg",
+        "previews/characters/Ashen_Tortoise/Motion_3.jpg",
+        "previews/characters/Ashen_Tortoise/Motion_4.jpg",
+        "previews/characters/Ashen_Tortoise/Motion_5.jpg",
+        "previews/characters/Ashen_Tortoise/Motion_6.jpg",
+        "previews/characters/Ashen_Tortoise/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Crescent_Manta",
+    "source_glb": "dragons/Crescent_Manta/Crescent_Manta.glb",
+    "source_fbx": "dragons/Crescent_Manta/Crescent_Manta.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 20,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -2.9243323802948,
+            -1.7719992399215698,
+            0.5567471385002136
+          ],
+          [
+            2.9243323802948,
+            3.5147109031677246,
+            1.7727131843566895
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 20,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -2.9243321418762207,
+            -1.771999716758728,
+            0.5567477941513062
+          ],
+          [
+            2.9243321418762207,
+            3.514711380004883,
+            1.7727131843566895
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Crescent_Manta_Rig",
+      "frames": [
+        "previews/characters/Crescent_Manta/Motion_0.jpg",
+        "previews/characters/Crescent_Manta/Motion_1.jpg",
+        "previews/characters/Crescent_Manta/Motion_2.jpg",
+        "previews/characters/Crescent_Manta/Motion_3.jpg",
+        "previews/characters/Crescent_Manta/Motion_4.jpg",
+        "previews/characters/Crescent_Manta/Motion_5.jpg",
+        "previews/characters/Crescent_Manta/Motion_6.jpg",
+        "previews/characters/Crescent_Manta/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Ivory_Ramwyrm",
+    "source_glb": "dragons/Ivory_Ramwyrm/Ivory_Ramwyrm.glb",
+    "source_fbx": "dragons/Ivory_Ramwyrm/Ivory_Ramwyrm.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 46,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.1209425926208496,
+            -0.7025489807128906,
+            0.028849901631474495
+          ],
+          [
+            1.1209425926208496,
+            2.3100130558013916,
+            2.5946218967437744
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 46,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.1209429502487183,
+            -0.7025489211082458,
+            0.028849609196186066
+          ],
+          [
+            1.1209427118301392,
+            2.310012102127075,
+            2.5946226119995117
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Ivory_Ramwyrm_Rig",
+      "frames": [
+        "previews/characters/Ivory_Ramwyrm/Motion_0.jpg",
+        "previews/characters/Ivory_Ramwyrm/Motion_1.jpg",
+        "previews/characters/Ivory_Ramwyrm/Motion_2.jpg",
+        "previews/characters/Ivory_Ramwyrm/Motion_3.jpg",
+        "previews/characters/Ivory_Ramwyrm/Motion_4.jpg",
+        "previews/characters/Ivory_Ramwyrm/Motion_5.jpg",
+        "previews/characters/Ivory_Ramwyrm/Motion_6.jpg",
+        "previews/characters/Ivory_Ramwyrm/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Glass_Needle",
+    "source_glb": "dragons/Glass_Needle/Glass_Needle.glb",
+    "source_fbx": "dragons/Glass_Needle/Glass_Needle.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 36,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -2.4282352924346924,
+            -2.0616278648376465,
+            -0.005205875728279352
+          ],
+          [
+            2.4282352924346924,
+            3.524517774581909,
+            3.5530331134796143
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 36,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -2.4282357692718506,
+            -2.0616283416748047,
+            -0.005206048022955656
+          ],
+          [
+            2.428234815597534,
+            3.5245168209075928,
+            3.5530331134796143
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Glass_Needle_Rig",
+      "frames": [
+        "previews/characters/Glass_Needle/Motion_0.jpg",
+        "previews/characters/Glass_Needle/Motion_1.jpg",
+        "previews/characters/Glass_Needle/Motion_2.jpg",
+        "previews/characters/Glass_Needle/Motion_3.jpg",
+        "previews/characters/Glass_Needle/Motion_4.jpg",
+        "previews/characters/Glass_Needle/Motion_5.jpg",
+        "previews/characters/Glass_Needle/Motion_6.jpg",
+        "previews/characters/Glass_Needle/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Brine_Sawback",
+    "source_glb": "dragons/Brine_Sawback/Brine_Sawback.glb",
+    "source_fbx": "dragons/Brine_Sawback/Brine_Sawback.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 16,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.5,
+            -1.7719993591308594,
+            0.42791232466697693
+          ],
+          [
+            1.5,
+            3.52451753616333,
+            1.9479954242706299
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 16,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.5000007152557373,
+            -1.7719993591308594,
+            0.4279126822948456
+          ],
+          [
+            1.5000007152557373,
+            3.5245189666748047,
+            1.9480022192001343
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Brine_Sawback_Rig",
+      "frames": [
+        "previews/characters/Brine_Sawback/Motion_0.jpg",
+        "previews/characters/Brine_Sawback/Motion_1.jpg",
+        "previews/characters/Brine_Sawback/Motion_2.jpg",
+        "previews/characters/Brine_Sawback/Motion_3.jpg",
+        "previews/characters/Brine_Sawback/Motion_4.jpg",
+        "previews/characters/Brine_Sawback/Motion_5.jpg",
+        "previews/characters/Brine_Sawback/Motion_6.jpg",
+        "previews/characters/Brine_Sawback/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Harbour_Dredger",
+    "source_glb": "bosses/Harbour_Dredger/Harbour_Dredger.glb",
+    "source_fbx": "bosses/Harbour_Dredger/Harbour_Dredger.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 30,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.9354997873306274,
+            -2.0358710289001465,
+            0.30659976601600647
+          ],
+          [
+            2.414999485015869,
+            2.286674976348877,
+            3.555999994277954
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 30,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.935499668121338,
+            -2.035871982574463,
+            0.30659911036491394
+          ],
+          [
+            2.414998769760132,
+            2.286674976348877,
+            3.555999994277954
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Harbour_Dredger_Rig",
+      "frames": [
+        "previews/characters/Harbour_Dredger/Motion_0.jpg",
+        "previews/characters/Harbour_Dredger/Motion_1.jpg",
+        "previews/characters/Harbour_Dredger/Motion_2.jpg",
+        "previews/characters/Harbour_Dredger/Motion_3.jpg",
+        "previews/characters/Harbour_Dredger/Motion_4.jpg",
+        "previews/characters/Harbour_Dredger/Motion_5.jpg",
+        "previews/characters/Harbour_Dredger/Motion_6.jpg",
+        "previews/characters/Harbour_Dredger/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Vector_Widow",
+    "source_glb": "bosses/Vector_Widow/Vector_Widow.glb",
+    "source_fbx": "bosses/Vector_Widow/Vector_Widow.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 25,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -2.4149999618530273,
+            -2.0358712673187256,
+            0.30659985542297363
+          ],
+          [
+            2.414999485015869,
+            2.286675214767456,
+            3.444000005722046
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 25,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -2.41499924659729,
+            -2.035871982574463,
+            0.30659908056259155
+          ],
+          [
+            2.414998769760132,
+            2.286674976348877,
+            3.444000005722046
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Vector_Widow_Rig",
+      "frames": [
+        "previews/characters/Vector_Widow/Motion_0.jpg",
+        "previews/characters/Vector_Widow/Motion_1.jpg",
+        "previews/characters/Vector_Widow/Motion_2.jpg",
+        "previews/characters/Vector_Widow/Motion_3.jpg",
+        "previews/characters/Vector_Widow/Motion_4.jpg",
+        "previews/characters/Vector_Widow/Motion_5.jpg",
+        "previews/characters/Vector_Widow/Motion_6.jpg",
+        "previews/characters/Vector_Widow/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Pendulum_Judge",
+    "source_glb": "bosses/Pendulum_Judge/Pendulum_Judge.glb",
+    "source_fbx": "bosses/Pendulum_Judge/Pendulum_Judge.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 29,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.2806757688522339,
+            -0.9835683703422546,
+            0.0522790364921093
+          ],
+          [
+            1.1754097938537598,
+            0.60549396276474,
+            4.801999568939209
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 29,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.2806755304336548,
+            -0.9835687279701233,
+            0.05227835848927498
+          ],
+          [
+            1.1754096746444702,
+            0.6054941415786743,
+            4.802000522613525
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Pendulum_Judge_Rig",
+      "frames": [
+        "previews/characters/Pendulum_Judge/Motion_0.jpg",
+        "previews/characters/Pendulum_Judge/Motion_1.jpg",
+        "previews/characters/Pendulum_Judge/Motion_2.jpg",
+        "previews/characters/Pendulum_Judge/Motion_3.jpg",
+        "previews/characters/Pendulum_Judge/Motion_4.jpg",
+        "previews/characters/Pendulum_Judge/Motion_5.jpg",
+        "previews/characters/Pendulum_Judge/Motion_6.jpg",
+        "previews/characters/Pendulum_Judge/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Gorgon_Priest",
+    "source_glb": "bosses/Gorgon_Priest/Gorgon_Priest.glb",
+    "source_fbx": "bosses/Gorgon_Priest/Gorgon_Priest.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 50,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.3475003242492676,
+            -0.8490838408470154,
+            -0.07135196030139923
+          ],
+          [
+            1.3474996089935303,
+            4.719803810119629,
+            3.3403890132904053
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 50,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.3475003242492676,
+            -0.8490842580795288,
+            -0.07135211676359177
+          ],
+          [
+            1.3475000858306885,
+            4.719803333282471,
+            3.34039044380188
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Gorgon_Priest_Rig",
+      "frames": [
+        "previews/characters/Gorgon_Priest/Motion_0.jpg",
+        "previews/characters/Gorgon_Priest/Motion_1.jpg",
+        "previews/characters/Gorgon_Priest/Motion_2.jpg",
+        "previews/characters/Gorgon_Priest/Motion_3.jpg",
+        "previews/characters/Gorgon_Priest/Motion_4.jpg",
+        "previews/characters/Gorgon_Priest/Motion_5.jpg",
+        "previews/characters/Gorgon_Priest/Motion_6.jpg",
+        "previews/characters/Gorgon_Priest/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Carrion_Choir",
+    "source_glb": "bosses/Carrion_Choir/Carrion_Choir.glb",
+    "source_fbx": "bosses/Carrion_Choir/Carrion_Choir.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 26,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.3897372484207153,
+            -2.4807987213134766,
+            -0.007288065738976002
+          ],
+          [
+            1.3897372484207153,
+            4.934324264526367,
+            3.5279996395111084
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 26,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.3897373676300049,
+            -2.4807989597320557,
+            -0.007288534194231033
+          ],
+          [
+            1.3897373676300049,
+            4.934322834014893,
+            3.528000831604004
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Carrion_Choir_Rig",
+      "frames": [
+        "previews/characters/Carrion_Choir/Motion_0.jpg",
+        "previews/characters/Carrion_Choir/Motion_1.jpg",
+        "previews/characters/Carrion_Choir/Motion_2.jpg",
+        "previews/characters/Carrion_Choir/Motion_3.jpg",
+        "previews/characters/Carrion_Choir/Motion_4.jpg",
+        "previews/characters/Carrion_Choir/Motion_5.jpg",
+        "previews/characters/Carrion_Choir/Motion_6.jpg",
+        "previews/characters/Carrion_Choir/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Molten_Ram",
+    "source_glb": "bosses/Molten_Ram/Molten_Ram.glb",
+    "source_fbx": "bosses/Molten_Ram/Molten_Ram.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 22,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.9494998455047607,
+            -2.4807987213134766,
+            -2.834501344750606e-07
+          ],
+          [
+            1.9494998455047607,
+            4.934324264526367,
+            2.835200309753418
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 22,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.949500322341919,
+            -2.480799436569214,
+            -9.419024422641087e-07
+          ],
+          [
+            1.949500560760498,
+            4.934322357177734,
+            2.8352010250091553
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Molten_Ram_Rig",
+      "frames": [
+        "previews/characters/Molten_Ram/Motion_0.jpg",
+        "previews/characters/Molten_Ram/Motion_1.jpg",
+        "previews/characters/Molten_Ram/Motion_2.jpg",
+        "previews/characters/Molten_Ram/Motion_3.jpg",
+        "previews/characters/Molten_Ram/Motion_4.jpg",
+        "previews/characters/Molten_Ram/Motion_5.jpg",
+        "previews/characters/Molten_Ram/Motion_6.jpg",
+        "previews/characters/Molten_Ram/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Tidal_Censer",
+    "source_glb": "bosses/Tidal_Censer/Tidal_Censer.glb",
+    "source_fbx": "bosses/Tidal_Censer/Tidal_Censer.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 31,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.4291034936904907,
+            -1.4267871379852295,
+            0.40233340859413147
+          ],
+          [
+            1.4291032552719116,
+            1.4267871379852295,
+            4.157999515533447
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 31,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.4291034936904907,
+            -1.4267864227294922,
+            0.402331680059433
+          ],
+          [
+            1.4291037321090698,
+            1.426787257194519,
+            4.157999038696289
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Tidal_Censer_Rig",
+      "frames": [
+        "previews/characters/Tidal_Censer/Motion_0.jpg",
+        "previews/characters/Tidal_Censer/Motion_1.jpg",
+        "previews/characters/Tidal_Censer/Motion_2.jpg",
+        "previews/characters/Tidal_Censer/Motion_3.jpg",
+        "previews/characters/Tidal_Censer/Motion_4.jpg",
+        "previews/characters/Tidal_Censer/Motion_5.jpg",
+        "previews/characters/Tidal_Censer/Motion_6.jpg",
+        "previews/characters/Tidal_Censer/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Gravetusk",
+    "source_glb": "bosses/Gravetusk/Gravetusk.glb",
+    "source_fbx": "bosses/Gravetusk/Gravetusk.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 25,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.967108964920044,
+            -2.804537534713745,
+            0.14076758921146393
+          ],
+          [
+            1.967108964920044,
+            1.749999761581421,
+            1.9027693271636963
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 25,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.9671087265014648,
+            -2.8045387268066406,
+            0.14076651632785797
+          ],
+          [
+            1.9671086072921753,
+            1.75,
+            1.902769684791565
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Gravetusk_Rig",
+      "frames": [
+        "previews/characters/Gravetusk/Motion_0.jpg",
+        "previews/characters/Gravetusk/Motion_1.jpg",
+        "previews/characters/Gravetusk/Motion_2.jpg",
+        "previews/characters/Gravetusk/Motion_3.jpg",
+        "previews/characters/Gravetusk/Motion_4.jpg",
+        "previews/characters/Gravetusk/Motion_5.jpg",
+        "previews/characters/Gravetusk/Motion_6.jpg",
+        "previews/characters/Gravetusk/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Rift_Oracle",
+    "source_glb": "bosses/Rift_Oracle/Rift_Oracle.glb",
+    "source_fbx": "bosses/Rift_Oracle/Rift_Oracle.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 25,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.3904991149902344,
+            -1.2100932598114014,
+            1.2599992752075195
+          ],
+          [
+            1.3904986381530762,
+            1.2100940942764282,
+            4.073999404907227
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 25,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.3904989957809448,
+            -1.2100937366485596,
+            1.2599998712539673
+          ],
+          [
+            1.3904988765716553,
+            1.21009361743927,
+            4.074000835418701
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Rift_Oracle_Rig",
+      "frames": [
+        "previews/characters/Rift_Oracle/Motion_0.jpg",
+        "previews/characters/Rift_Oracle/Motion_1.jpg",
+        "previews/characters/Rift_Oracle/Motion_2.jpg",
+        "previews/characters/Rift_Oracle/Motion_3.jpg",
+        "previews/characters/Rift_Oracle/Motion_4.jpg",
+        "previews/characters/Rift_Oracle/Motion_5.jpg",
+        "previews/characters/Rift_Oracle/Motion_6.jpg",
+        "previews/characters/Rift_Oracle/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Iron_Executioner",
+    "source_glb": "bosses/Iron_Executioner/Iron_Executioner.glb",
+    "source_fbx": "bosses/Iron_Executioner/Iron_Executioner.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 27,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.1754097938537598,
+            -0.6731365919113159,
+            0.13300026953220367
+          ],
+          [
+            1.2879998683929443,
+            0.4452000856399536,
+            4.241999626159668
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 27,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -1.1754100322723389,
+            -0.6731372475624084,
+            0.13299952447414398
+          ],
+          [
+            1.2879996299743652,
+            0.44520002603530884,
+            4.242000102996826
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Iron_Executioner_Rig",
+      "frames": [
+        "previews/characters/Iron_Executioner/Motion_0.jpg",
+        "previews/characters/Iron_Executioner/Motion_1.jpg",
+        "previews/characters/Iron_Executioner/Motion_2.jpg",
+        "previews/characters/Iron_Executioner/Motion_3.jpg",
+        "previews/characters/Iron_Executioner/Motion_4.jpg",
+        "previews/characters/Iron_Executioner/Motion_5.jpg",
+        "previews/characters/Iron_Executioner/Motion_6.jpg",
+        "previews/characters/Iron_Executioner/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Latch_Leech",
+    "source_glb": "enemies/Latch_Leech/Latch_Leech.glb",
+    "source_fbx": "enemies/Latch_Leech/Latch_Leech.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 13,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.17500001192092896,
+            -0.51500004529953,
+            0.12000000476837158
+          ],
+          [
+            0.1949509233236313,
+            1.4946093559265137,
+            0.4700000286102295
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 13,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.17500005662441254,
+            -0.5149999260902405,
+            0.11999990046024323
+          ],
+          [
+            0.19495061039924622,
+            1.4946088790893555,
+            0.4700000584125519
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Latch_Leech_Rig",
+      "frames": [
+        "previews/characters/Latch_Leech/Motion_0.jpg",
+        "previews/characters/Latch_Leech/Motion_1.jpg",
+        "previews/characters/Latch_Leech/Motion_2.jpg",
+        "previews/characters/Latch_Leech/Motion_3.jpg",
+        "previews/characters/Latch_Leech/Motion_4.jpg",
+        "previews/characters/Latch_Leech/Motion_5.jpg",
+        "previews/characters/Latch_Leech/Motion_6.jpg",
+        "previews/characters/Latch_Leech/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Needle_Tick",
+    "source_glb": "enemies/Needle_Tick/Needle_Tick.glb",
+    "source_fbx": "enemies/Needle_Tick/Needle_Tick.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 19,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.6580978035926819,
+            -1.125,
+            0.03909557685256004
+          ],
+          [
+            0.6580978035926819,
+            0.625,
+            0.48424744606018066
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 19,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.6580979824066162,
+            -1.1250001192092896,
+            0.03909540921449661
+          ],
+          [
+            0.6580978035926819,
+            0.625,
+            0.48424750566482544
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Needle_Tick_Rig",
+      "frames": [
+        "previews/characters/Needle_Tick/Motion_0.jpg",
+        "previews/characters/Needle_Tick/Motion_1.jpg",
+        "previews/characters/Needle_Tick/Motion_2.jpg",
+        "previews/characters/Needle_Tick/Motion_3.jpg",
+        "previews/characters/Needle_Tick/Motion_4.jpg",
+        "previews/characters/Needle_Tick/Motion_5.jpg",
+        "previews/characters/Needle_Tick/Motion_6.jpg",
+        "previews/characters/Needle_Tick/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Rag_Pilgrim",
+    "source_glb": "enemies/Rag_Pilgrim/Rag_Pilgrim.glb",
+    "source_fbx": "enemies/Rag_Pilgrim/Rag_Pilgrim.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 27,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.41978925466537476,
+            -0.3512744605541229,
+            0.01867099106311798
+          ],
+          [
+            0.41978925466537476,
+            0.21624363958835602,
+            1.274999976158142
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 27,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.41978922486305237,
+            -0.3512744605541229,
+            0.01867081969976425
+          ],
+          [
+            0.4197893440723419,
+            0.2162436693906784,
+            1.2750003337860107
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Rag_Pilgrim_Rig",
+      "frames": [
+        "previews/characters/Rag_Pilgrim/Motion_0.jpg",
+        "previews/characters/Rag_Pilgrim/Motion_1.jpg",
+        "previews/characters/Rag_Pilgrim/Motion_2.jpg",
+        "previews/characters/Rag_Pilgrim/Motion_3.jpg",
+        "previews/characters/Rag_Pilgrim/Motion_4.jpg",
+        "previews/characters/Rag_Pilgrim/Motion_5.jpg",
+        "previews/characters/Rag_Pilgrim/Motion_6.jpg",
+        "previews/characters/Rag_Pilgrim/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Cable_Eel",
+    "source_glb": "enemies/Cable_Eel/Cable_Eel.glb",
+    "source_fbx": "enemies/Cable_Eel/Cable_Eel.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 13,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.1724923998117447,
+            -0.4490242898464203,
+            0.12249994277954102
+          ],
+          [
+            0.2071819007396698,
+            1.4946093559265137,
+            0.46956682205200195
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 13,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.17249241471290588,
+            -0.44902417063713074,
+            0.12250012904405594
+          ],
+          [
+            0.20718157291412354,
+            1.4946088790893555,
+            0.46956679224967957
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Cable_Eel_Rig",
+      "frames": [
+        "previews/characters/Cable_Eel/Motion_0.jpg",
+        "previews/characters/Cable_Eel/Motion_1.jpg",
+        "previews/characters/Cable_Eel/Motion_2.jpg",
+        "previews/characters/Cable_Eel/Motion_3.jpg",
+        "previews/characters/Cable_Eel/Motion_4.jpg",
+        "previews/characters/Cable_Eel/Motion_5.jpg",
+        "previews/characters/Cable_Eel/Motion_6.jpg",
+        "previews/characters/Cable_Eel/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Pollen_Moth",
+    "source_glb": "enemies/Pollen_Moth/Pollen_Moth.glb",
+    "source_fbx": "enemies/Pollen_Moth/Pollen_Moth.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 49,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.8656600713729858,
+            -0.7548550367355347,
+            0.039095550775527954
+          ],
+          [
+            0.8656599521636963,
+            0.824999988079071,
+            0.6312659978866577
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 49,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.8656600117683411,
+            -0.754855215549469,
+            0.039095405489206314
+          ],
+          [
+            0.8656601309776306,
+            0.8249999284744263,
+            0.6312659978866577
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Pollen_Moth_Rig",
+      "frames": [
+        "previews/characters/Pollen_Moth/Motion_0.jpg",
+        "previews/characters/Pollen_Moth/Motion_1.jpg",
+        "previews/characters/Pollen_Moth/Motion_2.jpg",
+        "previews/characters/Pollen_Moth/Motion_3.jpg",
+        "previews/characters/Pollen_Moth/Motion_4.jpg",
+        "previews/characters/Pollen_Moth/Motion_5.jpg",
+        "previews/characters/Pollen_Moth/Motion_6.jpg",
+        "previews/characters/Pollen_Moth/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Bone_Grazer",
+    "source_glb": "enemies/Bone_Grazer/Bone_Grazer.glb",
+    "source_fbx": "enemies/Bone_Grazer/Bone_Grazer.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 36,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.4963347911834717,
+            -0.8859996795654297,
+            -0.002602748339995742
+          ],
+          [
+            0.4963347911834717,
+            1.762258768081665,
+            0.8979999423027039
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 36,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.4963347911834717,
+            -0.8859996795654297,
+            -0.002602941822260618
+          ],
+          [
+            0.49633491039276123,
+            1.7622594833374023,
+            0.8980000615119934
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Bone_Grazer_Rig",
+      "frames": [
+        "previews/characters/Bone_Grazer/Motion_0.jpg",
+        "previews/characters/Bone_Grazer/Motion_1.jpg",
+        "previews/characters/Bone_Grazer/Motion_2.jpg",
+        "previews/characters/Bone_Grazer/Motion_3.jpg",
+        "previews/characters/Bone_Grazer/Motion_4.jpg",
+        "previews/characters/Bone_Grazer/Motion_5.jpg",
+        "previews/characters/Bone_Grazer/Motion_6.jpg",
+        "previews/characters/Bone_Grazer/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Ratchet_Rook",
+    "source_glb": "enemies/Ratchet_Rook/Ratchet_Rook.glb",
+    "source_fbx": "enemies/Ratchet_Rook/Ratchet_Rook.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 26,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.5729712843894958,
+            -1.0308141708374023,
+            0.021500080823898315
+          ],
+          [
+            0.5729712843894958,
+            1.762258768081665,
+            1.0015164613723755
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 26,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.5729712843894958,
+            -1.0308141708374023,
+            0.021500008180737495
+          ],
+          [
+            0.5729712247848511,
+            1.7622594833374023,
+            1.0015166997909546
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Ratchet_Rook_Rig",
+      "frames": [
+        "previews/characters/Ratchet_Rook/Motion_0.jpg",
+        "previews/characters/Ratchet_Rook/Motion_1.jpg",
+        "previews/characters/Ratchet_Rook/Motion_2.jpg",
+        "previews/characters/Ratchet_Rook/Motion_3.jpg",
+        "previews/characters/Ratchet_Rook/Motion_4.jpg",
+        "previews/characters/Ratchet_Rook/Motion_5.jpg",
+        "previews/characters/Ratchet_Rook/Motion_6.jpg",
+        "previews/characters/Ratchet_Rook/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Quarry_Slug",
+    "source_glb": "enemies/Quarry_Slug/Quarry_Slug.glb",
+    "source_fbx": "enemies/Quarry_Slug/Quarry_Slug.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 17,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.3187989294528961,
+            -0.4490242898464203,
+            -0.02417183108627796
+          ],
+          [
+            0.3205993175506592,
+            1.498811960220337,
+            0.6649999618530273
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 17,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.31879839301109314,
+            -0.44902417063713074,
+            -0.024171754717826843
+          ],
+          [
+            0.3205987811088562,
+            1.4988114833831787,
+            0.6649999618530273
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Quarry_Slug_Rig",
+      "frames": [
+        "previews/characters/Quarry_Slug/Motion_0.jpg",
+        "previews/characters/Quarry_Slug/Motion_1.jpg",
+        "previews/characters/Quarry_Slug/Motion_2.jpg",
+        "previews/characters/Quarry_Slug/Motion_3.jpg",
+        "previews/characters/Quarry_Slug/Motion_4.jpg",
+        "previews/characters/Quarry_Slug/Motion_5.jpg",
+        "previews/characters/Quarry_Slug/Motion_6.jpg",
+        "previews/characters/Quarry_Slug/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Lantern_Toad",
+    "source_glb": "enemies/Lantern_Toad/Lantern_Toad.glb",
+    "source_fbx": "enemies/Lantern_Toad/Lantern_Toad.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 22,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.5510205030441284,
+            -0.8969992995262146,
+            -0.11104383319616318
+          ],
+          [
+            0.5510205030441284,
+            1.762258768081665,
+            0.4289974868297577
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 22,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.5510205030441284,
+            -0.8969993591308594,
+            -0.11104386299848557
+          ],
+          [
+            0.5510205030441284,
+            1.7622586488723755,
+            0.42899757623672485
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Lantern_Toad_Rig",
+      "frames": [
+        "previews/characters/Lantern_Toad/Motion_0.jpg",
+        "previews/characters/Lantern_Toad/Motion_1.jpg",
+        "previews/characters/Lantern_Toad/Motion_2.jpg",
+        "previews/characters/Lantern_Toad/Motion_3.jpg",
+        "previews/characters/Lantern_Toad/Motion_4.jpg",
+        "previews/characters/Lantern_Toad/Motion_5.jpg",
+        "previews/characters/Lantern_Toad/Motion_6.jpg",
+        "previews/characters/Lantern_Toad/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  },
+  {
+    "asset": "Reef_Anemone",
+    "source_glb": "enemies/Reef_Anemone/Reef_Anemone.glb",
+    "source_fbx": "enemies/Reef_Anemone/Reef_Anemone.fbx",
+    "structural": {
+      "fbx": {
+        "reimport_passed": true,
+        "bones": 43,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.5103258490562439,
+            -0.5095003247261047,
+            0.08500003069639206
+          ],
+          [
+            0.5103259682655334,
+            0.5095003247261047,
+            0.6987999677658081
+          ]
+        ],
+        "finite_vertices": true
+      },
+      "glb": {
+        "reimport_passed": true,
+        "bones": 43,
+        "clips": 22,
+        "bounds_m": [
+          [
+            -0.5103259682655334,
+            -0.50950026512146,
+            0.08499998599290848
+          ],
+          [
+            0.5103259086608887,
+            0.5095003843307495,
+            0.6988002061843872
+          ]
+        ],
+        "finite_vertices": true
+      }
+    },
+    "visual_approved": false,
+    "engine_tested": false,
+    "motion_preview": {
+      "action": "Walk_InPlace_Reef_Anemone_Rig",
+      "frames": [
+        "previews/characters/Reef_Anemone/Motion_0.jpg",
+        "previews/characters/Reef_Anemone/Motion_1.jpg",
+        "previews/characters/Reef_Anemone/Motion_2.jpg",
+        "previews/characters/Reef_Anemone/Motion_3.jpg",
+        "previews/characters/Reef_Anemone/Motion_4.jpg",
+        "previews/characters/Reef_Anemone/Motion_5.jpg",
+        "previews/characters/Reef_Anemone/Motion_6.jpg",
+        "previews/characters/Reef_Anemone/Motion_7.jpg"
+      ],
+      "duration_s": 1.6,
+      "source": "canonical GLB reimport",
+      "collision_contact_approved": false,
+      "timing_note": "Normalized sample frames from a GLB import at 24 fps; playback duration corrected to authored seconds."
+    },
+    "deformation_samples": {
+      "clips": 22,
+      "frames_per_clip": 3,
+      "finite": true,
+      "does_not_establish": "No all-frame clipping, foot-contact, loop-quality or choreography approval."
+    }
+  }
+]

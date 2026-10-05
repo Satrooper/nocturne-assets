@@ -1,0 +1,3783 @@
+[
+  {
+    "file": "bosses/Carrion_Choir/Carrion_Choir.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Carrion_Choir__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Carrion_Choir__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Carrion_Choir__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Carrion_Choir__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Carrion_Choir__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Carrion_Choir__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Carrion_Choir__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Carrion_Choir__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Carrion_Choir__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Carrion_Choir__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Carrion_Choir__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Carrion_Choir__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Carrion_Choir__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Carrion_Choir__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Carrion_Choir__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Carrion_Choir__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Carrion_Choir__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Carrion_Choir__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Carrion_Choir__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Carrion_Choir__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Carrion_Choir__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Carrion_Choir__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "bosses/Gorgon_Priest/Gorgon_Priest.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Gorgon_Priest__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Gorgon_Priest__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Gorgon_Priest__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Gorgon_Priest__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Gorgon_Priest__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Gorgon_Priest__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Gorgon_Priest__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Gorgon_Priest__Flight_Cruise_InPlace",
+        "fbx_action": "Flight_Cruise_InPlace"
+      },
+      {
+        "source_action": "Gorgon_Priest__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Gorgon_Priest__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Gorgon_Priest__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Gorgon_Priest__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Gorgon_Priest__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Gorgon_Priest__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Gorgon_Priest__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Gorgon_Priest__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Gorgon_Priest__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Gorgon_Priest__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Gorgon_Priest__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Gorgon_Priest__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Gorgon_Priest__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Gorgon_Priest__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "bosses/Gravetusk/Gravetusk.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Gravetusk__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Gravetusk__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Gravetusk__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Gravetusk__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Gravetusk__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Gravetusk__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Gravetusk__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Gravetusk__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Gravetusk__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Gravetusk__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Gravetusk__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Gravetusk__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Gravetusk__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Gravetusk__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Gravetusk__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Gravetusk__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Gravetusk__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Gravetusk__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Gravetusk__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Gravetusk__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Gravetusk__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Gravetusk__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "bosses/Harbour_Dredger/Harbour_Dredger.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Harbour_Dredger__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Harbour_Dredger__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Harbour_Dredger__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Harbour_Dredger__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Harbour_Dredger__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Harbour_Dredger__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Harbour_Dredger__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Harbour_Dredger__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Harbour_Dredger__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Harbour_Dredger__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Harbour_Dredger__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Harbour_Dredger__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Harbour_Dredger__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Harbour_Dredger__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Harbour_Dredger__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Harbour_Dredger__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Harbour_Dredger__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Harbour_Dredger__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Harbour_Dredger__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Harbour_Dredger__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Harbour_Dredger__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Harbour_Dredger__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "bosses/Iron_Executioner/Iron_Executioner.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Iron_Executioner__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Iron_Executioner__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Iron_Executioner__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Iron_Executioner__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Iron_Executioner__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Iron_Executioner__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Iron_Executioner__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Iron_Executioner__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Iron_Executioner__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Iron_Executioner__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Iron_Executioner__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Iron_Executioner__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Iron_Executioner__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Iron_Executioner__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Iron_Executioner__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Iron_Executioner__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Iron_Executioner__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Iron_Executioner__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Iron_Executioner__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Iron_Executioner__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Iron_Executioner__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Iron_Executioner__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "bosses/Molten_Ram/Molten_Ram.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Molten_Ram__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Molten_Ram__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Molten_Ram__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Molten_Ram__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Molten_Ram__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Molten_Ram__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Molten_Ram__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Molten_Ram__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Molten_Ram__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Molten_Ram__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Molten_Ram__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Molten_Ram__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Molten_Ram__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Molten_Ram__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Molten_Ram__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Molten_Ram__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Molten_Ram__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Molten_Ram__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Molten_Ram__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Molten_Ram__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Molten_Ram__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Molten_Ram__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "bosses/Pendulum_Judge/Pendulum_Judge.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Pendulum_Judge__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Pendulum_Judge__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Pendulum_Judge__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Pendulum_Judge__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Pendulum_Judge__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Pendulum_Judge__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Pendulum_Judge__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Pendulum_Judge__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Pendulum_Judge__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Pendulum_Judge__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Pendulum_Judge__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Pendulum_Judge__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Pendulum_Judge__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Pendulum_Judge__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Pendulum_Judge__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Pendulum_Judge__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Pendulum_Judge__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Pendulum_Judge__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Pendulum_Judge__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Pendulum_Judge__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Pendulum_Judge__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Pendulum_Judge__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "bosses/Rift_Oracle/Rift_Oracle.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Rift_Oracle__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Rift_Oracle__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Rift_Oracle__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Rift_Oracle__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Rift_Oracle__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Rift_Oracle__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Rift_Oracle__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Rift_Oracle__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Rift_Oracle__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Rift_Oracle__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Rift_Oracle__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Rift_Oracle__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Rift_Oracle__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Rift_Oracle__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Rift_Oracle__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Rift_Oracle__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Rift_Oracle__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Rift_Oracle__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Rift_Oracle__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Rift_Oracle__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Rift_Oracle__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Rift_Oracle__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "bosses/Tidal_Censer/Tidal_Censer.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Tidal_Censer__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Tidal_Censer__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Tidal_Censer__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Tidal_Censer__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Tidal_Censer__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Tidal_Censer__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Tidal_Censer__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Tidal_Censer__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Tidal_Censer__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Tidal_Censer__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Tidal_Censer__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Tidal_Censer__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Tidal_Censer__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Tidal_Censer__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Tidal_Censer__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Tidal_Censer__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Tidal_Censer__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Tidal_Censer__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Tidal_Censer__Swim_Cruise_InPlace",
+        "fbx_action": "Swim_Cruise_InPlace"
+      },
+      {
+        "source_action": "Tidal_Censer__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Tidal_Censer__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Tidal_Censer__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "bosses/Vector_Widow/Vector_Widow.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Vector_Widow__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Vector_Widow__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Vector_Widow__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Vector_Widow__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Vector_Widow__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Vector_Widow__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Vector_Widow__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Vector_Widow__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Vector_Widow__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Vector_Widow__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Vector_Widow__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Vector_Widow__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Vector_Widow__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Vector_Widow__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Vector_Widow__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Vector_Widow__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Vector_Widow__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Vector_Widow__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Vector_Widow__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Vector_Widow__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Vector_Widow__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Vector_Widow__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "dragons/Ashen_Tortoise/Ashen_Tortoise.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Ashen_Tortoise__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Ashen_Tortoise__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Ashen_Tortoise__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Ashen_Tortoise__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Ashen_Tortoise__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Ashen_Tortoise__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Ashen_Tortoise__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "dragons/Basilisk_Crownless/Basilisk_Crownless.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Basilisk_Crownless__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Basilisk_Crownless__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Basilisk_Crownless__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Basilisk_Crownless__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Basilisk_Crownless__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Basilisk_Crownless__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Basilisk_Crownless__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "dragons/Brine_Sawback/Brine_Sawback.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Brine_Sawback__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Brine_Sawback__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Brine_Sawback__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Brine_Sawback__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Brine_Sawback__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Brine_Sawback__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Brine_Sawback__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Brine_Sawback__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Brine_Sawback__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Brine_Sawback__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Brine_Sawback__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Brine_Sawback__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Brine_Sawback__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Brine_Sawback__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Brine_Sawback__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Brine_Sawback__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Brine_Sawback__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Brine_Sawback__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Brine_Sawback__Swim_Cruise_InPlace",
+        "fbx_action": "Swim_Cruise_InPlace"
+      },
+      {
+        "source_action": "Brine_Sawback__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Brine_Sawback__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Brine_Sawback__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "dragons/Crescent_Manta/Crescent_Manta.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Crescent_Manta__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Crescent_Manta__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Crescent_Manta__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Crescent_Manta__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Crescent_Manta__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Crescent_Manta__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Crescent_Manta__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Crescent_Manta__Flight_Cruise_InPlace",
+        "fbx_action": "Flight_Cruise_InPlace"
+      },
+      {
+        "source_action": "Crescent_Manta__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Crescent_Manta__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Crescent_Manta__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Crescent_Manta__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Crescent_Manta__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Crescent_Manta__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Crescent_Manta__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Crescent_Manta__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Crescent_Manta__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Crescent_Manta__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Crescent_Manta__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Crescent_Manta__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Crescent_Manta__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Crescent_Manta__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "dragons/Gale_Triptych/Gale_Triptych.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Gale_Triptych__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Gale_Triptych__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Gale_Triptych__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Gale_Triptych__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Gale_Triptych__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Gale_Triptych__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Gale_Triptych__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Gale_Triptych__Flight_Cruise_InPlace",
+        "fbx_action": "Flight_Cruise_InPlace"
+      },
+      {
+        "source_action": "Gale_Triptych__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Gale_Triptych__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Gale_Triptych__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Gale_Triptych__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Gale_Triptych__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Gale_Triptych__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Gale_Triptych__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Gale_Triptych__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Gale_Triptych__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Gale_Triptych__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Gale_Triptych__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Gale_Triptych__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Gale_Triptych__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Gale_Triptych__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "dragons/Glass_Needle/Glass_Needle.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Glass_Needle__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Glass_Needle__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Glass_Needle__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Glass_Needle__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Glass_Needle__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Glass_Needle__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Glass_Needle__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Glass_Needle__Flight_Cruise_InPlace",
+        "fbx_action": "Flight_Cruise_InPlace"
+      },
+      {
+        "source_action": "Glass_Needle__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Glass_Needle__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Glass_Needle__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Glass_Needle__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Glass_Needle__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Glass_Needle__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Glass_Needle__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Glass_Needle__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Glass_Needle__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Glass_Needle__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Glass_Needle__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Glass_Needle__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Glass_Needle__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Glass_Needle__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "dragons/Ivory_Ramwyrm/Ivory_Ramwyrm.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Ivory_Ramwyrm__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Flight_Cruise_InPlace",
+        "fbx_action": "Flight_Cruise_InPlace"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Ivory_Ramwyrm__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "dragons/Marrow_Hammerhead/Marrow_Hammerhead.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Marrow_Hammerhead__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Flight_Cruise_InPlace",
+        "fbx_action": "Flight_Cruise_InPlace"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Marrow_Hammerhead__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "dragons/Ossuary_Kite/Ossuary_Kite.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Ossuary_Kite__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Ossuary_Kite__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Ossuary_Kite__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Ossuary_Kite__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Ossuary_Kite__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Ossuary_Kite__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Ossuary_Kite__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Ossuary_Kite__Flight_Cruise_InPlace",
+        "fbx_action": "Flight_Cruise_InPlace"
+      },
+      {
+        "source_action": "Ossuary_Kite__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Ossuary_Kite__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Ossuary_Kite__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Ossuary_Kite__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Ossuary_Kite__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Ossuary_Kite__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Ossuary_Kite__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Ossuary_Kite__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Ossuary_Kite__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Ossuary_Kite__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Ossuary_Kite__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Ossuary_Kite__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Ossuary_Kite__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Ossuary_Kite__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "dragons/Sable_Corkscrew/Sable_Corkscrew.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Sable_Corkscrew__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Flight_Cruise_InPlace",
+        "fbx_action": "Flight_Cruise_InPlace"
+      },
+      {
+        "source_action": "Sable_Corkscrew__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Sable_Corkscrew__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Sable_Corkscrew__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Sable_Corkscrew__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Sable_Corkscrew__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Sable_Corkscrew__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "enemies/Bone_Grazer/Bone_Grazer.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Bone_Grazer__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Bone_Grazer__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Bone_Grazer__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Bone_Grazer__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Bone_Grazer__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Bone_Grazer__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Bone_Grazer__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Bone_Grazer__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Bone_Grazer__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Bone_Grazer__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Bone_Grazer__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Bone_Grazer__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Bone_Grazer__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Bone_Grazer__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Bone_Grazer__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Bone_Grazer__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Bone_Grazer__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Bone_Grazer__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Bone_Grazer__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Bone_Grazer__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Bone_Grazer__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Bone_Grazer__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "enemies/Cable_Eel/Cable_Eel.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Cable_Eel__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Cable_Eel__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Cable_Eel__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Cable_Eel__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Cable_Eel__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Cable_Eel__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Cable_Eel__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Cable_Eel__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Cable_Eel__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Cable_Eel__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Cable_Eel__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Cable_Eel__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Cable_Eel__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Cable_Eel__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Cable_Eel__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Cable_Eel__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Cable_Eel__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Cable_Eel__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Cable_Eel__Swim_Cruise_InPlace",
+        "fbx_action": "Swim_Cruise_InPlace"
+      },
+      {
+        "source_action": "Cable_Eel__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Cable_Eel__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Cable_Eel__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "enemies/Lantern_Toad/Lantern_Toad.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Lantern_Toad__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Lantern_Toad__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Lantern_Toad__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Lantern_Toad__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Lantern_Toad__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Lantern_Toad__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Lantern_Toad__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Lantern_Toad__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Lantern_Toad__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Lantern_Toad__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Lantern_Toad__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Lantern_Toad__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Lantern_Toad__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Lantern_Toad__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Lantern_Toad__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Lantern_Toad__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Lantern_Toad__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Lantern_Toad__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Lantern_Toad__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Lantern_Toad__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Lantern_Toad__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Lantern_Toad__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "enemies/Latch_Leech/Latch_Leech.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Latch_Leech__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Latch_Leech__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Latch_Leech__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Latch_Leech__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Latch_Leech__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Latch_Leech__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Latch_Leech__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Latch_Leech__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Latch_Leech__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Latch_Leech__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Latch_Leech__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Latch_Leech__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Latch_Leech__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Latch_Leech__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Latch_Leech__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Latch_Leech__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Latch_Leech__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Latch_Leech__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Latch_Leech__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Latch_Leech__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Latch_Leech__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Latch_Leech__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "enemies/Needle_Tick/Needle_Tick.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Needle_Tick__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Needle_Tick__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Needle_Tick__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Needle_Tick__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Needle_Tick__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Needle_Tick__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Needle_Tick__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Needle_Tick__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Needle_Tick__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Needle_Tick__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Needle_Tick__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Needle_Tick__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Needle_Tick__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Needle_Tick__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Needle_Tick__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Needle_Tick__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Needle_Tick__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Needle_Tick__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Needle_Tick__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Needle_Tick__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Needle_Tick__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Needle_Tick__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "enemies/Pollen_Moth/Pollen_Moth.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Pollen_Moth__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Pollen_Moth__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Pollen_Moth__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Pollen_Moth__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Pollen_Moth__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Pollen_Moth__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Pollen_Moth__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Pollen_Moth__Flight_Cruise_InPlace",
+        "fbx_action": "Flight_Cruise_InPlace"
+      },
+      {
+        "source_action": "Pollen_Moth__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Pollen_Moth__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Pollen_Moth__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Pollen_Moth__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Pollen_Moth__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Pollen_Moth__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Pollen_Moth__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Pollen_Moth__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Pollen_Moth__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Pollen_Moth__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Pollen_Moth__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Pollen_Moth__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Pollen_Moth__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Pollen_Moth__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "enemies/Quarry_Slug/Quarry_Slug.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Quarry_Slug__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Quarry_Slug__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Quarry_Slug__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Quarry_Slug__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Quarry_Slug__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Quarry_Slug__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Quarry_Slug__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Quarry_Slug__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Quarry_Slug__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Quarry_Slug__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Quarry_Slug__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Quarry_Slug__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Quarry_Slug__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Quarry_Slug__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Quarry_Slug__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Quarry_Slug__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Quarry_Slug__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Quarry_Slug__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Quarry_Slug__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Quarry_Slug__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Quarry_Slug__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Quarry_Slug__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "enemies/Rag_Pilgrim/Rag_Pilgrim.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Rag_Pilgrim__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Rag_Pilgrim__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Rag_Pilgrim__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Rag_Pilgrim__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Rag_Pilgrim__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Rag_Pilgrim__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Rag_Pilgrim__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "enemies/Ratchet_Rook/Ratchet_Rook.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Ratchet_Rook__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Ratchet_Rook__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Ratchet_Rook__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Ratchet_Rook__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Ratchet_Rook__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Ratchet_Rook__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Ratchet_Rook__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Ratchet_Rook__Flight_Cruise_InPlace",
+        "fbx_action": "Flight_Cruise_InPlace"
+      },
+      {
+        "source_action": "Ratchet_Rook__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Ratchet_Rook__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Ratchet_Rook__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Ratchet_Rook__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Ratchet_Rook__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Ratchet_Rook__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Ratchet_Rook__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Ratchet_Rook__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Ratchet_Rook__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Ratchet_Rook__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Ratchet_Rook__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Ratchet_Rook__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Ratchet_Rook__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Ratchet_Rook__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "enemies/Reef_Anemone/Reef_Anemone.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Reef_Anemone__Advance_RootMotion",
+        "fbx_action": "Advance_RootMotion"
+      },
+      {
+        "source_action": "Reef_Anemone__Attack_Charge_RootMotion",
+        "fbx_action": "Attack_Charge_RootMotion"
+      },
+      {
+        "source_action": "Reef_Anemone__Attack_Primary",
+        "fbx_action": "Attack_Primary"
+      },
+      {
+        "source_action": "Reef_Anemone__Attack_Special",
+        "fbx_action": "Attack_Special"
+      },
+      {
+        "source_action": "Reef_Anemone__Attack_Sweep",
+        "fbx_action": "Attack_Sweep"
+      },
+      {
+        "source_action": "Reef_Anemone__Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Reef_Anemone__Defensive_Brace",
+        "fbx_action": "Defensive_Brace"
+      },
+      {
+        "source_action": "Reef_Anemone__GetUp",
+        "fbx_action": "GetUp"
+      },
+      {
+        "source_action": "Reef_Anemone__Idle_Breath",
+        "fbx_action": "Idle_Breath"
+      },
+      {
+        "source_action": "Reef_Anemone__Knockdown",
+        "fbx_action": "Knockdown"
+      },
+      {
+        "source_action": "Reef_Anemone__Patrol_Scan",
+        "fbx_action": "Patrol_Scan"
+      },
+      {
+        "source_action": "Reef_Anemone__React_Back",
+        "fbx_action": "React_Back"
+      },
+      {
+        "source_action": "Reef_Anemone__React_Front",
+        "fbx_action": "React_Front"
+      },
+      {
+        "source_action": "Reef_Anemone__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Reef_Anemone__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Reef_Anemone__Run_InPlace",
+        "fbx_action": "Run_InPlace"
+      },
+      {
+        "source_action": "Reef_Anemone__Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Reef_Anemone__Start_Forward",
+        "fbx_action": "Start_Forward"
+      },
+      {
+        "source_action": "Reef_Anemone__Stop_Forward",
+        "fbx_action": "Stop_Forward"
+      },
+      {
+        "source_action": "Reef_Anemone__Turn_Left90_RootMotion",
+        "fbx_action": "Turn_Left90_RootMotion"
+      },
+      {
+        "source_action": "Reef_Anemone__Turn_Right90_RootMotion",
+        "fbx_action": "Turn_Right90_RootMotion"
+      },
+      {
+        "source_action": "Reef_Anemone__Walk_InPlace",
+        "fbx_action": "Walk_InPlace"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "legacy_distinct_variants/Crimson_Imp/Crimson_Imp_Distinct.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Angry_Stomp",
+        "fbx_action": "Angry_Stomp"
+      },
+      {
+        "source_action": "Blood_Spit",
+        "fbx_action": "Blood_Spit"
+      },
+      {
+        "source_action": "Claw_Jab",
+        "fbx_action": "Claw_Jab"
+      },
+      {
+        "source_action": "Crouched_Cast",
+        "fbx_action": "Crouched_Cast"
+      },
+      {
+        "source_action": "Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Dodge_Left",
+        "fbx_action": "Dodge_Left"
+      },
+      {
+        "source_action": "Dodge_Right",
+        "fbx_action": "Dodge_Right"
+      },
+      {
+        "source_action": "Double_Claw_Rake",
+        "fbx_action": "Double_Claw_Rake"
+      },
+      {
+        "source_action": "Hit_Back",
+        "fbx_action": "Hit_Back"
+      },
+      {
+        "source_action": "Hit_Front",
+        "fbx_action": "Hit_Front"
+      },
+      {
+        "source_action": "Horn_Jab",
+        "fbx_action": "Horn_Jab"
+      },
+      {
+        "source_action": "Idle_Breathe",
+        "fbx_action": "Idle_Breathe"
+      },
+      {
+        "source_action": "Leaping_Scratch",
+        "fbx_action": "Leaping_Scratch"
+      },
+      {
+        "source_action": "Locomotion_Run",
+        "fbx_action": "Locomotion_Run"
+      },
+      {
+        "source_action": "Locomotion_Walk",
+        "fbx_action": "Locomotion_Walk"
+      },
+      {
+        "source_action": "Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Tail_Feint",
+        "fbx_action": "Tail_Feint"
+      },
+      {
+        "source_action": "Threat_Roar",
+        "fbx_action": "Threat_Roar"
+      },
+      {
+        "source_action": "Turn_Left",
+        "fbx_action": "Turn_Left"
+      },
+      {
+        "source_action": "Turn_Right",
+        "fbx_action": "Turn_Right"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "legacy_distinct_variants/Crypt_Skitter/Crypt_Skitter_Distinct.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Defensive_Curl",
+        "fbx_action": "Defensive_Curl"
+      },
+      {
+        "source_action": "Dodge_Left",
+        "fbx_action": "Dodge_Left"
+      },
+      {
+        "source_action": "Dodge_Right",
+        "fbx_action": "Dodge_Right"
+      },
+      {
+        "source_action": "Double_Fang_Snap",
+        "fbx_action": "Double_Fang_Snap"
+      },
+      {
+        "source_action": "Hit_Back",
+        "fbx_action": "Hit_Back"
+      },
+      {
+        "source_action": "Hit_Front",
+        "fbx_action": "Hit_Front"
+      },
+      {
+        "source_action": "Idle_Breathe",
+        "fbx_action": "Idle_Breathe"
+      },
+      {
+        "source_action": "Leg_Hook_Trip",
+        "fbx_action": "Leg_Hook_Trip"
+      },
+      {
+        "source_action": "Locomotion_Run",
+        "fbx_action": "Locomotion_Run"
+      },
+      {
+        "source_action": "Locomotion_Walk",
+        "fbx_action": "Locomotion_Walk"
+      },
+      {
+        "source_action": "Low_Skitter_Rush",
+        "fbx_action": "Low_Skitter_Rush"
+      },
+      {
+        "source_action": "Quick_Fang_Stab",
+        "fbx_action": "Quick_Fang_Stab"
+      },
+      {
+        "source_action": "Rear_Leg_Kick",
+        "fbx_action": "Rear_Leg_Kick"
+      },
+      {
+        "source_action": "Sideways_Leap",
+        "fbx_action": "Sideways_Leap"
+      },
+      {
+        "source_action": "Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Threat_Roar",
+        "fbx_action": "Threat_Roar"
+      },
+      {
+        "source_action": "Turn_Left",
+        "fbx_action": "Turn_Left"
+      },
+      {
+        "source_action": "Turn_Right",
+        "fbx_action": "Turn_Right"
+      },
+      {
+        "source_action": "Web_Pellet",
+        "fbx_action": "Web_Pellet"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "legacy_distinct_variants/Furnace_Titan/Furnace_Titan_Distinct.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Back_Vent_Discharge",
+        "fbx_action": "Back_Vent_Discharge"
+      },
+      {
+        "source_action": "Cooling_Kneel",
+        "fbx_action": "Cooling_Kneel"
+      },
+      {
+        "source_action": "Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Dodge_Left",
+        "fbx_action": "Dodge_Left"
+      },
+      {
+        "source_action": "Dodge_Right",
+        "fbx_action": "Dodge_Right"
+      },
+      {
+        "source_action": "Double_Piston_Combo",
+        "fbx_action": "Double_Piston_Combo"
+      },
+      {
+        "source_action": "Furnace_Punch",
+        "fbx_action": "Furnace_Punch"
+      },
+      {
+        "source_action": "Grate_Slam",
+        "fbx_action": "Grate_Slam"
+      },
+      {
+        "source_action": "Hit_Back",
+        "fbx_action": "Hit_Back"
+      },
+      {
+        "source_action": "Hit_Front",
+        "fbx_action": "Hit_Front"
+      },
+      {
+        "source_action": "Idle_Breathe",
+        "fbx_action": "Idle_Breathe"
+      },
+      {
+        "source_action": "Locomotion_Run",
+        "fbx_action": "Locomotion_Run"
+      },
+      {
+        "source_action": "Locomotion_Walk",
+        "fbx_action": "Locomotion_Walk"
+      },
+      {
+        "source_action": "Overheat_Stomp",
+        "fbx_action": "Overheat_Stomp"
+      },
+      {
+        "source_action": "Piston_Uppercut",
+        "fbx_action": "Piston_Uppercut"
+      },
+      {
+        "source_action": "Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Steam_Guard_Break",
+        "fbx_action": "Steam_Guard_Break"
+      },
+      {
+        "source_action": "Threat_Roar",
+        "fbx_action": "Threat_Roar"
+      },
+      {
+        "source_action": "Turn_Left",
+        "fbx_action": "Turn_Left"
+      },
+      {
+        "source_action": "Turn_Right",
+        "fbx_action": "Turn_Right"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "legacy_distinct_variants/Hundredleg/Hundredleg_Distinct.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Coiling_Fang_Strike",
+        "fbx_action": "Coiling_Fang_Strike"
+      },
+      {
+        "source_action": "Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Dodge_Left",
+        "fbx_action": "Dodge_Left"
+      },
+      {
+        "source_action": "Dodge_Right",
+        "fbx_action": "Dodge_Right"
+      },
+      {
+        "source_action": "Hit_Back",
+        "fbx_action": "Hit_Back"
+      },
+      {
+        "source_action": "Hit_Front",
+        "fbx_action": "Hit_Front"
+      },
+      {
+        "source_action": "Idle_Breathe",
+        "fbx_action": "Idle_Breathe"
+      },
+      {
+        "source_action": "Locomotion_Run",
+        "fbx_action": "Locomotion_Run"
+      },
+      {
+        "source_action": "Locomotion_Walk",
+        "fbx_action": "Locomotion_Walk"
+      },
+      {
+        "source_action": "Low_Burrowing_Lunge",
+        "fbx_action": "Low_Burrowing_Lunge"
+      },
+      {
+        "source_action": "Rearing_Crush",
+        "fbx_action": "Rearing_Crush"
+      },
+      {
+        "source_action": "Rolling_Surge",
+        "fbx_action": "Rolling_Surge"
+      },
+      {
+        "source_action": "Segment_Tail_Sweep",
+        "fbx_action": "Segment_Tail_Sweep"
+      },
+      {
+        "source_action": "Sequential_Leg_Rake",
+        "fbx_action": "Sequential_Leg_Rake"
+      },
+      {
+        "source_action": "Spiral_Guard",
+        "fbx_action": "Spiral_Guard"
+      },
+      {
+        "source_action": "Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Threat_Roar",
+        "fbx_action": "Threat_Roar"
+      },
+      {
+        "source_action": "Turn_Left",
+        "fbx_action": "Turn_Left"
+      },
+      {
+        "source_action": "Turn_Right",
+        "fbx_action": "Turn_Right"
+      },
+      {
+        "source_action": "Venom_Spit",
+        "fbx_action": "Venom_Spit"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "legacy_distinct_variants/Razorfin/Razorfin_Distinct.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Dive_And_Return",
+        "fbx_action": "Dive_And_Return"
+      },
+      {
+        "source_action": "Dodge_Left",
+        "fbx_action": "Dodge_Left"
+      },
+      {
+        "source_action": "Dodge_Right",
+        "fbx_action": "Dodge_Right"
+      },
+      {
+        "source_action": "Forward_Jaw_Lunge",
+        "fbx_action": "Forward_Jaw_Lunge"
+      },
+      {
+        "source_action": "Hit_Back",
+        "fbx_action": "Hit_Back"
+      },
+      {
+        "source_action": "Hit_Front",
+        "fbx_action": "Hit_Front"
+      },
+      {
+        "source_action": "Idle_Breathe",
+        "fbx_action": "Idle_Breathe"
+      },
+      {
+        "source_action": "Locomotion_Run",
+        "fbx_action": "Locomotion_Run"
+      },
+      {
+        "source_action": "Locomotion_Walk",
+        "fbx_action": "Locomotion_Walk"
+      },
+      {
+        "source_action": "Quick_Fin_Dash",
+        "fbx_action": "Quick_Fin_Dash"
+      },
+      {
+        "source_action": "Rolling_Bite",
+        "fbx_action": "Rolling_Bite"
+      },
+      {
+        "source_action": "Side_Bite",
+        "fbx_action": "Side_Bite"
+      },
+      {
+        "source_action": "Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Surface_Snap",
+        "fbx_action": "Surface_Snap"
+      },
+      {
+        "source_action": "Swim_Burst",
+        "fbx_action": "Swim_Burst"
+      },
+      {
+        "source_action": "Swim_Cruise",
+        "fbx_action": "Swim_Cruise"
+      },
+      {
+        "source_action": "Swim_Surface",
+        "fbx_action": "Swim_Surface"
+      },
+      {
+        "source_action": "Swim_Turn",
+        "fbx_action": "Swim_Turn"
+      },
+      {
+        "source_action": "Tailfin_Slap",
+        "fbx_action": "Tailfin_Slap"
+      },
+      {
+        "source_action": "Territorial_Circle",
+        "fbx_action": "Territorial_Circle"
+      },
+      {
+        "source_action": "Threat_Roar",
+        "fbx_action": "Threat_Roar"
+      },
+      {
+        "source_action": "Turn_Left",
+        "fbx_action": "Turn_Left"
+      },
+      {
+        "source_action": "Turn_Right",
+        "fbx_action": "Turn_Right"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "legacy_distinct_variants/Scrapling/Scrapling_Distinct.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Arm_Burst_Brace",
+        "fbx_action": "Arm_Burst_Brace"
+      },
+      {
+        "source_action": "Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Defensive_Vent",
+        "fbx_action": "Defensive_Vent"
+      },
+      {
+        "source_action": "Dodge_Left",
+        "fbx_action": "Dodge_Left"
+      },
+      {
+        "source_action": "Dodge_Right",
+        "fbx_action": "Dodge_Right"
+      },
+      {
+        "source_action": "Hit_Back",
+        "fbx_action": "Hit_Back"
+      },
+      {
+        "source_action": "Hit_Front",
+        "fbx_action": "Hit_Front"
+      },
+      {
+        "source_action": "Idle_Breathe",
+        "fbx_action": "Idle_Breathe"
+      },
+      {
+        "source_action": "Locomotion_Run",
+        "fbx_action": "Locomotion_Run"
+      },
+      {
+        "source_action": "Locomotion_Walk",
+        "fbx_action": "Locomotion_Walk"
+      },
+      {
+        "source_action": "Low_Ram",
+        "fbx_action": "Low_Ram"
+      },
+      {
+        "source_action": "Metal_Backhand",
+        "fbx_action": "Metal_Backhand"
+      },
+      {
+        "source_action": "Scrap_Fist_Jab",
+        "fbx_action": "Scrap_Fist_Jab"
+      },
+      {
+        "source_action": "Scrap_Throw_Pose",
+        "fbx_action": "Scrap_Throw_Pose"
+      },
+      {
+        "source_action": "Shock_Discharge",
+        "fbx_action": "Shock_Discharge"
+      },
+      {
+        "source_action": "Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Threat_Roar",
+        "fbx_action": "Threat_Roar"
+      },
+      {
+        "source_action": "Turn_Left",
+        "fbx_action": "Turn_Left"
+      },
+      {
+        "source_action": "Turn_Right",
+        "fbx_action": "Turn_Right"
+      },
+      {
+        "source_action": "Two_Hit_Scrap_Combo",
+        "fbx_action": "Two_Hit_Scrap_Combo"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "legacy_distinct_variants/Sporeling/Sporeling_Distinct.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Branch_Jab",
+        "fbx_action": "Branch_Jab"
+      },
+      {
+        "source_action": "Cap_Headbutt",
+        "fbx_action": "Cap_Headbutt"
+      },
+      {
+        "source_action": "Death",
+        "fbx_action": "Death"
+      },
+      {
+        "source_action": "Dodge_Left",
+        "fbx_action": "Dodge_Left"
+      },
+      {
+        "source_action": "Dodge_Right",
+        "fbx_action": "Dodge_Right"
+      },
+      {
+        "source_action": "Hit_Back",
+        "fbx_action": "Hit_Back"
+      },
+      {
+        "source_action": "Hit_Front",
+        "fbx_action": "Hit_Front"
+      },
+      {
+        "source_action": "Idle_Breathe",
+        "fbx_action": "Idle_Breathe"
+      },
+      {
+        "source_action": "Locomotion_Run",
+        "fbx_action": "Locomotion_Run"
+      },
+      {
+        "source_action": "Locomotion_Walk",
+        "fbx_action": "Locomotion_Walk"
+      },
+      {
+        "source_action": "Low_Root_Sweep",
+        "fbx_action": "Low_Root_Sweep"
+      },
+      {
+        "source_action": "Root_Slap",
+        "fbx_action": "Root_Slap"
+      },
+      {
+        "source_action": "Root_Trip",
+        "fbx_action": "Root_Trip"
+      },
+      {
+        "source_action": "Seed_Throw_Pose",
+        "fbx_action": "Seed_Throw_Pose"
+      },
+      {
+        "source_action": "Spore_Guard",
+        "fbx_action": "Spore_Guard"
+      },
+      {
+        "source_action": "Spore_Release",
+        "fbx_action": "Spore_Release"
+      },
+      {
+        "source_action": "Stagger",
+        "fbx_action": "Stagger"
+      },
+      {
+        "source_action": "Threat_Roar",
+        "fbx_action": "Threat_Roar"
+      },
+      {
+        "source_action": "Turn_Left",
+        "fbx_action": "Turn_Left"
+      },
+      {
+        "source_action": "Turn_Right",
+        "fbx_action": "Turn_Right"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "player_animation/Expanded_Player_Moves.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Expansion_Body__Backhand_Cut",
+        "fbx_action": "Backhand_Cut"
+      },
+      {
+        "source_action": "Expansion_Body__Charge_Loop",
+        "fbx_action": "Charge_Loop"
+      },
+      {
+        "source_action": "Expansion_Body__Charge_Release",
+        "fbx_action": "Charge_Release"
+      },
+      {
+        "source_action": "Expansion_Body__Climb_Mantle",
+        "fbx_action": "Climb_Mantle"
+      },
+      {
+        "source_action": "Expansion_Body__Dodge_Back",
+        "fbx_action": "Dodge_Back"
+      },
+      {
+        "source_action": "Expansion_Body__Dodge_Forward",
+        "fbx_action": "Dodge_Forward"
+      },
+      {
+        "source_action": "Expansion_Body__Dodge_Left",
+        "fbx_action": "Dodge_Left"
+      },
+      {
+        "source_action": "Expansion_Body__Dodge_Right",
+        "fbx_action": "Dodge_Right"
+      },
+      {
+        "source_action": "Expansion_Body__Finisher_Attacker_A",
+        "fbx_action": "Finisher_Attacker_A"
+      },
+      {
+        "source_action": "Expansion_Body__Finisher_Attacker_B",
+        "fbx_action": "Finisher_Attacker_B"
+      },
+      {
+        "source_action": "Expansion_Body__Finisher_Victim_A",
+        "fbx_action": "Finisher_Victim_A"
+      },
+      {
+        "source_action": "Expansion_Body__Finisher_Victim_B",
+        "fbx_action": "Finisher_Victim_B"
+      },
+      {
+        "source_action": "Expansion_Body__Getup_Back",
+        "fbx_action": "Getup_Back"
+      },
+      {
+        "source_action": "Expansion_Body__Getup_Front",
+        "fbx_action": "Getup_Front"
+      },
+      {
+        "source_action": "Expansion_Body__GuardBreak",
+        "fbx_action": "GuardBreak"
+      },
+      {
+        "source_action": "Expansion_Body__Heavy_Overhead",
+        "fbx_action": "Heavy_Overhead"
+      },
+      {
+        "source_action": "Expansion_Body__Heavy_Sweep",
+        "fbx_action": "Heavy_Sweep"
+      },
+      {
+        "source_action": "Expansion_Body__Heavy_Thrust",
+        "fbx_action": "Heavy_Thrust"
+      },
+      {
+        "source_action": "Expansion_Body__Jump_Slam",
+        "fbx_action": "Jump_Slam"
+      },
+      {
+        "source_action": "Expansion_Body__Knockdown_Back",
+        "fbx_action": "Knockdown_Back"
+      },
+      {
+        "source_action": "Expansion_Body__Knockdown_Front",
+        "fbx_action": "Knockdown_Front"
+      },
+      {
+        "source_action": "Expansion_Body__Land_Heavy",
+        "fbx_action": "Land_Heavy"
+      },
+      {
+        "source_action": "Expansion_Body__Light_Slash_Left",
+        "fbx_action": "Light_Slash_Left"
+      },
+      {
+        "source_action": "Expansion_Body__Light_Slash_Right",
+        "fbx_action": "Light_Slash_Right"
+      },
+      {
+        "source_action": "Expansion_Body__Light_Thrust",
+        "fbx_action": "Light_Thrust"
+      },
+      {
+        "source_action": "Expansion_Body__Parry_High",
+        "fbx_action": "Parry_High"
+      },
+      {
+        "source_action": "Expansion_Body__Parry_Low",
+        "fbx_action": "Parry_Low"
+      },
+      {
+        "source_action": "Expansion_Body__React_BackHigh",
+        "fbx_action": "React_BackHigh"
+      },
+      {
+        "source_action": "Expansion_Body__React_BackLow",
+        "fbx_action": "React_BackLow"
+      },
+      {
+        "source_action": "Expansion_Body__React_FrontHigh",
+        "fbx_action": "React_FrontHigh"
+      },
+      {
+        "source_action": "Expansion_Body__React_FrontLow",
+        "fbx_action": "React_FrontLow"
+      },
+      {
+        "source_action": "Expansion_Body__React_Left",
+        "fbx_action": "React_Left"
+      },
+      {
+        "source_action": "Expansion_Body__React_Right",
+        "fbx_action": "React_Right"
+      },
+      {
+        "source_action": "Expansion_Body__Riposte_Thrust",
+        "fbx_action": "Riposte_Thrust"
+      },
+      {
+        "source_action": "Expansion_Body__Roll_Back",
+        "fbx_action": "Roll_Back"
+      },
+      {
+        "source_action": "Expansion_Body__Roll_Forward",
+        "fbx_action": "Roll_Forward"
+      },
+      {
+        "source_action": "Expansion_Body__Run_Slash",
+        "fbx_action": "Run_Slash"
+      },
+      {
+        "source_action": "Expansion_Body__Shield_Bash",
+        "fbx_action": "Shield_Bash"
+      },
+      {
+        "source_action": "Expansion_Body__Shield_Lower",
+        "fbx_action": "Shield_Lower"
+      },
+      {
+        "source_action": "Expansion_Body__Shield_Raise",
+        "fbx_action": "Shield_Raise"
+      },
+      {
+        "source_action": "Expansion_Body__Spin_Cut",
+        "fbx_action": "Spin_Cut"
+      },
+      {
+        "source_action": "Expansion_Body__Step_Left",
+        "fbx_action": "Step_Left"
+      },
+      {
+        "source_action": "Expansion_Body__Step_Right",
+        "fbx_action": "Step_Right"
+      },
+      {
+        "source_action": "Expansion_Body__Swim_Backstroke",
+        "fbx_action": "Swim_Backstroke"
+      },
+      {
+        "source_action": "Expansion_Body__Swim_Dive",
+        "fbx_action": "Swim_Dive"
+      },
+      {
+        "source_action": "Expansion_Body__Swim_Freestyle",
+        "fbx_action": "Swim_Freestyle"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "player_handling/Player_With_Firearms.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Pistol_Aim_High",
+        "fbx_action": "Pistol_Aim_High"
+      },
+      {
+        "source_action": "Pistol_Aim_Low",
+        "fbx_action": "Pistol_Aim_Low"
+      },
+      {
+        "source_action": "Pistol_Crouch_Fire",
+        "fbx_action": "Pistol_Crouch_Fire"
+      },
+      {
+        "source_action": "Pistol_Draw_LowReady",
+        "fbx_action": "Pistol_Draw_LowReady"
+      },
+      {
+        "source_action": "Pistol_Fire_Hip",
+        "fbx_action": "Pistol_Fire_Hip"
+      },
+      {
+        "source_action": "Pistol_Holster_Crouched",
+        "fbx_action": "Pistol_Holster_Crouched"
+      },
+      {
+        "source_action": "Pistol_Peek_Left",
+        "fbx_action": "Pistol_Peek_Left"
+      },
+      {
+        "source_action": "Pistol_Peek_Right",
+        "fbx_action": "Pistol_Peek_Right"
+      },
+      {
+        "source_action": "Pistol_Reload_Crouched",
+        "fbx_action": "Pistol_Reload_Crouched"
+      },
+      {
+        "source_action": "Rifle_Aim_High",
+        "fbx_action": "Rifle_Aim_High"
+      },
+      {
+        "source_action": "Rifle_Aim_Low",
+        "fbx_action": "Rifle_Aim_Low"
+      },
+      {
+        "source_action": "Rifle_Crouch_Fire",
+        "fbx_action": "Rifle_Crouch_Fire"
+      },
+      {
+        "source_action": "Rifle_Draw_LowReady",
+        "fbx_action": "Rifle_Draw_LowReady"
+      },
+      {
+        "source_action": "Rifle_Fire_Burst3",
+        "fbx_action": "Rifle_Fire_Burst3"
+      },
+      {
+        "source_action": "Rifle_Holster_Crouched",
+        "fbx_action": "Rifle_Holster_Crouched"
+      },
+      {
+        "source_action": "Rifle_Peek_Left",
+        "fbx_action": "Rifle_Peek_Left"
+      },
+      {
+        "source_action": "Rifle_Peek_Right",
+        "fbx_action": "Rifle_Peek_Right"
+      },
+      {
+        "source_action": "Rifle_Reload_Crouched",
+        "fbx_action": "Rifle_Reload_Crouched"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "weapons/Helix_Carbine/Helix_Carbine.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Helix_Carbine__Fire_Cycle",
+        "fbx_action": "Fire_Cycle"
+      },
+      {
+        "source_action": "Helix_Carbine__Reload_Mechanism",
+        "fbx_action": "Reload_Mechanism"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "weapons/Sable_Revolver/Sable_Revolver.fbx",
+    "action_name_map": [
+      {
+        "source_action": "Sable_Revolver__Fire_Cycle",
+        "fbx_action": "Fire_Cycle"
+      },
+      {
+        "source_action": "Sable_Revolver__Reload_Mechanism",
+        "fbx_action": "Reload_Mechanism"
+      }
+    ],
+    "fps": 30,
+    "bone_names_preserved": true
+  },
+  {
+    "file": "weapons/Tidebreaker_Poleaxe/Tidebreaker_Poleaxe.fbx",
+    "action_name_map": [],
+    "fps": 30,
+    "bone_names_preserved": true
+  }
+]

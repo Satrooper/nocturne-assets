@@ -1,0 +1,47 @@
+[
+  {
+    "file": "player_animation/Expanded_Player_Moves.glb",
+    "glb_reimport_passed": true,
+    "glb_clips": 46,
+    "glb_bones": 68,
+    "fbx_reimport_passed": true,
+    "fbx_clips": 46,
+    "fbx_bones": 68
+  },
+  {
+    "file": "player_handling/Player_With_Firearms.glb",
+    "glb_reimport_passed": true,
+    "glb_clips": 18,
+    "glb_bones": 86,
+    "fbx_reimport_passed": true,
+    "fbx_clips": 18,
+    "fbx_bones": 86
+  },
+  {
+    "file": "weapons/Helix_Carbine/Helix_Carbine.glb",
+    "glb_reimport_passed": true,
+    "glb_clips": 2,
+    "glb_bones": 6,
+    "fbx_reimport_passed": true,
+    "fbx_clips": 2,
+    "fbx_bones": 6
+  },
+  {
+    "file": "weapons/Sable_Revolver/Sable_Revolver.glb",
+    "glb_reimport_passed": true,
+    "glb_clips": 2,
+    "glb_bones": 6,
+    "fbx_reimport_passed": true,
+    "fbx_clips": 2,
+    "fbx_bones": 6
+  },
+  {
+    "file": "weapons/Tidebreaker_Poleaxe/Tidebreaker_Poleaxe.glb",
+    "glb_reimport_passed": true,
+    "glb_clips": 0,
+    "glb_bones": 4,
+    "fbx_reimport_passed": true,
+    "fbx_clips": 0,
+    "fbx_bones": 4
+  }
+]

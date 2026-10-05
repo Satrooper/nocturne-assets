@@ -1,0 +1,964 @@
+[
+  {
+    "file": "bosses/Carrion_Choir/Carrion_Choir.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Carrion_Choir_BaseColor.png",
+        "packed": true,
+        "bytes": 5534844
+      },
+      {
+        "name": "Carrion_Choir_Normal.png",
+        "packed": true,
+        "bytes": 7643967
+      },
+      {
+        "name": "Carrion_Choir_Roughness.png",
+        "packed": true,
+        "bytes": 3353421
+      }
+    ],
+    "bones": 26,
+    "actions": 22
+  },
+  {
+    "file": "bosses/Gorgon_Priest/Gorgon_Priest.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Gorgon_Priest_BaseColor.png",
+        "packed": true,
+        "bytes": 6859433
+      },
+      {
+        "name": "Gorgon_Priest_Normal.png",
+        "packed": true,
+        "bytes": 7645648
+      },
+      {
+        "name": "Gorgon_Priest_Roughness.png",
+        "packed": true,
+        "bytes": 3354323
+      }
+    ],
+    "bones": 50,
+    "actions": 22
+  },
+  {
+    "file": "bosses/Gravetusk/Gravetusk.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Gravetusk_BaseColor.png",
+        "packed": true,
+        "bytes": 7307360
+      },
+      {
+        "name": "Gravetusk_Normal.png",
+        "packed": true,
+        "bytes": 7642930
+      },
+      {
+        "name": "Gravetusk_Roughness.png",
+        "packed": true,
+        "bytes": 3353284
+      }
+    ],
+    "bones": 25,
+    "actions": 22
+  },
+  {
+    "file": "bosses/Harbour_Dredger/Harbour_Dredger.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Harbour_Dredger_BaseColor.png",
+        "packed": true,
+        "bytes": 5937846
+      },
+      {
+        "name": "Harbour_Dredger_Normal.png",
+        "packed": true,
+        "bytes": 7646572
+      },
+      {
+        "name": "Harbour_Dredger_Roughness.png",
+        "packed": true,
+        "bytes": 3351952
+      }
+    ],
+    "bones": 30,
+    "actions": 22
+  },
+  {
+    "file": "bosses/Iron_Executioner/Iron_Executioner.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Iron_Executioner_BaseColor.png",
+        "packed": true,
+        "bytes": 5800298
+      },
+      {
+        "name": "Iron_Executioner_Normal.png",
+        "packed": true,
+        "bytes": 7644917
+      },
+      {
+        "name": "Iron_Executioner_Roughness.png",
+        "packed": true,
+        "bytes": 3352191
+      }
+    ],
+    "bones": 27,
+    "actions": 22
+  },
+  {
+    "file": "bosses/Molten_Ram/Molten_Ram.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Molten_Ram_BaseColor.png",
+        "packed": true,
+        "bytes": 5952625
+      },
+      {
+        "name": "Molten_Ram_Normal.png",
+        "packed": true,
+        "bytes": 7644024
+      },
+      {
+        "name": "Molten_Ram_Roughness.png",
+        "packed": true,
+        "bytes": 3352703
+      }
+    ],
+    "bones": 22,
+    "actions": 22
+  },
+  {
+    "file": "bosses/Pendulum_Judge/Pendulum_Judge.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Pendulum_Judge_BaseColor.png",
+        "packed": true,
+        "bytes": 5561770
+      },
+      {
+        "name": "Pendulum_Judge_Normal.png",
+        "packed": true,
+        "bytes": 7643754
+      },
+      {
+        "name": "Pendulum_Judge_Roughness.png",
+        "packed": true,
+        "bytes": 3352712
+      }
+    ],
+    "bones": 29,
+    "actions": 22
+  },
+  {
+    "file": "bosses/Rift_Oracle/Rift_Oracle.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Rift_Oracle_BaseColor.png",
+        "packed": true,
+        "bytes": 6081317
+      },
+      {
+        "name": "Rift_Oracle_Normal.png",
+        "packed": true,
+        "bytes": 7641274
+      },
+      {
+        "name": "Rift_Oracle_Roughness.png",
+        "packed": true,
+        "bytes": 3353221
+      }
+    ],
+    "bones": 25,
+    "actions": 22
+  },
+  {
+    "file": "bosses/Tidal_Censer/Tidal_Censer.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Tidal_Censer_BaseColor.png",
+        "packed": true,
+        "bytes": 5615115
+      },
+      {
+        "name": "Tidal_Censer_Normal.png",
+        "packed": true,
+        "bytes": 7643012
+      },
+      {
+        "name": "Tidal_Censer_Roughness.png",
+        "packed": true,
+        "bytes": 3354388
+      }
+    ],
+    "bones": 31,
+    "actions": 22
+  },
+  {
+    "file": "bosses/Vector_Widow/Vector_Widow.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Vector_Widow_BaseColor.png",
+        "packed": true,
+        "bytes": 6628120
+      },
+      {
+        "name": "Vector_Widow_Normal.png",
+        "packed": true,
+        "bytes": 7640560
+      },
+      {
+        "name": "Vector_Widow_Roughness.png",
+        "packed": true,
+        "bytes": 3352676
+      }
+    ],
+    "bones": 25,
+    "actions": 22
+  },
+  {
+    "file": "dragons/Ashen_Tortoise/Ashen_Tortoise.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Ashen_Tortoise_BaseColor.png",
+        "packed": true,
+        "bytes": 5953547
+      },
+      {
+        "name": "Ashen_Tortoise_Normal.png",
+        "packed": true,
+        "bytes": 7646691
+      },
+      {
+        "name": "Ashen_Tortoise_Roughness.png",
+        "packed": true,
+        "bytes": 3353266
+      }
+    ],
+    "bones": 22,
+    "actions": 22
+  },
+  {
+    "file": "dragons/Basilisk_Crownless/Basilisk_Crownless.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Basilisk_Crownless_BaseColor.png",
+        "packed": true,
+        "bytes": 5942784
+      },
+      {
+        "name": "Basilisk_Crownless_Normal.png",
+        "packed": true,
+        "bytes": 7647870
+      },
+      {
+        "name": "Basilisk_Crownless_Roughness.png",
+        "packed": true,
+        "bytes": 3353699
+      }
+    ],
+    "bones": 34,
+    "actions": 22
+  },
+  {
+    "file": "dragons/Brine_Sawback/Brine_Sawback.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Brine_Sawback_BaseColor.png",
+        "packed": true,
+        "bytes": 5808446
+      },
+      {
+        "name": "Brine_Sawback_Normal.png",
+        "packed": true,
+        "bytes": 7643761
+      },
+      {
+        "name": "Brine_Sawback_Roughness.png",
+        "packed": true,
+        "bytes": 3354179
+      }
+    ],
+    "bones": 16,
+    "actions": 22
+  },
+  {
+    "file": "dragons/Crescent_Manta/Crescent_Manta.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Crescent_Manta_BaseColor.png",
+        "packed": true,
+        "bytes": 5611023
+      },
+      {
+        "name": "Crescent_Manta_Normal.png",
+        "packed": true,
+        "bytes": 7643511
+      },
+      {
+        "name": "Crescent_Manta_Roughness.png",
+        "packed": true,
+        "bytes": 3353152
+      }
+    ],
+    "bones": 20,
+    "actions": 22
+  },
+  {
+    "file": "dragons/Gale_Triptych/Gale_Triptych.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Gale_Triptych_BaseColor.png",
+        "packed": true,
+        "bytes": 5537352
+      },
+      {
+        "name": "Gale_Triptych_Normal.png",
+        "packed": true,
+        "bytes": 7644417
+      },
+      {
+        "name": "Gale_Triptych_Roughness.png",
+        "packed": true,
+        "bytes": 3353826
+      }
+    ],
+    "bones": 46,
+    "actions": 22
+  },
+  {
+    "file": "dragons/Glass_Needle/Glass_Needle.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Glass_Needle_BaseColor.png",
+        "packed": true,
+        "bytes": 6082594
+      },
+      {
+        "name": "Glass_Needle_Normal.png",
+        "packed": true,
+        "bytes": 7642144
+      },
+      {
+        "name": "Glass_Needle_Roughness.png",
+        "packed": true,
+        "bytes": 3353681
+      }
+    ],
+    "bones": 36,
+    "actions": 22
+  },
+  {
+    "file": "dragons/Ivory_Ramwyrm/Ivory_Ramwyrm.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Ivory_Ramwyrm_BaseColor.png",
+        "packed": true,
+        "bytes": 7304666
+      },
+      {
+        "name": "Ivory_Ramwyrm_Normal.png",
+        "packed": true,
+        "bytes": 7647251
+      },
+      {
+        "name": "Ivory_Ramwyrm_Roughness.png",
+        "packed": true,
+        "bytes": 3353362
+      }
+    ],
+    "bones": 46,
+    "actions": 22
+  },
+  {
+    "file": "dragons/Marrow_Hammerhead/Marrow_Hammerhead.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Marrow_Hammerhead_BaseColor.png",
+        "packed": true,
+        "bytes": 6856772
+      },
+      {
+        "name": "Marrow_Hammerhead_Normal.png",
+        "packed": true,
+        "bytes": 7645858
+      },
+      {
+        "name": "Marrow_Hammerhead_Roughness.png",
+        "packed": true,
+        "bytes": 3353598
+      }
+    ],
+    "bones": 32,
+    "actions": 22
+  },
+  {
+    "file": "dragons/Ossuary_Kite/Ossuary_Kite.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Ossuary_Kite_BaseColor.png",
+        "packed": true,
+        "bytes": 6638133
+      },
+      {
+        "name": "Ossuary_Kite_Normal.png",
+        "packed": true,
+        "bytes": 7643964
+      },
+      {
+        "name": "Ossuary_Kite_Roughness.png",
+        "packed": true,
+        "bytes": 3353477
+      }
+    ],
+    "bones": 26,
+    "actions": 22
+  },
+  {
+    "file": "dragons/Sable_Corkscrew/Sable_Corkscrew.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Sable_Corkscrew_BaseColor.png",
+        "packed": true,
+        "bytes": 5567134
+      },
+      {
+        "name": "Sable_Corkscrew_Normal.png",
+        "packed": true,
+        "bytes": 7641727
+      },
+      {
+        "name": "Sable_Corkscrew_Roughness.png",
+        "packed": true,
+        "bytes": 3353280
+      }
+    ],
+    "bones": 26,
+    "actions": 22
+  },
+  {
+    "file": "enemies/Bone_Grazer/Bone_Grazer.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Bone_Grazer_BaseColor.png",
+        "packed": true,
+        "bytes": 5955106
+      },
+      {
+        "name": "Bone_Grazer_Normal.png",
+        "packed": true,
+        "bytes": 7644182
+      },
+      {
+        "name": "Bone_Grazer_Roughness.png",
+        "packed": true,
+        "bytes": 3352997
+      }
+    ],
+    "bones": 36,
+    "actions": 22
+  },
+  {
+    "file": "enemies/Cable_Eel/Cable_Eel.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Cable_Eel_BaseColor.png",
+        "packed": true,
+        "bytes": 6843977
+      },
+      {
+        "name": "Cable_Eel_Normal.png",
+        "packed": true,
+        "bytes": 7644500
+      },
+      {
+        "name": "Cable_Eel_Roughness.png",
+        "packed": true,
+        "bytes": 3352009
+      }
+    ],
+    "bones": 13,
+    "actions": 22
+  },
+  {
+    "file": "enemies/Lantern_Toad/Lantern_Toad.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Lantern_Toad_BaseColor.png",
+        "packed": true,
+        "bytes": 6080833
+      },
+      {
+        "name": "Lantern_Toad_Normal.png",
+        "packed": true,
+        "bytes": 7645315
+      },
+      {
+        "name": "Lantern_Toad_Roughness.png",
+        "packed": true,
+        "bytes": 3353706
+      }
+    ],
+    "bones": 22,
+    "actions": 22
+  },
+  {
+    "file": "enemies/Latch_Leech/Latch_Leech.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Latch_Leech_BaseColor.png",
+        "packed": true,
+        "bytes": 5935821
+      },
+      {
+        "name": "Latch_Leech_Normal.png",
+        "packed": true,
+        "bytes": 7642459
+      },
+      {
+        "name": "Latch_Leech_Roughness.png",
+        "packed": true,
+        "bytes": 3353337
+      }
+    ],
+    "bones": 13,
+    "actions": 22
+  },
+  {
+    "file": "enemies/Needle_Tick/Needle_Tick.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Needle_Tick_BaseColor.png",
+        "packed": true,
+        "bytes": 6632099
+      },
+      {
+        "name": "Needle_Tick_Normal.png",
+        "packed": true,
+        "bytes": 7642154
+      },
+      {
+        "name": "Needle_Tick_Roughness.png",
+        "packed": true,
+        "bytes": 3354181
+      }
+    ],
+    "bones": 19,
+    "actions": 22
+  },
+  {
+    "file": "enemies/Pollen_Moth/Pollen_Moth.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Pollen_Moth_BaseColor.png",
+        "packed": true,
+        "bytes": 5538149
+      },
+      {
+        "name": "Pollen_Moth_Normal.png",
+        "packed": true,
+        "bytes": 7640722
+      },
+      {
+        "name": "Pollen_Moth_Roughness.png",
+        "packed": true,
+        "bytes": 3353740
+      }
+    ],
+    "bones": 49,
+    "actions": 22
+  },
+  {
+    "file": "enemies/Quarry_Slug/Quarry_Slug.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Quarry_Slug_BaseColor.png",
+        "packed": true,
+        "bytes": 7310205
+      },
+      {
+        "name": "Quarry_Slug_Normal.png",
+        "packed": true,
+        "bytes": 7648145
+      },
+      {
+        "name": "Quarry_Slug_Roughness.png",
+        "packed": true,
+        "bytes": 3353677
+      }
+    ],
+    "bones": 17,
+    "actions": 22
+  },
+  {
+    "file": "enemies/Rag_Pilgrim/Rag_Pilgrim.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Rag_Pilgrim_BaseColor.png",
+        "packed": true,
+        "bytes": 5563532
+      },
+      {
+        "name": "Rag_Pilgrim_Normal.png",
+        "packed": true,
+        "bytes": 7645183
+      },
+      {
+        "name": "Rag_Pilgrim_Roughness.png",
+        "packed": true,
+        "bytes": 3353035
+      }
+    ],
+    "bones": 27,
+    "actions": 22
+  },
+  {
+    "file": "enemies/Ratchet_Rook/Ratchet_Rook.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Ratchet_Rook_BaseColor.png",
+        "packed": true,
+        "bytes": 5610733
+      },
+      {
+        "name": "Ratchet_Rook_Normal.png",
+        "packed": true,
+        "bytes": 7642594
+      },
+      {
+        "name": "Ratchet_Rook_Roughness.png",
+        "packed": true,
+        "bytes": 3352614
+      }
+    ],
+    "bones": 26,
+    "actions": 22
+  },
+  {
+    "file": "enemies/Reef_Anemone/Reef_Anemone.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Reef_Anemone_BaseColor.png",
+        "packed": true,
+        "bytes": 5809582
+      },
+      {
+        "name": "Reef_Anemone_Normal.png",
+        "packed": true,
+        "bytes": 7643121
+      },
+      {
+        "name": "Reef_Anemone_Roughness.png",
+        "packed": true,
+        "bytes": 3353360
+      }
+    ],
+    "bones": 43,
+    "actions": 22
+  },
+  {
+    "file": "legacy_distinct_variants/Crimson_Imp/Crimson_Imp_Distinct.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Crimson_Imp_Visual4_basecolor",
+        "packed": true,
+        "bytes": 731902
+      },
+      {
+        "name": "Crimson_Imp_Visual4_metallic",
+        "packed": true,
+        "bytes": 56194
+      },
+      {
+        "name": "Crimson_Imp_Visual4_normal",
+        "packed": true,
+        "bytes": 633559
+      },
+      {
+        "name": "Crimson_Imp_Visual4_roughness",
+        "packed": true,
+        "bytes": 655918
+      }
+    ],
+    "bones": 18,
+    "actions": 20
+  },
+  {
+    "file": "legacy_distinct_variants/Crypt_Skitter/Crypt_Skitter_Distinct.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Crypt_Skitter_Visual4_basecolor",
+        "packed": true,
+        "bytes": 750895
+      },
+      {
+        "name": "Crypt_Skitter_Visual4_metallic",
+        "packed": true,
+        "bytes": 13988
+      },
+      {
+        "name": "Crypt_Skitter_Visual4_normal",
+        "packed": true,
+        "bytes": 1051577
+      },
+      {
+        "name": "Crypt_Skitter_Visual4_roughness",
+        "packed": true,
+        "bytes": 723621
+      }
+    ],
+    "bones": 30,
+    "actions": 20
+  },
+  {
+    "file": "legacy_distinct_variants/Furnace_Titan/Furnace_Titan_Distinct.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Furnace_Titan_Visual4_basecolor",
+        "packed": true,
+        "bytes": 261946
+      },
+      {
+        "name": "Furnace_Titan_Visual4_metallic",
+        "packed": true,
+        "bytes": 232040
+      },
+      {
+        "name": "Furnace_Titan_Visual4_normal",
+        "packed": true,
+        "bytes": 430208
+      },
+      {
+        "name": "Furnace_Titan_Visual4_roughness",
+        "packed": true,
+        "bytes": 522170
+      }
+    ],
+    "bones": 18,
+    "actions": 20
+  },
+  {
+    "file": "legacy_distinct_variants/Hundredleg/Hundredleg_Distinct.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Hundredleg_Visual4_basecolor",
+        "packed": true,
+        "bytes": 766755
+      },
+      {
+        "name": "Hundredleg_Visual4_metallic",
+        "packed": true,
+        "bytes": 13988
+      },
+      {
+        "name": "Hundredleg_Visual4_normal",
+        "packed": true,
+        "bytes": 741995
+      },
+      {
+        "name": "Hundredleg_Visual4_roughness",
+        "packed": true,
+        "bytes": 700098
+      }
+    ],
+    "bones": 36,
+    "actions": 20
+  },
+  {
+    "file": "legacy_distinct_variants/Razorfin/Razorfin_Distinct.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Razorfin_Visual4_basecolor",
+        "packed": true,
+        "bytes": 717041
+      },
+      {
+        "name": "Razorfin_Visual4_metallic",
+        "packed": true,
+        "bytes": 13988
+      },
+      {
+        "name": "Razorfin_Visual4_normal",
+        "packed": true,
+        "bytes": 879404
+      },
+      {
+        "name": "Razorfin_Visual4_roughness",
+        "packed": true,
+        "bytes": 685526
+      }
+    ],
+    "bones": 8,
+    "actions": 24
+  },
+  {
+    "file": "legacy_distinct_variants/Scrapling/Scrapling_Distinct.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Scrapling_Visual4_basecolor",
+        "packed": true,
+        "bytes": 253465
+      },
+      {
+        "name": "Scrapling_Visual4_metallic",
+        "packed": true,
+        "bytes": 225998
+      },
+      {
+        "name": "Scrapling_Visual4_normal",
+        "packed": true,
+        "bytes": 414653
+      },
+      {
+        "name": "Scrapling_Visual4_roughness",
+        "packed": true,
+        "bytes": 496036
+      }
+    ],
+    "bones": 18,
+    "actions": 20
+  },
+  {
+    "file": "legacy_distinct_variants/Sporeling/Sporeling_Distinct.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Sporeling_Visual4_basecolor",
+        "packed": true,
+        "bytes": 792161
+      },
+      {
+        "name": "Sporeling_Visual4_metallic",
+        "packed": true,
+        "bytes": 13988
+      },
+      {
+        "name": "Sporeling_Visual4_normal",
+        "packed": true,
+        "bytes": 1061058
+      },
+      {
+        "name": "Sporeling_Visual4_roughness",
+        "packed": true,
+        "bytes": 737212
+      }
+    ],
+    "bones": 18,
+    "actions": 20
+  },
+  {
+    "file": "player_animation/Expanded_Player_Moves.blend",
+    "source_open_passed": true,
+    "texture_checks": [],
+    "bones": 68,
+    "actions": 46
+  },
+  {
+    "file": "player_handling/Player_Handling.blend",
+    "source_open_passed": true,
+    "texture_checks": [
+      {
+        "name": "Bastion_Rifle_basecolor",
+        "packed": true,
+        "bytes": 173124
+      },
+      {
+        "name": "Bastion_Rifle_metallic",
+        "packed": true,
+        "bytes": 129626
+      },
+      {
+        "name": "Bastion_Rifle_normal",
+        "packed": true,
+        "bytes": 27988
+      },
+      {
+        "name": "Bastion_Rifle_roughness",
+        "packed": true,
+        "bytes": 706927
+      },
+      {
+        "name": "Vesper_Pistol_basecolor",
+        "packed": true,
+        "bytes": 117964
+      },
+      {
+        "name": "Vesper_Pistol_metallic",
+        "packed": true,
+        "bytes": 82239
+      },
+      {
+        "name": "Vesper_Pistol_normal",
+        "packed": true,
+        "bytes": 41058
+      },
+      {
+        "name": "Vesper_Pistol_roughness",
+        "packed": true,
+        "bytes": 636372
+      }
+    ],
+    "bones": 86,
+    "actions": 18
+  },
+  {
+    "file": "weapons/Helix_Carbine/Helix_Carbine.blend",
+    "source_open_passed": true,
+    "texture_checks": [],
+    "bones": 6,
+    "actions": 2
+  },
+  {
+    "file": "weapons/Sable_Revolver/Sable_Revolver.blend",
+    "source_open_passed": true,
+    "texture_checks": [],
+    "bones": 6,
+    "actions": 2
+  },
+  {
+    "file": "weapons/Tidebreaker_Poleaxe/Tidebreaker_Poleaxe.blend",
+    "source_open_passed": true,
+    "texture_checks": [],
+    "bones": 4,
+    "actions": 0
+  }
+]
