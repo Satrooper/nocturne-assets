@@ -1,0 +1,4 @@
+V3 Nocturne geometry/rest rigs and procedural sources: existing supplied Nocturne pack.
+Player reference: characters/Y Bot.fbx from https://github.com/Satrooper/nocturne-assets at f2305cd7bb1021d4e8bb26e557e2ad86567b1e33. Existing repository credits attribute Y Bot to Mixamo (Adobe).
+New benchmark changes and motion scripts: generated procedural modelling/key-pose/IK authoring in Blender; not extracted artwork or motion capture from referenced games.
+Quality references informed design direction only; no game/film model or texture was copied.

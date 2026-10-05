@@ -1,0 +1,97 @@
+{
+  "name": "Gravesong_Sword",
+  "status": "new_weapon_gap_asset",
+  "design": "original authored mesh; no external franchise assets",
+  "triangles": 10680,
+  "units": "metres",
+  "authoring_axes": "Z up, muzzle/blade along -Y, grip origin near world origin",
+  "sockets": {
+    "muzzle": {
+      "bone": "muzzle",
+      "position_weapon_local_m": [
+        0,
+        -1.28,
+        0
+      ]
+    },
+    "grip": {
+      "bone": "grip",
+      "position_weapon_local_m": [
+        0,
+        -0.045,
+        0
+      ]
+    },
+    "support": {
+      "bone": "support",
+      "position_weapon_local_m": [
+        0,
+        0.018,
+        0
+      ]
+    },
+    "holster": {
+      "bone": "holster",
+      "position_weapon_local_m": [
+        0,
+        -0.17,
+        0
+      ]
+    },
+    "blade_base": {
+      "bone": "blade_base",
+      "position_weapon_local_m": [
+        0,
+        -0.19,
+        0
+      ]
+    },
+    "blade_tip": {
+      "bone": "blade_tip",
+      "position_weapon_local_m": [
+        0,
+        -1.28,
+        0
+      ]
+    }
+  },
+  "clips": [],
+  "lod_ratios": [
+    1,
+    0.6,
+    0.3
+  ],
+  "attachment": "Parent weapon_root to player hand socket with an asset-specific calibrated offset. Socket alignment and two-hand grips require player animation work. Do not assume identity transform.",
+  "texture_maps": [
+    "basecolor",
+    "roughness",
+    "metallic",
+    "normal"
+  ],
+  "engine_tested": false,
+  "limitations": [
+    "Weapons have not been aligned to player hands or holster poses.",
+    "Magazine animation uses a bone; engine must spawn/drop a separate magazine if desired.",
+    "Baked material atlas consolidates material slots; authoring source preserves separate metal, coating and polymer materials.",
+    "No cloth simulation, projectile, damage or ammunition logic."
+  ],
+  "mechanism_axes": "Keyed translations converted from weapon-local world vectors into each bone local frame: slide/bolt +Y, magazine primarily -Z.",
+  "timing_status": "Mechanical cue times only; no player-hand contacts or combat windows validated.",
+  "lods": [
+    {
+      "level": 0,
+      "file": "Gravesong_Sword.fbx",
+      "triangles": 10680
+    },
+    {
+      "level": 1,
+      "file": "Gravesong_Sword_LOD1.fbx",
+      "triangles": 6408
+    },
+    {
+      "level": 2,
+      "file": "Gravesong_Sword_LOD2.fbx",
+      "triangles": 3204
+    }
+  ]
+}

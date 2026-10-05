@@ -1,0 +1,116 @@
+{
+  "name": "Vesper_Pistol",
+  "status": "new_weapon_gap_asset",
+  "design": "original authored mesh; no external franchise assets",
+  "triangles": 12216,
+  "units": "metres",
+  "authoring_axes": "Z up, muzzle/blade along -Y, grip origin near world origin",
+  "sockets": {
+    "muzzle": {
+      "bone": "muzzle",
+      "position_weapon_local_m": [
+        0,
+        -0.225,
+        0.138
+      ]
+    },
+    "grip": {
+      "bone": "grip",
+      "position_weapon_local_m": [
+        0,
+        0.014,
+        0
+      ]
+    },
+    "support": {
+      "bone": "support",
+      "position_weapon_local_m": [
+        0,
+        -0.055,
+        0.068
+      ]
+    },
+    "holster": {
+      "bone": "holster",
+      "position_weapon_local_m": [
+        0,
+        0,
+        0.07
+      ]
+    }
+  },
+  "clips": [
+    {
+      "name": "Mechanical_Fire",
+      "duration_s": 0.4,
+      "root_motion": false,
+      "type": "weapon_mechanism_only",
+      "events": [
+        {
+          "time_s": 0.06666666666666667,
+          "event": "mechanical_rearward_peak"
+        }
+      ],
+      "hit_window_validated": false
+    },
+    {
+      "name": "Mechanical_Reload",
+      "duration_s": 2.4,
+      "root_motion": false,
+      "type": "weapon_mechanism_only",
+      "events": [
+        {
+          "time_s": 0.55,
+          "event": "magazine_removed"
+        },
+        {
+          "time_s": 1.85,
+          "event": "magazine_seated"
+        },
+        {
+          "time_s": 2.066666666666667,
+          "event": "action_retracted"
+        }
+      ],
+      "hit_window_validated": false
+    }
+  ],
+  "lod_ratios": [
+    1,
+    0.6,
+    0.3
+  ],
+  "attachment": "Parent weapon_root to player hand socket with an asset-specific calibrated offset. Socket alignment and two-hand grips require player animation work. Do not assume identity transform.",
+  "texture_maps": [
+    "basecolor",
+    "roughness",
+    "metallic",
+    "normal"
+  ],
+  "engine_tested": false,
+  "limitations": [
+    "Weapons have not been aligned to player hands or holster poses.",
+    "Magazine animation uses a bone; engine must spawn/drop a separate magazine if desired.",
+    "Baked material atlas consolidates material slots; authoring source preserves separate metal, coating and polymer materials.",
+    "No cloth simulation, projectile, damage or ammunition logic."
+  ],
+  "mechanism_axes": "Keyed translations converted from weapon-local world vectors into each bone local frame: slide/bolt +Y, magazine primarily -Z.",
+  "timing_status": "Mechanical cue times only; no player-hand contacts or combat windows validated.",
+  "lods": [
+    {
+      "level": 0,
+      "file": "Vesper_Pistol.fbx",
+      "triangles": 12216
+    },
+    {
+      "level": 1,
+      "file": "Vesper_Pistol_LOD1.fbx",
+      "triangles": 7328
+    },
+    {
+      "level": 2,
+      "file": "Vesper_Pistol_LOD2.fbx",
+      "triangles": 3664
+    }
+  ]
+}
