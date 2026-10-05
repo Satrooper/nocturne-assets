@@ -1,0 +1,567 @@
+{
+  "name": "Frost_Antler",
+  "category": "dragons",
+  "body_type": "dragon",
+  "triangles": 47900,
+  "bones": 29,
+  "materials": 8,
+  "clips": [
+    {
+      "name": "Idle_Breathe",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Walk",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Run",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Front",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Back",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Stagger",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Death",
+      "frames": 91,
+      "fps": 30,
+      "duration": 3.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Threat_Roar",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Antler_Rake",
+      "frames": 68,
+      "fps": 30,
+      "duration": 2.23,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "sweep",
+          0.94,
+          [
+            0.1,
+            0.594
+          ],
+          -1
+        ],
+        [
+          "guard",
+          0.4,
+          [
+            0.416,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.491,
+          "event": "anticipation"
+        },
+        {
+          "time": 0.959,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.829,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Double_Horn_Thrust",
+      "frames": 71,
+      "fps": 30,
+      "duration": 2.35,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "jab",
+          0.94,
+          [
+            0.1,
+            0.594
+          ],
+          1
+        ],
+        [
+          "jab",
+          0.44,
+          [
+            0.416,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.517,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.01,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.927,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Frost_Exhale",
+      "frames": 75,
+      "fps": 30,
+      "duration": 2.4699999999999998,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "cast",
+          0.94,
+          [
+            0.1,
+            0.594
+          ],
+          -1
+        ],
+        [
+          "shake",
+          0.48000000000000004,
+          [
+            0.416,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.543,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.062,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.025,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Freezing_Stomp",
+      "frames": 79,
+      "fps": 30,
+      "duration": 2.59,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "stomp",
+          0.94,
+          [
+            0.1,
+            0.594
+          ],
+          1
+        ],
+        [
+          "slam",
+          0.52,
+          [
+            0.416,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.57,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.114,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.124,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Sidestep_Bite",
+      "frames": 82,
+      "fps": 30,
+      "duration": 2.71,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "bite",
+          0.94,
+          [
+            0.1,
+            0.594
+          ],
+          -1
+        ],
+        [
+          "guard",
+          0.56,
+          [
+            0.416,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.596,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.165,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.222,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Horn_Lift",
+      "frames": 86,
+      "fps": 30,
+      "duration": 2.83,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          0.94,
+          [
+            0.1,
+            0.594
+          ],
+          1
+        ],
+        [
+          "jab",
+          0.6000000000000001,
+          [
+            0.416,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.623,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.217,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.321,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Tail_Crush",
+      "frames": 89,
+      "fps": 30,
+      "duration": 2.95,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "slam",
+          0.94,
+          [
+            0.1,
+            0.594
+          ],
+          -1
+        ],
+        [
+          "shake",
+          0.64,
+          [
+            0.416,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.649,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.268,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.419,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Glacial_Dive",
+      "frames": 93,
+      "fps": 30,
+      "duration": 3.07,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "wing",
+          0.94,
+          [
+            0.1,
+            0.594
+          ],
+          1
+        ],
+        [
+          "slam",
+          0.68,
+          [
+            0.416,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.675,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.32,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.517,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Flight_Takeoff",
+      "frames": 97,
+      "fps": 30,
+      "duration": 3.19,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Flight_Hover",
+      "frames": 100,
+      "fps": 30,
+      "duration": 3.31,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Flight_Glide",
+      "frames": 104,
+      "fps": 30,
+      "duration": 3.4299999999999997,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Flight_Landing",
+      "frames": 107,
+      "fps": 30,
+      "duration": 3.55,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    }
+  ],
+  "lods": [
+    {
+      "level": 1,
+      "triangles": 24351
+    },
+    {
+      "level": 2,
+      "triangles": 12397
+    }
+  ],
+  "textures": "2048px basecolor/normal/roughness; original procedural PBR",
+  "skin_weights": "interpolated along anatomical tubes; rigid detail attachments",
+  "provenance": "original procedural artwork; not extracted franchise content",
+  "quality_status": "Actual geometry/material revision; cinematic realism, complete animation refinement and all-frame collision approval remain unproven",
+  "revision": "v4_full_roster_visual_iteration",
+  "animation_revision": "v2 motion bank retained; revised art, not new mocap",
+  "geometry_changes": "shaped plates, layered surfaces, anatomical/species proportions and accessories",
+  "visual_changes": [
+    "Removed 10046 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+    "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+    "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+    "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+    "Converted 696 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+  ],
+  "vertices_before": 26666,
+  "vertices_after": 25166,
+  "texture_atlas": {
+    "size": 1024,
+    "maps": [
+      "textures/Frost_Antler_Visual4_basecolor.png",
+      "textures/Frost_Antler_Visual4_roughness.png",
+      "textures/Frost_Antler_Visual4_metallic.png",
+      "textures/Frost_Antler_Visual4_normal.png"
+    ]
+  },
+  "rig_rest_transforms_preserved": true,
+  "engine_tested": false
+}

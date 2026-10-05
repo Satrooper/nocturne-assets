@@ -1,0 +1,4299 @@
+[
+  {
+    "file": "dragons/Thornback/Thornback.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_basecolor.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/thorn_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_basecolor.png.001",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/thorn_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_normal.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_normal.png.001",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_roughness.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_roughness.png.001",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Thornback_Visual4_basecolor",
+        "path": "dragons/Thornback/../../textures/Thornback_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Thornback_Visual4_metallic",
+        "path": "dragons/Thornback/../../textures/Thornback_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Thornback_Visual4_normal",
+        "path": "dragons/Thornback/../../textures/Thornback_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Thornback_Visual4_roughness",
+        "path": "dragons/Thornback/../../textures/Thornback_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Thornback/Thornback_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_basecolor.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/thorn_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_basecolor.png.001",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/thorn_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_normal.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_normal.png.001",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_roughness.png",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_roughness.png.001",
+        "path": "dragons/Thornback/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Frost_Antler/Frost_Antler.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Frost_Antler_Visual4_basecolor",
+        "path": "dragons/Frost_Antler/../../textures/Frost_Antler_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Frost_Antler_Visual4_metallic",
+        "path": "dragons/Frost_Antler/../../textures/Frost_Antler_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Frost_Antler_Visual4_normal",
+        "path": "dragons/Frost_Antler/../../textures/Frost_Antler_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Frost_Antler_Visual4_roughness",
+        "path": "dragons/Frost_Antler/../../textures/Frost_Antler_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "frost_basecolor.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/frost_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "frost_basecolor.png.001",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/frost_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "frost_normal.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "frost_normal.png.001",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "frost_roughness.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "frost_roughness.png.001",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Frost_Antler/Frost_Antler_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "frost_basecolor.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/frost_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "frost_basecolor.png.001",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/frost_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "frost_normal.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "frost_normal.png.001",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "frost_roughness.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "frost_roughness.png.001",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Frost_Antler/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Moonveil/Moonveil_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "moon_basecolor.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/moon_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "moon_basecolor.png.001",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/moon_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "moon_normal.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "moon_normal.png.001",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "moon_roughness.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "moon_roughness.png.001",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Moonveil/Moonveil.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "moon_basecolor.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/moon_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "moon_basecolor.png.001",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/moon_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "moon_normal.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "moon_normal.png.001",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "moon_roughness.png",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "moon_roughness.png.001",
+        "path": "dragons/Moonveil/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Moonveil_Visual4_basecolor",
+        "path": "dragons/Moonveil/../../textures/Moonveil_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Moonveil_Visual4_metallic",
+        "path": "dragons/Moonveil/../../textures/Moonveil_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Moonveil_Visual4_normal",
+        "path": "dragons/Moonveil/../../textures/Moonveil_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Moonveil_Visual4_roughness",
+        "path": "dragons/Moonveil/../../textures/Moonveil_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Crimson_Vesper/Crimson_Vesper_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_basecolor.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/crimson_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_basecolor.png.001",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/crimson_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_normal.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_normal.png.001",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_roughness.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_roughness.png.001",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Crimson_Vesper/Crimson_Vesper.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_basecolor.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/crimson_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_basecolor.png.001",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/crimson_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_normal.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_normal.png.001",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_roughness.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_roughness.png.001",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Crimson_Vesper_Visual4_basecolor",
+        "path": "dragons/Crimson_Vesper/../../textures/Crimson_Vesper_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Crimson_Vesper_Visual4_metallic",
+        "path": "dragons/Crimson_Vesper/../../textures/Crimson_Vesper_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Crimson_Vesper_Visual4_normal",
+        "path": "dragons/Crimson_Vesper/../../textures/Crimson_Vesper_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Crimson_Vesper_Visual4_roughness",
+        "path": "dragons/Crimson_Vesper/../../textures/Crimson_Vesper_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Crimson_Vesper/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Iron_Seraph/Iron_Seraph_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "iron_basecolor.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/iron_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "iron_basecolor.png.001",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/iron_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "iron_normal.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "iron_normal.png.001",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "iron_roughness.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "iron_roughness.png.001",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_basecolor.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/metal_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Iron_Seraph/Iron_Seraph.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "iron_basecolor.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/iron_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "iron_basecolor.png.001",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/iron_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "iron_normal.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "iron_normal.png.001",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "iron_roughness.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "iron_roughness.png.001",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Iron_Seraph_Visual4_basecolor",
+        "path": "dragons/Iron_Seraph/../../textures/Iron_Seraph_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Iron_Seraph_Visual4_metallic",
+        "path": "dragons/Iron_Seraph/../../textures/Iron_Seraph_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Iron_Seraph_Visual4_normal",
+        "path": "dragons/Iron_Seraph/../../textures/Iron_Seraph_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Iron_Seraph_Visual4_roughness",
+        "path": "dragons/Iron_Seraph/../../textures/Iron_Seraph_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_basecolor.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/metal_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Iron_Seraph/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Dune_Glasswing/Dune_Glasswing_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png.001",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png.001",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png.001",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "dune_basecolor.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/dune_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "dune_basecolor.png.001",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/dune_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "dune_normal.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "dune_normal.png.001",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "dune_roughness.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "dune_roughness.png.001",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Dune_Glasswing/Dune_Glasswing.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png.001",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png.001",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png.001",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "dune_basecolor.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/dune_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "dune_basecolor.png.001",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/dune_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Dune_Glasswing_Visual4_basecolor",
+        "path": "dragons/Dune_Glasswing/../../textures/Dune_Glasswing_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Dune_Glasswing_Visual4_metallic",
+        "path": "dragons/Dune_Glasswing/../../textures/Dune_Glasswing_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Dune_Glasswing_Visual4_normal",
+        "path": "dragons/Dune_Glasswing/../../textures/Dune_Glasswing_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Dune_Glasswing_Visual4_roughness",
+        "path": "dragons/Dune_Glasswing/../../textures/Dune_Glasswing_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "dune_normal.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "dune_normal.png.001",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "dune_roughness.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "dune_roughness.png.001",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Dune_Glasswing/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Storm_Wyvern/Storm_Wyvern.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "storm_basecolor.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/storm_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "storm_basecolor.png.001",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/storm_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "storm_normal.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "storm_normal.png.001",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "storm_roughness.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "storm_roughness.png.001",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Storm_Wyvern_Visual4_basecolor",
+        "path": "dragons/Storm_Wyvern/../../textures/Storm_Wyvern_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Storm_Wyvern_Visual4_metallic",
+        "path": "dragons/Storm_Wyvern/../../textures/Storm_Wyvern_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Storm_Wyvern_Visual4_normal",
+        "path": "dragons/Storm_Wyvern/../../textures/Storm_Wyvern_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Storm_Wyvern_Visual4_roughness",
+        "path": "dragons/Storm_Wyvern/../../textures/Storm_Wyvern_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Storm_Wyvern/Storm_Wyvern_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "storm_basecolor.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/storm_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "storm_basecolor.png.001",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/storm_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "storm_normal.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "storm_normal.png.001",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "storm_roughness.png",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "storm_roughness.png.001",
+        "path": "dragons/Storm_Wyvern/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Obsidian_Bastion/Obsidian_Bastion_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "obsidian_basecolor.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/obsidian_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "obsidian_basecolor.png.001",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/obsidian_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "obsidian_normal.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "obsidian_normal.png.001",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "obsidian_roughness.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "obsidian_roughness.png.001",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Obsidian_Bastion/Obsidian_Bastion.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "obsidian_basecolor.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/obsidian_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "obsidian_basecolor.png.001",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/obsidian_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Obsidian_Bastion_Visual4_basecolor",
+        "path": "dragons/Obsidian_Bastion/../../textures/Obsidian_Bastion_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Obsidian_Bastion_Visual4_metallic",
+        "path": "dragons/Obsidian_Bastion/../../textures/Obsidian_Bastion_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Obsidian_Bastion_Visual4_normal",
+        "path": "dragons/Obsidian_Bastion/../../textures/Obsidian_Bastion_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Obsidian_Bastion_Visual4_roughness",
+        "path": "dragons/Obsidian_Bastion/../../textures/Obsidian_Bastion_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "obsidian_normal.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "obsidian_normal.png.001",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "obsidian_roughness.png",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "obsidian_roughness.png.001",
+        "path": "dragons/Obsidian_Bastion/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Cinder_Crown/Cinder_Crown_Experimental.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png.002",
+        "path": "dragons/Cinder_Crown/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png.002",
+        "path": "dragons/Cinder_Crown/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png.002",
+        "path": "dragons/Cinder_Crown/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_basecolor.png.002",
+        "path": "dragons/Cinder_Crown/../../../Nocturne_V4_Full_Pack/textures/cinder_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Cinder_Crown_Visual4_basecolor",
+        "path": "dragons/Cinder_Crown/../../textures/Cinder_Crown_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Cinder_Crown_Visual4_metallic",
+        "path": "dragons/Cinder_Crown/../../textures/Cinder_Crown_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Cinder_Crown_Visual4_normal",
+        "path": "dragons/Cinder_Crown/../../textures/Cinder_Crown_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Cinder_Crown_Visual4_roughness",
+        "path": "dragons/Cinder_Crown/../../textures/Cinder_Crown_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_normal.png.002",
+        "path": "dragons/Cinder_Crown/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_roughness.png.002",
+        "path": "dragons/Cinder_Crown/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Cinder_Crown/Cinder_Crown_Experimental_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png.002",
+        "path": "dragons/Cinder_Crown/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png.002",
+        "path": "dragons/Cinder_Crown/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png.002",
+        "path": "dragons/Cinder_Crown/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_basecolor.png.002",
+        "path": "dragons/Cinder_Crown/../../../Nocturne_V4_Full_Pack/textures/cinder_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_normal.png.002",
+        "path": "dragons/Cinder_Crown/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_roughness.png.002",
+        "path": "dragons/Cinder_Crown/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Sunken_Leviathan/Sunken_Leviathan_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "abyss_basecolor.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/abyss_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_basecolor.png.001",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/abyss_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_normal.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_normal.png.001",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_roughness.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_roughness.png.001",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Sunken_Leviathan/Sunken_Leviathan.blend",
+    "shared_texture_references": [
+      {
+        "image": "abyss_basecolor.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/abyss_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_basecolor.png.001",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/abyss_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_normal.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_normal.png.001",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_roughness.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_roughness.png.001",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "dragons/Sunken_Leviathan/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Sunken_Leviathan_Visual4_basecolor",
+        "path": "dragons/Sunken_Leviathan/../../textures/Sunken_Leviathan_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Sunken_Leviathan_Visual4_metallic",
+        "path": "dragons/Sunken_Leviathan/../../textures/Sunken_Leviathan_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Sunken_Leviathan_Visual4_normal",
+        "path": "dragons/Sunken_Leviathan/../../textures/Sunken_Leviathan_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Sunken_Leviathan_Visual4_roughness",
+        "path": "dragons/Sunken_Leviathan/../../textures/Sunken_Leviathan_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Hundredleg/Hundredleg.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_basecolor.png",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/chitin_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_basecolor.png.001",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/chitin_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_normal.png",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_normal.png.001",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_roughness.png",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_roughness.png.001",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Hundredleg_Visual4_basecolor",
+        "path": "bosses/Hundredleg/../../textures/Hundredleg_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Hundredleg_Visual4_metallic",
+        "path": "bosses/Hundredleg/../../textures/Hundredleg_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Hundredleg_Visual4_normal",
+        "path": "bosses/Hundredleg/../../textures/Hundredleg_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Hundredleg_Visual4_roughness",
+        "path": "bosses/Hundredleg/../../textures/Hundredleg_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Hundredleg/Hundredleg_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_basecolor.png",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/chitin_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_basecolor.png.001",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/chitin_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_normal.png",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_normal.png.001",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_roughness.png",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_roughness.png.001",
+        "path": "bosses/Hundredleg/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Siege_Sentinel/Siege_Sentinel_Authoring.blend",
+    "shared_texture_references": [],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Siege_Sentinel/Siege_Sentinel.blend",
+    "shared_texture_references": [
+      {
+        "image": "Siege_Sentinel_Visual4_basecolor",
+        "path": "bosses/Siege_Sentinel/../../textures/Siege_Sentinel_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Siege_Sentinel_Visual4_metallic",
+        "path": "bosses/Siege_Sentinel/../../textures/Siege_Sentinel_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Siege_Sentinel_Visual4_normal",
+        "path": "bosses/Siege_Sentinel/../../textures/Siege_Sentinel_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Siege_Sentinel_Visual4_roughness",
+        "path": "bosses/Siege_Sentinel/../../textures/Siege_Sentinel_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Neon_Reaper/Neon_Reaper.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "cloth_basecolor.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/cloth_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "cloth_normal.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/cloth_normal.png",
+        "exists": true
+      },
+      {
+        "image": "cloth_roughness.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/cloth_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_basecolor.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/metal_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Neon_Reaper_Visual4_basecolor",
+        "path": "bosses/Neon_Reaper/../../textures/Neon_Reaper_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Neon_Reaper_Visual4_metallic",
+        "path": "bosses/Neon_Reaper/../../textures/Neon_Reaper_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Neon_Reaper_Visual4_normal",
+        "path": "bosses/Neon_Reaper/../../textures/Neon_Reaper_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Neon_Reaper_Visual4_roughness",
+        "path": "bosses/Neon_Reaper/../../textures/Neon_Reaper_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Neon_Reaper/Neon_Reaper_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "cloth_basecolor.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/cloth_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "cloth_normal.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/cloth_normal.png",
+        "exists": true
+      },
+      {
+        "image": "cloth_roughness.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/cloth_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_basecolor.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/metal_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "bosses/Neon_Reaper/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Crypt_Arachnarch/Crypt_Arachnarch.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_basecolor.png",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/chitin_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_basecolor.png.001",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/chitin_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_normal.png",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_normal.png.001",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_roughness.png",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_roughness.png.001",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Crypt_Arachnarch_Visual4_basecolor",
+        "path": "bosses/Crypt_Arachnarch/../../textures/Crypt_Arachnarch_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Crypt_Arachnarch_Visual4_metallic",
+        "path": "bosses/Crypt_Arachnarch/../../textures/Crypt_Arachnarch_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Crypt_Arachnarch_Visual4_normal",
+        "path": "bosses/Crypt_Arachnarch/../../textures/Crypt_Arachnarch_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Crypt_Arachnarch_Visual4_roughness",
+        "path": "bosses/Crypt_Arachnarch/../../textures/Crypt_Arachnarch_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Crypt_Arachnarch/Crypt_Arachnarch_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_basecolor.png",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/chitin_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_basecolor.png.001",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/chitin_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_normal.png",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_normal.png.001",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_roughness.png",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_roughness.png.001",
+        "path": "bosses/Crypt_Arachnarch/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Abyss_Maw/Abyss_Maw.blend",
+    "shared_texture_references": [
+      {
+        "image": "abyss_basecolor.png",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/abyss_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_basecolor.png.001",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/abyss_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Abyss_Maw_Visual4_basecolor",
+        "path": "bosses/Abyss_Maw/../../textures/Abyss_Maw_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Abyss_Maw_Visual4_metallic",
+        "path": "bosses/Abyss_Maw/../../textures/Abyss_Maw_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Abyss_Maw_Visual4_normal",
+        "path": "bosses/Abyss_Maw/../../textures/Abyss_Maw_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Abyss_Maw_Visual4_roughness",
+        "path": "bosses/Abyss_Maw/../../textures/Abyss_Maw_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_normal.png",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_normal.png.001",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_roughness.png",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_roughness.png.001",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Abyss_Maw/Abyss_Maw_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "abyss_basecolor.png",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/abyss_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_basecolor.png.001",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/abyss_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_normal.png",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_normal.png.001",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_roughness.png",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_roughness.png.001",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Abyss_Maw/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Furnace_Titan/Furnace_Titan_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "iron_basecolor.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/iron_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "iron_normal.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "iron_roughness.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_basecolor.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/metal_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Furnace_Titan/Furnace_Titan.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Furnace_Titan_Visual4_basecolor",
+        "path": "bosses/Furnace_Titan/../../textures/Furnace_Titan_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Furnace_Titan_Visual4_metallic",
+        "path": "bosses/Furnace_Titan/../../textures/Furnace_Titan_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Furnace_Titan_Visual4_normal",
+        "path": "bosses/Furnace_Titan/../../textures/Furnace_Titan_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Furnace_Titan_Visual4_roughness",
+        "path": "bosses/Furnace_Titan/../../textures/Furnace_Titan_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "iron_basecolor.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/iron_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "iron_normal.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "iron_roughness.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_basecolor.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/metal_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "bosses/Furnace_Titan/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Horned_Regent/Horned_Regent_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png.001",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png.001",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png.001",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_basecolor.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/crimson_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_normal.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_roughness.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Horned_Regent/Horned_Regent.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png.001",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png.001",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png.001",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_basecolor.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/crimson_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_normal.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_roughness.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Horned_Regent_Visual4_basecolor",
+        "path": "bosses/Horned_Regent/../../textures/Horned_Regent_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Horned_Regent_Visual4_metallic",
+        "path": "bosses/Horned_Regent/../../textures/Horned_Regent_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Horned_Regent_Visual4_normal",
+        "path": "bosses/Horned_Regent/../../textures/Horned_Regent_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Horned_Regent_Visual4_roughness",
+        "path": "bosses/Horned_Regent/../../textures/Horned_Regent_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "bosses/Horned_Regent/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Mirror_Colossus/Mirror_Colossus.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "frost_basecolor.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/frost_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "frost_normal.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "frost_roughness.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_basecolor.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/metal_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Mirror_Colossus_Visual4_basecolor",
+        "path": "bosses/Mirror_Colossus/../../textures/Mirror_Colossus_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Mirror_Colossus_Visual4_metallic",
+        "path": "bosses/Mirror_Colossus/../../textures/Mirror_Colossus_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Mirror_Colossus_Visual4_normal",
+        "path": "bosses/Mirror_Colossus/../../textures/Mirror_Colossus_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Mirror_Colossus_Visual4_roughness",
+        "path": "bosses/Mirror_Colossus/../../textures/Mirror_Colossus_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Mirror_Colossus/Mirror_Colossus_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "frost_basecolor.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/frost_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "frost_normal.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "frost_roughness.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_basecolor.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/metal_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "bosses/Mirror_Colossus/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Cathedral_Bellwarden/Cathedral_Bellwarden_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Cathedral_Bellwarden/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Cathedral_Bellwarden/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Cathedral_Bellwarden/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_basecolor.png",
+        "path": "bosses/Cathedral_Bellwarden/../../../Nocturne_V4_Full_Pack/textures/metal_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "bosses/Cathedral_Bellwarden/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "bosses/Cathedral_Bellwarden/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Cathedral_Bellwarden/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Cathedral_Bellwarden/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Cathedral_Bellwarden/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Cathedral_Bellwarden_Visual4_basecolor",
+        "path": "bosses/Cathedral_Bellwarden/../../textures/Cathedral_Bellwarden_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Cathedral_Bellwarden_Visual4_metallic",
+        "path": "bosses/Cathedral_Bellwarden/../../textures/Cathedral_Bellwarden_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Cathedral_Bellwarden_Visual4_normal",
+        "path": "bosses/Cathedral_Bellwarden/../../textures/Cathedral_Bellwarden_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Cathedral_Bellwarden_Visual4_roughness",
+        "path": "bosses/Cathedral_Bellwarden/../../textures/Cathedral_Bellwarden_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_basecolor.png",
+        "path": "bosses/Cathedral_Bellwarden/../../../Nocturne_V4_Full_Pack/textures/metal_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "bosses/Cathedral_Bellwarden/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "bosses/Cathedral_Bellwarden/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Root_Matriarch/Root_Matriarch_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bark_basecolor.png",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bark_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bark_basecolor.png.001",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bark_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bark_normal.png",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bark_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bark_normal.png.001",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bark_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bark_roughness.png",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bark_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bark_roughness.png.001",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bark_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Root_Matriarch/Root_Matriarch.blend",
+    "shared_texture_references": [
+      {
+        "image": "bark_basecolor.png",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bark_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bark_basecolor.png.001",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bark_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bark_normal.png",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bark_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bark_normal.png.001",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bark_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bark_roughness.png",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bark_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bark_roughness.png.001",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bark_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "bosses/Root_Matriarch/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Root_Matriarch_Visual4_basecolor",
+        "path": "bosses/Root_Matriarch/../../textures/Root_Matriarch_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Root_Matriarch_Visual4_metallic",
+        "path": "bosses/Root_Matriarch/../../textures/Root_Matriarch_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Root_Matriarch_Visual4_normal",
+        "path": "bosses/Root_Matriarch/../../textures/Root_Matriarch_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Root_Matriarch_Visual4_roughness",
+        "path": "bosses/Root_Matriarch/../../textures/Root_Matriarch_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Crypt_Skitter/Crypt_Skitter.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_basecolor.png",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/chitin_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_basecolor.png.001",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/chitin_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_normal.png",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_normal.png.001",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_roughness.png",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_roughness.png.001",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Crypt_Skitter_Visual4_basecolor",
+        "path": "enemies/Crypt_Skitter/../../textures/Crypt_Skitter_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Crypt_Skitter_Visual4_metallic",
+        "path": "enemies/Crypt_Skitter/../../textures/Crypt_Skitter_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Crypt_Skitter_Visual4_normal",
+        "path": "enemies/Crypt_Skitter/../../textures/Crypt_Skitter_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Crypt_Skitter_Visual4_roughness",
+        "path": "enemies/Crypt_Skitter/../../textures/Crypt_Skitter_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Crypt_Skitter/Crypt_Skitter_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_basecolor.png",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/chitin_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_basecolor.png.001",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/chitin_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_normal.png",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_normal.png.001",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_roughness.png",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "chitin_roughness.png.001",
+        "path": "enemies/Crypt_Skitter/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Neon_Wisp/Neon_Wisp_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "metal_normal.png",
+        "path": "enemies/Neon_Wisp/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "enemies/Neon_Wisp/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Neon_Wisp/Neon_Wisp.blend",
+    "shared_texture_references": [
+      {
+        "image": "metal_normal.png",
+        "path": "enemies/Neon_Wisp/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "enemies/Neon_Wisp/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Neon_Wisp_Visual4_basecolor",
+        "path": "enemies/Neon_Wisp/../../textures/Neon_Wisp_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Neon_Wisp_Visual4_metallic",
+        "path": "enemies/Neon_Wisp/../../textures/Neon_Wisp_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Neon_Wisp_Visual4_normal",
+        "path": "enemies/Neon_Wisp/../../textures/Neon_Wisp_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Neon_Wisp_Visual4_roughness",
+        "path": "enemies/Neon_Wisp/../../textures/Neon_Wisp_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Moon_Bat/Moon_Bat.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "moon_basecolor.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/moon_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "moon_basecolor.png.001",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/moon_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Moon_Bat_Visual4_basecolor",
+        "path": "enemies/Moon_Bat/../../textures/Moon_Bat_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Moon_Bat_Visual4_metallic",
+        "path": "enemies/Moon_Bat/../../textures/Moon_Bat_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Moon_Bat_Visual4_normal",
+        "path": "enemies/Moon_Bat/../../textures/Moon_Bat_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Moon_Bat_Visual4_roughness",
+        "path": "enemies/Moon_Bat/../../textures/Moon_Bat_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "moon_normal.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "moon_normal.png.001",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "moon_roughness.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "moon_roughness.png.001",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Moon_Bat/Moon_Bat_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "moon_basecolor.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/moon_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "moon_basecolor.png.001",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/moon_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "moon_normal.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "moon_normal.png.001",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "moon_roughness.png",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "moon_roughness.png.001",
+        "path": "enemies/Moon_Bat/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Scrapling/Scrapling_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "iron_basecolor.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/iron_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "iron_normal.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "iron_roughness.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_basecolor.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/metal_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Scrapling/Scrapling.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "iron_basecolor.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/iron_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "iron_normal.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "iron_roughness.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_basecolor.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/metal_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "enemies/Scrapling/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Scrapling_Visual4_basecolor",
+        "path": "enemies/Scrapling/../../textures/Scrapling_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Scrapling_Visual4_metallic",
+        "path": "enemies/Scrapling/../../textures/Scrapling_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Scrapling_Visual4_normal",
+        "path": "enemies/Scrapling/../../textures/Scrapling_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Scrapling_Visual4_roughness",
+        "path": "enemies/Scrapling/../../textures/Scrapling_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Bamboo_Mantis/Bamboo_Mantis.blend",
+    "shared_texture_references": [
+      {
+        "image": "Bamboo_Mantis_Visual4_basecolor",
+        "path": "enemies/Bamboo_Mantis/../../textures/Bamboo_Mantis_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Bamboo_Mantis_Visual4_metallic",
+        "path": "enemies/Bamboo_Mantis/../../textures/Bamboo_Mantis_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Bamboo_Mantis_Visual4_normal",
+        "path": "enemies/Bamboo_Mantis/../../textures/Bamboo_Mantis_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Bamboo_Mantis_Visual4_roughness",
+        "path": "enemies/Bamboo_Mantis/../../textures/Bamboo_Mantis_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_basecolor.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/thorn_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_normal.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_roughness.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Bamboo_Mantis/Bamboo_Mantis_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "leather_basecolor.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/leather_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "leather_normal.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/leather_normal.png",
+        "exists": true
+      },
+      {
+        "image": "leather_roughness.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/leather_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_basecolor.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/thorn_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_normal.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "thorn_roughness.png.001",
+        "path": "enemies/Bamboo_Mantis/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Crimson_Imp/Crimson_Imp_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png.001",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png.001",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png.001",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_basecolor.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/crimson_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_normal.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_roughness.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Crimson_Imp/Crimson_Imp.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png.001",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png.001",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png.001",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_basecolor.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/crimson_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Crimson_Imp_Visual4_basecolor",
+        "path": "enemies/Crimson_Imp/../../textures/Crimson_Imp_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Crimson_Imp_Visual4_metallic",
+        "path": "enemies/Crimson_Imp/../../textures/Crimson_Imp_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Crimson_Imp_Visual4_normal",
+        "path": "enemies/Crimson_Imp/../../textures/Crimson_Imp_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Crimson_Imp_Visual4_roughness",
+        "path": "enemies/Crimson_Imp/../../textures/Crimson_Imp_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_normal.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "crimson_roughness.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "enemies/Crimson_Imp/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Shard_Crab/Shard_Crab_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "frost_basecolor.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/frost_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "frost_normal.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "frost_roughness.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Shard_Crab/Shard_Crab.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "frost_basecolor.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/frost_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "frost_normal.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "frost_roughness.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "metal_normal.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/metal_normal.png",
+        "exists": true
+      },
+      {
+        "image": "metal_roughness.png",
+        "path": "enemies/Shard_Crab/../../../Nocturne_V4_Full_Pack/textures/metal_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Shard_Crab_Visual4_basecolor",
+        "path": "enemies/Shard_Crab/../../textures/Shard_Crab_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Shard_Crab_Visual4_metallic",
+        "path": "enemies/Shard_Crab/../../textures/Shard_Crab_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Shard_Crab_Visual4_normal",
+        "path": "enemies/Shard_Crab/../../textures/Shard_Crab_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Shard_Crab_Visual4_roughness",
+        "path": "enemies/Shard_Crab/../../textures/Shard_Crab_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Cinder_Hound/Cinder_Hound_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_basecolor.png",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/cinder_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_basecolor.png.001",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/cinder_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_normal.png",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_normal.png.001",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_roughness.png",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_roughness.png.001",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Cinder_Hound/Cinder_Hound.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_basecolor.png",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/cinder_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_basecolor.png.001",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/cinder_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Cinder_Hound_Visual4_basecolor",
+        "path": "enemies/Cinder_Hound/../../textures/Cinder_Hound_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Cinder_Hound_Visual4_metallic",
+        "path": "enemies/Cinder_Hound/../../textures/Cinder_Hound_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Cinder_Hound_Visual4_normal",
+        "path": "enemies/Cinder_Hound/../../textures/Cinder_Hound_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Cinder_Hound_Visual4_roughness",
+        "path": "enemies/Cinder_Hound/../../textures/Cinder_Hound_Visual4_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_normal.png",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_normal.png.001",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_roughness.png",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_roughness.png.001",
+        "path": "enemies/Cinder_Hound/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Sporeling/Sporeling.blend",
+    "shared_texture_references": [
+      {
+        "image": "bark_basecolor.png",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bark_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bark_basecolor.png.001",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bark_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bark_normal.png",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bark_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bark_normal.png.001",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bark_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bark_roughness.png",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bark_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bark_roughness.png.001",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bark_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Sporeling_Visual4_basecolor",
+        "path": "enemies/Sporeling/../../textures/Sporeling_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Sporeling_Visual4_metallic",
+        "path": "enemies/Sporeling/../../textures/Sporeling_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Sporeling_Visual4_normal",
+        "path": "enemies/Sporeling/../../textures/Sporeling_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Sporeling_Visual4_roughness",
+        "path": "enemies/Sporeling/../../textures/Sporeling_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Sporeling/Sporeling_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bark_basecolor.png",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bark_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bark_basecolor.png.001",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bark_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bark_normal.png",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bark_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bark_normal.png.001",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bark_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bark_roughness.png",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bark_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bark_roughness.png.001",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bark_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Sporeling/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Razorfin/Razorfin.blend",
+    "shared_texture_references": [
+      {
+        "image": "abyss_basecolor.png",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/abyss_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_basecolor.png.001",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/abyss_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_normal.png",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_normal.png.001",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_roughness.png",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_roughness.png.001",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Razorfin_Visual4_basecolor",
+        "path": "enemies/Razorfin/../../textures/Razorfin_Visual4_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Razorfin_Visual4_metallic",
+        "path": "enemies/Razorfin/../../textures/Razorfin_Visual4_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Razorfin_Visual4_normal",
+        "path": "enemies/Razorfin/../../textures/Razorfin_Visual4_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Razorfin_Visual4_roughness",
+        "path": "enemies/Razorfin/../../textures/Razorfin_Visual4_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Razorfin/Razorfin_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "abyss_basecolor.png",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/abyss_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_basecolor.png.001",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/abyss_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_normal.png",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_normal.png.001",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_roughness.png",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "abyss_roughness.png.001",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/crimson_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "bone_basecolor.png",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png",
+        "path": "enemies/Razorfin/../../../Nocturne_V4_Full_Pack/textures/bone_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "weapons/Gravesong_Sword/Gravesong_Sword.blend",
+    "shared_texture_references": [
+      {
+        "image": "Gravesong_Sword_basecolor",
+        "path": "weapons/Gravesong_Sword/../../textures/Gravesong_Sword_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Gravesong_Sword_metallic",
+        "path": "weapons/Gravesong_Sword/../../textures/Gravesong_Sword_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Gravesong_Sword_normal",
+        "path": "weapons/Gravesong_Sword/../../textures/Gravesong_Sword_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Gravesong_Sword_roughness",
+        "path": "weapons/Gravesong_Sword/../../textures/Gravesong_Sword_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "weapons/Gravesong_Sword/Gravesong_Sword_Authoring.blend",
+    "shared_texture_references": [],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "weapons/Vesper_Pistol/Vesper_Pistol_Authoring.blend",
+    "shared_texture_references": [],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "weapons/Vesper_Pistol/Vesper_Pistol.blend",
+    "shared_texture_references": [
+      {
+        "image": "Vesper_Pistol_basecolor",
+        "path": "weapons/Vesper_Pistol/../../textures/Vesper_Pistol_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Vesper_Pistol_metallic",
+        "path": "weapons/Vesper_Pistol/../../textures/Vesper_Pistol_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Vesper_Pistol_normal",
+        "path": "weapons/Vesper_Pistol/../../textures/Vesper_Pistol_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Vesper_Pistol_roughness",
+        "path": "weapons/Vesper_Pistol/../../textures/Vesper_Pistol_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "weapons/Bastion_Rifle/Bastion_Rifle.blend",
+    "shared_texture_references": [
+      {
+        "image": "Bastion_Rifle_basecolor",
+        "path": "weapons/Bastion_Rifle/../../textures/Bastion_Rifle_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Bastion_Rifle_metallic",
+        "path": "weapons/Bastion_Rifle/../../textures/Bastion_Rifle_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Bastion_Rifle_normal",
+        "path": "weapons/Bastion_Rifle/../../textures/Bastion_Rifle_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Bastion_Rifle_roughness",
+        "path": "weapons/Bastion_Rifle/../../textures/Bastion_Rifle_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "weapons/Bastion_Rifle/Bastion_Rifle_Authoring.blend",
+    "shared_texture_references": [],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "player_animation/Player_Moves.blend",
+    "shared_texture_references": [],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "player_handling/Player_Handling.blend",
+    "shared_texture_references": [
+      {
+        "image": "Bastion_Rifle_basecolor",
+        "path": "player_handling/../textures/Bastion_Rifle_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Bastion_Rifle_metallic",
+        "path": "player_handling/../textures/Bastion_Rifle_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Bastion_Rifle_normal",
+        "path": "player_handling/../textures/Bastion_Rifle_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Bastion_Rifle_roughness",
+        "path": "player_handling/../textures/Bastion_Rifle_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "Vesper_Pistol_basecolor",
+        "path": "player_handling/../textures/Vesper_Pistol_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Vesper_Pistol_metallic",
+        "path": "player_handling/../textures/Vesper_Pistol_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Vesper_Pistol_normal",
+        "path": "player_handling/../textures/Vesper_Pistol_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Vesper_Pistol_roughness",
+        "path": "player_handling/../textures/Vesper_Pistol_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Cinder_Crown/Cinder_Crown.blend",
+    "shared_texture_references": [
+      {
+        "image": "Cinder_Crown_basecolor",
+        "path": "dragons/Cinder_Crown/../../textures/Cinder_Crown_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "Cinder_Crown_metallic",
+        "path": "dragons/Cinder_Crown/../../textures/Cinder_Crown_metallic.png",
+        "exists": true
+      },
+      {
+        "image": "Cinder_Crown_normal",
+        "path": "dragons/Cinder_Crown/../../textures/Cinder_Crown_normal.png",
+        "exists": true
+      },
+      {
+        "image": "Cinder_Crown_roughness",
+        "path": "dragons/Cinder_Crown/../../textures/Cinder_Crown_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": [],
+    "retained_from_previously_validated_delivery": true
+  },
+  {
+    "file": "dragons/Cinder_Crown/Cinder_Crown_Authoring.blend",
+    "shared_texture_references": [
+      {
+        "image": "bone_basecolor.png.002",
+        "path": "dragons/Cinder_Crown/../../textures/bone_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "bone_normal.png.002",
+        "path": "dragons/Cinder_Crown/../../textures/bone_normal.png",
+        "exists": true
+      },
+      {
+        "image": "bone_roughness.png.002",
+        "path": "dragons/Cinder_Crown/../../textures/bone_roughness.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_basecolor.png.002",
+        "path": "dragons/Cinder_Crown/../../textures/cinder_basecolor.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_normal.png.002",
+        "path": "dragons/Cinder_Crown/../../textures/cinder_normal.png",
+        "exists": true
+      },
+      {
+        "image": "cinder_roughness.png.002",
+        "path": "dragons/Cinder_Crown/../../textures/crimson_roughness.png",
+        "exists": true
+      }
+    ],
+    "remaining_embedded_images": 0,
+    "missing_images": [],
+    "retained_from_previously_validated_delivery": true
+  }
+]

@@ -1,0 +1,611 @@
+{
+  "name": "Sunken_Leviathan",
+  "category": "dragons",
+  "body_type": "serpent",
+  "triangles": 39988,
+  "bones": 21,
+  "materials": 7,
+  "clips": [
+    {
+      "name": "Idle_Breathe",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Walk",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Run",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Front",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Back",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Stagger",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Death",
+      "frames": 91,
+      "fps": 30,
+      "duration": 3.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Threat_Roar",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Tidal_Coil",
+      "frames": 70,
+      "fps": 30,
+      "duration": 2.31,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "coil",
+          1.03,
+          [
+            0.1,
+            0.594
+          ],
+          -1
+        ],
+        [
+          "wing",
+          0.4,
+          [
+            0.416,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.508,
+          "event": "anticipation"
+        },
+        {
+          "time": 0.993,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.894,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Undertow_Bite",
+      "frames": 74,
+      "fps": 30,
+      "duration": 2.43,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "bite",
+          1.03,
+          [
+            0.1,
+            0.594
+          ],
+          1
+        ],
+        [
+          "stomp",
+          0.44,
+          [
+            0.416,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.535,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.045,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.993,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Lateral_Fin_Strike",
+      "frames": 77,
+      "fps": 30,
+      "duration": 2.55,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          1.03,
+          [
+            0.1,
+            0.594
+          ],
+          -1
+        ],
+        [
+          "bite",
+          0.48000000000000004,
+          [
+            0.416,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.561,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.096,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.091,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Deepwater_Ascend",
+      "frames": 81,
+      "fps": 30,
+      "duration": 2.67,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          1.03,
+          [
+            0.1,
+            0.594
+          ],
+          1
+        ],
+        [
+          "cast",
+          0.52,
+          [
+            0.416,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.587,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.148,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.189,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Corkscrew_Rush",
+      "frames": 85,
+      "fps": 30,
+      "duration": 2.79,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          1.03,
+          [
+            0.1,
+            0.594
+          ],
+          -1
+        ],
+        [
+          "wing",
+          0.56,
+          [
+            0.416,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.614,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.2,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.288,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Whirlpool_Cast",
+      "frames": 88,
+      "fps": 30,
+      "duration": 2.91,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "cast",
+          1.03,
+          [
+            0.1,
+            0.594
+          ],
+          1
+        ],
+        [
+          "stomp",
+          0.6000000000000001,
+          [
+            0.416,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.64,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.251,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.386,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Coil_Constriction",
+      "frames": 92,
+      "fps": 30,
+      "duration": 3.0300000000000002,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "coil",
+          1.03,
+          [
+            0.1,
+            0.594
+          ],
+          -1
+        ],
+        [
+          "bite",
+          0.64,
+          [
+            0.416,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.667,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.303,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.485,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Surface_Breach",
+      "frames": 95,
+      "fps": 30,
+      "duration": 3.15,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          1.03,
+          [
+            0.1,
+            0.594
+          ],
+          1
+        ],
+        [
+          "cast",
+          0.68,
+          [
+            0.416,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.693,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.355,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.583,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Flight_Takeoff",
+      "frames": 99,
+      "fps": 30,
+      "duration": 3.27,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Flight_Hover",
+      "frames": 103,
+      "fps": 30,
+      "duration": 3.39,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Flight_Glide",
+      "frames": 106,
+      "fps": 30,
+      "duration": 3.51,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Flight_Landing",
+      "frames": 110,
+      "fps": 30,
+      "duration": 3.63,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Swim_Cruise",
+      "frames": 113,
+      "fps": 30,
+      "duration": 3.75,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Swim_Burst",
+      "frames": 117,
+      "fps": 30,
+      "duration": 3.87,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Swim_Turn",
+      "frames": 121,
+      "fps": 30,
+      "duration": 3.99,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Swim_Surface",
+      "frames": 124,
+      "fps": 30,
+      "duration": 4.109999999999999,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    }
+  ],
+  "lods": [
+    {
+      "level": 1,
+      "triangles": 18758
+    },
+    {
+      "level": 2,
+      "triangles": 9550
+    }
+  ],
+  "textures": "2048px basecolor/normal/roughness; original procedural PBR",
+  "skin_weights": "interpolated along anatomical tubes; rigid detail attachments",
+  "provenance": "original procedural artwork; not extracted franchise content",
+  "quality_status": "Actual geometry/material revision; cinematic realism, complete animation refinement and all-frame collision approval remain unproven",
+  "revision": "v4_full_roster_visual_iteration",
+  "animation_revision": "v2 motion bank retained; revised art, not new mocap",
+  "geometry_changes": "shaped plates, layered surfaces, anatomical/species proportions and accessories",
+  "visual_changes": [
+    "Removed 6206 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+    "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+    "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+    "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+    "Converted 588 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+  ],
+  "vertices_before": 20006,
+  "vertices_after": 20818,
+  "texture_atlas": {
+    "size": 1024,
+    "maps": [
+      "textures/Sunken_Leviathan_Visual4_basecolor.png",
+      "textures/Sunken_Leviathan_Visual4_roughness.png",
+      "textures/Sunken_Leviathan_Visual4_metallic.png",
+      "textures/Sunken_Leviathan_Visual4_normal.png"
+    ]
+  },
+  "rig_rest_transforms_preserved": true,
+  "engine_tested": false
+}

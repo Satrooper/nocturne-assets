@@ -1,0 +1,1378 @@
+{
+  "audio": [
+    {
+      "asset": "Bastion_Rifle_Fire",
+      "file": "audio/Bastion_Rifle_Fire.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.1,
+      "peak_linear": 0.749969482421875,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "Vesper_Pistol_Fire",
+      "file": "audio/Vesper_Pistol_Fire.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.8,
+      "peak_linear": 0.749969482421875,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "Weapon_Action_Rack",
+      "file": "audio/Weapon_Action_Rack.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.46,
+      "peak_linear": 0.749969482421875,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "Weapon_Magazine_Service",
+      "file": "audio/Weapon_Magazine_Service.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.34,
+      "peak_linear": 0.749969482421875,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "armour_hit_01",
+      "file": "audio/armour_hit_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "armour_hit_02",
+      "file": "audio/armour_hit_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "armour_hit_03",
+      "file": "audio/armour_hit_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "blade_impact_01",
+      "file": "audio/blade_impact_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "blade_impact_02",
+      "file": "audio/blade_impact_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "blade_impact_03",
+      "file": "audio/blade_impact_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "blade_swing_01",
+      "file": "audio/blade_swing_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "blade_swing_02",
+      "file": "audio/blade_swing_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "blade_swing_03",
+      "file": "audio/blade_swing_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "bone_impact_01",
+      "file": "audio/bone_impact_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "bone_impact_02",
+      "file": "audio/bone_impact_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "bone_impact_03",
+      "file": "audio/bone_impact_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "boss_growl_01",
+      "file": "audio/boss_growl_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "boss_growl_02",
+      "file": "audio/boss_growl_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "boss_growl_03",
+      "file": "audio/boss_growl_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "boss_growl_04",
+      "file": "audio/boss_growl_04.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "boss_growl_05",
+      "file": "audio/boss_growl_05.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "boss_growl_06",
+      "file": "audio/boss_growl_06.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "boss_growl_07",
+      "file": "audio/boss_growl_07.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "boss_growl_08",
+      "file": "audio/boss_growl_08.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "boss_growl_09",
+      "file": "audio/boss_growl_09.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "boss_growl_10",
+      "file": "audio/boss_growl_10.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "claw_scrape_01",
+      "file": "audio/claw_scrape_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "claw_scrape_02",
+      "file": "audio/claw_scrape_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "claw_scrape_03",
+      "file": "audio/claw_scrape_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "dragon_roar_01",
+      "file": "audio/dragon_roar_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "dragon_roar_02",
+      "file": "audio/dragon_roar_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "dragon_roar_03",
+      "file": "audio/dragon_roar_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "dragon_roar_04",
+      "file": "audio/dragon_roar_04.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "dragon_roar_05",
+      "file": "audio/dragon_roar_05.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "dragon_roar_06",
+      "file": "audio/dragon_roar_06.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "dragon_roar_07",
+      "file": "audio/dragon_roar_07.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "dragon_roar_08",
+      "file": "audio/dragon_roar_08.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "dragon_roar_09",
+      "file": "audio/dragon_roar_09.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "dragon_roar_10",
+      "file": "audio/dragon_roar_10.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 3.2,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "enemy_call_01",
+      "file": "audio/enemy_call_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.3,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "enemy_call_02",
+      "file": "audio/enemy_call_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.3,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "enemy_call_03",
+      "file": "audio/enemy_call_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.3,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "enemy_call_04",
+      "file": "audio/enemy_call_04.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.3,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "enemy_call_05",
+      "file": "audio/enemy_call_05.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.3,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "enemy_call_06",
+      "file": "audio/enemy_call_06.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.3,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "enemy_call_07",
+      "file": "audio/enemy_call_07.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.3,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "enemy_call_08",
+      "file": "audio/enemy_call_08.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.3,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "enemy_call_09",
+      "file": "audio/enemy_call_09.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.3,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "enemy_call_10",
+      "file": "audio/enemy_call_10.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.3,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "fire_breath_01",
+      "file": "audio/fire_breath_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.7,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "fire_breath_02",
+      "file": "audio/fire_breath_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.7,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "fire_breath_03",
+      "file": "audio/fire_breath_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.7,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "heavy_footstep_01",
+      "file": "audio/heavy_footstep_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "heavy_footstep_02",
+      "file": "audio/heavy_footstep_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "heavy_footstep_03",
+      "file": "audio/heavy_footstep_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "ice_fracture_01",
+      "file": "audio/ice_fracture_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "ice_fracture_02",
+      "file": "audio/ice_fracture_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "ice_fracture_03",
+      "file": "audio/ice_fracture_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "lightning_crack_01",
+      "file": "audio/lightning_crack_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "lightning_crack_02",
+      "file": "audio/lightning_crack_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "lightning_crack_03",
+      "file": "audio/lightning_crack_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "magic_pulse_01",
+      "file": "audio/magic_pulse_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "magic_pulse_02",
+      "file": "audio/magic_pulse_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "magic_pulse_03",
+      "file": "audio/magic_pulse_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 0.85,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "water_burst_01",
+      "file": "audio/water_burst_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.7,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "water_burst_02",
+      "file": "audio/water_burst_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.7,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "water_burst_03",
+      "file": "audio/water_burst_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.7,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "wing_whoosh_01",
+      "file": "audio/wing_whoosh_01.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.7,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "wing_whoosh_02",
+      "file": "audio/wing_whoosh_02.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.7,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    },
+    {
+      "asset": "wing_whoosh_03",
+      "file": "audio/wing_whoosh_03.wav",
+      "status": "retained_synthesized_prototype",
+      "sample_rate": 48000,
+      "channels": 1,
+      "bits": 16,
+      "duration_s": 1.7,
+      "peak_linear": 0.8199462890625,
+      "decoding_passed": true,
+      "auditory_review": false,
+      "remaining": [
+        "Perceptual review and production foley/creature recording or sound design",
+        "Engine routing/mix"
+      ],
+      "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained."
+    }
+  ],
+  "effects": [
+    {
+      "asset": "blood_mist_atlas",
+      "file": "effects/blood_mist_atlas.png",
+      "status": "retained_procedural_prototype",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoding_passed": true,
+      "remaining": [
+        "Visual and engine playback review",
+        "Production effect material/particle graph"
+      ]
+    },
+    {
+      "asset": "dust_impact_atlas",
+      "file": "effects/dust_impact_atlas.png",
+      "status": "retained_procedural_prototype",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoding_passed": true,
+      "remaining": [
+        "Visual and engine playback review",
+        "Production effect material/particle graph"
+      ]
+    },
+    {
+      "asset": "ember_burst_atlas",
+      "file": "effects/ember_burst_atlas.png",
+      "status": "retained_procedural_prototype",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoding_passed": true,
+      "remaining": [
+        "Visual and engine playback review",
+        "Production effect material/particle graph"
+      ]
+    },
+    {
+      "asset": "flame_plume_atlas",
+      "file": "effects/flame_plume_atlas.png",
+      "status": "retained_procedural_prototype",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoding_passed": true,
+      "remaining": [
+        "Visual and engine playback review",
+        "Production effect material/particle graph"
+      ]
+    },
+    {
+      "asset": "frost_shatter_atlas",
+      "file": "effects/frost_shatter_atlas.png",
+      "status": "retained_procedural_prototype",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoding_passed": true,
+      "remaining": [
+        "Visual and engine playback review",
+        "Production effect material/particle graph"
+      ]
+    },
+    {
+      "asset": "lightning_arc_atlas",
+      "file": "effects/lightning_arc_atlas.png",
+      "status": "retained_procedural_prototype",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoding_passed": true,
+      "remaining": [
+        "Visual and engine playback review",
+        "Production effect material/particle graph"
+      ]
+    },
+    {
+      "asset": "lunar_pulse_atlas",
+      "file": "effects/lunar_pulse_atlas.png",
+      "status": "retained_procedural_prototype",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoding_passed": true,
+      "remaining": [
+        "Visual and engine playback review",
+        "Production effect material/particle graph"
+      ]
+    },
+    {
+      "asset": "metal_sparks_atlas",
+      "file": "effects/metal_sparks_atlas.png",
+      "status": "retained_procedural_prototype",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoding_passed": true,
+      "remaining": [
+        "Visual and engine playback review",
+        "Production effect material/particle graph"
+      ]
+    },
+    {
+      "asset": "shadow_smoke_atlas",
+      "file": "effects/shadow_smoke_atlas.png",
+      "status": "retained_procedural_prototype",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoding_passed": true,
+      "remaining": [
+        "Visual and engine playback review",
+        "Production effect material/particle graph"
+      ]
+    },
+    {
+      "asset": "spore_burst_atlas",
+      "file": "effects/spore_burst_atlas.png",
+      "status": "retained_procedural_prototype",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoding_passed": true,
+      "remaining": [
+        "Visual and engine playback review",
+        "Production effect material/particle graph"
+      ]
+    },
+    {
+      "asset": "toxic_cloud_atlas",
+      "file": "effects/toxic_cloud_atlas.png",
+      "status": "retained_procedural_prototype",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoding_passed": true,
+      "remaining": [
+        "Visual and engine playback review",
+        "Production effect material/particle graph"
+      ]
+    },
+    {
+      "asset": "water_splash_atlas",
+      "file": "effects/water_splash_atlas.png",
+      "status": "retained_procedural_prototype",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "decoding_passed": true,
+      "remaining": [
+        "Visual and engine playback review",
+        "Production effect material/particle graph"
+      ]
+    }
+  ],
+  "auditory_review": false,
+  "engine_playback_tested": false
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "file": "dragons/Thornback/Thornback.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 24,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Frost_Antler/Frost_Antler.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 24,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Moonveil/Moonveil.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 24,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Crimson_Vesper/Crimson_Vesper.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 24,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Iron_Seraph/Iron_Seraph.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 24,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Dune_Glasswing/Dune_Glasswing.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 24,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Storm_Wyvern/Storm_Wyvern.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 24,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Obsidian_Bastion/Obsidian_Bastion.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 24,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Cinder_Crown/Cinder_Crown.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 27,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Cinder_Crown/Cinder_Crown_Authoring.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 27,
+    "missing_images": []
+  },
+  {
+    "file": "dragons/Sunken_Leviathan/Sunken_Leviathan.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 28,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Hundredleg/Hundredleg.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Siege_Sentinel/Siege_Sentinel_Authoring.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 21,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Siege_Sentinel/Siege_Sentinel.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 0,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Neon_Reaper/Neon_Reaper.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Crypt_Arachnarch/Crypt_Arachnarch.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Abyss_Maw/Abyss_Maw.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 24,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Furnace_Titan/Furnace_Titan.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Horned_Regent/Horned_Regent.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Mirror_Colossus/Mirror_Colossus.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "bosses/Root_Matriarch/Root_Matriarch.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Crypt_Skitter/Crypt_Skitter.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Neon_Wisp/Neon_Wisp.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Moon_Bat/Moon_Bat.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 24,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Scrapling/Scrapling.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Bamboo_Mantis/Bamboo_Mantis.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Crimson_Imp/Crimson_Imp.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Shard_Crab/Shard_Crab.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Cinder_Hound/Cinder_Hound.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Sporeling/Sporeling.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 20,
+    "missing_images": []
+  },
+  {
+    "file": "enemies/Razorfin/Razorfin.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 24,
+    "missing_images": []
+  },
+  {
+    "file": "weapons/Gravesong_Sword/Gravesong_Sword.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 0,
+    "missing_images": []
+  },
+  {
+    "file": "weapons/Gravesong_Sword/Gravesong_Sword_Authoring.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 0,
+    "missing_images": []
+  },
+  {
+    "file": "weapons/Vesper_Pistol/Vesper_Pistol_Authoring.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 0,
+    "missing_images": []
+  },
+  {
+    "file": "weapons/Vesper_Pistol/Vesper_Pistol.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 2,
+    "missing_images": []
+  },
+  {
+    "file": "weapons/Bastion_Rifle/Bastion_Rifle.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 2,
+    "missing_images": []
+  },
+  {
+    "file": "weapons/Bastion_Rifle/Bastion_Rifle_Authoring.blend",
+    "reopened": true,
+    "objects": 2,
+    "actions": 0,
+    "missing_images": []
+  },
+  {
+    "file": "player_animation/Player_Moves.blend",
+    "reopened": true,
+    "objects": 3,
+    "actions": 46,
+    "missing_images": []
+  },
+  {
+    "file": "player_handling/Player_Handling.blend",
+    "reopened": true,
+    "objects": 5,
+    "actions": 18,
+    "missing_images": []
+  }
+]

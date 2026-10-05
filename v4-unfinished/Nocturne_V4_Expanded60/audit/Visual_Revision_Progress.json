@@ -1,0 +1,523 @@
+[
+  {
+    "asset": "Cinder_Crown",
+    "files": [
+      "dragons/Cinder_Crown/Cinder_Crown.blend",
+      "dragons/Cinder_Crown/Cinder_Crown.fbx",
+      "dragons/Cinder_Crown/Cinder_Crown.glb"
+    ],
+    "changes": [
+      "Removed 1706 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 1053 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Crimson_Vesper",
+    "files": [
+      "dragons/Crimson_Vesper/Crimson_Vesper.blend",
+      "dragons/Crimson_Vesper/Crimson_Vesper.fbx",
+      "dragons/Crimson_Vesper/Crimson_Vesper.glb"
+    ],
+    "changes": [
+      "Removed 8126 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 552 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Dune_Glasswing",
+    "files": [
+      "dragons/Dune_Glasswing/Dune_Glasswing.blend",
+      "dragons/Dune_Glasswing/Dune_Glasswing.fbx",
+      "dragons/Dune_Glasswing/Dune_Glasswing.glb"
+    ],
+    "changes": [
+      "Removed 8126 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 552 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Frost_Antler",
+    "files": [
+      "dragons/Frost_Antler/Frost_Antler.blend",
+      "dragons/Frost_Antler/Frost_Antler.fbx",
+      "dragons/Frost_Antler/Frost_Antler.glb"
+    ],
+    "changes": [
+      "Removed 10046 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 696 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Iron_Seraph",
+    "files": [
+      "dragons/Iron_Seraph/Iron_Seraph.blend",
+      "dragons/Iron_Seraph/Iron_Seraph.fbx",
+      "dragons/Iron_Seraph/Iron_Seraph.glb"
+    ],
+    "changes": [
+      "Removed 7928 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 696 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Moonveil",
+    "files": [
+      "dragons/Moonveil/Moonveil.blend",
+      "dragons/Moonveil/Moonveil.fbx",
+      "dragons/Moonveil/Moonveil.glb"
+    ],
+    "changes": [
+      "Removed 10046 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 696 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Obsidian_Bastion",
+    "files": [
+      "dragons/Obsidian_Bastion/Obsidian_Bastion.blend",
+      "dragons/Obsidian_Bastion/Obsidian_Bastion.fbx",
+      "dragons/Obsidian_Bastion/Obsidian_Bastion.glb"
+    ],
+    "changes": [
+      "Removed 9992 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 696 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Storm_Wyvern",
+    "files": [
+      "dragons/Storm_Wyvern/Storm_Wyvern.blend",
+      "dragons/Storm_Wyvern/Storm_Wyvern.fbx",
+      "dragons/Storm_Wyvern/Storm_Wyvern.glb"
+    ],
+    "changes": [
+      "Removed 8126 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 552 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Sunken_Leviathan",
+    "files": [
+      "dragons/Sunken_Leviathan/Sunken_Leviathan.blend",
+      "dragons/Sunken_Leviathan/Sunken_Leviathan.fbx",
+      "dragons/Sunken_Leviathan/Sunken_Leviathan.glb"
+    ],
+    "changes": [
+      "Removed 6206 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 588 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Thornback",
+    "files": [
+      "dragons/Thornback/Thornback.blend",
+      "dragons/Thornback/Thornback.fbx",
+      "dragons/Thornback/Thornback.glb"
+    ],
+    "changes": [
+      "Removed 9992 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 696 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Abyss_Maw",
+    "files": [
+      "bosses/Abyss_Maw/Abyss_Maw.blend",
+      "bosses/Abyss_Maw/Abyss_Maw.fbx",
+      "bosses/Abyss_Maw/Abyss_Maw.glb"
+    ],
+    "changes": [
+      "Removed 2880 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 192 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Cathedral_Bellwarden",
+    "files": [
+      "bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.blend",
+      "bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.fbx",
+      "bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.glb"
+    ],
+    "changes": [
+      "Removed 10 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Crypt_Arachnarch",
+    "files": [
+      "bosses/Crypt_Arachnarch/Crypt_Arachnarch.blend",
+      "bosses/Crypt_Arachnarch/Crypt_Arachnarch.fbx",
+      "bosses/Crypt_Arachnarch/Crypt_Arachnarch.glb"
+    ],
+    "changes": [
+      "Removed 60 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 600 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Furnace_Titan",
+    "files": [
+      "bosses/Furnace_Titan/Furnace_Titan.blend",
+      "bosses/Furnace_Titan/Furnace_Titan.fbx",
+      "bosses/Furnace_Titan/Furnace_Titan.glb"
+    ],
+    "changes": [
+      "Rebuilt complete mechanical body: tapered split thorax, integrated neck load columns, shaped cranial armour and protected jaw; old box torso/head removed.",
+      "Open C-section limbs, bearings, load links, wrist/digit construction and ankle-to-ground load paths; skeleton rest transforms preserved.",
+      "Distinct material regions for enamel, titanium/steel, inner frame, bushings and composite soles; material wear baked into UV atlas.",
+      "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Horned_Regent",
+    "files": [
+      "bosses/Horned_Regent/Horned_Regent.blend",
+      "bosses/Horned_Regent/Horned_Regent.fbx",
+      "bosses/Horned_Regent/Horned_Regent.glb"
+    ],
+    "changes": [
+      "Removed 0 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Hundredleg",
+    "files": [
+      "bosses/Hundredleg/Hundredleg.blend",
+      "bosses/Hundredleg/Hundredleg.fbx",
+      "bosses/Hundredleg/Hundredleg.glb"
+    ],
+    "changes": [
+      "Removed 108 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 720 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Mirror_Colossus",
+    "files": [
+      "bosses/Mirror_Colossus/Mirror_Colossus.blend",
+      "bosses/Mirror_Colossus/Mirror_Colossus.fbx",
+      "bosses/Mirror_Colossus/Mirror_Colossus.glb"
+    ],
+    "changes": [
+      "Removed 0 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Neon_Reaper",
+    "files": [
+      "bosses/Neon_Reaper/Neon_Reaper.blend",
+      "bosses/Neon_Reaper/Neon_Reaper.fbx",
+      "bosses/Neon_Reaper/Neon_Reaper.glb"
+    ],
+    "changes": [
+      "Removed 10 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Root_Matriarch",
+    "files": [
+      "bosses/Root_Matriarch/Root_Matriarch.blend",
+      "bosses/Root_Matriarch/Root_Matriarch.fbx",
+      "bosses/Root_Matriarch/Root_Matriarch.glb"
+    ],
+    "changes": [
+      "Removed 660 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Siege_Sentinel",
+    "files": [
+      "bosses/Siege_Sentinel/Siege_Sentinel.blend",
+      "bosses/Siege_Sentinel/Siege_Sentinel.fbx",
+      "bosses/Siege_Sentinel/Siege_Sentinel.glb"
+    ],
+    "changes": [
+      "Rebuilt complete mechanical body: tapered split thorax, integrated neck load columns, shaped cranial armour and protected jaw; old box torso/head removed.",
+      "Open C-section limbs, bearings, load links, wrist/digit construction and ankle-to-ground load paths; skeleton rest transforms preserved.",
+      "Distinct material regions for enamel, titanium/steel, inner frame, bushings and composite soles; material wear baked into UV atlas.",
+      "Converted 1092 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Bamboo_Mantis",
+    "files": [
+      "enemies/Bamboo_Mantis/Bamboo_Mantis.blend",
+      "enemies/Bamboo_Mantis/Bamboo_Mantis.fbx",
+      "enemies/Bamboo_Mantis/Bamboo_Mantis.glb"
+    ],
+    "changes": [
+      "Removed 6 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Cinder_Hound",
+    "files": [
+      "enemies/Cinder_Hound/Cinder_Hound.blend",
+      "enemies/Cinder_Hound/Cinder_Hound.fbx",
+      "enemies/Cinder_Hound/Cinder_Hound.glb"
+    ],
+    "changes": [
+      "Removed 2504 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 500 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Crimson_Imp",
+    "files": [
+      "enemies/Crimson_Imp/Crimson_Imp.blend",
+      "enemies/Crimson_Imp/Crimson_Imp.fbx",
+      "enemies/Crimson_Imp/Crimson_Imp.glb"
+    ],
+    "changes": [
+      "Removed 0 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Crypt_Skitter",
+    "files": [
+      "enemies/Crypt_Skitter/Crypt_Skitter.blend",
+      "enemies/Crypt_Skitter/Crypt_Skitter.fbx",
+      "enemies/Crypt_Skitter/Crypt_Skitter.glb"
+    ],
+    "changes": [
+      "Removed 60 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 600 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Moon_Bat",
+    "files": [
+      "enemies/Moon_Bat/Moon_Bat.blend",
+      "enemies/Moon_Bat/Moon_Bat.fbx",
+      "enemies/Moon_Bat/Moon_Bat.glb"
+    ],
+    "changes": [
+      "Removed 2336 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 552 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Neon_Wisp",
+    "files": [
+      "enemies/Neon_Wisp/Neon_Wisp.blend",
+      "enemies/Neon_Wisp/Neon_Wisp.fbx",
+      "enemies/Neon_Wisp/Neon_Wisp.glb"
+    ],
+    "changes": [
+      "Removed 0 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Razorfin",
+    "files": [
+      "enemies/Razorfin/Razorfin.blend",
+      "enemies/Razorfin/Razorfin.fbx",
+      "enemies/Razorfin/Razorfin.glb"
+    ],
+    "changes": [
+      "Removed 2880 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 192 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Scrapling",
+    "files": [
+      "enemies/Scrapling/Scrapling.blend",
+      "enemies/Scrapling/Scrapling.fbx",
+      "enemies/Scrapling/Scrapling.glb"
+    ],
+    "changes": [
+      "Rebuilt complete mechanical body: tapered split thorax, integrated neck load columns, shaped cranial armour and protected jaw; old box torso/head removed.",
+      "Open C-section limbs, bearings, load links, wrist/digit construction and ankle-to-ground load paths; skeleton rest transforms preserved.",
+      "Distinct material regions for enamel, titanium/steel, inner frame, bushings and composite soles; material wear baked into UV atlas.",
+      "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Shard_Crab",
+    "files": [
+      "enemies/Shard_Crab/Shard_Crab.blend",
+      "enemies/Shard_Crab/Shard_Crab.fbx",
+      "enemies/Shard_Crab/Shard_Crab.glb"
+    ],
+    "changes": [
+      "Removed 0 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 520 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  },
+  {
+    "asset": "Sporeling",
+    "files": [
+      "enemies/Sporeling/Sporeling.blend",
+      "enemies/Sporeling/Sporeling.fbx",
+      "enemies/Sporeling/Sporeling.glb"
+    ],
+    "changes": [
+      "Removed 660 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+      "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+      "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+      "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+    ],
+    "rest_rig_preserved": true,
+    "status": "geometry_and_materials_changed_pending_visual_export_review",
+    "animations": "Existing bank retained; no motion upgrade claimed by this modelling pass."
+  }
+]

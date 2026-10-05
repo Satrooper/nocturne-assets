@@ -1,0 +1,42 @@
+[
+  {
+    "file": "previews/player/Pistol_Fire_Aimed.mp4",
+    "clip": "Pistol_Fire_Aimed",
+    "source": "player_handling/Player_With_Firearms.glb",
+    "source_fps": 30,
+    "preview_sampled_poses": 16,
+    "nominal_duration_s": 0.4666666666666667,
+    "decoded": true,
+    "scope": "Full clip represented at sparse pose sampling; no cinematic/production motion approval"
+  },
+  {
+    "file": "previews/player/Pistol_Reload_Empty.mp4",
+    "clip": "Pistol_Reload_Empty",
+    "source": "player_handling/Player_With_Firearms.glb",
+    "source_fps": 30,
+    "preview_sampled_poses": 16,
+    "nominal_duration_s": 2.9,
+    "decoded": true,
+    "scope": "Full clip represented at sparse pose sampling; no cinematic/production motion approval"
+  },
+  {
+    "file": "previews/player/Rifle_Reload_Tactical.mp4",
+    "clip": "Rifle_Reload_Tactical",
+    "source": "player_handling/Player_With_Firearms.glb",
+    "source_fps": 30,
+    "preview_sampled_poses": 16,
+    "nominal_duration_s": 2.4,
+    "decoded": true,
+    "scope": "Full clip represented at sparse pose sampling; no cinematic/production motion approval"
+  },
+  {
+    "file": "previews/player/Switch_Pistol_To_Rifle.mp4",
+    "clip": "Switch_Pistol_To_Rifle",
+    "source": "player_handling/Player_With_Firearms.glb",
+    "source_fps": 30,
+    "preview_sampled_poses": 16,
+    "nominal_duration_s": 1.8,
+    "decoded": true,
+    "scope": "Full clip represented at sparse pose sampling; no cinematic/production motion approval"
+  }
+]

@@ -1,0 +1,567 @@
+{
+  "name": "Obsidian_Bastion",
+  "category": "dragons",
+  "body_type": "dragon",
+  "triangles": 42618,
+  "bones": 29,
+  "materials": 7,
+  "clips": [
+    {
+      "name": "Idle_Breathe",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Walk",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Run",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Front",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Back",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Stagger",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Death",
+      "frames": 91,
+      "fps": 30,
+      "duration": 3.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Threat_Roar",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Magma_Belly_Slam",
+      "frames": 65,
+      "fps": 30,
+      "duration": 2.15,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "slam",
+          0.85,
+          [
+            0.1,
+            0.636
+          ],
+          -1
+        ],
+        [
+          "jab",
+          0.4,
+          [
+            0.374,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.473,
+          "event": "anticipation"
+        },
+        {
+          "time": 0.924,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.763,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Armour_Brace",
+      "frames": 69,
+      "fps": 30,
+      "duration": 2.27,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "guard",
+          0.85,
+          [
+            0.1,
+            0.636
+          ],
+          1
+        ],
+        [
+          "shake",
+          0.44,
+          [
+            0.374,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.499,
+          "event": "anticipation"
+        },
+        {
+          "time": 0.976,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.861,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Seismic_Double_Stomp",
+      "frames": 73,
+      "fps": 30,
+      "duration": 2.3899999999999997,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "stomp",
+          0.85,
+          [
+            0.1,
+            0.636
+          ],
+          -1
+        ],
+        [
+          "slam",
+          0.48000000000000004,
+          [
+            0.374,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.526,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.028,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.96,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Obsidian_Headbutt",
+      "frames": 76,
+      "fps": 30,
+      "duration": 2.51,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          0.85,
+          [
+            0.1,
+            0.636
+          ],
+          1
+        ],
+        [
+          "guard",
+          0.52,
+          [
+            0.374,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.552,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.079,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.058,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Furnace_Vent",
+      "frames": 80,
+      "fps": 30,
+      "duration": 2.63,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "cast",
+          0.85,
+          [
+            0.1,
+            0.636
+          ],
+          -1
+        ],
+        [
+          "jab",
+          0.56,
+          [
+            0.374,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.579,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.131,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.157,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Heavy_Tail_Hammer",
+      "frames": 83,
+      "fps": 30,
+      "duration": 2.75,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          0.85,
+          [
+            0.1,
+            0.636
+          ],
+          1
+        ],
+        [
+          "shake",
+          0.6000000000000001,
+          [
+            0.374,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.605,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.182,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.255,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Slow_Crushing_Bite",
+      "frames": 87,
+      "fps": 30,
+      "duration": 2.87,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "bite",
+          0.85,
+          [
+            0.1,
+            0.636
+          ],
+          -1
+        ],
+        [
+          "slam",
+          0.64,
+          [
+            0.374,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.631,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.234,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.353,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Eruption_Rear",
+      "frames": 91,
+      "fps": 30,
+      "duration": 2.9899999999999998,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          0.85,
+          [
+            0.1,
+            0.636
+          ],
+          1
+        ],
+        [
+          "guard",
+          0.68,
+          [
+            0.374,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.658,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.286,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.452,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Flight_Takeoff",
+      "frames": 94,
+      "fps": 30,
+      "duration": 3.11,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Flight_Hover",
+      "frames": 98,
+      "fps": 30,
+      "duration": 3.23,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Flight_Glide",
+      "frames": 101,
+      "fps": 30,
+      "duration": 3.3499999999999996,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Flight_Landing",
+      "frames": 105,
+      "fps": 30,
+      "duration": 3.4699999999999998,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    }
+  ],
+  "lods": [
+    {
+      "level": 1,
+      "triangles": 22877
+    },
+    {
+      "level": 2,
+      "triangles": 11645
+    }
+  ],
+  "textures": "2048px basecolor/normal/roughness; original procedural PBR",
+  "skin_weights": "interpolated along anatomical tubes; rigid detail attachments",
+  "provenance": "original procedural artwork; not extracted franchise content",
+  "quality_status": "Actual geometry/material revision; cinematic realism, complete animation refinement and all-frame collision approval remain unproven",
+  "revision": "v4_full_roster_visual_iteration",
+  "animation_revision": "v2 motion bank retained; revised art, not new mocap",
+  "geometry_changes": "shaped plates, layered surfaces, anatomical/species proportions and accessories",
+  "visual_changes": [
+    "Removed 9992 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+    "Rebuilt muzzle/orbital cranium and mandibular ramus as profiled surfaces, with mouth tissue and skin eyelids; preserved jaw bone and teeth.",
+    "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+    "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+    "Converted 696 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+  ],
+  "vertices_before": 25324,
+  "vertices_after": 22304,
+  "texture_atlas": {
+    "size": 1024,
+    "maps": [
+      "textures/Obsidian_Bastion_Visual4_basecolor.png",
+      "textures/Obsidian_Bastion_Visual4_roughness.png",
+      "textures/Obsidian_Bastion_Visual4_metallic.png",
+      "textures/Obsidian_Bastion_Visual4_normal.png"
+    ]
+  },
+  "rig_rest_transforms_preserved": true,
+  "engine_tested": false
+}

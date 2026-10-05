@@ -1,0 +1,30 @@
+{
+  "structural": {
+    "model_exports_reimported": 133,
+    "new_player_full_rig_exports_reimported": 2,
+    "new_player_body_only_fbx_reimported": true,
+    "source_blends_reopened": 40,
+    "missing_canonical_source_images": 0,
+    "new_player_sampling_fps": 30,
+    "marker_error_max_m": 7.3728898650115655e-06
+  },
+  "visual": {
+    "completed": "New neutral player aiming/reload/switch samples and actual GLB short previews; saved Cinder/Sentinel revision renders preserved",
+    "findings": [
+      "Mannequin artwork still stylized and unchanged.",
+      "More extended pistol pose avoids prior reach error; marker checks pass but mesh/finger contact still imperfect.",
+      "Reload service and carry equipment remain simplified; torso and shoulders are stiff.",
+      "Only Cinder and Sentinel have saved partial modelling upgrades; 28 creatures retain original artwork."
+    ],
+    "complete_collection_visual_approval": false
+  },
+  "engine": {
+    "performed": false,
+    "reason": "Destination game project and configured runtime absent"
+  },
+  "iphone": {
+    "performed": false,
+    "reason": "No connected device or signed game build available"
+  },
+  "scope_complete": false
+}

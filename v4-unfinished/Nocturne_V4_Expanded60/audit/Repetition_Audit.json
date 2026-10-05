@@ -1,0 +1,1317 @@
+{
+  "scope_complete": false,
+  "method": {
+    "exact_bytes": "SHA-256 for all FBX, GLB and preview files outside historical provenance",
+    "geometry": "Material-free, vertex-order-independent position fingerprints in exported mesh-local space; uniform-scale-normalised fingerprints flag reuse, not world-space silhouette equality. Skinning/topology are not implied equal.",
+    "shared_motion": "Exact sampler arrays, interpolation, channel target path and exported node name. Equal signatures indicate reusable motion, not an error.",
+    "near_preview": "64-bit difference-hash candidates, Hamming distance <= 5; candidates require visual review.",
+    "fbx_limitation": "FBX checked for exact bytes here; geometry analysis uses companion GLB. Prior structural FBX reimports are retained separately."
+  },
+  "exact_file_groups": [
+    [
+      "textures/Moonveil_Visual4_metallic.png",
+      "textures/Hundredleg_Visual4_metallic.png",
+      "textures/Root_Matriarch_Visual4_metallic.png",
+      "textures/Storm_Wyvern_Visual4_metallic.png",
+      "textures/Obsidian_Bastion_Visual4_metallic.png",
+      "textures/Crypt_Skitter_Visual4_metallic.png",
+      "textures/Crimson_Vesper_Visual4_metallic.png",
+      "textures/Cinder_Crown_Visual4_metallic.png",
+      "textures/Sporeling_Visual4_metallic.png",
+      "textures/Dune_Glasswing_Visual4_metallic.png",
+      "textures/Cinder_Hound_Visual4_metallic.png",
+      "textures/Moon_Bat_Visual4_metallic.png",
+      "textures/Thornback_Visual4_metallic.png",
+      "textures/Razorfin_Visual4_metallic.png",
+      "textures/Abyss_Maw_Visual4_metallic.png",
+      "textures/Bamboo_Mantis_Visual4_metallic.png",
+      "textures/Sunken_Leviathan_Visual4_metallic.png",
+      "textures/Crypt_Arachnarch_Visual4_metallic.png"
+    ],
+    [
+      "textures/Horned_Regent_Visual4_metallic.png",
+      "textures/Crimson_Imp_Visual4_metallic.png"
+    ],
+    [
+      "textures/abyss_normal.png",
+      "textures/dune_normal.png",
+      "textures/moon_normal.png",
+      "textures/storm_normal.png",
+      "textures/crimson_normal.png",
+      "textures/obsidian_normal.png",
+      "textures/iron_normal.png",
+      "textures/frost_normal.png",
+      "textures/thorn_normal.png",
+      "textures/flesh_normal.png",
+      "textures/chitin_normal.png",
+      "textures/cinder_normal.png"
+    ],
+    [
+      "textures/frost_roughness.png",
+      "textures/chitin_roughness.png",
+      "textures/dune_roughness.png",
+      "textures/cinder_roughness.png",
+      "textures/storm_roughness.png",
+      "textures/iron_roughness.png",
+      "textures/obsidian_roughness.png",
+      "textures/flesh_roughness.png",
+      "textures/moon_roughness.png",
+      "textures/thorn_roughness.png",
+      "textures/abyss_roughness.png",
+      "textures/crimson_roughness.png"
+    ]
+  ],
+  "characters": [
+    {
+      "asset": "Cinder_Crown",
+      "category": "dragons",
+      "glb": "dragons/Cinder_Crown/Cinder_Crown.glb",
+      "vertices": 37849,
+      "triangle_indices_div3": 49888,
+      "mesh_count": 1,
+      "animations": 27,
+      "preview_source": "dragons/Cinder_Crown/Cinder_Crown_Experimental.glb"
+    },
+    {
+      "asset": "Crimson_Vesper",
+      "category": "dragons",
+      "glb": "dragons/Crimson_Vesper/Crimson_Vesper.glb",
+      "vertices": 36678,
+      "triangle_indices_div3": 46112,
+      "mesh_count": 1,
+      "animations": 24,
+      "preview_source": "dragons/Crimson_Vesper/Crimson_Vesper.glb"
+    },
+    {
+      "asset": "Dune_Glasswing",
+      "category": "dragons",
+      "glb": "dragons/Dune_Glasswing/Dune_Glasswing.glb",
+      "vertices": 37867,
+      "triangle_indices_div3": 46372,
+      "mesh_count": 1,
+      "animations": 24,
+      "preview_source": "dragons/Dune_Glasswing/Dune_Glasswing.glb"
+    },
+    {
+      "asset": "Frost_Antler",
+      "category": "dragons",
+      "glb": "dragons/Frost_Antler/Frost_Antler.glb",
+      "vertices": 39138,
+      "triangle_indices_div3": 47900,
+      "mesh_count": 1,
+      "animations": 24,
+      "preview_source": "dragons/Frost_Antler/Frost_Antler.glb"
+    },
+    {
+      "asset": "Iron_Seraph",
+      "category": "dragons",
+      "glb": "dragons/Iron_Seraph/Iron_Seraph.glb",
+      "vertices": 44350,
+      "triangle_indices_div3": 47612,
+      "mesh_count": 1,
+      "animations": 24,
+      "preview_source": "dragons/Iron_Seraph/Iron_Seraph.glb"
+    },
+    {
+      "asset": "Moonveil",
+      "category": "dragons",
+      "glb": "dragons/Moonveil/Moonveil.glb",
+      "vertices": 43990,
+      "triangle_indices_div3": 47398,
+      "mesh_count": 1,
+      "animations": 24,
+      "preview_source": "dragons/Moonveil/Moonveil.glb"
+    },
+    {
+      "asset": "Obsidian_Bastion",
+      "category": "dragons",
+      "glb": "dragons/Obsidian_Bastion/Obsidian_Bastion.glb",
+      "vertices": 36140,
+      "triangle_indices_div3": 42618,
+      "mesh_count": 1,
+      "animations": 24,
+      "preview_source": "dragons/Obsidian_Bastion/Obsidian_Bastion.glb"
+    },
+    {
+      "asset": "Storm_Wyvern",
+      "category": "dragons",
+      "glb": "dragons/Storm_Wyvern/Storm_Wyvern.glb",
+      "vertices": 36551,
+      "triangle_indices_div3": 46113,
+      "mesh_count": 1,
+      "animations": 24,
+      "preview_source": "dragons/Storm_Wyvern/Storm_Wyvern.glb"
+    },
+    {
+      "asset": "Sunken_Leviathan",
+      "category": "dragons",
+      "glb": "dragons/Sunken_Leviathan/Sunken_Leviathan.glb",
+      "vertices": 36212,
+      "triangle_indices_div3": 39988,
+      "mesh_count": 1,
+      "animations": 28,
+      "preview_source": "dragons/Sunken_Leviathan/Sunken_Leviathan.glb"
+    },
+    {
+      "asset": "Thornback",
+      "category": "dragons",
+      "glb": "dragons/Thornback/Thornback.glb",
+      "vertices": 40053,
+      "triangle_indices_div3": 44785,
+      "mesh_count": 1,
+      "animations": 24,
+      "preview_source": "dragons/Thornback/Thornback.glb"
+    },
+    {
+      "asset": "Abyss_Maw",
+      "category": "bosses",
+      "glb": "bosses/Abyss_Maw/Abyss_Maw.glb",
+      "vertices": 22511,
+      "triangle_indices_div3": 32578,
+      "mesh_count": 1,
+      "animations": 24,
+      "preview_source": "bosses/Abyss_Maw/Abyss_Maw.glb"
+    },
+    {
+      "asset": "Cathedral_Bellwarden",
+      "category": "bosses",
+      "glb": "bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.glb",
+      "vertices": 28890,
+      "triangle_indices_div3": 34664,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.glb"
+    },
+    {
+      "asset": "Crypt_Arachnarch",
+      "category": "bosses",
+      "glb": "bosses/Crypt_Arachnarch/Crypt_Arachnarch.glb",
+      "vertices": 22078,
+      "triangle_indices_div3": 28716,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "bosses/Crypt_Arachnarch/Crypt_Arachnarch.glb"
+    },
+    {
+      "asset": "Furnace_Titan",
+      "category": "bosses",
+      "glb": "bosses/Furnace_Titan/Furnace_Titan.glb",
+      "vertices": 48225,
+      "triangle_indices_div3": 41304,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "bosses/Furnace_Titan/Furnace_Titan.glb"
+    },
+    {
+      "asset": "Horned_Regent",
+      "category": "bosses",
+      "glb": "bosses/Horned_Regent/Horned_Regent.glb",
+      "vertices": 24296,
+      "triangle_indices_div3": 32910,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "bosses/Horned_Regent/Horned_Regent.glb"
+    },
+    {
+      "asset": "Hundredleg",
+      "category": "bosses",
+      "glb": "bosses/Hundredleg/Hundredleg.glb",
+      "vertices": 23022,
+      "triangle_indices_div3": 28696,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "bosses/Hundredleg/Hundredleg.glb"
+    },
+    {
+      "asset": "Mirror_Colossus",
+      "category": "bosses",
+      "glb": "bosses/Mirror_Colossus/Mirror_Colossus.glb",
+      "vertices": 23597,
+      "triangle_indices_div3": 33092,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "bosses/Mirror_Colossus/Mirror_Colossus.glb"
+    },
+    {
+      "asset": "Neon_Reaper",
+      "category": "bosses",
+      "glb": "bosses/Neon_Reaper/Neon_Reaper.glb",
+      "vertices": 28766,
+      "triangle_indices_div3": 35086,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "bosses/Neon_Reaper/Neon_Reaper.glb"
+    },
+    {
+      "asset": "Root_Matriarch",
+      "category": "bosses",
+      "glb": "bosses/Root_Matriarch/Root_Matriarch.glb",
+      "vertices": 21751,
+      "triangle_indices_div3": 29164,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "bosses/Root_Matriarch/Root_Matriarch.glb"
+    },
+    {
+      "asset": "Siege_Sentinel",
+      "category": "bosses",
+      "glb": "bosses/Siege_Sentinel/Siege_Sentinel.glb",
+      "vertices": 60998,
+      "triangle_indices_div3": 47900,
+      "mesh_count": 1,
+      "animations": 21,
+      "preview_source": "bosses/Siege_Sentinel/Siege_Sentinel.glb"
+    },
+    {
+      "asset": "Bamboo_Mantis",
+      "category": "enemies",
+      "glb": "enemies/Bamboo_Mantis/Bamboo_Mantis.glb",
+      "vertices": 22449,
+      "triangle_indices_div3": 31204,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "enemies/Bamboo_Mantis/Bamboo_Mantis.glb"
+    },
+    {
+      "asset": "Cinder_Hound",
+      "category": "enemies",
+      "glb": "enemies/Cinder_Hound/Cinder_Hound.glb",
+      "vertices": 31816,
+      "triangle_indices_div3": 38916,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "enemies/Cinder_Hound/Cinder_Hound.glb"
+    },
+    {
+      "asset": "Crimson_Imp",
+      "category": "enemies",
+      "glb": "enemies/Crimson_Imp/Crimson_Imp.glb",
+      "vertices": 24296,
+      "triangle_indices_div3": 32910,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "enemies/Crimson_Imp/Crimson_Imp.glb"
+    },
+    {
+      "asset": "Crypt_Skitter",
+      "category": "enemies",
+      "glb": "enemies/Crypt_Skitter/Crypt_Skitter.glb",
+      "vertices": 22078,
+      "triangle_indices_div3": 28716,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "enemies/Crypt_Skitter/Crypt_Skitter.glb"
+    },
+    {
+      "asset": "Moon_Bat",
+      "category": "enemies",
+      "glb": "enemies/Moon_Bat/Moon_Bat.glb",
+      "vertices": 34705,
+      "triangle_indices_div3": 42008,
+      "mesh_count": 1,
+      "animations": 24,
+      "preview_source": "enemies/Moon_Bat/Moon_Bat.glb"
+    },
+    {
+      "asset": "Neon_Wisp",
+      "category": "enemies",
+      "glb": "enemies/Neon_Wisp/Neon_Wisp.glb",
+      "vertices": 2657,
+      "triangle_indices_div3": 2034,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "enemies/Neon_Wisp/Neon_Wisp.glb"
+    },
+    {
+      "asset": "Razorfin",
+      "category": "enemies",
+      "glb": "enemies/Razorfin/Razorfin.glb",
+      "vertices": 22511,
+      "triangle_indices_div3": 32578,
+      "mesh_count": 1,
+      "animations": 24,
+      "preview_source": "enemies/Razorfin/Razorfin.glb"
+    },
+    {
+      "asset": "Scrapling",
+      "category": "enemies",
+      "glb": "enemies/Scrapling/Scrapling.glb",
+      "vertices": 46757,
+      "triangle_indices_div3": 39704,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "enemies/Scrapling/Scrapling.glb"
+    },
+    {
+      "asset": "Shard_Crab",
+      "category": "enemies",
+      "glb": "enemies/Shard_Crab/Shard_Crab.glb",
+      "vertices": 22622,
+      "triangle_indices_div3": 30016,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "enemies/Shard_Crab/Shard_Crab.glb"
+    },
+    {
+      "asset": "Sporeling",
+      "category": "enemies",
+      "glb": "enemies/Sporeling/Sporeling.glb",
+      "vertices": 21913,
+      "triangle_indices_div3": 29163,
+      "mesh_count": 1,
+      "animations": 20,
+      "preview_source": "enemies/Sporeling/Sporeling.glb"
+    }
+  ],
+  "exact_position_cloud_groups": [],
+  "uniform_scale_position_cloud_groups": [],
+  "shared_component_groups": [],
+  "exact_motion_groups": [
+    [
+      {
+        "asset": "Abyss_Maw",
+        "clip": "Death"
+      },
+      {
+        "asset": "Razorfin",
+        "clip": "Death"
+      }
+    ],
+    [
+      {
+        "asset": "Abyss_Maw",
+        "clip": "Dodge_Left"
+      },
+      {
+        "asset": "Razorfin",
+        "clip": "Dodge_Left"
+      }
+    ],
+    [
+      {
+        "asset": "Abyss_Maw",
+        "clip": "Dodge_Right"
+      },
+      {
+        "asset": "Razorfin",
+        "clip": "Dodge_Right"
+      }
+    ],
+    [
+      {
+        "asset": "Abyss_Maw",
+        "clip": "Hit_Back"
+      },
+      {
+        "asset": "Razorfin",
+        "clip": "Hit_Back"
+      }
+    ],
+    [
+      {
+        "asset": "Abyss_Maw",
+        "clip": "Hit_Front"
+      },
+      {
+        "asset": "Razorfin",
+        "clip": "Hit_Front"
+      }
+    ],
+    [
+      {
+        "asset": "Abyss_Maw",
+        "clip": "Idle_Breathe"
+      },
+      {
+        "asset": "Razorfin",
+        "clip": "Idle_Breathe"
+      }
+    ],
+    [
+      {
+        "asset": "Abyss_Maw",
+        "clip": "Locomotion_Run"
+      },
+      {
+        "asset": "Razorfin",
+        "clip": "Locomotion_Run"
+      }
+    ],
+    [
+      {
+        "asset": "Abyss_Maw",
+        "clip": "Locomotion_Walk"
+      },
+      {
+        "asset": "Razorfin",
+        "clip": "Locomotion_Walk"
+      }
+    ],
+    [
+      {
+        "asset": "Abyss_Maw",
+        "clip": "Stagger"
+      },
+      {
+        "asset": "Razorfin",
+        "clip": "Stagger"
+      }
+    ],
+    [
+      {
+        "asset": "Abyss_Maw",
+        "clip": "Threat_Roar"
+      },
+      {
+        "asset": "Razorfin",
+        "clip": "Threat_Roar"
+      }
+    ],
+    [
+      {
+        "asset": "Abyss_Maw",
+        "clip": "Turn_Left"
+      },
+      {
+        "asset": "Razorfin",
+        "clip": "Turn_Left"
+      }
+    ],
+    [
+      {
+        "asset": "Abyss_Maw",
+        "clip": "Turn_Right"
+      },
+      {
+        "asset": "Razorfin",
+        "clip": "Turn_Right"
+      }
+    ],
+    [
+      {
+        "asset": "Cathedral_Bellwarden",
+        "clip": "Death"
+      },
+      {
+        "asset": "Furnace_Titan",
+        "clip": "Death"
+      },
+      {
+        "asset": "Horned_Regent",
+        "clip": "Death"
+      },
+      {
+        "asset": "Mirror_Colossus",
+        "clip": "Death"
+      },
+      {
+        "asset": "Neon_Reaper",
+        "clip": "Death"
+      },
+      {
+        "asset": "Root_Matriarch",
+        "clip": "Death"
+      },
+      {
+        "asset": "Bamboo_Mantis",
+        "clip": "Death"
+      },
+      {
+        "asset": "Crimson_Imp",
+        "clip": "Death"
+      },
+      {
+        "asset": "Neon_Wisp",
+        "clip": "Death"
+      },
+      {
+        "asset": "Scrapling",
+        "clip": "Death"
+      },
+      {
+        "asset": "Sporeling",
+        "clip": "Death"
+      }
+    ],
+    [
+      {
+        "asset": "Cathedral_Bellwarden",
+        "clip": "Dodge_Left"
+      },
+      {
+        "asset": "Furnace_Titan",
+        "clip": "Dodge_Left"
+      },
+      {
+        "asset": "Horned_Regent",
+        "clip": "Dodge_Left"
+      },
+      {
+        "asset": "Mirror_Colossus",
+        "clip": "Dodge_Left"
+      },
+      {
+        "asset": "Neon_Reaper",
+        "clip": "Dodge_Left"
+      },
+      {
+        "asset": "Root_Matriarch",
+        "clip": "Dodge_Left"
+      },
+      {
+        "asset": "Bamboo_Mantis",
+        "clip": "Dodge_Left"
+      },
+      {
+        "asset": "Crimson_Imp",
+        "clip": "Dodge_Left"
+      },
+      {
+        "asset": "Neon_Wisp",
+        "clip": "Dodge_Left"
+      },
+      {
+        "asset": "Scrapling",
+        "clip": "Dodge_Left"
+      },
+      {
+        "asset": "Sporeling",
+        "clip": "Dodge_Left"
+      }
+    ],
+    [
+      {
+        "asset": "Cathedral_Bellwarden",
+        "clip": "Dodge_Right"
+      },
+      {
+        "asset": "Furnace_Titan",
+        "clip": "Dodge_Right"
+      },
+      {
+        "asset": "Horned_Regent",
+        "clip": "Dodge_Right"
+      },
+      {
+        "asset": "Mirror_Colossus",
+        "clip": "Dodge_Right"
+      },
+      {
+        "asset": "Neon_Reaper",
+        "clip": "Dodge_Right"
+      },
+      {
+        "asset": "Root_Matriarch",
+        "clip": "Dodge_Right"
+      },
+      {
+        "asset": "Bamboo_Mantis",
+        "clip": "Dodge_Right"
+      },
+      {
+        "asset": "Crimson_Imp",
+        "clip": "Dodge_Right"
+      },
+      {
+        "asset": "Neon_Wisp",
+        "clip": "Dodge_Right"
+      },
+      {
+        "asset": "Scrapling",
+        "clip": "Dodge_Right"
+      },
+      {
+        "asset": "Sporeling",
+        "clip": "Dodge_Right"
+      }
+    ],
+    [
+      {
+        "asset": "Cathedral_Bellwarden",
+        "clip": "Hit_Back"
+      },
+      {
+        "asset": "Furnace_Titan",
+        "clip": "Hit_Back"
+      },
+      {
+        "asset": "Horned_Regent",
+        "clip": "Hit_Back"
+      },
+      {
+        "asset": "Mirror_Colossus",
+        "clip": "Hit_Back"
+      },
+      {
+        "asset": "Neon_Reaper",
+        "clip": "Hit_Back"
+      },
+      {
+        "asset": "Root_Matriarch",
+        "clip": "Hit_Back"
+      },
+      {
+        "asset": "Bamboo_Mantis",
+        "clip": "Hit_Back"
+      },
+      {
+        "asset": "Crimson_Imp",
+        "clip": "Hit_Back"
+      },
+      {
+        "asset": "Neon_Wisp",
+        "clip": "Hit_Back"
+      },
+      {
+        "asset": "Scrapling",
+        "clip": "Hit_Back"
+      },
+      {
+        "asset": "Sporeling",
+        "clip": "Hit_Back"
+      }
+    ],
+    [
+      {
+        "asset": "Cathedral_Bellwarden",
+        "clip": "Hit_Front"
+      },
+      {
+        "asset": "Furnace_Titan",
+        "clip": "Hit_Front"
+      },
+      {
+        "asset": "Horned_Regent",
+        "clip": "Hit_Front"
+      },
+      {
+        "asset": "Mirror_Colossus",
+        "clip": "Hit_Front"
+      },
+      {
+        "asset": "Neon_Reaper",
+        "clip": "Hit_Front"
+      },
+      {
+        "asset": "Root_Matriarch",
+        "clip": "Hit_Front"
+      },
+      {
+        "asset": "Bamboo_Mantis",
+        "clip": "Hit_Front"
+      },
+      {
+        "asset": "Crimson_Imp",
+        "clip": "Hit_Front"
+      },
+      {
+        "asset": "Neon_Wisp",
+        "clip": "Hit_Front"
+      },
+      {
+        "asset": "Scrapling",
+        "clip": "Hit_Front"
+      },
+      {
+        "asset": "Sporeling",
+        "clip": "Hit_Front"
+      }
+    ],
+    [
+      {
+        "asset": "Cathedral_Bellwarden",
+        "clip": "Idle_Breathe"
+      },
+      {
+        "asset": "Furnace_Titan",
+        "clip": "Idle_Breathe"
+      },
+      {
+        "asset": "Horned_Regent",
+        "clip": "Idle_Breathe"
+      },
+      {
+        "asset": "Mirror_Colossus",
+        "clip": "Idle_Breathe"
+      },
+      {
+        "asset": "Neon_Reaper",
+        "clip": "Idle_Breathe"
+      },
+      {
+        "asset": "Root_Matriarch",
+        "clip": "Idle_Breathe"
+      },
+      {
+        "asset": "Bamboo_Mantis",
+        "clip": "Idle_Breathe"
+      },
+      {
+        "asset": "Crimson_Imp",
+        "clip": "Idle_Breathe"
+      },
+      {
+        "asset": "Neon_Wisp",
+        "clip": "Idle_Breathe"
+      },
+      {
+        "asset": "Scrapling",
+        "clip": "Idle_Breathe"
+      },
+      {
+        "asset": "Sporeling",
+        "clip": "Idle_Breathe"
+      }
+    ],
+    [
+      {
+        "asset": "Cathedral_Bellwarden",
+        "clip": "Locomotion_Run"
+      },
+      {
+        "asset": "Furnace_Titan",
+        "clip": "Locomotion_Run"
+      },
+      {
+        "asset": "Horned_Regent",
+        "clip": "Locomotion_Run"
+      },
+      {
+        "asset": "Mirror_Colossus",
+        "clip": "Locomotion_Run"
+      },
+      {
+        "asset": "Neon_Reaper",
+        "clip": "Locomotion_Run"
+      },
+      {
+        "asset": "Root_Matriarch",
+        "clip": "Locomotion_Run"
+      },
+      {
+        "asset": "Bamboo_Mantis",
+        "clip": "Locomotion_Run"
+      },
+      {
+        "asset": "Crimson_Imp",
+        "clip": "Locomotion_Run"
+      },
+      {
+        "asset": "Scrapling",
+        "clip": "Locomotion_Run"
+      },
+      {
+        "asset": "Sporeling",
+        "clip": "Locomotion_Run"
+      }
+    ],
+    [
+      {
+        "asset": "Cathedral_Bellwarden",
+        "clip": "Locomotion_Walk"
+      },
+      {
+        "asset": "Furnace_Titan",
+        "clip": "Locomotion_Walk"
+      },
+      {
+        "asset": "Horned_Regent",
+        "clip": "Locomotion_Walk"
+      },
+      {
+        "asset": "Mirror_Colossus",
+        "clip": "Locomotion_Walk"
+      },
+      {
+        "asset": "Neon_Reaper",
+        "clip": "Locomotion_Walk"
+      },
+      {
+        "asset": "Root_Matriarch",
+        "clip": "Locomotion_Walk"
+      },
+      {
+        "asset": "Bamboo_Mantis",
+        "clip": "Locomotion_Walk"
+      },
+      {
+        "asset": "Crimson_Imp",
+        "clip": "Locomotion_Walk"
+      },
+      {
+        "asset": "Scrapling",
+        "clip": "Locomotion_Walk"
+      },
+      {
+        "asset": "Sporeling",
+        "clip": "Locomotion_Walk"
+      }
+    ],
+    [
+      {
+        "asset": "Cathedral_Bellwarden",
+        "clip": "Stagger"
+      },
+      {
+        "asset": "Furnace_Titan",
+        "clip": "Stagger"
+      },
+      {
+        "asset": "Horned_Regent",
+        "clip": "Stagger"
+      },
+      {
+        "asset": "Mirror_Colossus",
+        "clip": "Stagger"
+      },
+      {
+        "asset": "Neon_Reaper",
+        "clip": "Stagger"
+      },
+      {
+        "asset": "Root_Matriarch",
+        "clip": "Stagger"
+      },
+      {
+        "asset": "Bamboo_Mantis",
+        "clip": "Stagger"
+      },
+      {
+        "asset": "Crimson_Imp",
+        "clip": "Stagger"
+      },
+      {
+        "asset": "Neon_Wisp",
+        "clip": "Stagger"
+      },
+      {
+        "asset": "Scrapling",
+        "clip": "Stagger"
+      },
+      {
+        "asset": "Sporeling",
+        "clip": "Stagger"
+      }
+    ],
+    [
+      {
+        "asset": "Cathedral_Bellwarden",
+        "clip": "Threat_Roar"
+      },
+      {
+        "asset": "Furnace_Titan",
+        "clip": "Threat_Roar"
+      },
+      {
+        "asset": "Horned_Regent",
+        "clip": "Threat_Roar"
+      },
+      {
+        "asset": "Mirror_Colossus",
+        "clip": "Threat_Roar"
+      },
+      {
+        "asset": "Neon_Reaper",
+        "clip": "Threat_Roar"
+      },
+      {
+        "asset": "Root_Matriarch",
+        "clip": "Threat_Roar"
+      },
+      {
+        "asset": "Bamboo_Mantis",
+        "clip": "Threat_Roar"
+      },
+      {
+        "asset": "Crimson_Imp",
+        "clip": "Threat_Roar"
+      },
+      {
+        "asset": "Scrapling",
+        "clip": "Threat_Roar"
+      },
+      {
+        "asset": "Sporeling",
+        "clip": "Threat_Roar"
+      }
+    ],
+    [
+      {
+        "asset": "Cathedral_Bellwarden",
+        "clip": "Turn_Left"
+      },
+      {
+        "asset": "Furnace_Titan",
+        "clip": "Turn_Left"
+      },
+      {
+        "asset": "Horned_Regent",
+        "clip": "Turn_Left"
+      },
+      {
+        "asset": "Mirror_Colossus",
+        "clip": "Turn_Left"
+      },
+      {
+        "asset": "Neon_Reaper",
+        "clip": "Turn_Left"
+      },
+      {
+        "asset": "Root_Matriarch",
+        "clip": "Turn_Left"
+      },
+      {
+        "asset": "Bamboo_Mantis",
+        "clip": "Turn_Left"
+      },
+      {
+        "asset": "Crimson_Imp",
+        "clip": "Turn_Left"
+      },
+      {
+        "asset": "Neon_Wisp",
+        "clip": "Turn_Left"
+      },
+      {
+        "asset": "Scrapling",
+        "clip": "Turn_Left"
+      },
+      {
+        "asset": "Sporeling",
+        "clip": "Turn_Left"
+      }
+    ],
+    [
+      {
+        "asset": "Cathedral_Bellwarden",
+        "clip": "Turn_Right"
+      },
+      {
+        "asset": "Furnace_Titan",
+        "clip": "Turn_Right"
+      },
+      {
+        "asset": "Horned_Regent",
+        "clip": "Turn_Right"
+      },
+      {
+        "asset": "Mirror_Colossus",
+        "clip": "Turn_Right"
+      },
+      {
+        "asset": "Neon_Reaper",
+        "clip": "Turn_Right"
+      },
+      {
+        "asset": "Root_Matriarch",
+        "clip": "Turn_Right"
+      },
+      {
+        "asset": "Bamboo_Mantis",
+        "clip": "Turn_Right"
+      },
+      {
+        "asset": "Crimson_Imp",
+        "clip": "Turn_Right"
+      },
+      {
+        "asset": "Neon_Wisp",
+        "clip": "Turn_Right"
+      },
+      {
+        "asset": "Scrapling",
+        "clip": "Turn_Right"
+      },
+      {
+        "asset": "Sporeling",
+        "clip": "Turn_Right"
+      }
+    ],
+    [
+      {
+        "asset": "Crypt_Arachnarch",
+        "clip": "Death"
+      },
+      {
+        "asset": "Crypt_Skitter",
+        "clip": "Death"
+      }
+    ],
+    [
+      {
+        "asset": "Crypt_Arachnarch",
+        "clip": "Dodge_Left"
+      },
+      {
+        "asset": "Crypt_Skitter",
+        "clip": "Dodge_Left"
+      }
+    ],
+    [
+      {
+        "asset": "Crypt_Arachnarch",
+        "clip": "Dodge_Right"
+      },
+      {
+        "asset": "Crypt_Skitter",
+        "clip": "Dodge_Right"
+      }
+    ],
+    [
+      {
+        "asset": "Crypt_Arachnarch",
+        "clip": "Hit_Back"
+      },
+      {
+        "asset": "Crypt_Skitter",
+        "clip": "Hit_Back"
+      }
+    ],
+    [
+      {
+        "asset": "Crypt_Arachnarch",
+        "clip": "Hit_Front"
+      },
+      {
+        "asset": "Crypt_Skitter",
+        "clip": "Hit_Front"
+      }
+    ],
+    [
+      {
+        "asset": "Crypt_Arachnarch",
+        "clip": "Idle_Breathe"
+      },
+      {
+        "asset": "Crypt_Skitter",
+        "clip": "Idle_Breathe"
+      }
+    ],
+    [
+      {
+        "asset": "Crypt_Arachnarch",
+        "clip": "Locomotion_Run"
+      },
+      {
+        "asset": "Crypt_Skitter",
+        "clip": "Locomotion_Run"
+      }
+    ],
+    [
+      {
+        "asset": "Crypt_Arachnarch",
+        "clip": "Locomotion_Walk"
+      },
+      {
+        "asset": "Crypt_Skitter",
+        "clip": "Locomotion_Walk"
+      }
+    ],
+    [
+      {
+        "asset": "Crypt_Arachnarch",
+        "clip": "Stagger"
+      },
+      {
+        "asset": "Crypt_Skitter",
+        "clip": "Stagger"
+      }
+    ],
+    [
+      {
+        "asset": "Crypt_Arachnarch",
+        "clip": "Threat_Roar"
+      },
+      {
+        "asset": "Crypt_Skitter",
+        "clip": "Threat_Roar"
+      }
+    ],
+    [
+      {
+        "asset": "Crypt_Arachnarch",
+        "clip": "Turn_Left"
+      },
+      {
+        "asset": "Crypt_Skitter",
+        "clip": "Turn_Left"
+      }
+    ],
+    [
+      {
+        "asset": "Crypt_Arachnarch",
+        "clip": "Turn_Right"
+      },
+      {
+        "asset": "Crypt_Skitter",
+        "clip": "Turn_Right"
+      }
+    ]
+  ],
+  "near_preview_candidates": [
+    {
+      "assets": [
+        "Cinder_Crown",
+        "Crimson_Vesper"
+      ],
+      "hash_distance": 4
+    },
+    {
+      "assets": [
+        "Cinder_Crown",
+        "Thornback"
+      ],
+      "hash_distance": 3
+    },
+    {
+      "assets": [
+        "Crimson_Vesper",
+        "Iron_Seraph"
+      ],
+      "hash_distance": 4
+    },
+    {
+      "assets": [
+        "Crimson_Vesper",
+        "Thornback"
+      ],
+      "hash_distance": 3
+    },
+    {
+      "assets": [
+        "Iron_Seraph",
+        "Thornback"
+      ],
+      "hash_distance": 3
+    },
+    {
+      "assets": [
+        "Iron_Seraph",
+        "Moon_Bat"
+      ],
+      "hash_distance": 4
+    },
+    {
+      "assets": [
+        "Obsidian_Bastion",
+        "Cinder_Hound"
+      ],
+      "hash_distance": 5
+    },
+    {
+      "assets": [
+        "Obsidian_Bastion",
+        "Moon_Bat"
+      ],
+      "hash_distance": 5
+    },
+    {
+      "assets": [
+        "Thornback",
+        "Moon_Bat"
+      ],
+      "hash_distance": 3
+    },
+    {
+      "assets": [
+        "Abyss_Maw",
+        "Razorfin"
+      ],
+      "hash_distance": 4
+    },
+    {
+      "assets": [
+        "Crypt_Arachnarch",
+        "Hundredleg"
+      ],
+      "hash_distance": 5
+    },
+    {
+      "assets": [
+        "Crypt_Arachnarch",
+        "Crypt_Skitter"
+      ],
+      "hash_distance": 2
+    },
+    {
+      "assets": [
+        "Furnace_Titan",
+        "Siege_Sentinel"
+      ],
+      "hash_distance": 5
+    },
+    {
+      "assets": [
+        "Furnace_Titan",
+        "Scrapling"
+      ],
+      "hash_distance": 4
+    },
+    {
+      "assets": [
+        "Horned_Regent",
+        "Crimson_Imp"
+      ],
+      "hash_distance": 0
+    },
+    {
+      "assets": [
+        "Hundredleg",
+        "Crypt_Skitter"
+      ],
+      "hash_distance": 5
+    },
+    {
+      "assets": [
+        "Root_Matriarch",
+        "Sporeling"
+      ],
+      "hash_distance": 1
+    },
+    {
+      "assets": [
+        "Siege_Sentinel",
+        "Scrapling"
+      ],
+      "hash_distance": 3
+    }
+  ],
+  "known_visual_repetition_review": [
+    {
+      "assets": [
+        "Crypt_Arachnarch",
+        "Hundredleg"
+      ],
+      "finding": "Both retain the same broad segmented arthropod design language and face/leg arrangement. Distinct geometry alone does not resolve this near-duplicate visual identity.",
+      "status": "unfinished_redesign_required"
+    },
+    {
+      "assets": [
+        "Cathedral_Bellwarden",
+        "Neon_Reaper"
+      ],
+      "finding": "Shared blocky humanoid armour construction and similar proportions remain visible despite different accessories.",
+      "status": "unfinished_redesign_required"
+    },
+    {
+      "assets": [
+        "Abyss_Maw",
+        "Razorfin"
+      ],
+      "finding": "Fish/shark family proportions and silhouette require intentional differentiation.",
+      "status": "unfinished_redesign_required"
+    }
+  ],
+  "exact_duplicate_interpretation": "The repeated file groups found in this run are texture maps, not duplicate model files or byte-identical previews. Constant/neutral maps can deliberately be shared; retained to preserve existing texture paths.",
+  "coverage": {
+    "canonical_creatures": 30,
+    "creature_animation_instances": 660,
+    "fbx_files_byte_checked": 105,
+    "glb_files_byte_checked": 36,
+    "canonical_mesh_geometry_parsed": 30,
+    "historical_provenance": "excluded from current-asset duplicate groups; intentionally preserved",
+    "visual_candidate_scope": "After threequarter views only; all preview bytes checked separately"
+  },
+  "deletions": [],
+  "changes_this_audit": "No model or useful LOD/animation removed. Repetition is measured and flagged; cinematic redesign is not claimed."
+}

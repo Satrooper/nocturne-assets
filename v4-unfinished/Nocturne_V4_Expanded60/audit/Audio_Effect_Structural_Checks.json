@@ -1,0 +1,828 @@
+{
+  "audio": [
+    {
+      "file": "audio/Bastion_Rifle_Fire.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 52800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/Vesper_Pistol_Fire.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 38400,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/Weapon_Action_Rack.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 22080,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/Weapon_Magazine_Service.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 64320,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/armour_hit_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/armour_hit_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/armour_hit_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/blade_impact_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/blade_impact_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/blade_impact_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/blade_swing_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/blade_swing_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/blade_swing_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/bone_impact_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/bone_impact_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/bone_impact_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/boss_growl_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/boss_growl_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/boss_growl_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/boss_growl_04.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/boss_growl_05.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/boss_growl_06.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/boss_growl_07.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/boss_growl_08.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/boss_growl_09.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/boss_growl_10.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/claw_scrape_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/claw_scrape_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/claw_scrape_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/dragon_roar_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/dragon_roar_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/dragon_roar_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/dragon_roar_04.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/dragon_roar_05.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/dragon_roar_06.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/dragon_roar_07.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/dragon_roar_08.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/dragon_roar_09.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/dragon_roar_10.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 153600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/enemy_call_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 62400,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/enemy_call_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 62400,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/enemy_call_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 62400,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/enemy_call_04.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 62400,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/enemy_call_05.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 62400,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/enemy_call_06.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 62400,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/enemy_call_07.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 62400,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/enemy_call_08.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 62400,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/enemy_call_09.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 62400,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/enemy_call_10.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 62400,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/fire_breath_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 81600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/fire_breath_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 81600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/fire_breath_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 81600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/heavy_footstep_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/heavy_footstep_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/heavy_footstep_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/ice_fracture_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/ice_fracture_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/ice_fracture_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/lightning_crack_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/lightning_crack_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/lightning_crack_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/magic_pulse_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/magic_pulse_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/magic_pulse_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 40800,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/water_burst_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 81600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/water_burst_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 81600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/water_burst_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 81600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/wing_whoosh_01.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 81600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/wing_whoosh_02.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 81600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    },
+    {
+      "file": "audio/wing_whoosh_03.wav",
+      "sample_rate": 48000,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "frames": 81600,
+      "peak": 0.8599853515625,
+      "decoded": true,
+      "auditory_review": false
+    }
+  ],
+  "effects": [
+    {
+      "file": "effects/ember_burst_atlas.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "frame_layout_matches_manifest": true,
+      "engine_playback_checked": false
+    },
+    {
+      "file": "effects/flame_plume_atlas.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "frame_layout_matches_manifest": true,
+      "engine_playback_checked": false
+    },
+    {
+      "file": "effects/frost_shatter_atlas.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "frame_layout_matches_manifest": true,
+      "engine_playback_checked": false
+    },
+    {
+      "file": "effects/lightning_arc_atlas.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "frame_layout_matches_manifest": true,
+      "engine_playback_checked": false
+    },
+    {
+      "file": "effects/blood_mist_atlas.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "frame_layout_matches_manifest": true,
+      "engine_playback_checked": false
+    },
+    {
+      "file": "effects/toxic_cloud_atlas.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "frame_layout_matches_manifest": true,
+      "engine_playback_checked": false
+    },
+    {
+      "file": "effects/dust_impact_atlas.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "frame_layout_matches_manifest": true,
+      "engine_playback_checked": false
+    },
+    {
+      "file": "effects/water_splash_atlas.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "frame_layout_matches_manifest": true,
+      "engine_playback_checked": false
+    },
+    {
+      "file": "effects/lunar_pulse_atlas.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "frame_layout_matches_manifest": true,
+      "engine_playback_checked": false
+    },
+    {
+      "file": "effects/shadow_smoke_atlas.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "frame_layout_matches_manifest": true,
+      "engine_playback_checked": false
+    },
+    {
+      "file": "effects/metal_sparks_atlas.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "frame_layout_matches_manifest": true,
+      "engine_playback_checked": false
+    },
+    {
+      "file": "effects/spore_burst_atlas.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "frame_layout_matches_manifest": true,
+      "engine_playback_checked": false
+    }
+  ],
+  "sound_design_listening_approved": false,
+  "volumetric_fx_approved": false
+}

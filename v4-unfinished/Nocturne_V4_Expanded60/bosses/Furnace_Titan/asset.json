@@ -1,0 +1,522 @@
+{
+  "name": "Furnace_Titan",
+  "category": "bosses",
+  "body_type": "construct",
+  "triangles": 41304,
+  "bones": 18,
+  "materials": 9,
+  "clips": [
+    {
+      "name": "Idle_Breathe",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Walk",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Run",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Front",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Back",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Stagger",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Death",
+      "frames": 91,
+      "fps": 30,
+      "duration": 3.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Threat_Roar",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Furnace_Punch",
+      "frames": 73,
+      "fps": 30,
+      "duration": 2.3899999999999997,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "jab",
+          1.12,
+          [
+            0.1,
+            0.594
+          ],
+          -1
+        ],
+        [
+          "coil",
+          0.4,
+          [
+            0.416,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.526,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.028,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.96,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Back_Vent_Discharge",
+      "frames": 76,
+      "fps": 30,
+      "duration": 2.51,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "cast",
+          1.12,
+          [
+            0.1,
+            0.594
+          ],
+          1
+        ],
+        [
+          "rise",
+          0.44,
+          [
+            0.416,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.552,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.079,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.058,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Piston_Uppercut",
+      "frames": 80,
+      "fps": 30,
+      "duration": 2.63,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "sweep",
+          1.12,
+          [
+            0.1,
+            0.594
+          ],
+          -1
+        ],
+        [
+          "sweep",
+          0.48000000000000004,
+          [
+            0.416,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.579,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.131,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.157,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Overheat_Stomp",
+      "frames": 83,
+      "fps": 30,
+      "duration": 2.75,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "stomp",
+          1.12,
+          [
+            0.1,
+            0.594
+          ],
+          1
+        ],
+        [
+          "lunge",
+          0.52,
+          [
+            0.416,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.605,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.182,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.255,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Steam_Guard_Break",
+      "frames": 87,
+      "fps": 30,
+      "duration": 2.87,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "guard",
+          1.12,
+          [
+            0.1,
+            0.594
+          ],
+          -1
+        ],
+        [
+          "coil",
+          0.56,
+          [
+            0.416,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.631,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.234,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.353,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Double_Piston_Combo",
+      "frames": 91,
+      "fps": 30,
+      "duration": 2.99,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          1.12,
+          [
+            0.1,
+            0.594
+          ],
+          1
+        ],
+        [
+          "rise",
+          0.6000000000000001,
+          [
+            0.416,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.658,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.286,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.452,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Grate_Slam",
+      "frames": 94,
+      "fps": 30,
+      "duration": 3.1100000000000003,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "slam",
+          1.12,
+          [
+            0.1,
+            0.594
+          ],
+          -1
+        ],
+        [
+          "sweep",
+          0.64,
+          [
+            0.416,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.684,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.337,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.55,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Cooling_Kneel",
+      "frames": 98,
+      "fps": 30,
+      "duration": 3.2299999999999995,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          1.12,
+          [
+            0.1,
+            0.594
+          ],
+          1
+        ],
+        [
+          "lunge",
+          0.68,
+          [
+            0.416,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.711,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.389,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.649,
+          "event": "recovery"
+        }
+      ]
+    }
+  ],
+  "lods": [
+    {
+      "level": 1,
+      "triangles": 5330
+    },
+    {
+      "level": 2,
+      "triangles": 2712
+    }
+  ],
+  "textures": "2048px basecolor/normal/roughness; original procedural PBR",
+  "skin_weights": "interpolated along anatomical tubes; rigid detail attachments",
+  "provenance": "original procedural artwork; not extracted franchise content",
+  "quality_status": "Actual geometry/material revision; cinematic realism, complete animation refinement and all-frame collision approval remain unproven",
+  "revision": "v4_full_roster_visual_iteration",
+  "animation_revision": "v2 motion bank retained; revised art, not new mocap",
+  "geometry_changes": "shaped plates, layered surfaces, anatomical/species proportions and accessories",
+  "visual_changes": [
+    "Rebuilt complete mechanical body: tapered split thorax, integrated neck load columns, shaped cranial armour and protected jaw; old box torso/head removed.",
+    "Open C-section limbs, bearings, load links, wrist/digit construction and ankle-to-ground load paths; skeleton rest transforms preserved.",
+    "Distinct material regions for enamel, titanium/steel, inner frame, bushings and composite soles; material wear baked into UV atlas.",
+    "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+  ],
+  "vertices_before": 5649,
+  "vertices_after": 21338,
+  "texture_atlas": {
+    "size": 1024,
+    "maps": [
+      "textures/Furnace_Titan_Visual4_basecolor.png",
+      "textures/Furnace_Titan_Visual4_roughness.png",
+      "textures/Furnace_Titan_Visual4_metallic.png",
+      "textures/Furnace_Titan_Visual4_normal.png"
+    ]
+  },
+  "rig_rest_transforms_preserved": true,
+  "engine_tested": false
+}

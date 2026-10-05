@@ -1,0 +1,522 @@
+{
+  "name": "Mirror_Colossus",
+  "category": "bosses",
+  "body_type": "crystal",
+  "triangles": 33092,
+  "bones": 18,
+  "materials": 5,
+  "clips": [
+    {
+      "name": "Idle_Breathe",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Walk",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Run",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Front",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Back",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Stagger",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Death",
+      "frames": 91,
+      "fps": 30,
+      "duration": 3.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Threat_Roar",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Crystal_Fist_Crush",
+      "frames": 70,
+      "fps": 30,
+      "duration": 2.31,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "slam",
+          1.03,
+          [
+            0.1,
+            0.622
+          ],
+          -1
+        ],
+        [
+          "wing",
+          0.4,
+          [
+            0.388,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.508,
+          "event": "anticipation"
+        },
+        {
+          "time": 0.993,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.894,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Prism_Chest_Cast",
+      "frames": 74,
+      "fps": 30,
+      "duration": 2.43,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "cast",
+          1.03,
+          [
+            0.1,
+            0.622
+          ],
+          1
+        ],
+        [
+          "stomp",
+          0.44,
+          [
+            0.388,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.535,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.045,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.993,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Shard_Shoulder_Sweep",
+      "frames": 77,
+      "fps": 30,
+      "duration": 2.55,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "sweep",
+          1.03,
+          [
+            0.1,
+            0.622
+          ],
+          -1
+        ],
+        [
+          "bite",
+          0.48000000000000004,
+          [
+            0.388,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.561,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.096,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.091,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Glass_Guard_Break",
+      "frames": 81,
+      "fps": 30,
+      "duration": 2.67,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "guard",
+          1.03,
+          [
+            0.1,
+            0.622
+          ],
+          1
+        ],
+        [
+          "cast",
+          0.52,
+          [
+            0.388,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.587,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.148,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.189,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Mirror_Stomp",
+      "frames": 85,
+      "fps": 30,
+      "duration": 2.79,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "stomp",
+          1.03,
+          [
+            0.1,
+            0.622
+          ],
+          -1
+        ],
+        [
+          "wing",
+          0.56,
+          [
+            0.388,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.614,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.2,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.288,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Shard_Rain_Summon",
+      "frames": 88,
+      "fps": 30,
+      "duration": 2.91,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "cast",
+          1.03,
+          [
+            0.1,
+            0.622
+          ],
+          1
+        ],
+        [
+          "stomp",
+          0.6000000000000001,
+          [
+            0.388,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.64,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.251,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.386,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Crystal_Uppercut",
+      "frames": 92,
+      "fps": 30,
+      "duration": 3.0300000000000002,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "sweep",
+          1.03,
+          [
+            0.1,
+            0.622
+          ],
+          -1
+        ],
+        [
+          "bite",
+          0.64,
+          [
+            0.388,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.667,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.303,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.485,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Splinter_Collapse",
+      "frames": 95,
+      "fps": 30,
+      "duration": 3.15,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          1.03,
+          [
+            0.1,
+            0.622
+          ],
+          1
+        ],
+        [
+          "cast",
+          0.68,
+          [
+            0.388,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.693,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.355,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.583,
+          "event": "recovery"
+        }
+      ]
+    }
+  ],
+  "lods": [
+    {
+      "level": 1,
+      "triangles": 6625
+    },
+    {
+      "level": 2,
+      "triangles": 3371
+    }
+  ],
+  "textures": "2048px basecolor/normal/roughness; original procedural PBR",
+  "skin_weights": "interpolated along anatomical tubes; rigid detail attachments",
+  "provenance": "original procedural artwork; not extracted franchise content",
+  "quality_status": "Actual geometry/material revision; cinematic realism, complete animation refinement and all-frame collision approval remain unproven",
+  "revision": "v4_full_roster_visual_iteration",
+  "animation_revision": "v2 motion bank retained; revised art, not new mocap",
+  "geometry_changes": "shaped plates, layered surfaces, anatomical/species proportions and accessories",
+  "visual_changes": [
+    "Removed 0 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+    "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+    "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+    "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+  ],
+  "vertices_before": 6697,
+  "vertices_after": 16940,
+  "texture_atlas": {
+    "size": 1024,
+    "maps": [
+      "textures/Mirror_Colossus_Visual4_basecolor.png",
+      "textures/Mirror_Colossus_Visual4_roughness.png",
+      "textures/Mirror_Colossus_Visual4_metallic.png",
+      "textures/Mirror_Colossus_Visual4_normal.png"
+    ]
+  },
+  "rig_rest_transforms_preserved": true,
+  "engine_tested": false
+}

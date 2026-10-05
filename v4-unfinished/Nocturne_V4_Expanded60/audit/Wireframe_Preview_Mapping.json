@@ -1,0 +1,242 @@
+[
+  {
+    "asset": "Cinder_Crown",
+    "source": "dragons/Cinder_Crown/Cinder_Crown.glb",
+    "output": "previews/wireframes/Cinder_Crown.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Crimson_Vesper",
+    "source": "dragons/Crimson_Vesper/Crimson_Vesper.glb",
+    "output": "previews/wireframes/Crimson_Vesper.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Dune_Glasswing",
+    "source": "dragons/Dune_Glasswing/Dune_Glasswing.glb",
+    "output": "previews/wireframes/Dune_Glasswing.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Frost_Antler",
+    "source": "dragons/Frost_Antler/Frost_Antler.glb",
+    "output": "previews/wireframes/Frost_Antler.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Iron_Seraph",
+    "source": "dragons/Iron_Seraph/Iron_Seraph.glb",
+    "output": "previews/wireframes/Iron_Seraph.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Moonveil",
+    "source": "dragons/Moonveil/Moonveil.glb",
+    "output": "previews/wireframes/Moonveil.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Obsidian_Bastion",
+    "source": "dragons/Obsidian_Bastion/Obsidian_Bastion.glb",
+    "output": "previews/wireframes/Obsidian_Bastion.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Storm_Wyvern",
+    "source": "dragons/Storm_Wyvern/Storm_Wyvern.glb",
+    "output": "previews/wireframes/Storm_Wyvern.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Sunken_Leviathan",
+    "source": "dragons/Sunken_Leviathan/Sunken_Leviathan.glb",
+    "output": "previews/wireframes/Sunken_Leviathan.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Thornback",
+    "source": "dragons/Thornback/Thornback.glb",
+    "output": "previews/wireframes/Thornback.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Abyss_Maw",
+    "source": "bosses/Abyss_Maw/Abyss_Maw.glb",
+    "output": "previews/wireframes/Abyss_Maw.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Cathedral_Bellwarden",
+    "source": "bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.glb",
+    "output": "previews/wireframes/Cathedral_Bellwarden.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Crypt_Arachnarch",
+    "source": "bosses/Crypt_Arachnarch/Crypt_Arachnarch.glb",
+    "output": "previews/wireframes/Crypt_Arachnarch.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Furnace_Titan",
+    "source": "bosses/Furnace_Titan/Furnace_Titan.glb",
+    "output": "previews/wireframes/Furnace_Titan.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Horned_Regent",
+    "source": "bosses/Horned_Regent/Horned_Regent.glb",
+    "output": "previews/wireframes/Horned_Regent.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Hundredleg",
+    "source": "bosses/Hundredleg/Hundredleg.glb",
+    "output": "previews/wireframes/Hundredleg.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Mirror_Colossus",
+    "source": "bosses/Mirror_Colossus/Mirror_Colossus.glb",
+    "output": "previews/wireframes/Mirror_Colossus.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Neon_Reaper",
+    "source": "bosses/Neon_Reaper/Neon_Reaper.glb",
+    "output": "previews/wireframes/Neon_Reaper.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Root_Matriarch",
+    "source": "bosses/Root_Matriarch/Root_Matriarch.glb",
+    "output": "previews/wireframes/Root_Matriarch.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Siege_Sentinel",
+    "source": "bosses/Siege_Sentinel/Siege_Sentinel.glb",
+    "output": "previews/wireframes/Siege_Sentinel.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Bamboo_Mantis",
+    "source": "enemies/Bamboo_Mantis/Bamboo_Mantis.glb",
+    "output": "previews/wireframes/Bamboo_Mantis.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Cinder_Hound",
+    "source": "enemies/Cinder_Hound/Cinder_Hound.glb",
+    "output": "previews/wireframes/Cinder_Hound.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Crimson_Imp",
+    "source": "enemies/Crimson_Imp/Crimson_Imp.glb",
+    "output": "previews/wireframes/Crimson_Imp.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Crypt_Skitter",
+    "source": "enemies/Crypt_Skitter/Crypt_Skitter.glb",
+    "output": "previews/wireframes/Crypt_Skitter.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Moon_Bat",
+    "source": "enemies/Moon_Bat/Moon_Bat.glb",
+    "output": "previews/wireframes/Moon_Bat.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Neon_Wisp",
+    "source": "enemies/Neon_Wisp/Neon_Wisp.glb",
+    "output": "previews/wireframes/Neon_Wisp.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Razorfin",
+    "source": "enemies/Razorfin/Razorfin.glb",
+    "output": "previews/wireframes/Razorfin.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Scrapling",
+    "source": "enemies/Scrapling/Scrapling.glb",
+    "output": "previews/wireframes/Scrapling.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Shard_Crab",
+    "source": "enemies/Shard_Crab/Shard_Crab.glb",
+    "output": "previews/wireframes/Shard_Crab.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  },
+  {
+    "asset": "Sporeling",
+    "source": "enemies/Sporeling/Sporeling.glb",
+    "output": "previews/wireframes/Sporeling.jpg",
+    "frame": 1,
+    "render": "exported triangles; canonical default, not Experimental; imported current GLB",
+    "visual_quality_approved": false
+  }
+]

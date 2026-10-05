@@ -1,0 +1,1892 @@
+[
+  {
+    "asset": "Bastion_Rifle_Fire",
+    "file": "audio/Bastion_Rifle_Fire.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.1,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.05433190324870971,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "Vesper_Pistol_Fire",
+    "file": "audio/Vesper_Pistol_Fire.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.8,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.0754980370737017,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "Weapon_Action_Rack",
+    "file": "audio/Weapon_Action_Rack.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.46,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.09149881673707003,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "Weapon_Magazine_Service",
+    "file": "audio/Weapon_Magazine_Service.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.34,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.06760118057808943,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "armour_hit_01",
+    "file": "audio/armour_hit_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.08786673317117753,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "armour_hit_02",
+    "file": "audio/armour_hit_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.08743150546376843,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "armour_hit_03",
+    "file": "audio/armour_hit_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.09457982675778288,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "blade_impact_01",
+    "file": "audio/blade_impact_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.08760216297055361,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "blade_impact_02",
+    "file": "audio/blade_impact_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.09171398281823898,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "blade_impact_03",
+    "file": "audio/blade_impact_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.09587208230395729,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "blade_swing_01",
+    "file": "audio/blade_swing_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.14026730700608853,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "blade_swing_02",
+    "file": "audio/blade_swing_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.15068118436042835,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "blade_swing_03",
+    "file": "audio/blade_swing_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.1458787724808482,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "bone_impact_01",
+    "file": "audio/bone_impact_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.09166770554271358,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "bone_impact_02",
+    "file": "audio/bone_impact_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.09693096342184343,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "bone_impact_03",
+    "file": "audio/bone_impact_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.09353055755755309,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "boss_growl_01",
+    "file": "audio/boss_growl_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2785412853079616,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "boss_growl_02",
+    "file": "audio/boss_growl_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2693132944299364,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "boss_growl_03",
+    "file": "audio/boss_growl_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.27606637678116946,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "boss_growl_04",
+    "file": "audio/boss_growl_04.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2680606031245474,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "boss_growl_05",
+    "file": "audio/boss_growl_05.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2604981624339544,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "boss_growl_06",
+    "file": "audio/boss_growl_06.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2605783376439488,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "boss_growl_07",
+    "file": "audio/boss_growl_07.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.24043040574341673,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "boss_growl_08",
+    "file": "audio/boss_growl_08.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2597287980781438,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "boss_growl_09",
+    "file": "audio/boss_growl_09.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2597662657905685,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "boss_growl_10",
+    "file": "audio/boss_growl_10.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.25868149890723097,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "claw_scrape_01",
+    "file": "audio/claw_scrape_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.10493182503774642,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "claw_scrape_02",
+    "file": "audio/claw_scrape_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.11606344056224964,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "claw_scrape_03",
+    "file": "audio/claw_scrape_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.114006398785487,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "dragon_roar_01",
+    "file": "audio/dragon_roar_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.25169072390179276,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "dragon_roar_02",
+    "file": "audio/dragon_roar_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2613336117732201,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "dragon_roar_03",
+    "file": "audio/dragon_roar_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.24276354784634827,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "dragon_roar_04",
+    "file": "audio/dragon_roar_04.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.25636425284027853,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "dragon_roar_05",
+    "file": "audio/dragon_roar_05.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.26229969076462273,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "dragon_roar_06",
+    "file": "audio/dragon_roar_06.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2543933097001974,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "dragon_roar_07",
+    "file": "audio/dragon_roar_07.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2706037021432785,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "dragon_roar_08",
+    "file": "audio/dragon_roar_08.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.27267206115171216,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "dragon_roar_09",
+    "file": "audio/dragon_roar_09.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2685172322233481,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "dragon_roar_10",
+    "file": "audio/dragon_roar_10.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 3.2,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2750106124612795,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "enemy_call_01",
+    "file": "audio/enemy_call_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.3,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.3026760519412551,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "enemy_call_02",
+    "file": "audio/enemy_call_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.3,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.26137335340684936,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "enemy_call_03",
+    "file": "audio/enemy_call_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.3,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.29643079146300555,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "enemy_call_04",
+    "file": "audio/enemy_call_04.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.3,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.28368729293170497,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "enemy_call_05",
+    "file": "audio/enemy_call_05.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.3,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2855128070222023,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "enemy_call_06",
+    "file": "audio/enemy_call_06.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.3,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2887636128255524,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "enemy_call_07",
+    "file": "audio/enemy_call_07.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.3,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2682378890772391,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "enemy_call_08",
+    "file": "audio/enemy_call_08.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.3,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2846178736557844,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "enemy_call_09",
+    "file": "audio/enemy_call_09.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.3,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2972707306591848,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "enemy_call_10",
+    "file": "audio/enemy_call_10.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.3,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added frequency-modulated throat resonance and band-limited breath layer; deterministic synthetic creature voice.",
+    "rms_linear": 0.2931005671577535,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "fire_breath_01",
+    "file": "audio/fire_breath_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.7,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.20415270403899047,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "fire_breath_02",
+    "file": "audio/fire_breath_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.7,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.20016196226848346,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "fire_breath_03",
+    "file": "audio/fire_breath_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.7,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.20873448361361632,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "heavy_footstep_01",
+    "file": "audio/heavy_footstep_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.08964419599420193,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "heavy_footstep_02",
+    "file": "audio/heavy_footstep_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.09720037353078152,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "heavy_footstep_03",
+    "file": "audio/heavy_footstep_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.1008293835203827,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "ice_fracture_01",
+    "file": "audio/ice_fracture_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.0927930114848541,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "ice_fracture_02",
+    "file": "audio/ice_fracture_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.09834339761579812,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "ice_fracture_03",
+    "file": "audio/ice_fracture_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.07846108405126473,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "lightning_crack_01",
+    "file": "audio/lightning_crack_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.09261134623753439,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "lightning_crack_02",
+    "file": "audio/lightning_crack_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.09043901563493695,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "lightning_crack_03",
+    "file": "audio/lightning_crack_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Reshaped attack transient and added low-frequency impact body; synthetic layers.",
+    "rms_linear": 0.08681206036556645,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "magic_pulse_01",
+    "file": "audio/magic_pulse_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.14810790644058236,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "magic_pulse_02",
+    "file": "audio/magic_pulse_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.12327387358661329,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "magic_pulse_03",
+    "file": "audio/magic_pulse_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 0.85,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.14301200049338145,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "water_burst_01",
+    "file": "audio/water_burst_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.7,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.10289461931633267,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "water_burst_02",
+    "file": "audio/water_burst_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.7,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.11806739390326235,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "water_burst_03",
+    "file": "audio/water_burst_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.7,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.11008230736946671,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "wing_whoosh_01",
+    "file": "audio/wing_whoosh_01.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.7,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.14446652051642503,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "wing_whoosh_02",
+    "file": "audio/wing_whoosh_02.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.7,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.15465958091804327,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  },
+  {
+    "asset": "wing_whoosh_03",
+    "file": "audio/wing_whoosh_03.wav",
+    "status": "revised_synthetic_sound_design_pending_listening",
+    "sample_rate": 48000,
+    "channels": 1,
+    "bits": 16,
+    "duration_s": 1.7,
+    "peak_linear": 0.8599853515625,
+    "decoding_passed": true,
+    "auditory_review": false,
+    "remaining": [
+      "Listening and in-game mix approval",
+      "Recorded foley/vocal realism where desired"
+    ],
+    "provenance": "Original deterministic procedural synthesis; not recorded samples; source credits retained.",
+    "changes": "Added controlled band-limited movement/air layer; synthetic layers.",
+    "rms_linear": 0.15443382658147586,
+    "playback": {
+      "spatialization": "mono 3D emitter; creature mouth, weapon muzzle, or contact anchor",
+      "gain_db": -6,
+      "pitch_variation_semitones": [
+        -1,
+        1
+      ]
+    }
+  }
+]

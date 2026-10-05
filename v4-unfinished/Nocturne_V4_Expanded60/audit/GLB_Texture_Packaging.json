@@ -1,0 +1,692 @@
+[
+  {
+    "file": "bosses/Abyss_Maw/Abyss_Maw.glb",
+    "old_bytes": 4069268,
+    "new_bytes": 2075692,
+    "images": [
+      {
+        "texture": "textures/Abyss_Maw_Visual4_normal.png",
+        "image_sha256": "fe54a18ea94e8ff3c3223c137a9f56b02e1f542b823a1d901a5173da97fe5726",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Abyss_Maw_Visual4_basecolor.png",
+        "image_sha256": "7cbed443c7aa3c1567501ee140ddcbc55b1fab16c5eeeab001e6e21a91d4a5b8",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_114dfc4758c0f6dd8cb86edb1cac336b252437d91fdb6a17a7eed12c1a5bbe6b.png",
+        "image_sha256": "114dfc4758c0f6dd8cb86edb1cac336b252437d91fdb6a17a7eed12c1a5bbe6b",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "bosses/Cathedral_Bellwarden/Cathedral_Bellwarden.glb",
+    "old_bytes": 4340076,
+    "new_bytes": 2987748,
+    "images": [
+      {
+        "texture": "textures/Cathedral_Bellwarden_Visual4_normal.png",
+        "image_sha256": "e83d906993902f97bdb49ecf69d57bbbf4e3dcdbce7ff397ae694112a19c39df",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Cathedral_Bellwarden_Visual4_basecolor.png",
+        "image_sha256": "6b5a8681cd66b722cfade19a8ab9914f3884a6f332613d17101708cf9ebb457b",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_d03d08798a6ed4c297b191abd90bac68e4ea4116dc3cacc1f54c10c76e45626c.png",
+        "image_sha256": "d03d08798a6ed4c297b191abd90bac68e4ea4116dc3cacc1f54c10c76e45626c",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "bosses/Crypt_Arachnarch/Crypt_Arachnarch.glb",
+    "old_bytes": 5625504,
+    "new_bytes": 3424208,
+    "images": [
+      {
+        "texture": "textures/Crypt_Arachnarch_Visual4_normal.png",
+        "image_sha256": "5736f49fa076a7981aa8ac05db338591c6c51fb41405feb3b680b7403eb4b00f",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Crypt_Arachnarch_Visual4_basecolor.png",
+        "image_sha256": "ee4f0821e46e647cdced736adeebc813db79625fec0d43aa8bea75bb949201ca",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_12f04a5ce8859da40ac10ea017be82f9306321d1c9f7829326107adce2ee3bb1.png",
+        "image_sha256": "12f04a5ce8859da40ac10ea017be82f9306321d1c9f7829326107adce2ee3bb1",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "bosses/Furnace_Titan/Furnace_Titan.glb",
+    "old_bytes": 5305080,
+    "new_bytes": 4046888,
+    "images": [
+      {
+        "texture": "textures/Furnace_Titan_Visual4_normal.png",
+        "image_sha256": "30ebc511460644e2c37b77356e008795ce2109cb8d99f6a6806353717885635b",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Furnace_Titan_Visual4_basecolor.png",
+        "image_sha256": "e9a97d37302b7ee67379acf2bb07246d1cc22f12d72080ea7ad48e96ed12d565",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_c22bcf8fdf95dcd33d7eba21ba67e996e7f794d91194564aa1d0274ef767a6dd.png",
+        "image_sha256": "c22bcf8fdf95dcd33d7eba21ba67e996e7f794d91194564aa1d0274ef767a6dd",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "bosses/Horned_Regent/Horned_Regent.glb",
+    "old_bytes": 4640244,
+    "new_bytes": 2738272,
+    "images": [
+      {
+        "texture": "textures/Horned_Regent_Visual4_normal.png",
+        "image_sha256": "aac8450b982e1e20e0a89ac29f72657ac71520e939a6e022e411031575672112",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Horned_Regent_Visual4_basecolor.png",
+        "image_sha256": "c6bd72ffe764a5b7e7164c69daa2e956e87fa32e0bcaa1c2027885c84d49ae21",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_2fcfc041c0b4bb00214d01026411340e9c849b9950b8b653fdca069be5acd350.png",
+        "image_sha256": "2fcfc041c0b4bb00214d01026411340e9c849b9950b8b653fdca069be5acd350",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "bosses/Hundredleg/Hundredleg.glb",
+    "old_bytes": 6140136,
+    "new_bytes": 3949352,
+    "images": [
+      {
+        "texture": "textures/Hundredleg_Visual4_normal.png",
+        "image_sha256": "c62745414706e823cf28670b1f31dfb09a86fa7f981606d809c06e1ff557d22a",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Hundredleg_Visual4_basecolor.png",
+        "image_sha256": "f576c9a5e41008e343bb3d2c718e2f76ab95cbf15c262f34c207fbc8a22b3303",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_21352bcb32cd560f1759c77bb9c379b5a68c8c5e3092160a89fd5a7bf483c51c.png",
+        "image_sha256": "21352bcb32cd560f1759c77bb9c379b5a68c8c5e3092160a89fd5a7bf483c51c",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "bosses/Mirror_Colossus/Mirror_Colossus.glb",
+    "old_bytes": 4686700,
+    "new_bytes": 2703044,
+    "images": [
+      {
+        "texture": "textures/Mirror_Colossus_Visual4_normal.png",
+        "image_sha256": "bfb19a204e61294b4ef1c4922a16c9e6cf0537f344785e52f88fb32724b0c0a9",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Mirror_Colossus_Visual4_basecolor.png",
+        "image_sha256": "05045a5be6c0d2980a3508fcecbed66702ed166efa6c6e2331016e664be4d866",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_29e153154f3e01c53aad550febed36e69bcabb3a8facd2c7fb583e6cebb8b8f7.png",
+        "image_sha256": "29e153154f3e01c53aad550febed36e69bcabb3a8facd2c7fb583e6cebb8b8f7",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "bosses/Neon_Reaper/Neon_Reaper.glb",
+    "old_bytes": 4309872,
+    "new_bytes": 2969400,
+    "images": [
+      {
+        "texture": "textures/Neon_Reaper_Visual4_normal.png",
+        "image_sha256": "6947eaf17a6f1996cb139953b0342c921594b8400342df313c1c59351de5b0f8",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Neon_Reaper_Visual4_basecolor.png",
+        "image_sha256": "2263827f897154e57623ded37260dbea43e5bcaf2f8761cf0186527e2976d1d5",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_51a156753763a4a4f9ee1dce5cd35bb2d662d8ab8e669ccea06dc4e9fc48fbda.png",
+        "image_sha256": "51a156753763a4a4f9ee1dce5cd35bb2d662d8ab8e669ccea06dc4e9fc48fbda",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "bosses/Root_Matriarch/Root_Matriarch.glb",
+    "old_bytes": 4809844,
+    "new_bytes": 2555364,
+    "images": [
+      {
+        "texture": "textures/Root_Matriarch_Visual4_normal.png",
+        "image_sha256": "a20f7550135433c6bd3a418af4c17978bfabe2663fafd6bf1d81bd16322ba46c",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Root_Matriarch_Visual4_basecolor.png",
+        "image_sha256": "be2bfb8d56206f6654553aad51ffb4292043d70010fd76cc742c87ccfd91339c",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_e63d9d1997a49222930bb596607095649de51fc444a90243dc305d8ada9d0d0a.png",
+        "image_sha256": "e63d9d1997a49222930bb596607095649de51fc444a90243dc305d8ada9d0d0a",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "bosses/Siege_Sentinel/Siege_Sentinel.glb",
+    "old_bytes": 7111004,
+    "new_bytes": 6258328,
+    "images": [
+      {
+        "texture": "textures/Siege_Sentinel_Visual4_normal.png",
+        "image_sha256": "0854f0a8128a3da04f0d117234b3d7d8452de1329d0d8c1a73bbaa147648e150",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Siege_Sentinel_Visual4_basecolor.png",
+        "image_sha256": "7d37390e2bc33e60b709eab874948efc4054fbabc6b456d066b6118f481dbab0",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_113a9affb554dd8491c96ac9ef860eda83474dbbc617ea0a72459cbd128d7227.png",
+        "image_sha256": "113a9affb554dd8491c96ac9ef860eda83474dbbc617ea0a72459cbd128d7227",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "dragons/Cinder_Crown/Cinder_Crown.glb",
+    "old_bytes": 7078940,
+    "new_bytes": 5227788,
+    "images": [
+      {
+        "texture": "textures/Cinder_Crown_Visual4_normal.png",
+        "image_sha256": "328f2355e6a4f88e670830d312cd68cc8864887817669f726928a0d76bbabafd",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Cinder_Crown_Visual4_basecolor.png",
+        "image_sha256": "eda5017ec28374a3a532bb71b7f4c9390253de5b8c573d7bfa6c0e2f83720556",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_6aac48af58d6da32dc10e0ddd70251a6042bcb9f94591d112eb93353373c9cce.png",
+        "image_sha256": "6aac48af58d6da32dc10e0ddd70251a6042bcb9f94591d112eb93353373c9cce",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "dragons/Crimson_Vesper/Crimson_Vesper.glb",
+    "old_bytes": 6270500,
+    "new_bytes": 4237484,
+    "images": [
+      {
+        "texture": "textures/Crimson_Vesper_Visual4_normal.png",
+        "image_sha256": "b56776fca22b2503939027405d199a3a7e02ef875fdf3789e8628de29226926b",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Crimson_Vesper_Visual4_basecolor.png",
+        "image_sha256": "3ade224e7c21075826b493b8008f683e7e67607a50e85611f01bc77c3c61c679",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_d7d1e07e71eeb4628888324750236f2ceb08b278eaab0d1827e1dd3b42acb97b.png",
+        "image_sha256": "d7d1e07e71eeb4628888324750236f2ceb08b278eaab0d1827e1dd3b42acb97b",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "dragons/Dune_Glasswing/Dune_Glasswing.glb",
+    "old_bytes": 6324496,
+    "new_bytes": 4354204,
+    "images": [
+      {
+        "texture": "textures/Dune_Glasswing_Visual4_normal.png",
+        "image_sha256": "9a64e045b6412723627d1f17bf711cc503457b81a0d02a176eead4d8d84a02b5",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Dune_Glasswing_Visual4_basecolor.png",
+        "image_sha256": "23ee29e691d463a42465655a0db2659a6c128f9d4496e4e655a667035a984d98",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_d9a419868012a4f22d303931952d35367f9f10f669209397b7df78bfe14ff211.png",
+        "image_sha256": "d9a419868012a4f22d303931952d35367f9f10f669209397b7df78bfe14ff211",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "dragons/Frost_Antler/Frost_Antler.glb",
+    "old_bytes": 6758920,
+    "new_bytes": 4910096,
+    "images": [
+      {
+        "texture": "textures/Frost_Antler_Visual4_normal.png",
+        "image_sha256": "f90f469c84f022e004ff410a84176240d88f61ccbda8c1ec6b6cc1349a9452b1",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Frost_Antler_Visual4_basecolor.png",
+        "image_sha256": "8cdeb3d2f6f828866fb37b333f254d774ddbcaebd1e8f47eca7e45a5b210f0de",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_56ec75aee77ff459b2ecf4f69d8e5914e33ca903eb3bc7281bc7cf26dd503e7d.png",
+        "image_sha256": "56ec75aee77ff459b2ecf4f69d8e5914e33ca903eb3bc7281bc7cf26dd503e7d",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "dragons/Iron_Seraph/Iron_Seraph.glb",
+    "old_bytes": 6477620,
+    "new_bytes": 5180040,
+    "images": [
+      {
+        "texture": "textures/Iron_Seraph_Visual4_normal.png",
+        "image_sha256": "29c62ae72d08fa1c1cdaa429eaeb88afb5c91e9d170ae64c6a6e5b7450618511",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Iron_Seraph_Visual4_basecolor.png",
+        "image_sha256": "0a863eb9e5020502e2689b381eb21b0687b45ec32732a47cf96df4af5180a81f",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_ddd74fdc2fa42ca439cd71674e416ec80b89ad0342154ad7bd92ac71ee2046f4.png",
+        "image_sha256": "ddd74fdc2fa42ca439cd71674e416ec80b89ad0342154ad7bd92ac71ee2046f4",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "dragons/Moonveil/Moonveil.glb",
+    "old_bytes": 6748288,
+    "new_bytes": 5125024,
+    "images": [
+      {
+        "texture": "textures/Moonveil_Visual4_normal.png",
+        "image_sha256": "7fb465e2942be964443d6e9094ec5d746e3ea0cdcaed5245a4a97d5e860d419e",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Moonveil_Visual4_basecolor.png",
+        "image_sha256": "150ba23ca3065448628a0d1e090251551a01008f79cf660b77a1875f46b615e3",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_1377b7ced604ad318e44ed1a15b555334d706b33612759ea4474eb13496115d2.png",
+        "image_sha256": "1377b7ced604ad318e44ed1a15b555334d706b33612759ea4474eb13496115d2",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "dragons/Obsidian_Bastion/Obsidian_Bastion.glb",
+    "old_bytes": 6603396,
+    "new_bytes": 4688412,
+    "images": [
+      {
+        "texture": "textures/Obsidian_Bastion_Visual4_normal.png",
+        "image_sha256": "9d0c71312b6234f4f0f5d80fc7e32f86af8c6213e269be8ffbe7559c5449f8db",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Obsidian_Bastion_Visual4_basecolor.png",
+        "image_sha256": "a5f1b1e3e541069db0c6d549f22a7e3e7ff95fd9b834546ca0a56055f976fb71",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_69f3f1d23696452ae985f187b895241cbdd95e3a03efe9718d3e5d9df1f1b0b8.png",
+        "image_sha256": "69f3f1d23696452ae985f187b895241cbdd95e3a03efe9718d3e5d9df1f1b0b8",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "dragons/Storm_Wyvern/Storm_Wyvern.glb",
+    "old_bytes": 6317632,
+    "new_bytes": 4257800,
+    "images": [
+      {
+        "texture": "textures/Storm_Wyvern_Visual4_normal.png",
+        "image_sha256": "13eea15baa80148dac19b6d7ead4f958a12cb3ab98631271b8301d89778c3d21",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Storm_Wyvern_Visual4_basecolor.png",
+        "image_sha256": "af5af22bd3dcfec60893b431a5a74063c8f9050f2ae2721cacc8e8050b2a4081",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_50437ffbaa7f02b4e66ac9c956a6320ae3685b4186263fa54bbde0e87e772e06.png",
+        "image_sha256": "50437ffbaa7f02b4e66ac9c956a6320ae3685b4186263fa54bbde0e87e772e06",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "dragons/Sunken_Leviathan/Sunken_Leviathan.glb",
+    "old_bytes": 6211528,
+    "new_bytes": 4482500,
+    "images": [
+      {
+        "texture": "textures/Sunken_Leviathan_Visual4_normal.png",
+        "image_sha256": "3dfd55593c0a58b866ceafd1b72b99e139420799f9287465f8c400f1f401f473",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Sunken_Leviathan_Visual4_basecolor.png",
+        "image_sha256": "9b37337568857f482c3342e942f5498c0188e6abfe06747d1fe57c625d08fc51",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_d447bb5979ffe9466410c04b6162d10ed86386e1a9a391885c88f49e297ac743.png",
+        "image_sha256": "d447bb5979ffe9466410c04b6162d10ed86386e1a9a391885c88f49e297ac743",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "dragons/Thornback/Thornback.glb",
+    "old_bytes": 6714480,
+    "new_bytes": 5006128,
+    "images": [
+      {
+        "texture": "textures/Thornback_Visual4_normal.png",
+        "image_sha256": "6ee3164774d3efe909a65f6d267dd90d5c4c7258375739c0c18adc07d04e480f",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Thornback_Visual4_basecolor.png",
+        "image_sha256": "f099c772691d8487d94d5a2b08144956ba7122aef90f5150ea657d11ab4d867a",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_126afa6b0f4bd66ba0bf9e3c5694edf8681e47ba12324fe95fee973bbfec8f20.png",
+        "image_sha256": "126afa6b0f4bd66ba0bf9e3c5694edf8681e47ba12324fe95fee973bbfec8f20",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "enemies/Bamboo_Mantis/Bamboo_Mantis.glb",
+    "old_bytes": 5145912,
+    "new_bytes": 2632232,
+    "images": [
+      {
+        "texture": "textures/Bamboo_Mantis_Visual4_normal.png",
+        "image_sha256": "24f4f423e1887db3dfc15deb834749589138b34501ac1196b153f7b63e71376b",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Bamboo_Mantis_Visual4_basecolor.png",
+        "image_sha256": "f4445175b7df5f05f9302f73378c7c91b9daaa00737ea47e6e42f328dd033991",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_23106c383a4f78e0c7614433b74613970d353052347e2aa51d462dc8d8b93015.png",
+        "image_sha256": "23106c383a4f78e0c7614433b74613970d353052347e2aa51d462dc8d8b93015",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "enemies/Cinder_Hound/Cinder_Hound.glb",
+    "old_bytes": 6000140,
+    "new_bytes": 3621796,
+    "images": [
+      {
+        "texture": "textures/Cinder_Hound_Visual4_normal.png",
+        "image_sha256": "0bbb9c3ccfdc97e507dce3669190fecfb7502a5ea32074faadb49b3aa42b7e5b",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Cinder_Hound_Visual4_basecolor.png",
+        "image_sha256": "ce6b3790fa94a0cdea9fb41e0238c39a22e5c7b9d406cfbc02d2b3b76be9f151",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_9fa2f27bb536877a1eec412256e6afb8bd94b30a4c434a85309c0d0291a2cbce.png",
+        "image_sha256": "9fa2f27bb536877a1eec412256e6afb8bd94b30a4c434a85309c0d0291a2cbce",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "enemies/Crimson_Imp/Crimson_Imp.glb",
+    "old_bytes": 4726668,
+    "new_bytes": 2710216,
+    "images": [
+      {
+        "texture": "textures/Crimson_Imp_Visual4_normal.png",
+        "image_sha256": "831a91e961018339d90197000280578c4bbd31ae95b450f49e25513bb1845172",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Crimson_Imp_Visual4_basecolor.png",
+        "image_sha256": "2a19bb1696b5d61e9bc4de0baac6540f3ddfb6160232a69194b2d2981b0dc8ca",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_5c8501c4ab3c09279a4126fec5d91057120712d175e4349e21dea392049166c3.png",
+        "image_sha256": "5c8501c4ab3c09279a4126fec5d91057120712d175e4349e21dea392049166c3",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "enemies/Crypt_Skitter/Crypt_Skitter.glb",
+    "old_bytes": 5930832,
+    "new_bytes": 3424316,
+    "images": [
+      {
+        "texture": "textures/Crypt_Skitter_Visual4_normal.png",
+        "image_sha256": "f3f0cbfd63c45fa0e74c53563e80ba2df1ba248b3e54c6f9738efc425f261d65",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Crypt_Skitter_Visual4_basecolor.png",
+        "image_sha256": "0e0eeb18b4f4b7127f99591e91218b677ad673c42aa36df6f5b191fe5f6b988f",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_acb741c55b6ca565f404d8d0a95eabdefd327b5317d1512412669f6fa8e0178b.png",
+        "image_sha256": "acb741c55b6ca565f404d8d0a95eabdefd327b5317d1512412669f6fa8e0178b",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "enemies/Moon_Bat/Moon_Bat.glb",
+    "old_bytes": 6305788,
+    "new_bytes": 4163732,
+    "images": [
+      {
+        "texture": "textures/Moon_Bat_Visual4_normal.png",
+        "image_sha256": "fae0f6fa8a068698270eb7a43567b7734225c93983d956e89a1688e9264b10df",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Moon_Bat_Visual4_basecolor.png",
+        "image_sha256": "e77652b4422470dbd017a2231fcbb01a16f21182cc9eee6ded52eb18740f8808",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_5fa9d21a60bed53b53fb6c7219ed299881302230ac59bf0d8d7e92314ff39e4a.png",
+        "image_sha256": "5fa9d21a60bed53b53fb6c7219ed299881302230ac59bf0d8d7e92314ff39e4a",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "enemies/Neon_Wisp/Neon_Wisp.glb",
+    "old_bytes": 2246284,
+    "new_bytes": 1413272,
+    "images": [
+      {
+        "texture": "textures/Neon_Wisp_Visual4_normal.png",
+        "image_sha256": "7c728f9a5a12856aa9cb92ec072117cf05fdd7823371796464b4369ed59f2505",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Neon_Wisp_Visual4_basecolor.png",
+        "image_sha256": "d04367828d42f75c2e74136a3b450c8a7556133522675c4f9e89ce4cb6f74308",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_5794a8eb2bd6236eeb15742c4b87464e359f99c21d6faf543f1ab8842cd709b4.png",
+        "image_sha256": "5794a8eb2bd6236eeb15742c4b87464e359f99c21d6faf543f1ab8842cd709b4",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "enemies/Razorfin/Razorfin.glb",
+    "old_bytes": 4343508,
+    "new_bytes": 2085540,
+    "images": [
+      {
+        "texture": "textures/Razorfin_Visual4_normal.png",
+        "image_sha256": "e18ba42c8fc77cfd9ffea4ff0a66af2da7af617ea2b7e9ef9992f88a014b4954",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Razorfin_Visual4_basecolor.png",
+        "image_sha256": "11e59710ffa011b60c9de7318e7d8963a78b0af4f9d618222a3807c6f1c713ac",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_f35443c4095a9fcc7ca8c9b27cbe8aeebf058d59e8abbe27c9a7b9730b5cbb37.png",
+        "image_sha256": "f35443c4095a9fcc7ca8c9b27cbe8aeebf058d59e8abbe27c9a7b9730b5cbb37",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "enemies/Scrapling/Scrapling.glb",
+    "old_bytes": 5168676,
+    "new_bytes": 3961156,
+    "images": [
+      {
+        "texture": "textures/Scrapling_Visual4_normal.png",
+        "image_sha256": "26996f1d06db4db75d8294fca076bb9e4bb97fbce10c9959d00f12eeb5cfde5f",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Scrapling_Visual4_basecolor.png",
+        "image_sha256": "99937d3c3e0c5128fa48acdddb0982c6ee1cddf8520a8d4912fa560aae55168d",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_395397796060431166f9067189922149c343c99e84aefe4548259ddaf6e2d7f2.png",
+        "image_sha256": "395397796060431166f9067189922149c343c99e84aefe4548259ddaf6e2d7f2",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "enemies/Shard_Crab/Shard_Crab.glb",
+    "old_bytes": 5490844,
+    "new_bytes": 3159884,
+    "images": [
+      {
+        "texture": "textures/Shard_Crab_Visual4_normal.png",
+        "image_sha256": "479703cad2788ce75be3117bd0593579e1935eca77dcb4a815cc73568a4d6806",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Shard_Crab_Visual4_basecolor.png",
+        "image_sha256": "ace48fe79ab0363fabf30659c67793686322ce503db9c9649472d77ef8f72513",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_2c6d290cfdf41fbc599ee18ae861a3eb8edbeb6c874426f4b04455222020fa74.png",
+        "image_sha256": "2c6d290cfdf41fbc599ee18ae861a3eb8edbeb6c874426f4b04455222020fa74",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  },
+  {
+    "file": "enemies/Sporeling/Sporeling.glb",
+    "old_bytes": 5161812,
+    "new_bytes": 2592052,
+    "images": [
+      {
+        "texture": "textures/Sporeling_Visual4_normal.png",
+        "image_sha256": "9420793edf09cdc9f00515d53620b1f9590ac1b007269993e16b6766f76d352f",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/Sporeling_Visual4_basecolor.png",
+        "image_sha256": "8dcfe32db46c7c2e957d10a6f24159357d95e654a36d54a9665a56f0401eef0e",
+        "preserved_image_bytes": true
+      },
+      {
+        "texture": "textures/embedded/Image_ef2d087e85e8ee96820657b9a07538073d6350df857188cd8c9bf4682f261860.png",
+        "image_sha256": "ef2d087e85e8ee96820657b9a07538073d6350df857188cd8c9bf4682f261860",
+        "preserved_image_bytes": true
+      }
+    ],
+    "geometry_animation_buffer_views_preserved": true
+  }
+]

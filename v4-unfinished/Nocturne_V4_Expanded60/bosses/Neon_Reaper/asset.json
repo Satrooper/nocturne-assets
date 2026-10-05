@@ -1,0 +1,522 @@
+{
+  "name": "Neon_Reaper",
+  "category": "bosses",
+  "body_type": "wraith",
+  "triangles": 35086,
+  "bones": 18,
+  "materials": 11,
+  "clips": [
+    {
+      "name": "Idle_Breathe",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Walk",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Locomotion_Run",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": true,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Turn_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Left",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Dodge_Right",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Front",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Hit_Back",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Stagger",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Death",
+      "frames": 91,
+      "fps": 30,
+      "duration": 3.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Threat_Roar",
+      "frames": 61,
+      "fps": 30,
+      "duration": 2.0,
+      "category": "locomotion_or_reaction",
+      "loop": false,
+      "root_motion": false,
+      "motion_recipe": null,
+      "events": []
+    },
+    {
+      "name": "Scythe_Reap",
+      "frames": 68,
+      "fps": 30,
+      "duration": 2.23,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "sweep",
+          0.94,
+          [
+            0.1,
+            0.608
+          ],
+          -1
+        ],
+        [
+          "sweep",
+          0.4,
+          [
+            0.40199999999999997,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.491,
+          "event": "anticipation"
+        },
+        {
+          "time": 0.959,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.829,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Reverse_Scythe_Cut",
+      "frames": 71,
+      "fps": 30,
+      "duration": 2.35,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "sweep",
+          0.94,
+          [
+            0.1,
+            0.608
+          ],
+          1
+        ],
+        [
+          "lunge",
+          0.44,
+          [
+            0.40199999999999997,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.517,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.01,
+          "event": "attack_cue"
+        },
+        {
+          "time": 1.927,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Hook_And_Pull",
+      "frames": 75,
+      "fps": 30,
+      "duration": 2.4699999999999998,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          0.94,
+          [
+            0.1,
+            0.608
+          ],
+          -1
+        ],
+        [
+          "coil",
+          0.48000000000000004,
+          [
+            0.40199999999999997,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.543,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.062,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.025,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Spectral_Reach",
+      "frames": 79,
+      "fps": 30,
+      "duration": 2.59,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          0.94,
+          [
+            0.1,
+            0.608
+          ],
+          1
+        ],
+        [
+          "rise",
+          0.52,
+          [
+            0.40199999999999997,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.57,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.114,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.124,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Scythe_Vault",
+      "frames": 82,
+      "fps": 30,
+      "duration": 2.71,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "sweep",
+          0.94,
+          [
+            0.1,
+            0.608
+          ],
+          -1
+        ],
+        [
+          "sweep",
+          0.56,
+          [
+            0.40199999999999997,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.596,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.165,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.222,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Double_Reaping_Arc",
+      "frames": 86,
+      "fps": 30,
+      "duration": 2.83,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "sweep",
+          0.94,
+          [
+            0.1,
+            0.608
+          ],
+          1
+        ],
+        [
+          "lunge",
+          0.6000000000000001,
+          [
+            0.40199999999999997,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.623,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.217,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.321,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Teleport_Arrival_Pose",
+      "frames": 89,
+      "fps": 30,
+      "duration": 2.95,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          0.94,
+          [
+            0.1,
+            0.608
+          ],
+          -1
+        ],
+        [
+          "coil",
+          0.64,
+          [
+            0.40199999999999997,
+            0.88
+          ],
+          1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.649,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.268,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.419,
+          "event": "recovery"
+        }
+      ]
+    },
+    {
+      "name": "Soul_Harvest_Kneel",
+      "frames": 93,
+      "fps": 30,
+      "duration": 3.07,
+      "category": "creature_specific_sequence",
+      "loop": false,
+      "root_motion": true,
+      "motion_recipe": [
+        [
+          "lunge",
+          0.94,
+          [
+            0.1,
+            0.608
+          ],
+          1
+        ],
+        [
+          "rise",
+          0.68,
+          [
+            0.40199999999999997,
+            0.88
+          ],
+          -1
+        ]
+      ],
+      "events": [
+        {
+          "time": 0.675,
+          "event": "anticipation"
+        },
+        {
+          "time": 1.32,
+          "event": "attack_cue"
+        },
+        {
+          "time": 2.517,
+          "event": "recovery"
+        }
+      ]
+    }
+  ],
+  "lods": [
+    {
+      "level": 1,
+      "triangles": 7102
+    },
+    {
+      "level": 2,
+      "triangles": 3616
+    }
+  ],
+  "textures": "2048px basecolor/normal/roughness; original procedural PBR",
+  "skin_weights": "interpolated along anatomical tubes; rigid detail attachments",
+  "provenance": "original procedural artwork; not extracted franchise content",
+  "quality_status": "Actual geometry/material revision; cinematic realism, complete animation refinement and all-frame collision approval remain unproven",
+  "revision": "v4_full_roster_visual_iteration",
+  "animation_revision": "v2 motion bank retained; revised art, not new mocap",
+  "geometry_changes": "shaped plates, layered surfaces, anatomical/species proportions and accessories",
+  "visual_changes": [
+    "Removed 10 vertices of angular overlay scales/obsolete skull and socket components; source silhouette-specific horns retained.",
+    "Resculpted proximal limb volume and joint transitions using bone-aligned regional profiles; resting skeleton unchanged.",
+    "Fused body/limb skin into a continuous voxel-sculpt surface, relaxed transitions, rebuilt UVs and transferred nearest-surface skin weights. This is automated surface reconstruction, not manual production retopology.",
+    "Converted 360 Euler bone/action channels into continuity-correct quaternion samples to make FBX/GLB playback consistent; retained original choreography."
+  ],
+  "vertices_before": 7385,
+  "vertices_after": 18189,
+  "texture_atlas": {
+    "size": 1024,
+    "maps": [
+      "textures/Neon_Reaper_Visual4_basecolor.png",
+      "textures/Neon_Reaper_Visual4_roughness.png",
+      "textures/Neon_Reaper_Visual4_metallic.png",
+      "textures/Neon_Reaper_Visual4_normal.png"
+    ]
+  },
+  "rig_rest_transforms_preserved": true,
+  "engine_tested": false
+}

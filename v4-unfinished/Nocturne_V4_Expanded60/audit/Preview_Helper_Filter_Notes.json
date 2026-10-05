@@ -1,0 +1,7 @@
+{
+  "finding": "Blender glTF importer adds an Icosphere bone-display helper; it is not a delivered runtime mesh.",
+  "fix": "Use armature-deformed model meshes for preview bounds and remove importer helpers from preview scene.",
+  "Sentinel_rest_world_min_z_m": 0.01199935097,
+  "source_GLb_bounds_equal": true,
+  "engine_ground_contacts_validated": false
+}

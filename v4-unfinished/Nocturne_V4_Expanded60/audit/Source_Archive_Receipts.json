@@ -1,0 +1,30 @@
+[
+  {
+    "archive": "Nocturne_V3_Repaired.zip",
+    "sha256": "4ac3a1244841cbb323fd3b20ed0450eb6a1c9d22bc46d36b85bbb361fd11c008",
+    "files": 361,
+    "extracted_root": "baseline/unpacked_0/nocturne-dark-fantasy-v3",
+    "priority": 0
+  },
+  {
+    "archive": "Nocturne_V4_Benchmark_Iteration.zip",
+    "sha256": "d9ec434b5f3fd8fe9788f3893af1a0be88c00c99e8924f8127787ca71179eaac",
+    "files": 146,
+    "extracted_root": "baseline/unpacked_1/nocturne-v4",
+    "priority": 1
+  },
+  {
+    "archive": "Nocturne_V4_Batch02.zip",
+    "sha256": "bd53aec0b006b7bf090959155872f7ddb2beccf4620d375caaa9c2b9814ad0c2",
+    "files": 86,
+    "extracted_root": "baseline/unpacked_2/nocturne-v4-batch02",
+    "priority": 2
+  },
+  {
+    "archive": "Nocturne_V4_Sentinel_Limbs_Batch03.zip",
+    "sha256": "7aa248dd94667fb73b4e2b764739b0f029b2e60c995584a2b5d8a23482e10bc7",
+    "files": 40,
+    "extracted_root": "baseline/unpacked_3/nocturne-v4-batch03",
+    "priority": 3
+  }
+]

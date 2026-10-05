@@ -1,0 +1,5036 @@
+[
+  {
+    "clip": "Pistol_Aim_Idle",
+    "max_primary_marker_error_m": 2.378965396927023e-06,
+    "max_support_marker_error_m": 4.895182063292007e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7666666666666667,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8333333333333334,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8666666666666667,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9666666666666667,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0333333333333334,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0666666666666667,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1666666666666667,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2333333333333334,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2666666666666666,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3666666666666667,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4666666666666666,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5333333333333334,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5666666666666667,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6666666666666667,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7333333333333334,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7666666666666666,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8666666666666667,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9666666666666666,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.0,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Pistol_Aim_Raise",
+    "max_primary_marker_error_m": 3.4088502914533607e-06,
+    "max_support_marker_error_m": 5.216952516766466e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 3.4088502914533607e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 3.0880297283398027e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 2.907292543084758e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 3.275451829490699e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 2.821321498403279e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.5834612917533373e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 2.2911958776232095e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 2.024200853344747e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 1.974460088181072e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 1.715980482715952e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 1.7355375469747928e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 1.8489453040654778e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 1.7638374275300557e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 1.896198377689168e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 2.1577503996568483e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 2.1373461481970906e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 2.1941959857940674e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 2.2132896171403745e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 1.868432709460679e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 2.0105328237510326e-06,
+        "support_marker_error_m": 4.877260475988664e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 2.08626983278468e-06,
+        "support_marker_error_m": 5.216952516766466e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Pistol_Aim_Lower",
+    "max_primary_marker_error_m": 3.4088502914533607e-06,
+    "max_support_marker_error_m": 4.895182063292007e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.08626983278468e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 2.0105328237510326e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 1.868432709460679e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 2.2132896171403745e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.1941959857940674e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 2.1373461481970906e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 2.1577503996568483e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 1.896198377689168e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 1.7638374275300557e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 1.8489453040654778e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 1.7355375469747928e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 1.715980482715952e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 1.974460088181072e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 2.024200853344747e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 2.2911958776232095e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 2.5834612917533373e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 2.821321498403279e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 3.275451829490699e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 2.907292543084758e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 3.0880297283398027e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 3.4088502914533607e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Pistol_Fire_Aimed",
+    "max_primary_marker_error_m": 2.775938754605059e-06,
+    "max_support_marker_error_m": 5.103843826703383e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.775938754605059e-06,
+        "support_marker_error_m": 5.103843826703383e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 2.3588619358928507e-06,
+        "support_marker_error_m": 4.807351092358679e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 2.185390839461865e-06,
+        "support_marker_error_m": 4.877292842378218e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 2.359614872449097e-06,
+        "support_marker_error_m": 4.854076130923636e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Pistol_Reload_Tactical",
+    "max_primary_marker_error_m": 2.4747145791863128e-06,
+    "max_support_marker_error_m": 0,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.3459865917824545e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 2.021377667660294e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 1.7545375791221944e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 2.1049736266915097e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.1978865485357353e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 1.9210112413360225e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 2.4747145791863128e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 2.2357336786982394e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 2.4183655285582e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 2.0282144516772286e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 2.210438755014722e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 2.145742150135924e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 2.2090720184112795e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 2.0196743035853815e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 2.1095811109452256e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 2.1465205455072334e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 2.232742103996717e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 2.2055732145402894e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 2.4571812616505925e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 2.024639585585791e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 2.46327338601944e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7333333333333333,
+        "primary_marker_error_m": 2.133815097732884e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7666666666666667,
+        "primary_marker_error_m": 2.1410536818765827e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8,
+        "primary_marker_error_m": 2.182505919779907e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8333333333333334,
+        "primary_marker_error_m": 2.123383608848809e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8666666666666667,
+        "primary_marker_error_m": 2.2084476385463343e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9,
+        "primary_marker_error_m": 2.2406568253760707e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9333333333333333,
+        "primary_marker_error_m": 2.1716820951693188e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9666666666666667,
+        "primary_marker_error_m": 1.977887095038651e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0,
+        "primary_marker_error_m": 2.0342276760434333e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0333333333333334,
+        "primary_marker_error_m": 1.7066912448343926e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0666666666666667,
+        "primary_marker_error_m": 2.2883958297687857e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1,
+        "primary_marker_error_m": 2.001923313236473e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1333333333333333,
+        "primary_marker_error_m": 2.256924169401172e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1666666666666667,
+        "primary_marker_error_m": 2.284882593235082e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2,
+        "primary_marker_error_m": 2.0314696614599866e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2333333333333334,
+        "primary_marker_error_m": 2.284882593235082e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2666666666666666,
+        "primary_marker_error_m": 2.256924169401172e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3,
+        "primary_marker_error_m": 2.001923313236473e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3333333333333333,
+        "primary_marker_error_m": 2.2883958297687857e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3666666666666667,
+        "primary_marker_error_m": 1.7066912448343926e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4,
+        "primary_marker_error_m": 2.0342276760434333e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4333333333333333,
+        "primary_marker_error_m": 1.977887095038651e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4666666666666666,
+        "primary_marker_error_m": 2.1716820951693188e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5,
+        "primary_marker_error_m": 2.2406568253760707e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5333333333333334,
+        "primary_marker_error_m": 2.2084476385463343e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5666666666666667,
+        "primary_marker_error_m": 2.123383608848809e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6,
+        "primary_marker_error_m": 2.182505919779907e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6333333333333333,
+        "primary_marker_error_m": 2.1410536818765827e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6666666666666667,
+        "primary_marker_error_m": 2.133815097732884e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7,
+        "primary_marker_error_m": 2.46327338601944e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7333333333333334,
+        "primary_marker_error_m": 2.024639585585791e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7666666666666666,
+        "primary_marker_error_m": 2.4571812616505925e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8,
+        "primary_marker_error_m": 2.2055732145402894e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8333333333333333,
+        "primary_marker_error_m": 2.232742103996717e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8666666666666667,
+        "primary_marker_error_m": 2.1465205455072334e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9,
+        "primary_marker_error_m": 2.1095811109452256e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9333333333333333,
+        "primary_marker_error_m": 2.0196743035853815e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9666666666666666,
+        "primary_marker_error_m": 2.2090720184112795e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.0,
+        "primary_marker_error_m": 2.145742150135924e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.033333333333333,
+        "primary_marker_error_m": 2.210438755014722e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.066666666666667,
+        "primary_marker_error_m": 2.0282144516772286e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.1,
+        "primary_marker_error_m": 2.4183655285582e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.1333333333333333,
+        "primary_marker_error_m": 2.2357336786982394e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.1666666666666665,
+        "primary_marker_error_m": 2.4747145791863128e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.2,
+        "primary_marker_error_m": 1.9210112413360225e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.2333333333333334,
+        "primary_marker_error_m": 2.1978865485357353e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.2666666666666666,
+        "primary_marker_error_m": 2.1049736266915097e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.3,
+        "primary_marker_error_m": 1.7545375791221944e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.3333333333333335,
+        "primary_marker_error_m": 2.021377667660294e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.3666666666666667,
+        "primary_marker_error_m": 2.3459865917824545e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.4,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Pistol_Reload_Empty",
+    "max_primary_marker_error_m": 2.6184372273543662e-06,
+    "max_support_marker_error_m": 0,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.546118053208955e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 2.1859678426586943e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 2.0658708107598044e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 2.385775058062017e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.3455990916224864e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 2.0034660059759257e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 2.4177858707051386e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 2.2443575569241454e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 2.086375430010216e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 2.6184372273543662e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 2.0317044773647913e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 2.32934705010211e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 2.043185888628647e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 2.29269752309158e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 2.0596543532545773e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 2.3726356071149365e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 2.2904696789110016e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 2.2537983215040406e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 2.455382469437332e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 2.4514455308229253e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 2.196218980036326e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7333333333333333,
+        "primary_marker_error_m": 2.4558910955141266e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7666666666666667,
+        "primary_marker_error_m": 2.131832974013416e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8,
+        "primary_marker_error_m": 2.3282982408856155e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8333333333333334,
+        "primary_marker_error_m": 2.1436520995595554e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8666666666666667,
+        "primary_marker_error_m": 2.2563330210146547e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9,
+        "primary_marker_error_m": 2.3932953492300334e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9333333333333333,
+        "primary_marker_error_m": 2.1306258797032245e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9666666666666667,
+        "primary_marker_error_m": 2.182505919779907e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0,
+        "primary_marker_error_m": 2.1730875152911906e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0333333333333334,
+        "primary_marker_error_m": 2.2168732752671106e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0666666666666667,
+        "primary_marker_error_m": 2.0224938629821013e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1,
+        "primary_marker_error_m": 2.0444785504375094e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1333333333333333,
+        "primary_marker_error_m": 2.3379758382065627e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1666666666666667,
+        "primary_marker_error_m": 2.10565587671467e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2,
+        "primary_marker_error_m": 2.3252288028084157e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2333333333333334,
+        "primary_marker_error_m": 2.208393438760674e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2666666666666666,
+        "primary_marker_error_m": 2.0564488197186554e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3,
+        "primary_marker_error_m": 2.0008103813688564e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3333333333333333,
+        "primary_marker_error_m": 2.448329257791146e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3666666666666667,
+        "primary_marker_error_m": 2.2147540101994595e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4,
+        "primary_marker_error_m": 2.1788330944102098e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4333333333333333,
+        "primary_marker_error_m": 2.09638291168995e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4666666666666666,
+        "primary_marker_error_m": 2.09638291168995e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5,
+        "primary_marker_error_m": 2.1788330944102098e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5333333333333334,
+        "primary_marker_error_m": 2.2147540101994595e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5666666666666667,
+        "primary_marker_error_m": 2.448329257791146e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6,
+        "primary_marker_error_m": 2.0008103813688564e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6333333333333333,
+        "primary_marker_error_m": 2.0564488197186554e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6666666666666667,
+        "primary_marker_error_m": 2.208393438760674e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7,
+        "primary_marker_error_m": 2.3252288028084157e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7333333333333334,
+        "primary_marker_error_m": 2.10565587671467e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7666666666666666,
+        "primary_marker_error_m": 2.3379758382065627e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8,
+        "primary_marker_error_m": 2.0444785504375094e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8333333333333333,
+        "primary_marker_error_m": 2.0224938629821013e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8666666666666667,
+        "primary_marker_error_m": 2.2168732752671106e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9,
+        "primary_marker_error_m": 2.1730875152911906e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9333333333333333,
+        "primary_marker_error_m": 2.182505919779907e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9666666666666666,
+        "primary_marker_error_m": 2.1306258797032245e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.0,
+        "primary_marker_error_m": 2.3932953492300334e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.033333333333333,
+        "primary_marker_error_m": 2.2563330210146547e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.066666666666667,
+        "primary_marker_error_m": 2.1436520995595554e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.1,
+        "primary_marker_error_m": 2.3282982408856155e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.1333333333333333,
+        "primary_marker_error_m": 2.131832974013416e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.1666666666666665,
+        "primary_marker_error_m": 2.4558910955141266e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.2,
+        "primary_marker_error_m": 2.196218980036326e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.2333333333333334,
+        "primary_marker_error_m": 2.4514455308229253e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.2666666666666666,
+        "primary_marker_error_m": 2.455382469437332e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.3,
+        "primary_marker_error_m": 2.2537983215040406e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.3333333333333335,
+        "primary_marker_error_m": 2.2904696789110016e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.3666666666666667,
+        "primary_marker_error_m": 2.3726356071149365e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.4,
+        "primary_marker_error_m": 2.0596543532545773e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.433333333333333,
+        "primary_marker_error_m": 2.29269752309158e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.466666666666667,
+        "primary_marker_error_m": 2.043185888628647e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.5,
+        "primary_marker_error_m": 2.32934705010211e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.533333333333333,
+        "primary_marker_error_m": 2.0317044773647913e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.566666666666667,
+        "primary_marker_error_m": 2.6184372273543662e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.6,
+        "primary_marker_error_m": 2.086375430010216e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.6333333333333333,
+        "primary_marker_error_m": 2.2443575569241454e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.6666666666666665,
+        "primary_marker_error_m": 2.4177858707051386e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.7,
+        "primary_marker_error_m": 2.0034660059759257e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.7333333333333334,
+        "primary_marker_error_m": 2.3455990916224864e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.7666666666666666,
+        "primary_marker_error_m": 2.385775058062017e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.8,
+        "primary_marker_error_m": 2.0658708107598044e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.8333333333333335,
+        "primary_marker_error_m": 2.1859678426586943e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.8666666666666667,
+        "primary_marker_error_m": 2.546118053208955e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.9,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Pistol_Draw",
+    "max_primary_marker_error_m": 4.264336403819516e-06,
+    "max_support_marker_error_m": 4.989387702659053e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 4.264336403819516e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 4.175144758477783e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 4.06055958992269e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 3.993955985963572e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 3.7471013527564783e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 3.660745558085185e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 3.0894674925150766e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 2.6351425407387306e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 2.32965013354556e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 1.9779853231960676e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7333333333333333,
+        "primary_marker_error_m": 1.5443563748859888e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7666666666666667,
+        "primary_marker_error_m": 1.6296346173466632e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8,
+        "primary_marker_error_m": 1.5098045946944165e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8333333333333334,
+        "primary_marker_error_m": 1.6327654570945446e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8666666666666667,
+        "primary_marker_error_m": 1.6996471133957947e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9,
+        "primary_marker_error_m": 2.123415470123291e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9333333333333333,
+        "primary_marker_error_m": 1.8938109646689495e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9666666666666667,
+        "primary_marker_error_m": 2.1843420020180686e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0,
+        "primary_marker_error_m": 2.060489686035062e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0333333333333334,
+        "primary_marker_error_m": 2.424156630548287e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0666666666666667,
+        "primary_marker_error_m": 1.9883734786957033e-06,
+        "support_marker_error_m": 4.989387702659053e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1,
+        "primary_marker_error_m": 2.1756237544609362e-06,
+        "support_marker_error_m": 4.945320064962349e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1333333333333333,
+        "primary_marker_error_m": 2.2370988598407987e-06,
+        "support_marker_error_m": 4.933804905831969e-06,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Pistol_Holster",
+    "max_primary_marker_error_m": 4.264336403819516e-06,
+    "max_support_marker_error_m": 4.895182063292007e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.3218213603809276e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 2.205551191920725e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 1.9079924464037316e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 1.9311956647300287e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.184307058569014e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 1.9609363384814506e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 2.0064207431249432e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 2.3027477521896905e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 1.939213095307045e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 1.7525343039365205e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 1.6371792623904336e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 1.4878046466178405e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 1.6677488517286328e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 1.9670661619334504e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 2.323198676329802e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 2.521738817853772e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 3.18121687982067e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 3.376734725677389e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 3.6815293283872045e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 3.809617083460652e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 3.9843699538578725e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7333333333333333,
+        "primary_marker_error_m": 4.027926099025216e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7666666666666667,
+        "primary_marker_error_m": 4.050101621469733e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8,
+        "primary_marker_error_m": 4.264336403819516e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8333333333333334,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0333333333333334,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Rifle_Aim_Idle",
+    "max_primary_marker_error_m": 2.1661209702650654e-06,
+    "max_support_marker_error_m": 3.6898657211595307e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7666666666666667,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8333333333333334,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8666666666666667,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9666666666666667,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0333333333333334,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0666666666666667,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1666666666666667,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2333333333333334,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2666666666666666,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3666666666666667,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4666666666666666,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5333333333333334,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5666666666666667,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6666666666666667,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7333333333333334,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7666666666666666,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8666666666666667,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9666666666666666,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.0,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Rifle_Aim_Raise",
+    "max_primary_marker_error_m": 4.967073599457741e-06,
+    "max_support_marker_error_m": 3.725290298461914e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 4.923097629799066e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 4.967073599457741e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 4.5690469100066805e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 4.823058408552333e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 4.714893176592067e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 4.190678388909948e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 4.171952588615252e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 4.178101987331379e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 3.389219895784533e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 3.221202320275259e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 3.0928795037594454e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 2.7842850593550257e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 2.323912408200148e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 2.586896946996889e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 2.275637114318006e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 2.240395903737008e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 2.369659472149768e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 2.2580176548113615e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 2.773137725929517e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 2.0122775471003253e-06,
+        "support_marker_error_m": 3.725290298461914e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 2.503006999413104e-06,
+        "support_marker_error_m": 3.5433444852118132e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Rifle_Aim_Lower",
+    "max_primary_marker_error_m": 4.967073599457741e-06,
+    "max_support_marker_error_m": 3.6898657211595307e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.503006999413104e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 2.0122775471003253e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 2.773137725929517e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 2.2580176548113615e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.369659472149768e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 2.240395903737008e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 2.275637114318006e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 2.586896946996889e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 2.323912408200148e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 2.7842850593550257e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 3.0928795037594454e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 3.221202320275259e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 3.389219895784533e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 4.178101987331379e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 4.171952588615252e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 4.190678388909948e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 4.714893176592067e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 4.823058408552333e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 4.5690469100066805e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 4.967073599457741e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 4.923097629799066e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Rifle_Fire_Aimed",
+    "max_primary_marker_error_m": 3.1742009237333185e-06,
+    "max_support_marker_error_m": 4.12469552094541e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.4419725448634023e-06,
+        "support_marker_error_m": 3.880372243635425e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 3.1742009237333185e-06,
+        "support_marker_error_m": 3.7658686742844374e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 2.327826569697679e-06,
+        "support_marker_error_m": 4.12469552094541e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 2.3000945104372985e-06,
+        "support_marker_error_m": 3.588953257858918e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Rifle_Reload_Tactical",
+    "max_primary_marker_error_m": 3.1364466587437595e-06,
+    "max_support_marker_error_m": 0,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.409350040510163e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 2.508368281633883e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 2.5264939677211e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 2.389256107665654e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.6222339315676387e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 2.3235301857620035e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 2.494598584467835e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 2.238908767085835e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 2.62709838442169e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 2.323924351638375e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 2.699630258757782e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 2.7812629169002606e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 2.54021096176531e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 2.3643240979482687e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 2.5993985533234287e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 2.2691513512231356e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 2.8148605084701476e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 2.4576528117638384e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 2.6591893500827987e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 2.7215432015008506e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 2.613486960384323e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7333333333333333,
+        "primary_marker_error_m": 2.2460380429643257e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7666666666666667,
+        "primary_marker_error_m": 2.235285934992274e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8,
+        "primary_marker_error_m": 2.8713265542021536e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8333333333333334,
+        "primary_marker_error_m": 2.588741727634026e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8666666666666667,
+        "primary_marker_error_m": 3.1364466587437595e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9,
+        "primary_marker_error_m": 2.516311577297651e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9333333333333333,
+        "primary_marker_error_m": 2.323781026328227e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9666666666666667,
+        "primary_marker_error_m": 2.9247775840032796e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0,
+        "primary_marker_error_m": 2.5447959473776615e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0333333333333334,
+        "primary_marker_error_m": 2.640198152111221e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0666666666666667,
+        "primary_marker_error_m": 2.604295001998637e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1,
+        "primary_marker_error_m": 2.9515585763505826e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1333333333333333,
+        "primary_marker_error_m": 2.4967339142698666e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1666666666666667,
+        "primary_marker_error_m": 2.7527349488868067e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2,
+        "primary_marker_error_m": 2.458285168087635e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2333333333333334,
+        "primary_marker_error_m": 2.7527349488868067e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2666666666666666,
+        "primary_marker_error_m": 2.4967339142698666e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3,
+        "primary_marker_error_m": 2.9515585763505826e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3333333333333333,
+        "primary_marker_error_m": 2.604295001998637e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3666666666666667,
+        "primary_marker_error_m": 2.640198152111221e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4,
+        "primary_marker_error_m": 2.5447959473776615e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4333333333333333,
+        "primary_marker_error_m": 2.9247775840032796e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4666666666666666,
+        "primary_marker_error_m": 2.323781026328227e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5,
+        "primary_marker_error_m": 2.516311577297651e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5333333333333334,
+        "primary_marker_error_m": 3.1364466587437595e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5666666666666667,
+        "primary_marker_error_m": 2.588741727634026e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6,
+        "primary_marker_error_m": 2.8713265542021536e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6333333333333333,
+        "primary_marker_error_m": 2.235285934992274e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6666666666666667,
+        "primary_marker_error_m": 2.2460380429643257e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7,
+        "primary_marker_error_m": 2.613486960384323e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7333333333333334,
+        "primary_marker_error_m": 2.7215432015008506e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7666666666666666,
+        "primary_marker_error_m": 2.6591893500827987e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8,
+        "primary_marker_error_m": 2.4576528117638384e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8333333333333333,
+        "primary_marker_error_m": 2.8148605084701476e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8666666666666667,
+        "primary_marker_error_m": 2.2691513512231356e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9,
+        "primary_marker_error_m": 2.5993985533234287e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9333333333333333,
+        "primary_marker_error_m": 2.3643240979482687e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9666666666666666,
+        "primary_marker_error_m": 2.54021096176531e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.0,
+        "primary_marker_error_m": 2.7812629169002606e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.033333333333333,
+        "primary_marker_error_m": 2.699630258757782e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.066666666666667,
+        "primary_marker_error_m": 2.323924351638375e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.1,
+        "primary_marker_error_m": 2.62709838442169e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.1333333333333333,
+        "primary_marker_error_m": 2.238908767085835e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.1666666666666665,
+        "primary_marker_error_m": 2.494598584467835e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.2,
+        "primary_marker_error_m": 2.3235301857620035e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.2333333333333334,
+        "primary_marker_error_m": 2.6222339315676387e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.2666666666666666,
+        "primary_marker_error_m": 2.389256107665654e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.3,
+        "primary_marker_error_m": 2.5264939677211e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.3333333333333335,
+        "primary_marker_error_m": 2.508368281633883e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.3666666666666667,
+        "primary_marker_error_m": 2.409350040510163e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.4,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Rifle_Reload_Empty",
+    "max_primary_marker_error_m": 3.023026596789964e-06,
+    "max_support_marker_error_m": 0,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.5768670726840103e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 2.477595329004259e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 2.216469463801908e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 2.2986459968416288e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.4178597704617724e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 2.325010947694631e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 2.235422517967874e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 2.33241255609176e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 2.4506861231116985e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 2.563053871431165e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 2.4458452960963207e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 2.50326203094868e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 2.2713397700098013e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 2.603794045873677e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 2.5253401945187155e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 2.419604009875295e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 2.7557178737286047e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 2.8260789788235664e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 2.6324494439789917e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 2.5775994003271314e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 3.023026596789964e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7333333333333333,
+        "primary_marker_error_m": 2.376875342599776e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7666666666666667,
+        "primary_marker_error_m": 2.5752401298611243e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8,
+        "primary_marker_error_m": 2.3785562848156663e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8333333333333334,
+        "primary_marker_error_m": 2.8362844538198547e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8666666666666667,
+        "primary_marker_error_m": 2.3925646127364123e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9,
+        "primary_marker_error_m": 2.772266830017705e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9333333333333333,
+        "primary_marker_error_m": 2.736514171760839e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9666666666666667,
+        "primary_marker_error_m": 2.8713265542021536e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0,
+        "primary_marker_error_m": 2.794633229786715e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0333333333333334,
+        "primary_marker_error_m": 2.5415218016811093e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0666666666666667,
+        "primary_marker_error_m": 2.3016024093764984e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1,
+        "primary_marker_error_m": 2.5708282061611112e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1333333333333333,
+        "primary_marker_error_m": 3.002574736649551e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1666666666666667,
+        "primary_marker_error_m": 2.7295575966911747e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2,
+        "primary_marker_error_m": 2.248051424699558e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2333333333333334,
+        "primary_marker_error_m": 2.581526726331958e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2666666666666666,
+        "primary_marker_error_m": 2.569240651702865e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3,
+        "primary_marker_error_m": 2.871606867983868e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3333333333333333,
+        "primary_marker_error_m": 2.3711114264626606e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3666666666666667,
+        "primary_marker_error_m": 2.8927065071658764e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4,
+        "primary_marker_error_m": 2.866886213725837e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4333333333333333,
+        "primary_marker_error_m": 2.525735833276344e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4666666666666666,
+        "primary_marker_error_m": 2.525735833276344e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5,
+        "primary_marker_error_m": 2.866886213725837e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5333333333333334,
+        "primary_marker_error_m": 2.8927065071658764e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5666666666666667,
+        "primary_marker_error_m": 2.3711114264626606e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6,
+        "primary_marker_error_m": 2.871606867983868e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6333333333333333,
+        "primary_marker_error_m": 2.569240651702865e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6666666666666667,
+        "primary_marker_error_m": 2.581526726331958e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7,
+        "primary_marker_error_m": 2.248051424699558e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7333333333333334,
+        "primary_marker_error_m": 2.7295575966911747e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7666666666666666,
+        "primary_marker_error_m": 3.002574736649551e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8,
+        "primary_marker_error_m": 2.5708282061611112e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8333333333333333,
+        "primary_marker_error_m": 2.3016024093764984e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8666666666666667,
+        "primary_marker_error_m": 2.5415218016811093e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9,
+        "primary_marker_error_m": 2.794633229786715e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9333333333333333,
+        "primary_marker_error_m": 2.8713265542021536e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.9666666666666666,
+        "primary_marker_error_m": 2.736514171760839e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.0,
+        "primary_marker_error_m": 2.772266830017705e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.033333333333333,
+        "primary_marker_error_m": 2.3925646127364123e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.066666666666667,
+        "primary_marker_error_m": 2.8362844538198547e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.1,
+        "primary_marker_error_m": 2.3785562848156663e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.1333333333333333,
+        "primary_marker_error_m": 2.5752401298611243e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.1666666666666665,
+        "primary_marker_error_m": 2.376875342599776e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.2,
+        "primary_marker_error_m": 3.023026596789964e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.2333333333333334,
+        "primary_marker_error_m": 2.5775994003271314e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.2666666666666666,
+        "primary_marker_error_m": 2.6324494439789917e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.3,
+        "primary_marker_error_m": 2.8260789788235664e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.3333333333333335,
+        "primary_marker_error_m": 2.7557178737286047e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.3666666666666667,
+        "primary_marker_error_m": 2.419604009875295e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.4,
+        "primary_marker_error_m": 2.5253401945187155e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.433333333333333,
+        "primary_marker_error_m": 2.603794045873677e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.466666666666667,
+        "primary_marker_error_m": 2.2713397700098013e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.5,
+        "primary_marker_error_m": 2.50326203094868e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.533333333333333,
+        "primary_marker_error_m": 2.4458452960963207e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.566666666666667,
+        "primary_marker_error_m": 2.563053871431165e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.6,
+        "primary_marker_error_m": 2.4506861231116985e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.6333333333333333,
+        "primary_marker_error_m": 2.33241255609176e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.6666666666666665,
+        "primary_marker_error_m": 2.235422517967874e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.7,
+        "primary_marker_error_m": 2.325010947694631e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.7333333333333334,
+        "primary_marker_error_m": 2.4178597704617724e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.7666666666666666,
+        "primary_marker_error_m": 2.2986459968416288e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.8,
+        "primary_marker_error_m": 2.216469463801908e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.8333333333333335,
+        "primary_marker_error_m": 2.477595329004259e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.8666666666666667,
+        "primary_marker_error_m": 2.5768670726840103e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 2.9,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Rifle_Draw",
+    "max_primary_marker_error_m": 7.3728898650115655e-06,
+    "max_support_marker_error_m": 3.7010791924756775e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 6.776813902670284e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 7.2049436678287755e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 7.3728898650115655e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 7.04348494335759e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 6.832319070236917e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 6.9973800322865586e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 7.039911634336541e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 6.450817494092724e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 5.996366232137867e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 5.029544770034534e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7333333333333333,
+        "primary_marker_error_m": 4.755129870625364e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7666666666666667,
+        "primary_marker_error_m": 4.061830776563955e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8,
+        "primary_marker_error_m": 3.1804102761143915e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8333333333333334,
+        "primary_marker_error_m": 2.073384269552242e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8666666666666667,
+        "primary_marker_error_m": 1.6267707621689524e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9,
+        "primary_marker_error_m": 1.6217810753884838e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9333333333333333,
+        "primary_marker_error_m": 1.372788429857264e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9666666666666667,
+        "primary_marker_error_m": 2.037049232797034e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0,
+        "primary_marker_error_m": 1.734945723751531e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0333333333333334,
+        "primary_marker_error_m": 2.2300522452413366e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0666666666666667,
+        "primary_marker_error_m": 1.9233612841071364e-06,
+        "support_marker_error_m": 3.556854426344798e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1,
+        "primary_marker_error_m": 2.124813627577878e-06,
+        "support_marker_error_m": 3.7010791924756775e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1333333333333333,
+        "primary_marker_error_m": 2.247310512372475e-06,
+        "support_marker_error_m": 3.4446186368564662e-06,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Rifle_Holster",
+    "max_primary_marker_error_m": 7.2573505316052436e-06,
+    "max_support_marker_error_m": 3.6898657211595307e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.4285350033641654e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 2.2627819285378624e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 1.9373372107609547e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 1.6617467370206932e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.0771625428573266e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 1.7359692906392454e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 1.8350221888816766e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 1.5963901283445146e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 1.4844428784146633e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 2.094693335836226e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 2.698864196886142e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 3.9747041751373776e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 4.510197825694554e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 4.5291640672458166e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 5.482317490531386e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": 6.016408418745697e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": 6.316727064291865e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": 6.61875903319984e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": 7.000867201104081e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": 6.848735621277838e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": 7.1086855880113105e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7333333333333333,
+        "primary_marker_error_m": 6.803683771025899e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7666666666666667,
+        "primary_marker_error_m": 7.2573505316052436e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8,
+        "primary_marker_error_m": 6.776813902670284e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8333333333333334,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0333333333333334,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Switch_Pistol_To_Rifle",
+    "max_primary_marker_error_m": 7.317196020311732e-06,
+    "max_support_marker_error_m": 4.945320064962349e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.1756237544609362e-06,
+        "support_marker_error_m": 4.945320064962349e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 1.991581445877532e-06,
+        "support_marker_error_m": 4.322224622905762e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 2.060489686035062e-06,
+        "support_marker_error_m": 4.596895019139628e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 1.7599936789248471e-06,
+        "support_marker_error_m": 4.01989722246419e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 2.3027477521896905e-06,
+        "support_marker_error_m": 3.862772174605109e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 1.6444023834746262e-06,
+        "support_marker_error_m": 3.065042445019832e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 1.5098045946944165e-06,
+        "support_marker_error_m": 3.1075977792178096e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 1.4415862681936864e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 1.9779853231960676e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 2.521738817853772e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 3.0894674925150766e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 3.827836843563764e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 3.985665440467175e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 4.305952172470242e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 4.264336403819516e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8333333333333334,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0333333333333334,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1,
+        "primary_marker_error_m": 6.776813902670284e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1333333333333333,
+        "primary_marker_error_m": 7.317196020311732e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1666666666666667,
+        "primary_marker_error_m": 7.172158638331228e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2,
+        "primary_marker_error_m": 7.2900211942342445e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2333333333333334,
+        "primary_marker_error_m": 6.795820942200253e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2666666666666666,
+        "primary_marker_error_m": 7.108497744418889e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3,
+        "primary_marker_error_m": 6.5806565105169615e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3333333333333333,
+        "primary_marker_error_m": 6.099009336540678e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3666666666666667,
+        "primary_marker_error_m": 5.457580801484662e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4,
+        "primary_marker_error_m": 5.112419076363167e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4333333333333333,
+        "primary_marker_error_m": 3.9605937624316334e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4666666666666666,
+        "primary_marker_error_m": 2.9847858377424832e-06,
+        "support_marker_error_m": 3.7749673713660967e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5,
+        "primary_marker_error_m": 1.9099371172923144e-06,
+        "support_marker_error_m": 3.254140763544966e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5333333333333334,
+        "primary_marker_error_m": 1.6777212028022294e-06,
+        "support_marker_error_m": 2.813686879371672e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5666666666666667,
+        "primary_marker_error_m": 1.6217810753884838e-06,
+        "support_marker_error_m": 2.9432811159820263e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6,
+        "primary_marker_error_m": 1.6700605625136228e-06,
+        "support_marker_error_m": 3.0308482009001667e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6333333333333333,
+        "primary_marker_error_m": 1.5929613131156882e-06,
+        "support_marker_error_m": 3.4473007943518517e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6666666666666667,
+        "primary_marker_error_m": 1.9576887883821757e-06,
+        "support_marker_error_m": 3.3650240226121563e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7,
+        "primary_marker_error_m": 2.1662106628582286e-06,
+        "support_marker_error_m": 3.7396868046132116e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7333333333333334,
+        "primary_marker_error_m": 2.078538399459181e-06,
+        "support_marker_error_m": 3.308603109161822e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7666666666666666,
+        "primary_marker_error_m": 2.2197354109077225e-06,
+        "support_marker_error_m": 3.8120187728700587e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  },
+  {
+    "clip": "Switch_Rifle_To_Pistol",
+    "max_primary_marker_error_m": 7.289082446475741e-06,
+    "max_support_marker_error_m": 4.895182063292007e-06,
+    "max_foot_joint_drift_m": 0.0,
+    "samples": [
+      {
+        "time_s": 0.0,
+        "primary_marker_error_m": 2.1661209702650654e-06,
+        "support_marker_error_m": 3.6898657211595307e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.03333333333333333,
+        "primary_marker_error_m": 2.124813627577878e-06,
+        "support_marker_error_m": 3.7010791924756775e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.06666666666666667,
+        "primary_marker_error_m": 2.1006409578210046e-06,
+        "support_marker_error_m": 3.585734631590009e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.1,
+        "primary_marker_error_m": 1.734945723751531e-06,
+        "support_marker_error_m": 2.996736143329806e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.13333333333333333,
+        "primary_marker_error_m": 2.0477036698224406e-06,
+        "support_marker_error_m": 3.026375947416137e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.16666666666666666,
+        "primary_marker_error_m": 1.5963901283445146e-06,
+        "support_marker_error_m": 3.183770049167953e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.2,
+        "primary_marker_error_m": 2.1208912293116977e-06,
+        "support_marker_error_m": 2.7573591201071357e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.23333333333333334,
+        "primary_marker_error_m": 3.1804102761143915e-06,
+        "support_marker_error_m": 3.7792900245403827e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.26666666666666666,
+        "primary_marker_error_m": 3.929490877933149e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3,
+        "primary_marker_error_m": 5.029544770034534e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.3333333333333333,
+        "primary_marker_error_m": 6.016408418745697e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.36666666666666664,
+        "primary_marker_error_m": 7.039911634336541e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4,
+        "primary_marker_error_m": 7.289082446475741e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.43333333333333335,
+        "primary_marker_error_m": 7.04461742154633e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.4666666666666667,
+        "primary_marker_error_m": 7.005981931758538e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5,
+        "primary_marker_error_m": 6.776813902670284e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.5666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.6666666666666666,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.7666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8333333333333334,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.8666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9333333333333333,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 0.9666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0333333333333334,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.0666666666666667,
+        "primary_marker_error_m": null,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1,
+        "primary_marker_error_m": 4.264336403819516e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1333333333333333,
+        "primary_marker_error_m": 4.242646096276198e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.1666666666666667,
+        "primary_marker_error_m": 4.045932817569164e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2,
+        "primary_marker_error_m": 3.917935820585065e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2333333333333334,
+        "primary_marker_error_m": 3.8795442172272256e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.2666666666666666,
+        "primary_marker_error_m": 3.5758095990249908e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3,
+        "primary_marker_error_m": 3.277004288336696e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3333333333333333,
+        "primary_marker_error_m": 2.5809072583179414e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.3666666666666667,
+        "primary_marker_error_m": 1.965658171729835e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4,
+        "primary_marker_error_m": 1.609122747281449e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4333333333333333,
+        "primary_marker_error_m": 1.4919776018337e-06,
+        "support_marker_error_m": null,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.4666666666666666,
+        "primary_marker_error_m": 1.7291126641475814e-06,
+        "support_marker_error_m": 2.9972084647972004e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5,
+        "primary_marker_error_m": 1.6891634536913982e-06,
+        "support_marker_error_m": 2.9160338915649294e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5333333333333334,
+        "primary_marker_error_m": 1.7835544626692032e-06,
+        "support_marker_error_m": 3.4249663405038712e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.5666666666666667,
+        "primary_marker_error_m": 2.123415470123291e-06,
+        "support_marker_error_m": 3.7501518825424533e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6,
+        "primary_marker_error_m": 1.9665722450829266e-06,
+        "support_marker_error_m": 3.743840760674481e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6333333333333333,
+        "primary_marker_error_m": 1.7723966615757006e-06,
+        "support_marker_error_m": 4.143514317268416e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.6666666666666667,
+        "primary_marker_error_m": 1.8655672100952965e-06,
+        "support_marker_error_m": 4.268644659003987e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7,
+        "primary_marker_error_m": 2.4000123117101374e-06,
+        "support_marker_error_m": 4.278398192805902e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7333333333333334,
+        "primary_marker_error_m": 1.9723679565624555e-06,
+        "support_marker_error_m": 4.872138900945729e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.7666666666666666,
+        "primary_marker_error_m": 2.0931756124082654e-06,
+        "support_marker_error_m": 4.839576515552269e-06,
+        "feet_joint_drift_m": 0.0
+      },
+      {
+        "time_s": 1.8,
+        "primary_marker_error_m": 2.378965396927023e-06,
+        "support_marker_error_m": 4.895182063292007e-06,
+        "feet_joint_drift_m": 0.0
+      }
+    ],
+    "status": "marker measurements; skin collision/finger contact not certified"
+  }
+]
