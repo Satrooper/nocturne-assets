@@ -1,0 +1,12 @@
+{
+  "asset": "Hundredleg",
+  "category": "bosses",
+  "original_preserved": "bosses/Hundredleg/Hundredleg.glb",
+  "candidate_glb": "legacy_distinct_variants/Hundredleg/Hundredleg_Distinct.glb",
+  "candidate_fbx": "legacy_distinct_variants/Hundredleg/Hundredleg_Distinct.fbx",
+  "changes": "Long narrow segmented crawler with radial leg reach; no longer the compact arachnarch shape.",
+  "status": "alternate_prototype_requires_visual_and_animation_review",
+  "canonical_replaced": false,
+  "clips_choreography": "retained; changed proportions require contact and clipping review",
+  "cinematic_approved": false
+}

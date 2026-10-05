@@ -1,0 +1,564 @@
+{
+  "clips": [
+    {
+      "name": "Expansion_Body__Light_Slash_Left",
+      "duration_s": 0.7,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [
+        {
+          "time_s": 0.315,
+          "event": "authored_attack_cue",
+          "validated_damage_window": false
+        }
+      ],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Light_Slash_Right",
+      "duration_s": 0.8666666666666667,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [
+        {
+          "time_s": 0.3825,
+          "event": "authored_attack_cue",
+          "validated_damage_window": false
+        }
+      ],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Light_Thrust",
+      "duration_s": 1.0,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [
+        {
+          "time_s": 0.45,
+          "event": "authored_attack_cue",
+          "validated_damage_window": false
+        }
+      ],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Heavy_Overhead",
+      "duration_s": 1.1333333333333333,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [
+        {
+          "time_s": 0.5175,
+          "event": "authored_attack_cue",
+          "validated_damage_window": false
+        }
+      ],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Heavy_Sweep",
+      "duration_s": 1.3,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [
+        {
+          "time_s": 0.585,
+          "event": "authored_attack_cue",
+          "validated_damage_window": false
+        }
+      ],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Heavy_Thrust",
+      "duration_s": 0.7,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [
+        {
+          "time_s": 0.315,
+          "event": "authored_attack_cue",
+          "validated_damage_window": false
+        }
+      ],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Charge_Loop",
+      "duration_s": 0.8666666666666667,
+      "fps": 30,
+      "loop": true,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Charge_Release",
+      "duration_s": 1.0,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Run_Slash",
+      "duration_s": 1.1333333333333333,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Jump_Slam",
+      "duration_s": 1.3,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Backhand_Cut",
+      "duration_s": 0.7,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Spin_Cut",
+      "duration_s": 0.8666666666666667,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Shield_Raise",
+      "duration_s": 1.0,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Shield_Lower",
+      "duration_s": 1.1333333333333333,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Shield_Bash",
+      "duration_s": 1.3,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Parry_High",
+      "duration_s": 0.7,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Parry_Low",
+      "duration_s": 0.8666666666666667,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__GuardBreak",
+      "duration_s": 1.0,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Riposte_Thrust",
+      "duration_s": 1.1333333333333333,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [
+        {
+          "time_s": 0.5175,
+          "event": "authored_attack_cue",
+          "validated_damage_window": false
+        }
+      ],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Finisher_Attacker_A",
+      "duration_s": 2.1,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": {
+        "pair": "A",
+        "attacker_world": [
+          0,
+          0,
+          0
+        ],
+        "victim_world": [
+          0,
+          -0.9,
+          0
+        ],
+        "victim_yaw_degrees": 180,
+        "validated": false
+      }
+    },
+    {
+      "name": "Expansion_Body__Finisher_Victim_A",
+      "duration_s": 2.1,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": {
+        "pair": "A",
+        "attacker_world": [
+          0,
+          0,
+          0
+        ],
+        "victim_world": [
+          0,
+          -0.9,
+          0
+        ],
+        "victim_yaw_degrees": 180,
+        "validated": false
+      }
+    },
+    {
+      "name": "Expansion_Body__Finisher_Attacker_B",
+      "duration_s": 2.1,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": {
+        "pair": "B",
+        "attacker_world": [
+          0,
+          0,
+          0
+        ],
+        "victim_world": [
+          0,
+          -0.9,
+          0
+        ],
+        "victim_yaw_degrees": 180,
+        "validated": false
+      }
+    },
+    {
+      "name": "Expansion_Body__Finisher_Victim_B",
+      "duration_s": 2.1,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": {
+        "pair": "B",
+        "attacker_world": [
+          0,
+          0,
+          0
+        ],
+        "victim_world": [
+          0,
+          -0.9,
+          0
+        ],
+        "victim_yaw_degrees": 180,
+        "validated": false
+      }
+    },
+    {
+      "name": "Expansion_Body__Dodge_Forward",
+      "duration_s": 1.1333333333333333,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "root_motion",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Dodge_Back",
+      "duration_s": 1.3,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "root_motion",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Dodge_Left",
+      "duration_s": 0.7,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "root_motion",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Dodge_Right",
+      "duration_s": 0.8666666666666667,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "root_motion",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Roll_Forward",
+      "duration_s": 1.0,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "root_motion",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Roll_Back",
+      "duration_s": 1.1333333333333333,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "root_motion",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Step_Left",
+      "duration_s": 1.3,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "root_motion",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Step_Right",
+      "duration_s": 0.7,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "root_motion",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__React_FrontHigh",
+      "duration_s": 0.8666666666666667,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__React_FrontLow",
+      "duration_s": 1.0,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__React_BackHigh",
+      "duration_s": 1.1333333333333333,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__React_BackLow",
+      "duration_s": 1.3,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__React_Left",
+      "duration_s": 0.7,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__React_Right",
+      "duration_s": 0.8666666666666667,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Knockdown_Front",
+      "duration_s": 1.0,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Knockdown_Back",
+      "duration_s": 1.1333333333333333,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Getup_Front",
+      "duration_s": 1.3,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Getup_Back",
+      "duration_s": 0.7,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Swim_Freestyle",
+      "duration_s": 2.1,
+      "fps": 30,
+      "loop": true,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Swim_Backstroke",
+      "duration_s": 2.1,
+      "fps": 30,
+      "loop": true,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Swim_Dive",
+      "duration_s": 2.1,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Land_Heavy",
+      "duration_s": 1.3,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "in_place",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    },
+    {
+      "name": "Expansion_Body__Climb_Mantle",
+      "duration_s": 2.1,
+      "fps": 30,
+      "loop": false,
+      "motion_kind": "root_motion",
+      "status": "procedural body prototype; weapon/grip/contact approval unfinished",
+      "events": [],
+      "paired_alignment": null
+    }
+  ],
+  "status": "new procedural body bank; not polished production choreography",
+  "engine_tested": false
+}

@@ -1,0 +1,12 @@
+{
+  "asset": "Scrapling",
+  "category": "enemies",
+  "original_preserved": "enemies/Scrapling/Scrapling.glb",
+  "candidate_glb": "legacy_distinct_variants/Scrapling/Scrapling_Distinct.glb",
+  "candidate_fbx": "legacy_distinct_variants/Scrapling/Scrapling_Distinct.fbx",
+  "changes": "Low compact worker robot with large independent forearm grippers and elevated dorsal sensor mast.",
+  "status": "alternate_prototype_requires_visual_and_animation_review",
+  "canonical_replaced": false,
+  "clips_choreography": "retained; changed proportions require contact and clipping review",
+  "cinematic_approved": false
+}

@@ -1,0 +1,12 @@
+{
+  "asset": "Crimson_Imp",
+  "category": "enemies",
+  "original_preserved": "enemies/Crimson_Imp/Crimson_Imp.glb",
+  "candidate_glb": "legacy_distinct_variants/Crimson_Imp/Crimson_Imp_Distinct.glb",
+  "candidate_fbx": "legacy_distinct_variants/Crimson_Imp/Crimson_Imp_Distinct.fbx",
+  "changes": "Lean long-armed imp with curling balance tail; distinct from heavy Horned Regent.",
+  "status": "alternate_prototype_requires_visual_and_animation_review",
+  "canonical_replaced": false,
+  "clips_choreography": "retained; changed proportions require contact and clipping review",
+  "cinematic_approved": false
+}

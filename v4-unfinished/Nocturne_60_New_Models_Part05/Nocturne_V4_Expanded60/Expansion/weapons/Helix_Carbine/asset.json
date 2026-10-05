@@ -1,0 +1,27 @@
+{
+  "asset": "Helix_Carbine",
+  "kind": "carbine",
+  "status": "new_weapon_prototype",
+  "glb": "weapons/Helix_Carbine/Helix_Carbine.glb",
+  "fbx": "weapons/Helix_Carbine/Helix_Carbine.fbx",
+  "clips": [
+    {
+      "name": "Helix_Carbine__Fire_Cycle",
+      "duration_s": 0.5,
+      "player_handling": false,
+      "loop": false
+    },
+    {
+      "name": "Helix_Carbine__Reload_Mechanism",
+      "duration_s": 2.0,
+      "player_handling": false,
+      "loop": false
+    }
+  ],
+  "sockets": [
+    "grip",
+    "support",
+    "muzzle"
+  ],
+  "engine_tested": false
+}

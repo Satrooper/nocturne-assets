@@ -1,0 +1,14 @@
+{
+  "asset": "Tidebreaker_Poleaxe",
+  "kind": "poleaxe",
+  "status": "new_weapon_prototype",
+  "glb": "weapons/Tidebreaker_Poleaxe/Tidebreaker_Poleaxe.glb",
+  "fbx": "weapons/Tidebreaker_Poleaxe/Tidebreaker_Poleaxe.fbx",
+  "clips": [],
+  "sockets": [
+    "grip",
+    "support",
+    "muzzle"
+  ],
+  "engine_tested": false
+}

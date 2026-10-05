@@ -1,0 +1,12 @@
+{
+  "asset": "Crypt_Skitter",
+  "category": "enemies",
+  "original_preserved": "enemies/Crypt_Skitter/Crypt_Skitter.glb",
+  "candidate_glb": "legacy_distinct_variants/Crypt_Skitter/Crypt_Skitter_Distinct.glb",
+  "candidate_fbx": "legacy_distinct_variants/Crypt_Skitter/Crypt_Skitter_Distinct.fbx",
+  "changes": "Broad flattened four-forward-feeding silhouette and raised frontal sensory ridges.",
+  "status": "alternate_prototype_requires_visual_and_animation_review",
+  "canonical_replaced": false,
+  "clips_choreography": "retained; changed proportions require contact and clipping review",
+  "cinematic_approved": false
+}

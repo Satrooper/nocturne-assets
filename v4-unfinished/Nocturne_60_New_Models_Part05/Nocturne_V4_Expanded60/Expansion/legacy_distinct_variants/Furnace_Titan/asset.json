@@ -1,0 +1,12 @@
+{
+  "asset": "Furnace_Titan",
+  "category": "bosses",
+  "original_preserved": "bosses/Furnace_Titan/Furnace_Titan.glb",
+  "candidate_glb": "legacy_distinct_variants/Furnace_Titan/Furnace_Titan_Distinct.glb",
+  "candidate_fbx": "legacy_distinct_variants/Furnace_Titan/Furnace_Titan_Distinct.fbx",
+  "changes": "Broad low-headed furnace frame with paired rear exhaust chambers; distinct from upright Siege Sentinel.",
+  "status": "alternate_prototype_requires_visual_and_animation_review",
+  "canonical_replaced": false,
+  "clips_choreography": "retained; changed proportions require contact and clipping review",
+  "cinematic_approved": false
+}

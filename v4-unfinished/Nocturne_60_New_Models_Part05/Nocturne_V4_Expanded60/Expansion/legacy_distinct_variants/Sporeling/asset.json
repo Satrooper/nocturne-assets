@@ -1,0 +1,12 @@
+{
+  "asset": "Sporeling",
+  "category": "enemies",
+  "original_preserved": "enemies/Sporeling/Sporeling.glb",
+  "candidate_glb": "legacy_distinct_variants/Sporeling/Sporeling_Distinct.glb",
+  "candidate_fbx": "legacy_distinct_variants/Sporeling/Sporeling_Distinct.fbx",
+  "changes": "Low mushroom-bodied enemy with broad fleshy umbrella crown; distinct from Root Matriarch.",
+  "status": "alternate_prototype_requires_visual_and_animation_review",
+  "canonical_replaced": false,
+  "clips_choreography": "retained; changed proportions require contact and clipping review",
+  "cinematic_approved": false
+}
