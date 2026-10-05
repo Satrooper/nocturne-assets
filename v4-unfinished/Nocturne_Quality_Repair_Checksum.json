@@ -1,0 +1,10 @@
+{
+  "file": "Nocturne_Quality_Repair_Checkpoint.zip",
+  "size_bytes": 87756456,
+  "sha256": "b5bb7464f7635e2428f8b5fd499bce7effece0441336def1d39487fdbb1d8e78",
+  "entries": 107,
+  "crc_test": "passed every entry",
+  "ordinary_extraction": "passed",
+  "extracted_bytes_match": "passed every entry",
+  "scope_complete": false
+}
